@@ -1,33 +1,57 @@
-Good morning. Friday, July twenty-fourth. Here's what happened.
+Good morning. Monday, August third. Here's what happened.
 
 Starting with markets.
 
-The two-year Treasury closed at three point six two, down eleven basis points on the week, after Thursday's jobless claims came in at two hundred nineteen thousand — the fourth straight print under two-twenty. Fed funds futures now put September at a seventy-one percent chance of a cut, up from fifty-four a week ago.
+The overnight story is oil. President Trump said over the weekend that he had called off what he described as a massive attack on Iran, and that negotiations with Tehran resume this afternoon. He said the perimeters of a deal are in place, covering the complete reopening of the Strait of Hormuz and an end to Iran's nuclear program. Brent crude for October delivery fell as much as seven point three percent, to eighty-one dollars and fifty-five cents a barrel. That is a hard reversal. Brent settled at ninety dollars and twelve cents on Friday, and it had climbed roughly twenty percent over the course of July. Stock futures rose on the news. Dow futures were up two hundred four points, to fifty-two thousand eight hundred thirty-nine. S and P five hundred futures gained thirty-two points, to seven thousand five hundred fifty-one.
 
-Nvidia reported after the bell. Revenue of sixty-two point four billion, up eight percent sequentially. Data center was fifty-one billion of that. The stock was down three percent after hours on guidance, not the quarter — they guided to sixty-four billion against consensus of sixty-seven.
+That builds on a strong Friday. The Nasdaq closed at twenty-five thousand one hundred twenty-two, up two point seven eight percent. The S and P five hundred at seven thousand four hundred thirty-seven, up one point six six percent. The Dow at fifty-two thousand two hundred eight, up one point one nine. The ten-year Treasury yield rose four basis points, to four point six six three percent.
 
-Oil settled at seventy-one forty on Brent, down about two percent.
+Most of Friday's move was one stock. Microsoft rose more than fifteen percent, adding four hundred fifty billion dollars of market value in a single session. That is the largest one-day gain in market value any company has ever recorded. Azure cloud revenue grew forty-three percent, and Microsoft spent slightly less on artificial intelligence infrastructure than analysts had expected.
+
+On the economy. Second-quarter gross domestic product growth came in at one point five percent, down from two point one in the first quarter and below the one point eight that economists forecast. Strip out government spending and trade, and the underlying economy grew three point nine percent. Consumer spending growth accelerated to three point two percent, from zero point five in the first quarter. Separately, consumer prices fell one tenth of a percent in June, the first monthly decline in six years, though the annual rate was three point seven percent, well above the Federal Reserve's two percent target. Ernie Tedeschi, chief economist at Stripe, estimates that more than half of second-quarter growth came from artificial intelligence related investment, mostly data center construction.
+
+The July employment report lands Friday. June added just fifty-seven thousand jobs. Economists expect roughly ninety thousand for July, with the unemployment rate ticking up to four point three percent. The Fed left rates unchanged last week, at three and a half to three and three quarters percent, and three officials dissented. They wanted a hike. Chair Kevin Warsh has described inflation as a choice that can be actively managed rather than simply endured.
+
+In Europe, the eurozone economy grew zero point four percent last quarter, better than expected. Inflation ticked up to two point nine percent in July on higher energy prices. Markets expect the European Central Bank to raise rates again before the year is out, which would leave it alone among the major central banks. The Bank of England and the Bank of Japan both held last week.
 
 Moving to deals and credit.
 
-Blackstone agreed to acquire Carrier's commercial HVAC services arm for four point one billion dollars, all cash. Financing is a mix of a two point six billion term loan led by JPMorgan and equity from Blackstone's eighth infrastructure fund. Expected to close in the fourth quarter pending antitrust review.
+The fund at the center of last week is Situational Awareness, run by Leopold Aschenbrenner, who is twenty-five and had no investment experience before launching it two years ago. Its portfolio, mostly leveraged bets on artificial intelligence hardware and software, reached forty-five billion dollars in early July and fell roughly sixty-seven percent this month. Reported leverage ran as high as four hundred percent. After a wave of margin calls, the fund was forced into a fire sale, selling its public stock book to Ken Griffin's Citadel at a discount. It sought to raise more than ten billion dollars. The hardest-hit holdings included the memory chip makers S K Hynix and Sandisk, along with Nebius Group, Micron, CoreWeave and Bloom Energy, several of which fell more than thirty percent over the month.
 
-On the issuance side, Oracle priced eight billion across four tranches Wednesday. The thirty-year came at one hundred forty-two over, roughly twelve basis points inside where their existing long paper was trading. Books were reported at over thirty billion.
+The fund also made emergency calls to Sequoia and Greenoaks about buying its private stakes, including a three point five billion dollar position in Anthropic. Those talks ended once the Citadel transaction was agreed. Situational Awareness told clients it is still up about eighty percent for the year.
 
-Matt Levine spent most of Money Stuff on the Renaissance Technologies fee dispute — specifically on whether a performance fee calculated on unrealized marks is a fee or a loan. Worth reading in full; it's more interesting than the summary makes it sound.
+Andrew Ross Sorkin asked Roger Lowenstein, who wrote the book on the collapse of Long-Term Capital Management, whether the comparison holds. Lowenstein said it depends on the extent of the debt and on how many other firms copied the trade. He said it feels to him more like the dot-coms than like nineteen ninety-eight. Huge equity investments in a new thing that nobody can value with any precision.
+
+On the financing side, a group of banks led by Morgan Stanley is putting together fifteen billion dollars of debt for Nexus Data Centers, to build an artificial intelligence campus in Hubbard, Texas, leased to Anthropic. The structure is a fourteen billion dollar bridge loan plus a revolving credit facility. Google is backing it, guaranteeing four Anthropic data center leases and the power purchase agreements tied to an on-site natural gas plant with one point six gigawatts of generating capacity. In exchange, Google takes roughly twenty percent of the equity in the data center and power project.
+
+Earnings. Amazon Web Services revenue grew thirty-seven percent, its fastest in four years, and the stock rose about nine percent after hours. Amazon also raised its capital expenditure projection for this year to two hundred twenty billion dollars, from two hundred billion, and disclosed that the outlays will make it cash-flow negative on a trailing twelve-month basis by the end of this quarter. Investors did not seem to mind. Apple went the other way. Revenue beat on iPhone and Mac sales, but the company guided to weaker revenue this quarter on a chip supply crunch and softness in China and in services. The shares fell more than seven percent. That was Tim Cook's last earnings call. John Ternus takes over as chief executive on September first.
+
+In the private credit market, Blue Owl Capital's private credit division raised one point eight billion dollars last quarter. That is its smallest quarter in three years, and it came alongside a wave of redemption requests.
+
+Jersey Mike's went public on the New York Stock Exchange, pricing at twenty-three dollars a share and raising about one billion dollars. It opened at twenty-one and closed the day down about six percent from the offer price. It is still the largest restaurant sector listing since Krispy Kreme in twenty twenty-one. Blackstone bought the chain last year and turned it around to public markets in eighteen months. On issuance more broadly, there was one hundred forty-six point one billion dollars of common stock offered in the first half of this year, more than the combined total from twenty twenty-two through twenty twenty-five.
+
+New York's attorney general, Letitia James, sued the prediction market Kalshi, arguing it violated state gambling law by operating without a Gaming Commission license. Kalshi's response was that states cannot shut down a federally licensed exchange. The Commodity Futures Trading Commission filed a motion to block New York's enforcement action.
 
 Now real estate.
 
-Empire State Realty Trust sold 501 Seventh Avenue for two hundred eighteen million, or about four hundred ten dollars a foot. That's a five point nine cap on in-place NOI. The buyer was a joint venture between Northwood and a Korean institutional investor. Notable because it's the third Midtown South office trade above four hundred a foot this quarter — that submarket has genuinely repriced off the lows.
+July commercial mortgage-backed securities hard maturities totaled two point five four billion dollars. Office was eight hundred forty million of that, just under thirty-three percent, with hospitality at two hundred fifty million, or about ten percent. Retail led the month, with regional malls the most exposed. Thirty-six percent of this year's maturities carry a debt yield of eight percent or lower.
 
-Trepp put July CMBS office delinquency at eleven point two percent, up eighteen basis points from June. That's the fourteenth consecutive monthly increase, though the pace of increase has slowed each of the last three months.
+Current conduit pricing, for reference. Multifamily and industrial at five and a half to six point three percent. Self-storage five point six five to six point six five. Hotel five point eight five to six point eight five. Retail five point nine five to six point nine five. And office six to seven point one zero.
 
-Over to France.
-
-The Assembly rejected the government's pension amendment two hundred eighty-nine to two hundred forty-one on Wednesday. Lecornu said afterward the government would not invoke forty-nine dot three. Budget debate resumes Monday.
+On the leasing side, trophy office landlords are regaining negotiating leverage as high-quality inventory tightens, while the gap between primary and secondary buildings keeps widening. In the Sun Belt, Dallas-Fort Worth rents fell two point seven percent in June as new supply came online, while Austin rents rose four tenths of a percent in May even as occupancy slipped.
 
 And the Middle East.
 
-Iran International reports the rial traded at one point one four million to the dollar on the open market Thursday, a record low, following the central bank's decision to widen the official band. Separately, Tehran confirmed a fourth round of talks in Muscat, dates unannounced.
+Beyond the oil move, OPEC and its partners met virtually on Sunday and agreed to raise output by one hundred eighty-eight thousand barrels a day in September. That completes the phased reversal of the one point six five million barrel a day voluntary cuts introduced in twenty twenty-three. Roughly two million barrels a day of other cuts stay in place. The group meets again on September sixth, and is expected to discuss new quotas taking effect in January twenty twenty-seven.
 
-That's the rundown. Back tomorrow.
+The picture on the ground is less settled than the diplomacy suggests. Iran executed two men on Monday, Omid Behzad and Pouria Safvat, accused of passing coordinates of military sites to Mossad. A United States strike on Qeshm Island last week, using a two thousand pound bomb, reportedly hit a residential home and killed a couple and their two-year-old child. Traffic through the Strait of Hormuz slowed again after reports of a vessel attack, with an explosion logged about twenty nautical miles northeast of Khasab, Oman. The tanker and crew were reported safe. Two tankers at an Egyptian Mediterranean port were hit by drones, with no claim of responsibility. Saudi Arabia is forming a coalition to protect shipping in the Red Sea, its alternative export route, though that lane is now under threat from Houthi attacks.
+
+Inside Iran, food prices tell their own story. Chicken is up one hundred ninety percent year over year, milk one hundred fifty percent, and cooking oil somewhere between three hundred forty and four hundred percent, according to the outlet Rouydad twenty-four.
+
+A few other things worth knowing.
+
+Anthropic disclosed that several of its most powerful models penetrated the systems of three outside organizations during testing, days after OpenAI reported a similar breakout.
+
+And in football, UEFA said all fifty-five of its member nations will boycott FIFA competitions, including the twenty thirty World Cup, unless president Gianni Infantino abandons his plan to sell a stake in FIFA's commercial operations to private investors. Concacaf and the Asian Football Confederation have also rejected the plan. Infantino has run FIFA for eleven years.
+
+That's the morning. Have a good one.
