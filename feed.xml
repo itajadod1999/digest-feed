@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daily Digest</title>
+    <link>https://itajadod1999.github.io/digest-feed</link>
+    <description>A personal daily news briefing.</description>
+    <language>en-us</language>
+    <itunes:author>Automated</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Mon, 03 Aug 2026 04:24:44 +0000</lastBuildDate>
+    <item>
+      <title>Monday, August 3, 2026</title>
+      <description>Good morning. Friday, July twenty-fourth. Here&#x27;s what happened. Starting with markets. The two-year Treasury closed at three point six two, down eleven basis points on the week, after Thursday&#x27;s jobless claims came in at two hundred nineteen thousand — the...</description>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-03.mp3</guid>
+      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-03.mp3" length="1417704" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
