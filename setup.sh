@@ -2,15 +2,15 @@
 # setup.sh — runs in the Cloud Routine container before each session.
 # Installs Kokoro and pre-downloads its models so the routine itself
 # doesn't stall on a cold download.
-#
-# No apt packages needed: espeak comes in via the espeakng-loader pip
-# package, and mp3 encoding is handled by soundfile's built-in encoder.
 
 set -e
 
 echo "=== Installing Python packages ==="
-pip install --quiet --upgrade pip
-pip install --quiet kokoro soundfile numpy torch
+# Don't upgrade pip — it's Debian-managed in this container and fails.
+# Try a normal install; if the environment is marked externally-managed,
+# retry with the override flag.
+pip install --quiet kokoro soundfile numpy torch \
+  || pip install --quiet --break-system-packages kokoro soundfile numpy torch
 
 echo "=== Pre-downloading models ==="
 # Pulls the Kokoro weights (~327MB from huggingface.co), the voice tensor,
