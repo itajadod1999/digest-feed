@@ -1,23 +1,28 @@
 #!/bin/bash
 # setup.sh — runs in the Cloud Routine container before each session.
-# Installs Kokoro and pre-downloads its models so the routine itself
-# doesn't stall on a cold download.
+#
+# Installs into a virtualenv rather than the system Python. The container's
+# Debian-patched setuptools can't build older sdist packages (docopt, which
+# Kokoro needs indirectly), so a clean venv with fresh setuptools is the fix.
 
 set -e
 
-echo "=== Installing Python packages ==="
-# Don't upgrade pip — it's Debian-managed in this container and fails.
-# Try a normal install; if the environment is marked externally-managed,
-# retry with the override flag.
-pip install --quiet kokoro soundfile numpy torch \
-  || pip install --quiet --break-system-packages kokoro soundfile numpy torch
+VENV="$HOME/kokoro-venv"
+
+echo "=== Creating virtualenv at $VENV ==="
+python3 -m venv "$VENV"
+
+echo "=== Upgrading build tooling ==="
+"$VENV/bin/pip" install --quiet --upgrade pip setuptools wheel
+
+echo "=== Installing Kokoro ==="
+"$VENV/bin/pip" install --quiet kokoro soundfile numpy torch
 
 echo "=== Pre-downloading models ==="
-# Pulls the Kokoro weights (~327MB from huggingface.co), the voice tensor,
-# and the spaCy English model (from github.com). Doing it here means the
-# routine's own run is fast, and a blocked domain fails loudly right now
-# instead of silently at 6 AM.
-python3 - <<'PY'
+# Pulls Kokoro's weights (~327MB, huggingface.co), the voice tensor, and the
+# spaCy English model (github.com). Doing it here keeps the 6 AM run fast and
+# makes a blocked domain fail loudly now rather than silently later.
+"$VENV/bin/python" - <<'PY'
 from kokoro import KPipeline
 pipeline = KPipeline(lang_code='a')
 for _ in pipeline("Setup check.", voice="am_michael"):
@@ -26,7 +31,7 @@ print("Kokoro is ready.")
 PY
 
 echo "=== Verifying mp3 encoding ==="
-python3 - <<'PY'
+"$VENV/bin/python" - <<'PY'
 import numpy as np, soundfile as sf, tempfile, os
 w = np.zeros(24000, dtype="float32")
 p = tempfile.mktemp(suffix=".mp3")
@@ -36,3 +41,4 @@ os.remove(p)
 PY
 
 echo "=== Setup complete ==="
+echo "Run the publisher with: $VENV/bin/python publish_kokoro.py script.txt"
