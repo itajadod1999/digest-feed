@@ -1,0 +1,87 @@
+Good morning. Thursday, August sixth. Here's what happened.
+
+Starting with markets.
+
+Wednesday was a split tape. The Dow closed at a record for the second straight day, up about half a percent to roughly fifty-four thousand three hundred fifty. The S and P five hundred slipped about two tenths of a percent to a little over seventy-seven hundred. The Nasdaq fell about eight tenths of a percent to around twenty-six thousand four hundred. Technology did all the damage.
+
+The ten-year Treasury finished at four point six two percent, down a basis point. Brent crude was about seventy-nine dollars a barrel. Gold jumped almost four percent to roughly forty-three hundred dollars an ounce.
+
+Two names did the pulling. SpaceX fell about fourteen percent to a hundred and eight dollars, its lowest since going public in June. The lockup began expiring, releasing roughly nine hundred million shares into a market that had been trading a fraction of that, and investors are still working through Tuesday's disclosure of eighteen point four billion dollars of capital spending in a single quarter.
+
+Alphabet fell about four percent on a leadership shake-up atop its artificial intelligence organization. Jeff Dean, the chief scientist, is leaving after twenty-seven years, taking three colleagues with him to found a public benefit corporation called Discovery Loop, aimed at automating machine learning and scientific discovery. Google says it will invest in it. Demis Hassabis steps back from running Google DeepMind day to day, becoming its chair and chief scientist of Alphabet. Koray Kavukcuoglu, previously DeepMind's technology chief, takes over operations, reporting to Sundar Pichai.
+
+On the Federal Reserve. The Wall Street Journal reports that President Trump has spoken with Chair Kevin Warsh repeatedly since Warsh took the job less than three months ago, in bursts of several calls over a few days followed by quiet stretches, which the Journal describes as a departure from recent precedent. The reporting says Trump sought Warsh's read on how the Iran war and the buildout of artificial intelligence are affecting the economy, and that a person familiar with the calls says interest rates have not come up since Warsh's confirmation. Warsh told Congress on July fourteenth that the independence of the Fed is, in his word, sacrosanct. Coverage differs on how much weight to put on the contact: some outlets frame it as a live risk to Fed credibility, others as routine consultation on non-monetary questions.
+
+Earnings. Disney beat on operating income and per-share profit and just missed on revenue. Its experiences arm, the parks and cruises, did ten billion dollars in revenue, up ten percent year over year. It has already sold out its advertising inventory for next February's Super Bowl at about ten million dollars per thirty seconds. Eli Lilly beat comfortably. Etsy is cutting twelve percent of its staff, about two hundred twenty people.
+
+Moving to deals and credit.
+
+FIFA president Gianni Infantino will stay in the job and intends to run for re-election in March, after senior executives backed him at an emergency meeting. That follows the collapse of the plan to spin off FIFA's commercial assets at a twenty billion dollar valuation.
+
+And Citadel's Wellington fund returned six percent in July, helped by buying artificial intelligence positions at a discount from the hedge fund Situational Awareness while that firm was meeting margin calls.
+
+Now real estate.
+
+Lending volumes are up. The Mortgage Bankers Association says commercial and multifamily originations in the second quarter ran sixteen percent above a year earlier and twelve percent above the first quarter.
+
+The details from C B R E are worth having in front of you. Commercial mortgage spreads tightened twenty-one basis points over the year to two hundred four, and multifamily tightened fifteen, to a hundred sixty-two. Average loan to value was fifty-nine point six percent on commercial and sixty-three point three on multifamily. Debt service coverage improved to one point four three from one point three four. Debt yields rose to ten point two percent from nine point seven. The average mortgage rate was five point seven percent.
+
+The composition shifted too. Alternative lenders took thirty-eight percent of non-agency origination, up from thirty-four. Banks took thirty percent, up from twenty-four. Life companies took twenty-one. Commercial mortgage-backed securities lenders fell to eleven percent from nineteen. And borrowers are choosing floating rate, because there is roughly a seventy basis point gap between the secured overnight financing rate, so-fur, and five-year fixed.
+
+From the wires: Mesa West Capital originated an eighty-one million dollar short-term first mortgage to refinance Atlas Peakview, a three hundred thirty unit apartment community in Centennial, Colorado, for a joint venture of the Dinerstein Companies and P G I M.
+
+In Manhattan, Snap has agreed to sublease a hundred ninety-nine thousand square feet at Vornado's Penn Two, taking the eighth through tenth floors from Verizon on a term running to twenty forty-four, at a premium to Verizon's own rent. Colliers calls it the second largest Manhattan deal in July.
+
+And a new analysis of the four eighty-five x tax incentive finds it is producing bigger apartments rather than more of them. Because the program's economics push developers to stop at ninety-nine units, apartments in ninety-nine unit buildings run about two hundred square feet larger than comparable projects outside it. Higher rents follow.
+
+Over to France.
+
+The government's growth forecast for this year now stands at zero point seven percent, cut from the zero point nine it was carrying in April, blamed on a weak start to the year and on the Middle East conflict. From August first the rate on the Livret A savings account rose to one point seven percent, fixed through the end of January. The government has opened applications for fuel subsidies for high-mileage workers, a response to what the Hormuz closure has done to pump prices. And from August eleventh, commercial cold calling becomes illegal across every sector in France.
+
+And the Middle East.
+
+Iran said Thursday that its agreement with Oman on the Strait of Hormuz has been agreed in principle, with a joint statement from Tehran and Muscat in final drafting.
+
+The structure is the one that has been circulating for days. Ships would enter the Persian Gulf through a route controlled by Iran and exit through a route controlled by Oman, with service fees charged for security and for protecting the marine environment. Bloomberg reports the two are finalizing arrangements for managing the passage jointly. Foreign Minister Abbas Araghchi agreed to the framework in principle over the weekend, and, according to a senior American official and a regional source cited by Axios, Iran's Supreme Leader and the Supreme National Security Council completed their approval on Tuesday. The channel has run through calls between the American envoy Steve Witkoff, Araghchi, and Oman's foreign minister Badr al-Busaidi, with Qatar, Pakistan and Saudi Arabia also mediating.
+
+Here is where the accounts diverge. Tehran says any reopening depends on the United States lifting its naval blockade of Iranian ports, and Iranian officials have said repeatedly that the strait will not return to being the open international waterway it was before the war. President Trump has said he will not accept an agreement that gives Iran control of the strait. Those positions have not been reconciled in anything published so far. Coverage splits accordingly: some outlets describe a deal leaving Iran with more leverage than it had before February, others an American-brokered reopening. What everyone agrees on is that a route has been drafted, that Oman is the counterparty on paper, and that nothing has been signed. A previous understanding, reached in mid-June, collapsed within weeks after attacks on tankers.
+
+One more item. Amazon's Zoox begins charging fares in Las Vegas on August tenth, the first robotaxi without a steering wheel or pedals to take money from passengers. It needed a federal exemption.
+
+Now, two stories worth more time this morning.
+
+The first is what Wall Street is doing with artificial intelligence data center debt.
+
+A group of banks led by Morgan Stanley, with JPMorgan, Royal Bank of Canada, T D Securities and Mizuho, arranged roughly fifteen billion dollars of construction financing for a data center campus in Hubbard, Texas. The developer is Nexus Data Centers. The package is about fourteen billion in bridge loan plus a revolving credit facility. The campus will be filled with Google's own chips, and the computing power is leased to Anthropic.
+
+Those banks are now trying to move that fifteen billion into the bond market. And they are not alone. Reporting over the past few months has banks working to distribute more than fifty billion dollars of construction debt tied to data centers leased to Oracle, some through risk transfer structures where the bank keeps a slice and sells the riskiest layer to investors.
+
+The structure is the interesting part. Anthropic is the tenant, but Anthropic is not the credit. Alphabet agreed to backstop Anthropic's obligations using Google's investment-grade rating, and to cover lease and power costs if Anthropic defaults. In exchange Google takes roughly a twenty percent equity stake in the project. Google already owns something like fourteen percent of Anthropic itself. So the money is lent against a construction asset, the rent is owed by a startup, and the rating that lets it clear the bond market belongs to the startup's largest investor, who also owns a fifth of the building.
+
+The debt will be carved into a sequence of bond sales rather than one, mirroring a delayed-draw loan, so the developer pulls funds as construction hits milestones. That means the market has to absorb this repeatedly rather than once.
+
+The shape here is a single-tenant, build-to-suit credit deal. The value is in the lease, and the lease is only as good as the covenant behind it. What is unfamiliar is the concentration. A commercial mortgage-backed securities pool spreads risk across dozens of borrowers. These structures carry the credit of one very large counterparty each, and the counterparties overlap: Oracle, CoreWeave, the OpenAI vehicles, now Google standing behind Anthropic. The banks are selling because their internal limits on those names are filling up. That is the signal. Not that the projects are bad, but that the lenders who know them best would like to hold less.
+
+The thing to watch is pricing on the first tranche. If it clears at a spread close to comparable investment-grade paper, the backstop is doing its job and the pipeline behind it moves. If investors demand a premium for the tenant rather than the guarantor, every deal behind this one gets more expensive, and the borrowing that has been funding this buildout starts to constrain it.
+
+The second story is closer to home, and it is about rent-stabilized New York.
+
+There is a five hundred six million dollar commercial mortgage-backed securities loan secured by fifty-three rent-stabilized buildings in New York, roughly thirty-five hundred apartments, owned by A and E Real Estate. The loan was floating rate and interest only. When rates rose and the interest rate cap expired, the borrower could not refinance, and defaulted in twenty twenty-four. It has since missed more than five and a half million dollars of interest owed to junior bondholders.
+
+The ratings firm K B R A now values the collateral at about four hundred sixty million dollars. When the bonds were sold five years ago the appraisal was seven hundred seventeen million. That gap implies losses above eighty million dollars.
+
+The operating math explains most of it. Expenses across the portfolio are running twenty-two percent above the original projections, driven by insurance premiums and utilities. Revenue is up six percent. On rent-stabilized buildings, the owner cannot close that gap through the rent roll, because the rent roll is set by the Rent Guidelines Board. And the board, under Mayor Mamdani, has frozen rents on the city's roughly one million regulated apartments.
+
+Fitch says the freeze will strain building finances further and erode valuations. Moody's estimates that a prolonged freeze could push about six percent of the city's multifamily commercial mortgage-backed securities loans toward default. K B R A says at least two other large deals backed by New York regulated properties are already projecting losses above a hundred million dollars each.
+
+What makes this loan the one to watch is that it is not a story about a bad building. Occupancy is not the problem. The buildings are full. A floating-rate, interest-only structure was underwritten against an assumption of rent growth that policy has now removed, in a cost environment that keeps rising. Nothing about the asset has to deteriorate for the bondholders to take the loss. The gap between a twenty-two percent expense increase and a zero percent rent increase does it on its own. On regulated stock in this city, the number that decides the deal is no longer the cap rate. It is the expense growth assumption, and whether the loan survives the rent line staying flat for several years.
+
+And finally, closer to home.
+
+It is going to be genuinely hot. High near ninety in Manhattan, but the heat index gets to a hundred three, and there's a heat advisory running from eleven this morning until eight tonight. Low around seventy-seven overnight, with a small chance of a thunderstorm before midnight. Carry water, and if you have anything outdoors, do it early or after eight.
+
+Music. Andrew Cyrille has a quartet at the Village Vanguard through Sunday, with Bill Frisell on guitar Tuesday through Saturday, David Virelles on piano and Ben Street on bass. Cyrille is eighty-six and still one of the most interesting drummers alive. Frisell in that room is worth the walk on its own.
+
+And if you want something cold in the West Village, Nepita just opened at fifteen Eighth Avenue doing Mediterranean gelato, wild mint and clementine among the flavors. On a hundred-three degree heat index, that qualifies as news.
+
+That's the digest. Have a good Thursday.
