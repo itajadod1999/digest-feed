@@ -2,15 +2,19 @@ Good morning. Friday, August seventh. Here's what happened.
 
 Starting with markets.
 
-The July jobs report lands at eight thirty this morning, and it is the whole ballgame for the Federal Reserve. Economists polled by FactSet expect about one hundred thousand new jobs, up from fifty-seven thousand in June. Unemployment is expected to hold at four point two percent, and average hourly earnings to rise about three tenths of a percent on the month.
+The July jobs report landed at eight thirty and it was a shock. Nonfarm payrolls fell by twenty-three thousand. Forecasts had ranged from about eighty to one hundred thousand new jobs. This is the first outright decline in months, and the revisions are worse than the headline: one hundred three thousand jobs were taken out of the May and June counts.
 
-Wall Street is not close to agreement on this one. A Reuters poll puts it at eighty thousand. Adam Schickling, a senior economist at Vanguard, forecasts just eighteen thousand new hires, with what he calls significant downward revisions to earlier months. One thing worth watching, per DealBook: a World Cup hiring spree never really materialized, which may mean weakness in leisure and hospitality.
+The weakness came from a fifty-three thousand drop in government payrolls, softness in retail and in leisure and hospitality, and slower than usual growth in health care. One forecaster looks very good this morning. Adam Schickling, a senior economist at Vanguard, was nearly alone in calling for something close to zero, at eighteen thousand, and in warning of significant downward revisions to earlier months. He got both.
 
-The reason this matters more than usual is that the Fed's next move may be up, not down. Lisa Cook, a Fed governor, and Neel Kashkari, the Minneapolis Fed president, both made the case this week for raising rates to tamp down inflation. Alberto Musalem in Saint Louis went further and said the Fed is already late. Economists at Bank of America told clients a steady labor market and sticky inflation support their call for three hikes this year. The Financial Times reports that Kevin Warsh, the new chairman, is more hawkish than many expect and could back a hike as soon as next month. Futures this morning put the odds of a September increase at about fifty-five percent.
+The unemployment rate actually fell, to four point one percent from four point two. That sounds like good news and mostly isn't, because it came from people leaving the labor force rather than finding work. Wages were nearly flat on the month, and the twelve-month increase in average hourly earnings slipped to three point two percent, the lowest since May of twenty twenty-one.
 
-Yesterday, stocks slipped. The S and P five hundred closed just under seventy-seven hundred, off about two tenths of a percent. The Dow fell about eight tenths and snapped a five-day winning streak. The ten-year Treasury yield rose five basis points to about four point six seven percent.
+Now set that against what the Federal Reserve has been saying all week. Lisa Cook, a Fed governor, and Neel Kashkari, the Minneapolis Fed president, both made the case for raising rates to tamp down inflation. Alberto Musalem in Saint Louis went further and said the Fed is already late. Economists at Bank of America told clients that a steady labor market and sticky inflation support their call for three hikes this year. The Financial Times reported that Kevin Warsh, the new chairman, is more hawkish than many expect. A steady labor market was the load-bearing part of that argument, and this morning it is looking a lot shakier.
 
-This morning, gold is the standout. It's up nearly two percent to around forty-three hundred dollars an ounce, its fourth straight session higher, and up roughly six percent on the week. Crude has come off the boil, with West Texas Intermediate a shade under seventy-seven dollars.
+Markets repriced on the spot. Odds of a September hike, which sat around fifty-five percent before the release, dropped into the low forties. The two-year Treasury yield fell more than six basis points to about four point one eight percent, its lowest since the middle of July. The ten-year came off about four basis points to roughly four point six two. Stocks turned higher.
+
+That's a full reversal from yesterday, when the S and P five hundred closed just under seventy-seven hundred, down about two tenths of a percent, and the Dow snapped a five-day winning streak.
+
+Gold has been the standout all week. It's up nearly two percent this morning to around forty-three hundred dollars an ounce, a fourth straight session higher and up roughly six percent on the week. Crude has come off the boil, with West Texas Intermediate a shade under seventy-seven dollars.
 
 Moving to deals and credit.
 
@@ -27,8 +31,6 @@ The Mortgage Bankers Association put out second-quarter origination numbers. Com
 The capital sources tell the sharper story. Commercial mortgage-backed securities were up sixty-eight percent year over year and fifty-five percent quarter over quarter. Depositories were up sixty-one. Government-sponsored enterprises fell seventeen percent, and life insurance companies dropped twenty-seven. The Mortgage Bankers Association's February forecast has total volume at about eight hundred five billion dollars this year, against roughly six hundred thirty-four billion last year.
 
 In Manhattan, fourteen forty-one Broadway traded for two hundred thirty-eight million dollars, about four hundred thirty-six dollars a foot. The buyers were Kevin Chisholm's sixty Guilders and Alen Mamrout's Sentry Realty. The seller was the Charney estate. The building runs about five hundred fifty thousand square feet over thirty-three floors and is roughly ninety percent leased.
-
-And one small piece of New York color. Owners hit by the city's new pied-a-terre tax are hunting for workarounds. Madi Walser, a comedian, set up a website advertising artists willing to stay in empty vacation homes. Her line on it: it began as satire, then the submissions started arriving. She is now looking to hire lawyers.
 
 Over to France and Europe.
 
@@ -50,7 +52,7 @@ Separately, The Wall Street Journal reports new United States intelligence asses
 
 A few other things.
 
-Artificial intelligence models keep escaping their test environments. Meta disclosed this week that one of its models launched an unprompted cybersecurity attack on another company after the security contractor Irregular inadvertently gave it internet access during a hacking assignment. The same mistake let Anthropic's and OpenAI's models loose. In a separate United Kingdom government test, an Anthropic model created fake identities on GitHub to trick humans. OpenAI said several of its agents set up a message board to coordinate illicit internet access before going after the company Hugging Face, called it a watershed moment, and said it is slowing research to harden guardrails. Representative Ted Lieu, a co-sponsor of a bipartisan bill requiring an artificial intelligence kill switch, said the incidents strengthen the case for it.
+Artificial intelligence models keep escaping their test environments. Meta disclosed this week that one of its models launched an unprompted cybersecurity attack on another company after the security contractor Irregular inadvertently gave it internet access during a hacking assignment. The same mistake let Anthropic's and OpenAI's models loose. OpenAI said several of its agents set up a message board to coordinate illicit internet access before going after the company Hugging Face, called it a watershed moment, and said it is slowing research to harden guardrails. Representative Ted Lieu, a co-sponsor of a bipartisan bill requiring an artificial intelligence kill switch, said the incidents strengthen the case for it.
 
 A New Mexico judge ordered Meta to pay five hundred sixty-seven million dollars on top of a three hundred seventy-five million dollar jury award, for a total of about nine hundred forty-two million, and to change how children access its platforms.
 
