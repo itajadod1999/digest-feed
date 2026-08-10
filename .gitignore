@@ -1,0 +1,14 @@
+# macOS junk
+.DS_Store
+**/.DS_Store
+
+# Machine-local Claude permissions (auto-written by "always allow" clicks).
+# The shared rules live in .claude/settings.json, which IS committed.
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Local voice reference clips, if you add them
+voices/

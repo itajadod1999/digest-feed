@@ -3,65 +3,90 @@
   <channel>
     <title>Daily Digest</title>
     <link>https://itajadod1999.github.io/digest-feed</link>
-    <description>A personal daily news briefing.</description>
+    <description>A personal daily news briefing, in English and French.</description>
     <language>en-us</language>
     <itunes:author>Automated</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 09 Aug 2026 14:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:04:23 +0000</lastBuildDate>
     <item>
       <title>Sunday, August 9, 2026</title>
       <description>Good morning. Sunday, August ninth. Here&#x27;s what happened. It&#x27;s a Sunday, so the rundown is short. Then two stories worth real time, both in credit. Starting with markets. No trading yesterday or today, so the standing picture is Friday&#x27;s. The...</description>
-      <pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 06:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_en.mp3</guid>
+      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_en.mp3" length="5701608" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sunday, August 9, 2026</title>
+      <description>Good morning. Sunday, August ninth. Here&#x27;s what happened. It&#x27;s a Sunday, so the rundown is short. Then two stories worth real time, both in credit. Starting with markets. No trading yesterday or today, so the standing picture is Friday&#x27;s. The...</description>
+      <pubDate>Sun, 09 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09.mp3</guid>
-      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09.mp3" length="6734424" type="audio/mpeg"/>
+      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09.mp3" length="6508944" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dimanche 9 août 2026 — Français</title>
+      <description>Bonjour. Mardi, le quatre août. Voici l&#x27;essentiel. Commençons par les marchés. Le rendement du Trésor à deux ans a clôturé à trois virgule six deux pour cent, en baisse de onze points de base sur la semaine. Passons à l&#x27;immobilier....</description>
+      <pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_fr.mp3</guid>
+      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_fr.mp3" length="289680" type="audio/mpeg"/>
+      <itunes:subtitle>Français</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Saturday, August 8, 2026</title>
       <description>Good morning. Saturday, August eighth. Here&#x27;s what happened. This one covers three days rather than one, Thursday through this morning, so it runs about twice the usual length. The rundown first, then four stories worth real time. Starting with markets....</description>
-      <pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-08.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-08.mp3" length="14822808" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Friday, August 7, 2026</title>
       <description>Good morning. Friday, August seventh. Here&#x27;s what happened. Starting with markets. The July jobs report landed at eight thirty and it was a shock. Nonfarm payrolls fell by twenty-three thousand. Forecasts had ranged from about eighty to one hundred thousand...</description>
-      <pubDate>Fri, 07 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-07.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-07.mp3" length="6844680" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Thursday, August 6, 2026</title>
       <description>Good morning. Thursday, August sixth. Here&#x27;s what happened. Starting with markets. Wednesday was a split tape. The Dow closed at a record for the second straight day, up about half a percent to roughly fifty-four thousand three hundred fifty. The...</description>
-      <pubDate>Thu, 06 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-06.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-06.mp3" length="6865848" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Wednesday, August 5, 2026</title>
       <description>Good morning. Wednesday, August fifth. Here&#x27;s what happened. Starting with markets. The S and P five hundred closed at a record on Tuesday, up about one point eight percent to roughly seventy-seven hundred. The Nasdaq did better, up about two...</description>
-      <pubDate>Wed, 05 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-05.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-05.mp3" length="6721248" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Tuesday, August 4, 2026</title>
       <description>Good morning. Tuesday, August fourth. Here&#x27;s what happened. Starting with markets. Stocks opened the week strong. The Dow closed at a record, up one point three two percent. The S and P five hundred added one point four eight percent...</description>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-04.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-04.mp3" length="6023400" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>Monday, August 3, 2026</title>
       <description>Good morning. Monday, August third. Here&#x27;s what happened. Starting with markets. The dominant trade this morning is still Iran. President Trump said over the weekend that he wanted another attempt at talks with Tehran, that negotiations would resume today, and...</description>
-      <pubDate>Mon, 03 Aug 2026 06:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-03.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-03.mp3" length="5712360" type="audio/mpeg"/>
+      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
