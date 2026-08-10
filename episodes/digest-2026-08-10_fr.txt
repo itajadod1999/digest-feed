@@ -1,0 +1,105 @@
+Bonjour. Lundi, le 10 août. Voici l'essentiel.
+
+On commence par les marchés.
+
+Vendredi a clôturé la meilleure semaine depuis avril pour les trois grands indices américains. Le S and P cinq cents a fini sur un record, juste sous les sept mille sept cent soixante. Le Nasdaq a terminé près de vingt-six mille sept cents, le Dow un peu au-dessus de cinquante-quatre mille. Le rendement du dix ans américain est à environ quatre virgule six six pour cent. L'Europe est aussi sur des sommets, avec le DAX et le CAC quarante à des plus hauts historiques.
+
+Cette semaine, tout tourne autour des prix. L'indice des prix à la consommation de juillet arrive mercredi, les prix à la production jeudi, les ventes au détail vendredi. Le consensus attend une inflation générale autour de trois virgule quatre pour cent, en léger repli sur juin, et une inflation sous-jacente à deux virgule cinq. Les deux restent nettement au-dessus de la cible de deux pour cent de la Réserve fédérale. Après le rapport sur l'emploi, les opérateurs ont repoussé la prochaine hausse de taux attendue d'octobre à décembre.
+
+Le Brent a pris environ un pour cent, à quatre-vingt-quatre dollars le baril. Et là, il faut s'arrêter une seconde. Le détroit d'Ormuz est fermé depuis des mois, et le Brent n'a jamais approché les cent cinquante dollars que beaucoup d'analystes annonçaient précisément pour ce scénario. C'est le deuxième sujet de fond.
+
+Les comptes de Berkshire Hathaway sont tombés samedi, et je vous les avais signalés comme le rendez-vous de la semaine. C'est un vrai changement. Greg Abel a terminé le deuxième trimestre avec trois cent soixante-cinq milliards et demi de dollars de liquidités, en baisse de huit pour cent. Dix milliards sont partis chez Alphabet, quatre milliards et demi en rachats d'actions, plus de cinq milliards sur d'autres titres. Berkshire est acheteur net d'actions pour la première fois en trois ans. Warren Buffett a passé ses trois dernières années à la tête du groupe à faire exactement l'inverse.
+
+Avant les opérations, une petite chose qui m'a plu.
+
+Une ligne électrique de quatre cent trente millions de livres au pays de Galles va être déviée, et l'une des raisons est un elfe de maison. Le tracé initial passait sur la plage où a été tournée la mort de Dobby dans les films Harry Potter, et où les fans ont bâti un sanctuaire en galets peints. Le patron du projet a reconnu qu'il avait fallu le convaincre que ce tas de cailloux comptait. Les fans ont gagné.
+
+On passe aux opérations et au crédit.
+
+Intel a annoncé ce matin une émission publique d'actions ordinaires de quinze milliards de dollars, avec une option de trente jours permettant aux banques d'en placer deux milliards et quart de plus. Les fonds serviront aux besoins généraux de l'entreprise, dont les investissements, et le groupe dit vouloir conserver sa notation catégorie investissement. C'est l'une des plus grosses levées en actions de l'histoire des semi-conducteurs. Le titre reculait d'environ quatre pour cent avant l'ouverture.
+
+L'ouverture du Wall Street Journal ce matin, c'est le crédit privé, et elle contredit le discours du secteur. Les taux de défaut sont au plus haut depuis longtemps. Et la lecture que fait le journal des rapports trimestriels des fonds les plus suivis montre une dégradation de la qualité des prêts comme des rendements. C'est le premier sujet de fond.
+
+Passons à l'immobilier.
+
+La plus grosse vente d'immeubles résidentiels aux États-Unis depuis juin deux mille vingt-quatre s'est bouclée la semaine dernière. BlackRock a payé un virgule six trois milliard de dollars pour onze ensembles cédés par Camden Property Trust. Trois mille six cent vingt logements dans les comtés de Los Angeles, Orange, Riverside et San Diego, occupés à quatre-vingt-seize pour cent. JLL a mené la transaction et arrangé cinq cent soixante-six millions de dollars de financement d'acquisition auprès des agences. Pour Camden, c'est une sortie de Californie après vingt-huit ans.
+
+Maintenant un chiffre qui demande du contexte, parce qu'en apparence il contredit ce que je vous disais hier. CRED iQ situe le taux de détresse de juillet sur l'univers des titres adossés à des créances hypothécaires commerciales à dix virgule neuf un pour cent. La part en gestion spéciale est à dix virgule trois huit, en hausse de quarante-deux points de base sur le mois. Le bureau est l'exception, à seize virgule six cinq pour cent. Le résidentiel collectif est à onze virgule deux un.
+
+Hier je vous donnais le taux d'impayés de Trepp, à sept virgule huit six. Les deux sont justes. CRED iQ compte tout prêt qui est soit en gestion spéciale, soit en retard de trente jours, ce qui capte les prêts confiés à un gestionnaire spécial alors qu'ils paient encore leurs intérêts. Trepp, lui, compte le défaut de paiement. L'écart entre les deux, c'est en gros la population des prêts en négociation plutôt qu'en défaut. Ce groupe est désormais le plus nombreux des deux.
+
+Et un chiffre pour les loyers. Le loyer moyen demandé dans la région de San Francisco est de trois mille sept cent vingt-huit dollars par mois, selon CoStar. En hausse de dix-huit pour cent en moins de deux ans, et devant New York comme marché locatif le plus cher du pays, pour la première fois depuis deux mille dix-neuf.
+
+Passons à la technologie.
+
+Mark Zuckerberg a publié ce matin un essai de quatorze pages exposant la philosophie de Meta sur l'intelligence artificielle, et a sorti dans la foulée un modèle à poids ouverts appelé Muse Glimmer. L'argument, c'est qu'un modèle ouvert proche en capacité du meilleur modèle fermé de Meta peut tourner en local sur un ordinateur portable, ce qui changerait l'économie du secteur. Il plaide explicitement contre la centralisation du contrôle de cette technologie, ce qui vise Anthropic et OpenAI.
+
+Il propose aussi que les entreprises soumettent leurs modèles à un examen public de façon répétée pendant l'entraînement, et non une seule fois à la fin. Et Meta met en place un fonds d'un milliard de dollars destiné aux services de police et de pompiers des communes qui accueillent ses centres de données.
+
+C'est ce dernier point qui est révélateur. L'opposition locale aux centres de données est devenue une vraie contrainte sur les lieux d'implantation. Le Journal rapporte que ce rejet pousse les promoteurs vers le bassin permien, dans l'ouest du Texas et au Nouveau-Mexique, où une ruée sur le foncier a commencé.
+
+Passons à la France.
+
+Suite de notre problème d'arithmétique d'hier. Paris rédige en ce moment le budget deux mille vingt-sept, et on en connaît la forme. Trois milliards d'euros d'économies supplémentaires, deux sur l'État et un sur la Sécurité sociale. Le cadrage est ouvertement défensif : tenir la ligne jusqu'à l'arrivée de la prochaine majorité. Sans correction, le déficit atteint cinq virgule neuf pour cent du produit intérieur brut dès deux mille vingt-sept. Les débats commencent en octobre.
+
+Et le Moyen-Orient.
+
+Les discussions sur le détroit d'Ormuz ont reculé. Samedi, Mohammad Bagher Zolghadr, alors secrétaire du Conseil suprême de sécurité nationale iranien, a publié une liste de conditions. Les États-Unis doivent lever le blocus naval, mettre fin aux sanctions, libérer les avoirs iraniens gelés, arrêter la guerre et verser des réparations. Le détroit, écrit-il, ne rouvrira pas tant que l'Amérique n'aura pas corrigé son comportement. Le ministre des Affaires étrangères Abbas Araghchi qualifie toujours l'arrangement avec Oman de très proche, tout en écartant pour l'instant des discussions directes. Et hier, l'Iran a remplacé Zolghadr. J'y reviens dans un instant.
+
+Par ailleurs, le premier ministre Netanyahou a rejeté le plan en quinze points pour Gaza soutenu par le Conseil de paix de l'administration Trump. Il a dit à son cabinet que l'armée ne se retirerait pas tant que le Hamas ne serait pas, selon ses mots, véritablement désarmé. Armes lourdes, armes moins lourdes, toutes les armes. Nickolay Mladenov, représentant du Conseil de paix pour Gaza, affirme que le plan reste la seule voie possible. C'est une rupture publique rare entre Netanyahou et le président.
+
+Une autre chose, côté cuisine. L'épidémie de cyclosporose liée à la laitue iceberg touche désormais quinze États, avec environ vingt-deux mille cas confirmés ou suspectés suivis par les autorités. L'État de New York a diagnostiqué huit cent trente-trois cas depuis mai, dont cinq cent cinquante-trois dans la ville.
+
+Encore une petite chose avant les sujets de fond.
+
+Le club de football péruvien Deportivo Municipal a perdu son sponsor maillot. Il a donc redessiné sa tenue en mille carrés noirs et blancs et vendu chaque carré comme espace publicitaire, à environ soixante dollars pièce. Des petits commerces de Lima les ont achetés, plusieurs ont payé au-dessus du prix demandé, et le club a levé à peu près soixante-quinze mille dollars. Le maillot ressemble à un échiquier. Il est aussi, pour le moment, solvable.
+
+Un sujet qui mérite plus de temps ce matin. Les marchés privés ont un problème de plomberie, et il apparaît à deux endroits en même temps.
+
+Hier, je vous ai expliqué les mécanismes de blocage des rachats dans les fonds de crédit privé semi-liquides. Des investisseurs qui réclament leur argent, des fonds qui servent au prorata, et le mot semi qui fait tout le travail. Aujourd'hui, le Journal décrit l'étage du dessous, c'est-à-dire les prêts eux-mêmes. Les taux de défaut sont au plus haut depuis longtemps. Son analyse des documents trimestriels montre que la qualité des prêts et les rendements se dégradent, pendant que les gérants présentent la crise comme derrière eux.
+
+Mettez maintenant cela à côté du capital-investissement, qui vit sa propre version du même problème.
+
+Le Times rapporte qu'au trente juin, les fonds de capital-investissement détenaient trente-trois mille cinq cent soixante-quinze entreprises qu'ils n'ont pas vendues. C'est le double d'il y a dix ans, et le chiffre augmente pour la troisième année consécutive.
+
+Regardez ce qui aurait dû régler la question. Les indices boursiers sont à des records, et le premier semestre a été le deuxième plus actif en introductions en bourse depuis plus de dix ans. Et pourtant : depuis deux mille vingt-deux, seules soixante-dix sociétés détenues par des fonds ont été cotées sur les marchés américains.
+
+Deux raisons dominent. Les taux élevés font que l'acheteur naturel, c'est-à-dire un autre fonds qui s'endette pour acheter, ne peut pas payer le prix du vendeur. Et ces portefeuilles sont très chargés en logiciel. Or les valorisations du secteur se sont comprimées, les investisseurs s'interrogeant sur l'effet de l'intelligence artificielle sur les bénéfices futurs.
+
+Voici le chiffre qui transforme un problème de calendrier en problème d'investisseur. Du premier juillet deux mille vingt-deux au trente et un mars de cette année, le capital-investissement américain a rapporté six virgule quatre pour cent en rythme annualisé, selon MSCI. Le S and P cinq cents a rapporté quinze virgule deux sur la même période. Le Nasdaq, dix-neuf virgule trois. La classe d'actifs s'est vendue sur une prime d'illiquidité : acceptez de ne pas pouvoir vendre pendant des années, et vous serez mieux payé pour cet inconvénient. Depuis bientôt quatre ans, cette prime est négative.
+
+Et les deux moitiés s'alimentent l'une l'autre. Les fonds de pension et les fondations qui ne récupèrent pas leur argent du capital-investissement ont quand même des appels de fonds à honorer. L'enveloppe de crédit semi-liquide est le seul endroit de leur poche privée doté d'une fenêtre de rachat. C'est donc là qu'ils frappent. C'est en partie pourquoi les demandes de rachat dépassent sans cesse les plafonds, et pourquoi l'histoire des blocages et celle des sorties sont une seule histoire vue des deux bouts.
+
+Ce qui débloquerait la situation, c'est un vrai marché de sortie. Soit une fenêtre durable où les sociétés détenues par des fonds se cotent aux prix que veulent les vendeurs, soit des fonds qui acceptent de baisser le prix et d'écouler le stock. On promet la première depuis trois ans. La seconde finit toujours par arriver, à des valeurs inférieures à celles auxquelles les actifs sont inscrits aujourd'hui. Le signal à guetter, c'est le premier grand gérant prêt à vendre bon marché, publiquement.
+
+Deuxième sujet. Pourquoi le marché pétrolier refuse de paniquer face à un détroit d'Ormuz fermé, et ce qui a changé à Téhéran ce week-end.
+
+Commençons par le prix. Environ un cinquième du pétrole maritime mondial passe normalement par ce chenal, et avant la guerre, le scénario standard en cas de fermeture donnait un baril à cent cinquante dollars ou plus. Il est à quatre-vingt-quatre.
+
+L'explication de The Economist, c'est que la Chine a tout simplement moins acheté. Les importations chinoises ont baissé, et comme la Chine est le premier importateur de brut au monde, c'est sa demande qui fixe désormais l'équilibre du marché. Sur cette lecture, la Chine a supplanté l'OPEP plus comme grande puissance pétrolière. L'OPEP plus pilote l'offre. La Chine pilote la demande. Et la demande s'est révélée le levier le plus puissant.
+
+Il y a un deuxième mécanisme visible dans les chiffres chinois publiés ce matin. Les prix à la production ont augmenté de trois et demi pour cent sur un an, contre quatre virgule un le mois précédent. Les prix à la consommation ont pris zéro virgule cinq pour cent, la plus faible hausse depuis janvier. Le bureau des statistiques attribue une partie des deux à la baisse des prix pétroliers intérieurs. Le pays qui maintient le brut mondial bas importe donc de la désinflation en le faisant.
+
+Passons à la politique, parce que le pétrole bon marché est la raison pour laquelle tout le monde pouvait se permettre d'être patient, et la patience vient de devenir plus difficile.
+
+Les exigences iraniennes de samedi reprennent pour l'essentiel le mémorandum de juin, que l'Iran accuse Washington d'avoir violé et que Washington n'a pas accepté de rétablir. La réponse du président Trump, donnée à Axios par téléphone, c'est que les États-Unis font profil bas. Il dit ne négocier qu'à moitié, et observer l'inflation iranienne et le fait que Téhéran n'a plus d'argent.
+
+Puis hier, Téhéran a changé la personne qui tient le dossier. Mohsen Rezaï a soixante-douze ans. Il a commandé les Gardiens de la révolution pendant seize ans, pendant l'essentiel de la guerre Iran-Irak. Il occupe désormais le poste de secrétaire du Conseil suprême de sécurité nationale tout en étant le représentant du Guide suprême auprès de ce même conseil. Ce second point n'est pas un détail. Il fait converger deux lignes d'autorité distinctes vers une seule personne. Rezaï s'est aussi prononcé publiquement pour un contrôle iranien de la voie maritime, c'est-à-dire précisément ce que la Maison-Blanche dit qu'elle ne signera pas.
+
+C'est ici que les récits divergent, et il faut le dire clairement. Tout le monde s'accorde sur les faits. La nomination a eu lieu, les exigences ont été publiées, rien n'est signé, le détroit n'est pas ouvert. Les rédactions divergent sur le sens. Certaines lisent ce changement comme un durcissement, la vieille garde qui reprend le dossier. D'autres y voient une consolidation qui pourrait rendre un accord plus facile à tenir, puisqu'une direction iranienne fragmentée explique en partie pourquoi rien n'aboutit.
+
+Ce qu'il faut surveiller est étroit. Le trafic maritime dans le détroit, et s'il dépasse le filet actuel, seule mesure ici qui ne soit pas une déclaration. Le fait de savoir si cette liste de cinq exigences se réduit. Et le prix du pétrole un jour sans titre en une. Si le Brent tient à quatre-vingt-quatre dollars avec le détroit fermé, le levier que Téhéran croit tenir vaut moins que Téhéran ne le pense.
+
+Une dernière petite chose avant la fin, et elle est ancienne.
+
+À Phalère, près d'Athènes, il y a une fosse commune d'hommes enterrés enchaînés les uns aux autres, vieille d'environ deux mille six cents ans. On a supposé pendant des décennies qu'il s'agissait d'étrangers. Une équipe de l'université d'État de l'Arizona a analysé les isotopes du strontium dans l'émail dentaire de soixante-six d'entre eux, plus quatre-vingt-dix-sept autres adultes du site. L'émail se forme dans l'enfance et ne se renouvelle jamais, il enregistre donc l'endroit où l'on a grandi. Sur cent soixante-trois personnes, sept seulement n'étaient pas locales. Les hommes enchaînés étaient athéniens.
+
+Et pour finir, plus près de la maison.
+
+Encore une journée sous alerte à la chaleur. Maximale autour de trente-deux degrés, indice de chaleur proche de trente-huit, alerte en vigueur jusqu'à dix-neuf heures, et des orages probables en fin d'après-midi. Minimale autour de vingt-quatre degrés cette nuit. Le stationnement alterné s'applique toute la semaine et sera suspendu samedi pour l'Assomption.
+
+Côté table, Keepers vient d'ouvrir au trente-quatre Huitième Avenue, dans le West Village. C'est l'équipe de Dandelion, un bar avec de vraies pizzas de comptoir, des cocktails signés Ricky Dolinsky et une carte de pizzas montée avec Louis Tomczak. À distance de marche, et exactement le genre d'endroit qu'il faut pour une soirée aussi chaude.
+
+Côté musique, c'est lundi, ce qui au Village Vanguard veut dire le Vanguard Jazz Orchestra, comme tous les lundis depuis des décennies. Ted Nash, Rich Perry, Gary Smulyan et Terell Stafford sont dans cet orchestre. Et si vous préférez attendre, le trio de Bill Frisell occupe la salle de demain à dimanche.
+
+Voilà pour ce matin. Bonne journée.
