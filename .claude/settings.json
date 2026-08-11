@@ -1,5 +1,5 @@
 {
-  "$comment": "Scoped permissions for the news digest routine. Lives in ~/digest-feed/.claude/settings.json and applies ONLY to work in this folder.",
+  "$comment": "Scoped permissions for the news digest routine. Applies only to work in ~/digest-feed.",
 
   "permissions": {
     "defaultMode": "acceptEdits",
@@ -10,11 +10,17 @@
       "Edit",
       "WebSearch",
       "WebFetch",
-      "Bash(python3.11 publish_chatterbox.py:*)",
+      "Bash(python3 publish_google.py:*)",
       "Bash(ls:*)",
       "Bash(pwd)",
       "Bash(cat:*)",
       "Bash(wc:*)",
+      "Bash(echo:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
       "Bash(git status:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",

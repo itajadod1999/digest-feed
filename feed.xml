@@ -3,18 +3,17 @@
   <channel>
     <title>Daily Digest</title>
     <link>https://itajadod1999.github.io/digest-feed</link>
-    <description>A personal daily news briefing, in English and French.</description>
+    <description>A personal daily news briefing.</description>
     <language>en-us</language>
     <itunes:author>Automated</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 10 Aug 2026 19:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 01:56:49 +0000</lastBuildDate>
     <item>
       <title>Monday, August 10, 2026</title>
       <description>Good morning. Monday, August tenth. Here&#x27;s what happened. Starting with markets. Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed...</description>
       <pubDate>Mon, 10 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-10_en.mp3</guid>
-      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-10_en.mp3" length="6625920" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
+      <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-10_en.mp3" length="3539616" type="audio/mpeg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -23,7 +22,6 @@
       <pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-10_fr.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-10_fr.mp3" length="8550072" type="audio/mpeg"/>
-      <itunes:subtitle>Français</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -32,7 +30,6 @@
       <pubDate>Sun, 09 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_en.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_en.mp3" length="5701608" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -41,7 +38,6 @@
       <pubDate>Sun, 09 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09.mp3" length="6508944" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -50,7 +46,6 @@
       <pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_fr.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-09_fr.mp3" length="289680" type="audio/mpeg"/>
-      <itunes:subtitle>Français</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -59,7 +54,6 @@
       <pubDate>Sat, 08 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-08.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-08.mp3" length="14822808" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -68,7 +62,6 @@
       <pubDate>Fri, 07 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-07.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-07.mp3" length="6844680" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -77,7 +70,6 @@
       <pubDate>Thu, 06 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-06.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-06.mp3" length="6865848" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -86,7 +78,6 @@
       <pubDate>Wed, 05 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-05.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-05.mp3" length="6721248" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -95,7 +86,6 @@
       <pubDate>Tue, 04 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-04.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-04.mp3" length="6023400" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -104,7 +94,6 @@
       <pubDate>Mon, 03 Aug 2026 06:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-03.mp3</guid>
       <enclosure url="https://itajadod1999.github.io/digest-feed/episodes/digest-2026-08-03.mp3" length="5712360" type="audio/mpeg"/>
-      <itunes:subtitle>English</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
