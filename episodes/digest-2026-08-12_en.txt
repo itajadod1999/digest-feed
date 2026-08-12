@@ -1,0 +1,95 @@
+Good morning. Wednesday, August twelfth. Here's what happened.
+
+Starting with markets.
+
+Tuesday broke the streak. The S and P five hundred closed at about seventy-seven thirty, down a third of a percent. The Nasdaq lost six tenths, to just under twenty-six thousand five hundred. The Dow gave back a hundred eighty-four points to finish a shade under fifty-three thousand eight hundred. The ten-year Treasury sits at four point six nine percent. Technology did the damage, industrials held up, and the fading of last week's optimism about Iran did the rest.
+
+The number that matters lands at eight thirty this morning. July consumer prices. Consensus has headline inflation up a tenth on the month and three point four percent over the year, down from three point five in June. Core is expected at two and a half percent, from two point six.
+
+The Wall Street Journal frames it as the first real test of Kevin Warsh's tough talk since he took over the Federal Reserve. The Economist describes him as trying to restore a little Delphic mystery to the central bank, which is a polite way of saying nobody is sure what he'll do.
+
+Before we get to deals, a small thing I liked, and it is technically a credit story.
+
+Credito Emiliano, in Emilia-Romagna, has lent against wheels of Parmigiano Reggiano since nineteen fifty-three. The vault holds more than half a million wheels, worth well over three hundred million euros, and a dairy can borrow sixty to eighty percent of a wheel's value while the cheese sits there aging. This summer's heat has pushed the vault's daily energy use up about thirty percent. And the cows, being hot, are lying down and eating less, which has cut milk output by as much as ten percent a year. Italy's cheese economy is worth roughly four point seven billion dollars, and it is now, in the most literal sense, a climate exposure.
+
+Moving to deals and credit.
+
+The big one is Nvidia and five hundred billion dollars. That's the first deep dive, so I'll leave it there.
+
+Following up on Monday's Intel raise. It announced fifteen billion dollars of stock. It priced at twenty. Two hundred ten and a half million shares at ninety-five dollars apiece, with more than a hundred billion dollars of demand behind the book. Net proceeds of roughly nineteen point seven billion, and it closes today. Intel shares are up nearly three times this year on the foundry turnaround.
+
+Not everyone had that kind of week. United Wholesale Mortgage took a six hundred million dollar hit and needed a rescue, the Journal reports, after a failed takeover and mistimed bets on interest rates.
+
+Now real estate.
+
+A new conduit deal came to market Monday. BMO twenty twenty-six C fifteen, about six hundred fifty million dollars of offered commercial mortgage-backed securities.
+
+Two office trades. In Charlotte, a venture of Corebridge Real Estate Investors and Crestlight Capital paid ninety-one and three-quarter million dollars for the Station at LoSo in Lower South End, just under two hundred thousand square feet, about four hundred ninety-five dollars a foot. And in Orange, California, two Los Angeles investors paid sixty-three million for Orange Center Tower, three hundred twenty-three thousand square feet, about one hundred ninety-five a foot, with a forty and a half million dollar mortgage behind it.
+
+And the pied-à-terre tax. A New York State judge sided with homeowners fighting the tax on some high-end second homes and temporarily blocked the rollout. The Mamdani administration appealed, which lets the rollout continue while the appeal runs, so notices are going out now to New Yorkers who hold their homes in trusts.
+
+Over to technology.
+
+Waymo has more than quintupled its fleet, to nearly four thousand driverless cars from about seven hundred early last year, across fifteen metro areas, carrying roughly half a million paid trips a week. It has also issued three federal recalls since December for software problems, including one where cars drove into flooded roadways, against three recalls in the previous twenty-two months.
+
+Anthropic said it will watermark text and code generated anywhere in the world, first in new models and eventually in existing ones, to comply with the European Union's artificial intelligence act.
+
+And a ruling on Apple. That's the second deep dive.
+
+Over to France and Europe.
+
+There is a total solar eclipse today, the first mainland Europe has seen in nearly thirty years. The path runs from northern Russia through Greenland and Iceland, across the Atlantic, over Spain and a small corner of Portugal, and ends in the Mediterranean. The band of totality is less than three hundred twenty kilometers wide and buys you about two minutes of darkness.
+
+France gets a partial. Ninety-two percent coverage in Paris, peaking just after eight in the evening, and ninety-nine percent down in the Basque Country. Pharmacies and opticians have sold out of the glasses, and in London prices surged as stocks ran dry.
+
+The reason any of this happens is a coincidence that never stops being strange. The moon is about four hundred times smaller than the sun and about four hundred times closer to us. So they look the same size, and once in a while they line up.
+
+And the Middle East.
+
+Following up on Saturday's list of Iranian demands. President Trump dismissed the demand for compensation outright and posted that Iran should be the one paying, for what he called damages and death across the region, in Lebanon and in Gaza. Iran's position is unchanged: the Strait of Hormuz does not open until America ends the blockade of Iranian ports. Iran and Oman have discussed a thirty-day trial arrangement with separate routes for Iranian and Omani vessels, and American objections have stalled it.
+
+The Journal reports Washington has settled on economic pressure as the strategy, and, separately, that Gulf energy producers are starting to conclude Iranian control of the strait will be permanent. That is a shift in what the neighbors expect, not in what anyone has signed.
+
+At least six people were killed when a cargo ship in the Red Sea was hit by Houthi missiles, according to Yemen's government.
+
+And a court in Syria sentenced Bashar al-Assad to death in absentia, convicting him of murder, torture and crimes against humanity. His cousin Atef Najib, a senior general under the regime, was sentenced to death as well. Assad has been in Russia since the regime fell in twenty twenty-four.
+
+Now city planning.
+
+Mayor Mamdani and Janno Lieber of the transit authority went down into a notoriously hot station in Lower Manhattan yesterday to announce a study of something that sounds like wishful thinking. Drill more than five hundred feet below a disused platform, pull the excess heat out of the station in summer, pipe it into nearby municipal buildings including City Hall in winter. Mamdani called the station a chamber of horrors. Lieber said he doesn't know how much cooler it would get, but that even a few degrees is the difference between total misery and merely sweltering. If it works, there are four hundred seventy-two stations to try it on.
+
+And on Roosevelt Island, two residents fighting the demolition of a derelict city-owned steam plant have filed an Article seventy-eight petition, the proceeding New Yorkers use to challenge agency decisions. Neither is a lawyer. The lawyers they called wanted retainers of up to thirty thousand dollars, so they wrote it themselves with help from artificial intelligence, checking every citation by hand to avoid inventing precedent. The demolition is already halted by two stop-work orders, one of them after inspectors found asbestos.
+
+One story worth more time this morning. Nvidia has built a financing machine, and it is worth understanding what it actually is.
+
+On Monday, Nvidia announced it had brought together six of the largest firms in private capital, Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR, to source five hundred billion dollars of financing for artificial intelligence infrastructure. Jensen Huang said he approached only those six, and none of them said no. Larry Fink of BlackRock said, and this is a direct quote, we need to raise this money as fast as possible. He also said he foresaw a next future for financial engineering.
+
+Here is the structure, as far as anyone has described it. The money is not equity in Nvidia and it is not equity in the data centers. It is debt. The firms will create dedicated pools of capital, in Nvidia's words at attractive rates, for Nvidia's largest customers, so those customers can buy chips and build the halls to put them in. Executives referred to yield-based products and to securitization.
+
+Then the part that tells you what Nvidia really thinks. Huang posted that in some cases Nvidia may provide a residual-value support mechanism for up to twenty-five percent of an opportunity. Translate that. If you lend against a pile of chips, your risk is what the chips are worth in four years if the borrower stops paying. Nvidia is offering to eat a quarter of that. Which lowers the cost of capital for anyone buying its hardware, and it is, functionally, a price cut, paid for with Nvidia's own investment-grade balance sheet.
+
+That solves a problem for both sides. Nvidia has been criticized for months for being the de facto financial backstop of its own customers, arranging circular financing. This moves the risk onto Wall Street investors while keeping the sales. And the six firms have the opposite problem: they have raised enormous amounts of capital, increasingly from insurance books and retail retirement accounts, and they need somewhere to put it. Apollo's Jim Zelter called modern compute a scarce, mission-critical asset class. That is the language of someone describing collateral, not a technology.
+
+For scale, Morgan Stanley expects hyperscalers to spend three and a half trillion dollars on this infrastructure between now and twenty twenty-eight.
+
+Two things to watch. The plumbing is already being laid: the Securities and Exchange Commission has exempted data-center bonds from key securitization rules. And the binding constraint may not be financial at all. Data centers have become politically toxic in a lot of places over water and power. Money is clearly available. Sites and substations are the scarce thing.
+
+Investors were not thrilled. Nvidia closed down almost three percent on the announcement.
+
+One more worth understanding, and it is smaller but it has been running for six years. Apple and Epic Games.
+
+The history in short. Epic sued in twenty twenty, Apple largely won, but the court ordered it to stop preventing developers from linking out to payment options outside the App Store. Apple complied with the letter of that and started charging twelve to twenty-seven percent on those outside purchases, at which point almost no developer bothered using the option. Epic said that violated the order. Judge Yvonne Gonzalez Rogers agreed, and held Apple in contempt.
+
+Apple has asked the Supreme Court to review the contempt ruling, and the court hears it in October. In the meantime Apple asked the district court to pause the separate proceeding over what those fees should actually be. Yesterday the district court said no. Apple has twenty-four hours to file its proposed fee schedule, and Epic gets sixty days to respond before a hearing.
+
+So the fee fight runs on one track while the Supreme Court considers the contempt finding on another. If the fee proceeding lands first, Apple could be operating under a court-set number in the largest software storefront in the world before the justices have said a word about whether the contempt finding was right. Procedural rather than dramatic, which is usually where these are decided.
+
+And finally, closer to home.
+
+Mostly sunny and hot, high near eighty-seven, wind light and northerly. Low around seventy-one tonight, with a small chance of showers or a thunderstorm after two in the morning. No heat advisory today, which after last week is its own kind of good news.
+
+If you want somewhere new, Bar Étienne has opened at forty-four Bedford Street in the West Village, in the old Daddy-O's space, from the people behind Bar Valentina on the Lower East Side. Late hours, about ten minutes on foot.
+
+And for music tonight, The Wallflowers are at Irving Plaza at seven thirty. Not the usual thing, but it's close.
+
+That's the morning. Have a good one.
