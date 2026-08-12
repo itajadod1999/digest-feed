@@ -1,105 +1,109 @@
-Good morning. Monday, August tenth. Here's what happened.
+Good morning. Wednesday, August twelfth. Here's what happened.
 
 Starting with markets.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+Tuesday was a small step back. The S and P five hundred closed at about seventy-seven twenty-eight, down a third of a percent. The Nasdaq lost six tenths, to just under twenty-six thousand five hundred. The Dow gave up a hundred eighty-four points to finish a little under fifty-three thousand eight hundred. The ten-year Treasury moved up to about four point seven three percent, from four point six six on Friday.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+The number everyone is waiting for lands at half past eight this morning. July consumer prices. Economists expect headline inflation of three point four percent over the year, down from three point five in June, and core inflation of two and a half percent.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+What makes this one interesting is that the Federal Reserve's two jobs have started pulling against each other. Inflation above target argues for raising rates. A cooling labor market argues for sitting still. Friday's report showed America lost twenty-three thousand positions in July, which nobody had forecast. Markets now put the odds of a rate rise in September at about even, down from nearly sixty percent a week ago. And the Fed's preferred inflation gauge is running hotter than the consumer price index, so a soft number this morning settles less than it looks like it settles.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+Before the deals, something I enjoyed.
 
-Before we get to deals, a small thing I liked.
-
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+Today brings the first total solar eclipse visible from continental Europe since nineteen ninety-nine, and the hotel industry has noticed. Average nightly rates across Spain and Iceland are up thirty-six percent. Reykjavik is the most expensive place on earth to stand in the dark, at just over a thousand dollars a night, roughly double last year. In Bilbao, bookings are up three hundred sixty-six percent. People are renting out rooftops and farmland by the hour. Totality lasts a hundred thirty-eight seconds at its longest, and that is only off the coast of Iceland.
 
 Moving to deals and credit.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+The big one is Nvidia and five hundred billion dollars. That's the first deep dive, so I'll hold it.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+Following up on Monday's Intel raise. It announced fifteen billion dollars of stock. It got twenty. The sale was upsized, and the money goes to the company's artificial intelligence plans.
+
+Apollo agreed to put two point six billion dollars into Yankee Global Enterprises, the Yankees' parent company. A mix of debt and equity, used to repay or refinance existing borrowings. The Steinbrenner family keeps control, and Apollo's sports chief takes a board seat. Forbes valued the club at eight and a half billion in March, the most valuable in baseball, and league rules cap any single private equity firm at fifteen percent of a franchise. There have been fifty-two private equity deals in professional sports this year, against seventy-one in all of last year.
+
+CoreWeave more than doubled its sales in the second quarter, to two point five eight billion dollars. Losses widened by less than expected, and the number that actually moved the stock was the order backlog. A hundred and four billion dollars at quarter end. Shares rose fourteen percent.
+
+And Ari Emanuel's MARI Group agreed to buy ATG Entertainment for four and a half billion pounds, about five billion dollars. ATG runs more than seventy venues across North America and Europe, including the Lyceum and the Savoy in London's West End. Providence Equity bought it in twenty thirteen for three hundred fifty million pounds.
 
 Now real estate.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+The largest trade of the day is a resort. Ryman Hospitality Properties is paying one point three eight billion dollars for the Grande Lakes Orlando resort, buying from Trinity Investments. Roughly eight hundred sixty-seven thousand dollars a room.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+On the lending side, two hundred seventy-eight million dollars went out against Ten Twenty Spring, a twenty-five story, five hundred twenty-five thousand square foot office tower in Midtown Atlanta. Eldridge Capital Management is the lender. The borrower is a venture of Portman Holdings and Blackstone's Perform Properties.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+In Charlotte, a venture of Corebridge Real Estate Investors and Crestlight Capital paid ninety-one and three-quarter million dollars for the Station at LoSo in the Lower South End. Just under two hundred thousand square feet, about four hundred ninety-six dollars a foot. Beacon Partners sold.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+And a pair of numbers on the office recovery. Office real estate investment trusts posted solid second-quarter leasing, most able to lift average rents. Separately, artificial intelligence companies now occupy about ten percent of all office space in San Francisco. On Monday I mentioned San Francisco had passed New York as the most expensive rental market in the country. Those two facts are the same fact, seen from either end of the lease.
 
 Over to technology.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+Google unveils its new Pixel phones today, and the interesting part is the price. They will probably cost about a hundred dollars more than last year's. The reason is memory. The cost of the memory chips inside a phone roughly doubled between late twenty twenty-five and early this year, as artificial intelligence infrastructure ate the supply. Samsung raised Galaxy prices by a similar amount. And even Apple, a longtime rival, has signed up to use Google's models on its devices.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+Brad Lightcap, one of OpenAI's longest-serving executives, is leaving to start something new, the latest in a run of departures there. Set against that, the company's revenue from business customers grew thirty-two percent month over month in July.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+And Meta goes on trial in California today, sued by four states over claims it designed its products to be addictive to young people.
 
-Over to France.
+A quick one from Britain before we cross the Channel.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+Nigel Farage has forced a fresh election in his own parliamentary seat, after coming under pressure over his finances. His principal challenger is a man who campaigns dressed as a wheelie bin, under the name Count Binface. That is the actual race.
+
+Over to France and Europe.
+
+France is in a serious heat wave. Seventy-eight departments are under orange heat alert today, up from forty-three yesterday, with temperatures reaching thirty-nine degrees Celsius in places, which is a bit over a hundred Fahrenheit. Météo-France expects several more days of it.
+
+Spain is handling the eclipse and the heat at the same time. Four hundred fifty thousand extra visitors are expected, and the authorities have two worries: wildfires, after July's enormous fires, and gridlock.
+
+One more from Europe, and it matters more than it sounds. China's central bank has given Deutsche Bank permission to clear transactions in yuan, the first European bank allowed to do it. Beijing has spent years pushing its currency as an alternative to the dollar, and its own cross-border payment system as a substitute for the incumbents. A large European lender clearing yuan directly is a brick in that wall.
 
 And the Middle East.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+The shipping war widened yesterday. American forces fired on a Panama-flagged cargo ship trying to reach an Iranian port in defiance of the blockade. Iran-backed Houthi forces hit a cargo ship in the Red Sea, killing at least six people according to Yemen's government, and struck another at the Bab el-Mandeb strait.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+Which brings me back to oil, and to Monday. Brent was around eighty-four dollars then, and the puzzle was why a closed Strait of Hormuz had not produced the hundred-and-fifty-dollar crude everyone forecast for exactly this scenario. Brent is now near eighty-nine, after touching ninety. A five dollar move in two sessions, and it came with the attacks on shipping rather than with anything said at a negotiating table.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+On the talks themselves, the new head of Iran's Supreme National Security Council said the strait does not reopen until America changes its behavior and accepts Iran's conditions for ending the war. Same list, new voice. A week ago the Treasury Secretary said a deal to reopen the strait might be twenty-four to forty-eight hours away. It has now been a week.
 
-One more small thing before the deep dives.
+And in Syria, a court sentenced Atef Najib, a general under the Assad government, to death for crimes against humanity. Victims of the old government welcomed the verdict. Several human rights organizations called the trial itself unfair.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+Now the city.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+New York gives its public school students free transit through OMNY, and the students have feedback. The paper cards disintegrate in the rain and stop working without warning. In the first three months of last school year, Stuyvesant alone processed five hundred twenty-eight replacement requests, two hundred eighty-four of them for cards that had simply failed. The transit authority and the education department are piloting a digital version at seven schools. The students' own proposal is more direct. Make the cards out of plastic.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+One more, and it's a story where the framing carries more weight than the facts.
 
-Now put that next to private equity, which is running its own version of the same problem.
+Tuesday's primaries. In Wisconsin, Francesca Hong, a progressive, narrowly lost the Democratic nomination for governor to David Crowley, a moderate. Hong had led in the polls. In Minnesota, Peggy Flanagan, also a progressive, won the Democratic Senate nomination. And in the Republican primary for Minnesota governor, House Speaker Lisa Demuth beat Mike Lindell, the pillow manufacturer endorsed by President Trump.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+Those are the results everyone reports. The reading splits cleanly. The Economist and the Wall Street Journal both describe Wisconsin as the end of the populist left's winning streak. The Times calls the contest between the party's progressive and moderate wings largely unsettled. Same night, two conclusions, and the Minnesota result is why each side can argue its case.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+One story worth more time this morning. Nvidia and the five hundred billion dollars.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+Here is what was announced. Six firms, Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR, are partnering with Nvidia to source five hundred billion dollars of financing for artificial intelligence infrastructure. Jensen Huang said in an interview that he approached only those six, and that none of them turned him down.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+The purpose is to create dedicated pools of capital, at scale and at attractive rates, for Nvidia's customers. Note who is being financed. Not Nvidia. Nvidia's buyers. This is seller financing, at the scale of a mid-sized economy.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+The mechanism worth understanding is the piece Huang mentioned almost in passing. In some cases, Nvidia may provide residual-value support for up to twenty-five percent of a deal. Residual value is what the asset is assumed to be worth at the end of the financing term. It is the number a lender is least sure about, and with chips it is least sure by a wide margin, because nobody knows what a graphics processor from this generation fetches in five years. By standing behind a quarter of that, Nvidia moves the most uncertain part of the credit off the lender and onto its own balance sheet, which is investment grade and very large. Lower uncertainty, lower cost of capital, more data centers built with Nvidia chips in them.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+Which is why the sharpest read on this came from Ben Thompson, who called it a price cut in disguise. Nvidia is not lowering the sticker price. It is lowering the cost of financing the purchase, and paying for that with its own credit. Companies do this when they are protecting a position rather than expanding one, and the position Nvidia is protecting is real. Its biggest customers are all designing their own chips.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+Now the part that gets less attention. Look at where the money is coming from. Those six firms are the largest private capital managers in the world, and they are collectively preparing to route trillions of dollars of insurance, retirement and institutional money into this build-out. Two other things landed the same week: the Securities and Exchange Commission exempted data-center bonds from key securitization rules, and Bank of America earmarked two hundred fifty billion dollars for infrastructure lending including data centers. Three separate decisions, one direction. The plumbing that carries ordinary savings into computing capacity is being widened, quickly, in several places at once.
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+What would have to happen for the headline to mean what it says. The announcement came with very few details on timing or structure, and executives acknowledged that deals already in the works will count toward the commitment. So the first thing to watch is whether five hundred billion is new money or a relabeling of what was happening anyway. The second is the residual-value guarantees, and how large they get. That is Nvidia underwriting the used value of its own product, and it only stays cheap while demand stays where it is.
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+The second story. Paramount is threatening to leave California, and the threat is really about a clock.
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+David Ellison told his senior leadership last week that he would begin relocating the company out of California if there was no progress toward settling by October. Georgia, Tennessee and Texas have dangled tax credits. California's attorney general, Rob Bonta, called it blackmail. The company's chief legal officer said you go where you're wanted, then added that Ellison intends to stay committed to California, which tells you how firm the threat is.
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+The underlying fight is Paramount's roughly hundred and ten billion dollar purchase of Warner Bros Discovery. California and eleven other states sued to block it, arguing it harms consumers. Last week the states won something valuable: the judge set a trial date for March.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+That date is the whole story, because of a clause called a ticking fee. When a deal signs but takes a long time to close, the buyer often agrees to compensate the seller's shareholders for the wait. Paramount's ticking fee starts in October and runs at roughly six hundred fifty million dollars a quarter. It is payable in stock, and backstopped by Larry Ellison personally, so it does not drain Paramount's balance sheet directly. But it dilutes, and a March trial means at least two payments before anyone sees a courtroom.
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+So the exit threat is an attempt to buy leverage back. What California actually wants is structural remedies, which means keeping parts of the combined business separate permanently. What Paramount has offered is behavioral, things like committing to release thirty films in theaters each year. Those are not close to the same thing, and the gap is why there is no settlement yet.
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
-
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
-
-One last small thing before the close, and it is an old one.
-
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+Watch for whether Paramount puts a structural concession on the table. The theater chains want the deal, several Hollywood unions are pushing both sides to talk, and California's governor has reportedly expressed reservations about the suit. Everyone has a reason to settle. The company just has to offer the one thing it has been refusing to.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+Sunny and hot today, high near eighty-nine, wind light out of the northwest. Clouding up tonight, low around seventy-three, with a thirty percent chance of showers or a thunderstorm between two and five in the morning. No advisory, so it's just a hot day.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
-
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+If you want somewhere new, Taftoon has opened at three eighty-eight Third Avenue in Kips Bay. Persian street food built around the flatbread it's named for, served with meat, chicken and potatoes. Dinner only, and it runs late on weekends.
 
 That's the morning. Have a good one.

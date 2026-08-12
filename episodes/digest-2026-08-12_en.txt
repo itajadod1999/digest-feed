@@ -2,94 +2,108 @@ Good morning. Wednesday, August twelfth. Here's what happened.
 
 Starting with markets.
 
-Tuesday broke the streak. The S and P five hundred closed at about seventy-seven thirty, down a third of a percent. The Nasdaq lost six tenths, to just under twenty-six thousand five hundred. The Dow gave back a hundred eighty-four points to finish a shade under fifty-three thousand eight hundred. The ten-year Treasury sits at four point six nine percent. Technology did the damage, industrials held up, and the fading of last week's optimism about Iran did the rest.
+Tuesday was a small step back. The S and P five hundred closed at about seventy-seven twenty-eight, down a third of a percent. The Nasdaq lost six tenths, to just under twenty-six thousand five hundred. The Dow gave up a hundred eighty-four points to finish a little under fifty-three thousand eight hundred. The ten-year Treasury moved up to about four point seven three percent, from four point six six on Friday.
 
-The number that matters lands at eight thirty this morning. July consumer prices. Consensus has headline inflation up a tenth on the month and three point four percent over the year, down from three point five in June. Core is expected at two and a half percent, from two point six.
+The number everyone is waiting for lands at half past eight this morning. July consumer prices. Economists expect headline inflation of three point four percent over the year, down from three point five in June, and core inflation of two and a half percent.
 
-The Wall Street Journal frames it as the first real test of Kevin Warsh's tough talk since he took over the Federal Reserve. The Economist describes him as trying to restore a little Delphic mystery to the central bank, which is a polite way of saying nobody is sure what he'll do.
+What makes this one interesting is that the Federal Reserve's two jobs have started pulling against each other. Inflation above target argues for raising rates. A cooling labor market argues for sitting still. Friday's report showed America lost twenty-three thousand positions in July, which nobody had forecast. Markets now put the odds of a rate rise in September at about even, down from nearly sixty percent a week ago. And the Fed's preferred inflation gauge is running hotter than the consumer price index, so a soft number this morning settles less than it looks like it settles.
 
-Before we get to deals, a small thing I liked, and it is technically a credit story.
+Before the deals, something I enjoyed.
 
-Credito Emiliano, in Emilia-Romagna, has lent against wheels of Parmigiano Reggiano since nineteen fifty-three. The vault holds more than half a million wheels, worth well over three hundred million euros, and a dairy can borrow sixty to eighty percent of a wheel's value while the cheese sits there aging. This summer's heat has pushed the vault's daily energy use up about thirty percent. And the cows, being hot, are lying down and eating less, which has cut milk output by as much as ten percent a year. Italy's cheese economy is worth roughly four point seven billion dollars, and it is now, in the most literal sense, a climate exposure.
+Today brings the first total solar eclipse visible from continental Europe since nineteen ninety-nine, and the hotel industry has noticed. Average nightly rates across Spain and Iceland are up thirty-six percent. Reykjavik is the most expensive place on earth to stand in the dark, at just over a thousand dollars a night, roughly double last year. In Bilbao, bookings are up three hundred sixty-six percent. People are renting out rooftops and farmland by the hour. Totality lasts a hundred thirty-eight seconds at its longest, and that is only off the coast of Iceland.
 
 Moving to deals and credit.
 
-The big one is Nvidia and five hundred billion dollars. That's the first deep dive, so I'll leave it there.
+The big one is Nvidia and five hundred billion dollars. That's the first deep dive, so I'll hold it.
 
-Following up on Monday's Intel raise. It announced fifteen billion dollars of stock. It priced at twenty. Two hundred ten and a half million shares at ninety-five dollars apiece, with more than a hundred billion dollars of demand behind the book. Net proceeds of roughly nineteen point seven billion, and it closes today. Intel shares are up nearly three times this year on the foundry turnaround.
+Following up on Monday's Intel raise. It announced fifteen billion dollars of stock. It got twenty. The sale was upsized, and the money goes to the company's artificial intelligence plans.
 
-Not everyone had that kind of week. United Wholesale Mortgage took a six hundred million dollar hit and needed a rescue, the Journal reports, after a failed takeover and mistimed bets on interest rates.
+Apollo agreed to put two point six billion dollars into Yankee Global Enterprises, the Yankees' parent company. A mix of debt and equity, used to repay or refinance existing borrowings. The Steinbrenner family keeps control, and Apollo's sports chief takes a board seat. Forbes valued the club at eight and a half billion in March, the most valuable in baseball, and league rules cap any single private equity firm at fifteen percent of a franchise. There have been fifty-two private equity deals in professional sports this year, against seventy-one in all of last year.
+
+CoreWeave more than doubled its sales in the second quarter, to two point five eight billion dollars. Losses widened by less than expected, and the number that actually moved the stock was the order backlog. A hundred and four billion dollars at quarter end. Shares rose fourteen percent.
+
+And Ari Emanuel's MARI Group agreed to buy ATG Entertainment for four and a half billion pounds, about five billion dollars. ATG runs more than seventy venues across North America and Europe, including the Lyceum and the Savoy in London's West End. Providence Equity bought it in twenty thirteen for three hundred fifty million pounds.
 
 Now real estate.
 
-A new conduit deal came to market Monday. BMO twenty twenty-six C fifteen, about six hundred fifty million dollars of offered commercial mortgage-backed securities.
+The largest trade of the day is a resort. Ryman Hospitality Properties is paying one point three eight billion dollars for the Grande Lakes Orlando resort, buying from Trinity Investments. Roughly eight hundred sixty-seven thousand dollars a room.
 
-Two office trades. In Charlotte, a venture of Corebridge Real Estate Investors and Crestlight Capital paid ninety-one and three-quarter million dollars for the Station at LoSo in Lower South End, just under two hundred thousand square feet, about four hundred ninety-five dollars a foot. And in Orange, California, two Los Angeles investors paid sixty-three million for Orange Center Tower, three hundred twenty-three thousand square feet, about one hundred ninety-five a foot, with a forty and a half million dollar mortgage behind it.
+On the lending side, two hundred seventy-eight million dollars went out against Ten Twenty Spring, a twenty-five story, five hundred twenty-five thousand square foot office tower in Midtown Atlanta. Eldridge Capital Management is the lender. The borrower is a venture of Portman Holdings and Blackstone's Perform Properties.
 
-And the pied-à-terre tax. A New York State judge sided with homeowners fighting the tax on some high-end second homes and temporarily blocked the rollout. The Mamdani administration appealed, which lets the rollout continue while the appeal runs, so notices are going out now to New Yorkers who hold their homes in trusts.
+In Charlotte, a venture of Corebridge Real Estate Investors and Crestlight Capital paid ninety-one and three-quarter million dollars for the Station at LoSo in the Lower South End. Just under two hundred thousand square feet, about four hundred ninety-six dollars a foot. Beacon Partners sold.
+
+And a pair of numbers on the office recovery. Office real estate investment trusts posted solid second-quarter leasing, most able to lift average rents. Separately, artificial intelligence companies now occupy about ten percent of all office space in San Francisco. On Monday I mentioned San Francisco had passed New York as the most expensive rental market in the country. Those two facts are the same fact, seen from either end of the lease.
 
 Over to technology.
 
-Waymo has more than quintupled its fleet, to nearly four thousand driverless cars from about seven hundred early last year, across fifteen metro areas, carrying roughly half a million paid trips a week. It has also issued three federal recalls since December for software problems, including one where cars drove into flooded roadways, against three recalls in the previous twenty-two months.
+Google unveils its new Pixel phones today, and the interesting part is the price. They will probably cost about a hundred dollars more than last year's. The reason is memory. The cost of the memory chips inside a phone roughly doubled between late twenty twenty-five and early this year, as artificial intelligence infrastructure ate the supply. Samsung raised Galaxy prices by a similar amount. And even Apple, a longtime rival, has signed up to use Google's models on its devices.
 
-Anthropic said it will watermark text and code generated anywhere in the world, first in new models and eventually in existing ones, to comply with the European Union's artificial intelligence act.
+Brad Lightcap, one of OpenAI's longest-serving executives, is leaving to start something new, the latest in a run of departures there. Set against that, the company's revenue from business customers grew thirty-two percent month over month in July.
 
-And a ruling on Apple. That's the second deep dive.
+And Meta goes on trial in California today, sued by four states over claims it designed its products to be addictive to young people.
+
+A quick one from Britain before we cross the Channel.
+
+Nigel Farage has forced a fresh election in his own parliamentary seat, after coming under pressure over his finances. His principal challenger is a man who campaigns dressed as a wheelie bin, under the name Count Binface. That is the actual race.
 
 Over to France and Europe.
 
-There is a total solar eclipse today, the first mainland Europe has seen in nearly thirty years. The path runs from northern Russia through Greenland and Iceland, across the Atlantic, over Spain and a small corner of Portugal, and ends in the Mediterranean. The band of totality is less than three hundred twenty kilometers wide and buys you about two minutes of darkness.
+France is in a serious heat wave. Seventy-eight departments are under orange heat alert today, up from forty-three yesterday, with temperatures reaching thirty-nine degrees Celsius in places, which is a bit over a hundred Fahrenheit. Météo-France expects several more days of it.
 
-France gets a partial. Ninety-two percent coverage in Paris, peaking just after eight in the evening, and ninety-nine percent down in the Basque Country. Pharmacies and opticians have sold out of the glasses, and in London prices surged as stocks ran dry.
+Spain is handling the eclipse and the heat at the same time. Four hundred fifty thousand extra visitors are expected, and the authorities have two worries: wildfires, after July's enormous fires, and gridlock.
 
-The reason any of this happens is a coincidence that never stops being strange. The moon is about four hundred times smaller than the sun and about four hundred times closer to us. So they look the same size, and once in a while they line up.
+One more from Europe, and it matters more than it sounds. China's central bank has given Deutsche Bank permission to clear transactions in yuan, the first European bank allowed to do it. Beijing has spent years pushing its currency as an alternative to the dollar, and its own cross-border payment system as a substitute for the incumbents. A large European lender clearing yuan directly is a brick in that wall.
 
 And the Middle East.
 
-Following up on Saturday's list of Iranian demands. President Trump dismissed the demand for compensation outright and posted that Iran should be the one paying, for what he called damages and death across the region, in Lebanon and in Gaza. Iran's position is unchanged: the Strait of Hormuz does not open until America ends the blockade of Iranian ports. Iran and Oman have discussed a thirty-day trial arrangement with separate routes for Iranian and Omani vessels, and American objections have stalled it.
+The shipping war widened yesterday. American forces fired on a Panama-flagged cargo ship trying to reach an Iranian port in defiance of the blockade. Iran-backed Houthi forces hit a cargo ship in the Red Sea, killing at least six people according to Yemen's government, and struck another at the Bab el-Mandeb strait.
 
-The Journal reports Washington has settled on economic pressure as the strategy, and, separately, that Gulf energy producers are starting to conclude Iranian control of the strait will be permanent. That is a shift in what the neighbors expect, not in what anyone has signed.
+Which brings me back to oil, and to Monday. Brent was around eighty-four dollars then, and the puzzle was why a closed Strait of Hormuz had not produced the hundred-and-fifty-dollar crude everyone forecast for exactly this scenario. Brent is now near eighty-nine, after touching ninety. A five dollar move in two sessions, and it came with the attacks on shipping rather than with anything said at a negotiating table.
 
-At least six people were killed when a cargo ship in the Red Sea was hit by Houthi missiles, according to Yemen's government.
+On the talks themselves, the new head of Iran's Supreme National Security Council said the strait does not reopen until America changes its behavior and accepts Iran's conditions for ending the war. Same list, new voice. A week ago the Treasury Secretary said a deal to reopen the strait might be twenty-four to forty-eight hours away. It has now been a week.
 
-And a court in Syria sentenced Bashar al-Assad to death in absentia, convicting him of murder, torture and crimes against humanity. His cousin Atef Najib, a senior general under the regime, was sentenced to death as well. Assad has been in Russia since the regime fell in twenty twenty-four.
+And in Syria, a court sentenced Atef Najib, a general under the Assad government, to death for crimes against humanity. Victims of the old government welcomed the verdict. Several human rights organizations called the trial itself unfair.
 
-Now city planning.
+Now the city.
 
-Mayor Mamdani and Janno Lieber of the transit authority went down into a notoriously hot station in Lower Manhattan yesterday to announce a study of something that sounds like wishful thinking. Drill more than five hundred feet below a disused platform, pull the excess heat out of the station in summer, pipe it into nearby municipal buildings including City Hall in winter. Mamdani called the station a chamber of horrors. Lieber said he doesn't know how much cooler it would get, but that even a few degrees is the difference between total misery and merely sweltering. If it works, there are four hundred seventy-two stations to try it on.
+New York gives its public school students free transit through OMNY, and the students have feedback. The paper cards disintegrate in the rain and stop working without warning. In the first three months of last school year, Stuyvesant alone processed five hundred twenty-eight replacement requests, two hundred eighty-four of them for cards that had simply failed. The transit authority and the education department are piloting a digital version at seven schools. The students' own proposal is more direct. Make the cards out of plastic.
 
-And on Roosevelt Island, two residents fighting the demolition of a derelict city-owned steam plant have filed an Article seventy-eight petition, the proceeding New Yorkers use to challenge agency decisions. Neither is a lawyer. The lawyers they called wanted retainers of up to thirty thousand dollars, so they wrote it themselves with help from artificial intelligence, checking every citation by hand to avoid inventing precedent. The demolition is already halted by two stop-work orders, one of them after inspectors found asbestos.
+One more, and it's a story where the framing carries more weight than the facts.
 
-One story worth more time this morning. Nvidia has built a financing machine, and it is worth understanding what it actually is.
+Tuesday's primaries. In Wisconsin, Francesca Hong, a progressive, narrowly lost the Democratic nomination for governor to David Crowley, a moderate. Hong had led in the polls. In Minnesota, Peggy Flanagan, also a progressive, won the Democratic Senate nomination. And in the Republican primary for Minnesota governor, House Speaker Lisa Demuth beat Mike Lindell, the pillow manufacturer endorsed by President Trump.
 
-On Monday, Nvidia announced it had brought together six of the largest firms in private capital, Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR, to source five hundred billion dollars of financing for artificial intelligence infrastructure. Jensen Huang said he approached only those six, and none of them said no. Larry Fink of BlackRock said, and this is a direct quote, we need to raise this money as fast as possible. He also said he foresaw a next future for financial engineering.
+Those are the results everyone reports. The reading splits cleanly. The Economist and the Wall Street Journal both describe Wisconsin as the end of the populist left's winning streak. The Times calls the contest between the party's progressive and moderate wings largely unsettled. Same night, two conclusions, and the Minnesota result is why each side can argue its case.
 
-Here is the structure, as far as anyone has described it. The money is not equity in Nvidia and it is not equity in the data centers. It is debt. The firms will create dedicated pools of capital, in Nvidia's words at attractive rates, for Nvidia's largest customers, so those customers can buy chips and build the halls to put them in. Executives referred to yield-based products and to securitization.
+One story worth more time this morning. Nvidia and the five hundred billion dollars.
 
-Then the part that tells you what Nvidia really thinks. Huang posted that in some cases Nvidia may provide a residual-value support mechanism for up to twenty-five percent of an opportunity. Translate that. If you lend against a pile of chips, your risk is what the chips are worth in four years if the borrower stops paying. Nvidia is offering to eat a quarter of that. Which lowers the cost of capital for anyone buying its hardware, and it is, functionally, a price cut, paid for with Nvidia's own investment-grade balance sheet.
+Here is what was announced. Six firms, Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR, are partnering with Nvidia to source five hundred billion dollars of financing for artificial intelligence infrastructure. Jensen Huang said in an interview that he approached only those six, and that none of them turned him down.
 
-That solves a problem for both sides. Nvidia has been criticized for months for being the de facto financial backstop of its own customers, arranging circular financing. This moves the risk onto Wall Street investors while keeping the sales. And the six firms have the opposite problem: they have raised enormous amounts of capital, increasingly from insurance books and retail retirement accounts, and they need somewhere to put it. Apollo's Jim Zelter called modern compute a scarce, mission-critical asset class. That is the language of someone describing collateral, not a technology.
+The purpose is to create dedicated pools of capital, at scale and at attractive rates, for Nvidia's customers. Note who is being financed. Not Nvidia. Nvidia's buyers. This is seller financing, at the scale of a mid-sized economy.
 
-For scale, Morgan Stanley expects hyperscalers to spend three and a half trillion dollars on this infrastructure between now and twenty twenty-eight.
+The mechanism worth understanding is the piece Huang mentioned almost in passing. In some cases, Nvidia may provide residual-value support for up to twenty-five percent of a deal. Residual value is what the asset is assumed to be worth at the end of the financing term. It is the number a lender is least sure about, and with chips it is least sure by a wide margin, because nobody knows what a graphics processor from this generation fetches in five years. By standing behind a quarter of that, Nvidia moves the most uncertain part of the credit off the lender and onto its own balance sheet, which is investment grade and very large. Lower uncertainty, lower cost of capital, more data centers built with Nvidia chips in them.
 
-Two things to watch. The plumbing is already being laid: the Securities and Exchange Commission has exempted data-center bonds from key securitization rules. And the binding constraint may not be financial at all. Data centers have become politically toxic in a lot of places over water and power. Money is clearly available. Sites and substations are the scarce thing.
+Which is why the sharpest read on this came from Ben Thompson, who called it a price cut in disguise. Nvidia is not lowering the sticker price. It is lowering the cost of financing the purchase, and paying for that with its own credit. Companies do this when they are protecting a position rather than expanding one, and the position Nvidia is protecting is real. Its biggest customers are all designing their own chips.
 
-Investors were not thrilled. Nvidia closed down almost three percent on the announcement.
+Now the part that gets less attention. Look at where the money is coming from. Those six firms are the largest private capital managers in the world, and they are collectively preparing to route trillions of dollars of insurance, retirement and institutional money into this build-out. Two other things landed the same week: the Securities and Exchange Commission exempted data-center bonds from key securitization rules, and Bank of America earmarked two hundred fifty billion dollars for infrastructure lending including data centers. Three separate decisions, one direction. The plumbing that carries ordinary savings into computing capacity is being widened, quickly, in several places at once.
 
-One more worth understanding, and it is smaller but it has been running for six years. Apple and Epic Games.
+What would have to happen for the headline to mean what it says. The announcement came with very few details on timing or structure, and executives acknowledged that deals already in the works will count toward the commitment. So the first thing to watch is whether five hundred billion is new money or a relabeling of what was happening anyway. The second is the residual-value guarantees, and how large they get. That is Nvidia underwriting the used value of its own product, and it only stays cheap while demand stays where it is.
 
-The history in short. Epic sued in twenty twenty, Apple largely won, but the court ordered it to stop preventing developers from linking out to payment options outside the App Store. Apple complied with the letter of that and started charging twelve to twenty-seven percent on those outside purchases, at which point almost no developer bothered using the option. Epic said that violated the order. Judge Yvonne Gonzalez Rogers agreed, and held Apple in contempt.
+The second story. Paramount is threatening to leave California, and the threat is really about a clock.
 
-Apple has asked the Supreme Court to review the contempt ruling, and the court hears it in October. In the meantime Apple asked the district court to pause the separate proceeding over what those fees should actually be. Yesterday the district court said no. Apple has twenty-four hours to file its proposed fee schedule, and Epic gets sixty days to respond before a hearing.
+David Ellison told his senior leadership last week that he would begin relocating the company out of California if there was no progress toward settling by October. Georgia, Tennessee and Texas have dangled tax credits. California's attorney general, Rob Bonta, called it blackmail. The company's chief legal officer said you go where you're wanted, then added that Ellison intends to stay committed to California, which tells you how firm the threat is.
 
-So the fee fight runs on one track while the Supreme Court considers the contempt finding on another. If the fee proceeding lands first, Apple could be operating under a court-set number in the largest software storefront in the world before the justices have said a word about whether the contempt finding was right. Procedural rather than dramatic, which is usually where these are decided.
+The underlying fight is Paramount's roughly hundred and ten billion dollar purchase of Warner Bros Discovery. California and eleven other states sued to block it, arguing it harms consumers. Last week the states won something valuable: the judge set a trial date for March.
+
+That date is the whole story, because of a clause called a ticking fee. When a deal signs but takes a long time to close, the buyer often agrees to compensate the seller's shareholders for the wait. Paramount's ticking fee starts in October and runs at roughly six hundred fifty million dollars a quarter. It is payable in stock, and backstopped by Larry Ellison personally, so it does not drain Paramount's balance sheet directly. But it dilutes, and a March trial means at least two payments before anyone sees a courtroom.
+
+So the exit threat is an attempt to buy leverage back. What California actually wants is structural remedies, which means keeping parts of the combined business separate permanently. What Paramount has offered is behavioral, things like committing to release thirty films in theaters each year. Those are not close to the same thing, and the gap is why there is no settlement yet.
+
+Watch for whether Paramount puts a structural concession on the table. The theater chains want the deal, several Hollywood unions are pushing both sides to talk, and California's governor has reportedly expressed reservations about the suit. Everyone has a reason to settle. The company just has to offer the one thing it has been refusing to.
 
 And finally, closer to home.
 
-Mostly sunny and hot, high near eighty-seven, wind light and northerly. Low around seventy-one tonight, with a small chance of showers or a thunderstorm after two in the morning. No heat advisory today, which after last week is its own kind of good news.
+Sunny and hot today, high near eighty-nine, wind light out of the northwest. Clouding up tonight, low around seventy-three, with a thirty percent chance of showers or a thunderstorm between two and five in the morning. No advisory, so it's just a hot day.
 
-If you want somewhere new, Bar Étienne has opened at forty-four Bedford Street in the West Village, in the old Daddy-O's space, from the people behind Bar Valentina on the Lower East Side. Late hours, about ten minutes on foot.
-
-And for music tonight, The Wallflowers are at Irving Plaza at seven thirty. Not the usual thing, but it's close.
+If you want somewhere new, Taftoon has opened at three eighty-eight Third Avenue in Kips Bay. Persian street food built around the flatbread it's named for, served with meat, chicken and potatoes. Dinner only, and it runs late on weekends.
 
 That's the morning. Have a good one.
