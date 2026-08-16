@@ -1,0 +1,103 @@
+Good morning. Saturday, August fifteenth. Here's what happened.
+
+Starting with markets, and with a number I flagged yesterday.
+
+July retail sales landed, and they were weak. Sales fell six tenths of a percent on the month. That is the first decline in nine months, and the steepest since May of twenty twenty-five.
+
+There is an innocent explanation available. Amazon moved its big summer sale from July to June this year, and Walmart and Target ran their own June events. Online sales jumped seven point seven percent in June and gave back two point two in July. Some of that is a calendar artifact.
+
+The University of Michigan's preliminary sentiment reading came out the same morning, at fifty-one, down about eight percent on the month. Inside it, expectations for inflation a year out rose to four point three percent. That combination is the second deep dive, so I'll hold it.
+
+Markets took it calmly. The S and P five hundred closed just under seventy-eight hundred, down about two tenths of a percent. The Nasdaq lost three tenths, to roughly twenty-six thousand seven hundred. The Dow finished a shade under fifty-three thousand seven hundred fifty. Both the S and P and the Nasdaq still ended the week higher. The Dow did not. The ten-year Treasury rose five basis points to about four point seven percent, and Brent crude gained one and a half percent to a little over eighty-eight dollars.
+
+And following up on Berkshire Hathaway, which disclosed its second-quarter trades yesterday. It added to Alphabet, bought into American homebuilders, added to Delta, and sold out of Constellation Brands entirely. A company with an enormous cash pile starting to spend it, and the direction it chose was search and houses.
+
+Before the deals, something from the recovered-property file.
+
+Italian police have recovered three paintings taken in a night raid on a private museum outside Parma. Five people are in custody. The haul was a Cézanne still life with cherries worth about seven million dollars, a Renoir worth three and a half million, and a Matisse etching worth twenty-three thousand. I keep thinking about whoever carried the etching.
+
+Moving to deals and credit.
+
+The largest one is PayPal, and that's the first deep dive, so I'll come back to it.
+
+A group of investors including Jeff Bezos is buying a minority stake in Liverpool Football Club from Fenway Sports Group. Reports put the stake at roughly a third, at a valuation around seven and a half billion dollars, which is among the highest ever attached to a football club. The group is led by Amit Bhatia and includes the Facebook co-founder Eduardo Saverin. It is Bezos's first sports team.
+
+Now real estate, where the interesting supply is coming from an unusual place.
+
+More than fifty American colleges have closed or merged since twenty twenty, and Bloomberg reports the campuses are now hitting the market. Thousands of acres of classrooms, dormitories and athletic facilities, most needing redevelopment, most in towns that were built around the school. Developers are proposing luxury resorts and senior housing. The communities want a say. That negotiation happens dozens more times over the next few years.
+
+On the industry-chatter side, the Walker Webcast this week had Aditya Sanghvi, who leads McKinsey's global real estate practice. His argument, as described, is that the constraint on artificial intelligence in property is not the technology but the data, and that most firms cannot extract value because their own records are not good enough to feed it.
+
+Over to technology, and the strangest result of the week.
+
+An unreleased Anthropic model improved a bound tied to the Riemann hypothesis, the most famous open problem in mathematics. Not a solution. The company says plainly it does not expect this approach to produce one. What it did was raise the proven share of the relevant zeros sitting where the hypothesis predicts, from forty-one point six percent to sixty-seven point two.
+
+For scale, human number theorists moved that constant about one and seven tenths of a percentage point in the thirty-one years between nineteen eighty-nine and twenty twenty. This added twenty-five and a half points in roughly a day and a half, across about sixty subagents and thirty-one million output tokens. Two outside experts reviewed the paper. The Journal reports it started when an employee out for a jog told the model to have a go.
+
+At Apple, the Commerce Secretary, Howard Lutnick, said the administration does not want the company buying memory chips from China, and acknowledged it may do so anyway, given how tight the supply of memory has become. Separately, Apple has cleared Chinese regulators to launch its intelligence features there, using a mix of its own model and Alibaba's.
+
+And in Shanghai, the tech-heavy Star fifty index now trades at more than a hundred fifty times earnings, roughly four times the multiple on the American tech benchmark. New listings this year debuted at an average of two hundred sixty-eight times. When the robotics company Unitree priced its offering, demand ran to eight thousand times the shares available.
+
+Something from the deep field before we cross the Atlantic.
+
+Astronomers have spent two years arguing about a set of little red dots the Webb telescope found in twenty twenty-four, formed when the universe was about six hundred sixty million years old. A paper in Nature this week studied one and concluded it is a black hole wrapped in a shroud of dense, turbulent gas, feeding fast. The proposed name for the category is black hole stars, and it would explain how the first black holes got so big so quickly.
+
+Over to France and Europe.
+
+The Constitutional Council struck down the bill banning social media for under-fifteens, ruling that a ban would infringe on children's freedom of speech and communication. It is a straightforward defeat for the government, which had made the measure a signature. Australia brought in a similar ban in December, and Meta said this week it removed seven hundred fifty thousand accounts of Australians it believed to be underage. The same court validated the end-of-life law, with a conscience clause for Catholic institutions.
+
+The heat is easing. Sixty-four departments are on orange alert this morning, nineteen fewer than yesterday, though the forecaster warns of storms in the southwest. And the Times has put a number on the June wave: sixteen thousand excess deaths across northwest Europe in a single week, in countries that were not prepared for it.
+
+Two smaller ones. In the Shanghai university rankings published this morning, France holds at twenty-seven institutions, four in the top hundred, while Chinese universities climb. And an EasyJet cabin crew strike has cancelled about a hundred flights out of France this weekend.
+
+Now Iran and the Middle East.
+
+The Times has worked out why that aircraft carrier deployment ran so long. Early in the war Iran damaged the American base in Bahrain, and logistics shifted to Diego Garcia, an island twenty-two hundred miles from the Gulf of Oman. The supply line got far longer, and the ships stayed out.
+
+On the standoff itself, the President said it is worth Americans paying, in his words, a tiny little bit more for your gasoline to keep a very evil country from getting nuclear weapons. Average petrol is four dollars eight cents a gallon, up nearly thirty percent on a year ago. Iran's deputy foreign minister said America should accept defeat, and that the Strait of Hormuz will be opened and closed only under Iran's command. The Journal's reading is that Tehran's strategy is now explicitly to hold the strait shut until the oil price forces Washington to ease. Canada added sanctions on five Iranian officials over navigation rights in the strait.
+
+Now the city.
+
+New York is going to unbury a stream. The Department of Environmental Protection awarded a hundred forty-nine and a half million dollar construction contract in June to daylight Tibbetts Brook in the Bronx, under concrete since nineteen twelve. Crews break ground this fall. The point is drainage: the borough's largest lake has had no path to the Harlem River for a century, and the sewers cannot absorb what the storms now deliver.
+
+And following up on Luigi Mangione, who did plead guilty in federal court yesterday to stalking charges, and told the judge, in his words, I shot Mr. Thompson in Manhattan, and he died. Sentencing is in December and he faces life. His lawyers immediately signalled they will argue the plea bars the state murder trial scheduled for next month.
+
+One story worth more time this morning. PayPal is in talks to sell itself, and the buyer is the company that spent a decade taking its business.
+
+The Journal reports PayPal is negotiating with a group made up of Stripe and the private equity firm Advent International. The opening bid was sixty dollars and fifty cents a share, valuing the company at more than fifty-three billion dollars, a twenty-eight percent premium to where the stock was trading. PayPal rejected it as too low. Talks continued, and people close to it say a deal could come together within weeks.
+
+Two things make this unusual. The first is the shape of the buyer. Stripe and Advent would take equal stakes, which means a strategic acquirer and a financial sponsor splitting control of the same asset. That is rare, because they want different things. A sponsor wants a defined exit in five to seven years. A strategic buyer wants the business permanently, folded into its own. Structuring a deal that satisfies both, on governance and on the eventual exit, is genuinely hard.
+
+The second is the financing, and this is the part worth understanding. About fifty billion dollars of the purchase is committed bank debt. Committed financing means the banks sign a binding agreement to fund the whole amount at signing, before they have found anyone to buy the loans from them. They then syndicate it out to other lenders and to the debt markets over the following months. If the market turns while they are holding it, the banks eat the difference. That is why commitment letters carry flex provisions letting them move pricing and terms, and it is why fifty billion dollars of it is a real statement about credit conditions. Banks do not underwrite that kind of paper when they are worried about placing it.
+
+Then there is whether it is allowed. Stripe and PayPal are two of the largest online payment processors in the world, and a combination goes straight into antitrust review here and almost certainly in Europe. The buyers will argue that payments now includes Apple, Adyen, Block and the card networks, so the relevant market is far wider than it looks. That argument has worked before and it has failed before.
+
+So what would make this concrete: a signed price, and the composition of the equity. If Advent is writing most of the check and Stripe is taking a smaller strategic position, this is a leveraged buyout with a partner. If they really are equal, it is a merger of the two biggest names in online payments, and the review will take years.
+
+The second story. The American consumer has stopped cooperating, and the surveys and the spending are no longer telling the same story.
+
+Start with the numbers together. Retail sales down six tenths in July. Sentiment at fifty-one, down eight percent in a month. Twenty-three thousand jobs lost in July, which nobody forecast. Labor force participation at its lowest in fifty years outside the pandemic. Annual inflation at three point four percent, above target. And expectations for inflation a year out at four point three percent.
+
+That last one is the one to watch, and here is why. Central banks care about expected inflation more than realized inflation, because expectations are self-fulfilling. If people believe prices will rise four percent, they ask for pay rises to match and accept price increases without switching, and the belief produces the outcome. Economists call it anchoring. Anchored expectations mean a central bank can look through a bad print. Unanchored expectations mean it cannot.
+
+Four point three percent is not a crisis reading. It is high enough to be uncomfortable when actual inflation is three point four and the target is two.
+
+Which puts the Federal Reserve in the same bind I described on Wednesday, tighter. Inflation above target argues for raising rates. A labor market shedding jobs and a consumer pulling back argue for cutting them. Rising expectations argue against waiting to find out. Morning Brew's read is that Kevin Warsh and the rest of the committee hold steady in September, and holding is what you do when the two halves of your mandate point opposite ways.
+
+There is one more piece, from the other end of the market. The Treasury sold thirty-year bonds this week at five point two two percent, up from five point zero six last month and the highest since August of two thousand one. Long rates are what mortgages and corporate borrowing are priced off. So the consumer is slowing while the cost of the credit that consumer runs on is at a twenty-five-year high. Those two facts do not resolve each other.
+
+What to watch is narrow. August retail sales, and whether the Michigan expectations number goes above four and a half. Below that, this is a soft patch. Above it, the argument inside the Federal Reserve changes shape.
+
+A few things I didn't get to.
+
+American violent crime posted the largest year-on-year fall since federal records began in nineteen thirty-six, murder down eighteen percent, with the President and his critics disagreeing over the credit. That one nearly made it. A Chinese line starts the first regular Arctic cargo route this weekend, Ningbo to Felixstowe in twenty days. A magnitude seven point seven earthquake in Indonesia killed at least twenty. Six dead in a series of shootings in Michigan. Stock trading by members of Congress is becoming a campaign attack line in both parties. The Taliban marked five years back in power. An Indian state advertised five hundred eighty-three government jobs and got more than five hundred thousand applicants. And the Federal Aviation Administration has hired more than two thousand gamers to help with the air traffic controller shortage, citing their multitasking.
+
+And finally, closer to home.
+
+A genuinely good day. Sunny, high near eighty-four, low humidity, light wind out of the northeast. Low around seventy tonight, partly cloudy. Nothing to carry, nothing to plan around.
+
+Baseball is your fixture again: Yankees at the Blue Jays, Rogers Centre, three oh seven Eastern, game two of the series.
+
+And for music, Bill Frisell's trio is at the Village Vanguard tonight, eight and ten. If you'd rather wait a day, Joe Farnsworth's trio is at Smoke on Sunday with Brad Mehldau, six thirty and eight thirty, which is a better booking than that room usually gets in August. Thursday you're wheels-up for Maui.
+
+That's the morning. Have a good one.

@@ -1,0 +1,111 @@
+Good morning. Thursday, August thirteenth. Here's what happened.
+
+Starting with markets.
+
+The number I flagged yesterday landed, and it was mild. July consumer prices rose one tenth of a percent on the month, which puts the annual rate at three point four percent, down from three point five in June. Core inflation came in at two and a half percent, the lowest reading since twenty twenty-one. Both were in line with what economists expected, which in this case was the whole point.
+
+Stocks liked it. The S and P five hundred closed just under seventy-seven fifty, up a quarter of a percent. The Nasdaq added half a percent to about twenty-six thousand six hundred. The Dow was essentially flat, a shade under fifty-three thousand eight hundred. The ten-year Treasury settled around four point six eight percent.
+
+Two details underneath the headline. Grocery prices fell for the first time since March, and analysts mostly credit the lettuce. The cyclospora outbreak I mentioned Monday has pushed lettuce prices down far enough to move a national statistic. Ground beef fell one point six percent, the steepest drop since twenty twenty. Going the other way, rents rose three tenths.
+
+The Federal Reserve has spent this summer under pressure to raise rates because of war-driven energy prices. Yesterday's report takes some of that off without settling anything, because what produced the calm reading was oil falling in July on peace talks, and oil has since gone back up. Wholesale prices land this morning.
+
+One more macro number. The federal budget deficit hit four hundred thirty-two point three billion dollars in July, the widest for any month since March of twenty twenty-one, mostly on Medicare costs.
+
+Before the deals, a statistic I have not been able to stop thinking about.
+
+The Economist's figure of the day is twenty-seven percent. That is the rise in omelette sales at restaurants near Taylor Swift concert venues in Miami in twenty twenty-four. It comes from a piece on data analysis in the restaurant business, and it means somewhere there is a chef who knows to order more eggs when a stadium tour comes to town.
+
+Moving to deals and credit.
+
+The largest one is basketball, and it is the second deep dive, so I will hold it.
+
+Hugo Boss shareholders decide today whether to take Mike Ashley's money. In June his Frasers Group bid two billion euros in cash for the seventy-four percent of Germany's largest luxury fashion house he did not already own, thirty-eight euros a share. The board called it too low. The problem is the trajectory: second-quarter sales fell nine percent, to nine hundred five million euros, and operating profit dropped fourteen. Frasers now owns thirty-seven and a half percent.
+
+Maersk had the earnings surprise of the day. Revenue rose twenty percent year over year to fifteen point eight billion dollars, and it raised guidance for the second time this year, to four and a half to six and a half billion of operating profit. Maersk itself spent January warning that a shipbuilding spree would crush freight rates through overcapacity. Instead the threat of tariffs sent American importers scrambling to stock up, and the disruption paid better than the calm would have.
+
+And a strange line item is showing up in corporate earnings. Tariff refunds have started arriving, and they arrived fast, which is not what anyone predicted. More than forty companies in the S and P five hundred have reported roughly nine point six billion dollars of refunds over the past quarter, at least two point one billion of it already in hand as cash. Apple leads at nearly two point two billion. Nike is at nine hundred eighty-six million, FedEx at about eight hundred million.
+
+Now real estate.
+
+The issuance numbers are the first deep dive, so here are the transactions.
+
+Sovereign Partners refinanced its five hundred ten thousand square foot office tower at seven eighty Third Avenue, four blocks north of Grand Central. Two hundred thirty-five million dollars, with Rialto Capital Management writing the note.
+
+Simon Property Group raised full-year guidance on strong second-quarter leasing, the second real estate investment trust in a week to call leasing better than expected.
+
+And Bristol Myers Squibb is putting two point three billion dollars into a six hundred thousand square foot manufacturing campus at Generation Park in Houston, and about five hundred permanent jobs with it.
+
+And a small New York ruling with a long tail. A Staten Island judge sided with homeowners who sued the city over its new tax on high-end second homes, on how it was rolled out rather than the legality of the tax itself. It applies to co-ops and condominiums used as second homes and assessed at a million dollars or more.
+
+Over to technology.
+
+Before handing off as chief executive of Google DeepMind, Demis Hassabis pitched an independent safety body to government officials and to rival laboratories, an outside entity to set guardrails for artificial general intelligence. The Journal reports the pitch came before the shake-up, not after it. Separately, Chinese censorship is showing up in the answers American artificial intelligence models give. The training data carries it in.
+
+At Apple, Jennifer Bailey is retiring after twelve years running internet services and Apple Pay, which she built. Apple is also reportedly working on a way to authenticate that a photograph actually came from an iPhone camera, which in the current environment is less a feature than a public utility.
+
+In Seoul, the KOSPI index rose four percent yesterday on Samsung Electronics and SK Hynix, and is up more than twenty percent from its low on July thirtieth. The memory shortage making everyone's phones more expensive is making those two companies a great deal of money.
+
+Something old before we cross to Europe.
+
+At Sardis in western Turkey, archaeologists have pulled a colossal marble statue out of the ground. About seven feet tall, dated to between four seventy and four fifty B C, a young man holding a quince. The clothing has no parallel in Anatolia or mainland Greece, which points to a local Lydian tradition nobody had documented. It survived in exceptional condition for a slightly insulting reason. The Romans buried it face down and paved a street with it.
+
+Over to France and Europe.
+
+The heat wave has become a water problem. Le Monde reports serious strain on drinking water supplies as surface and underground reserves fall, with about forty thousand people already having had cuts. The ecological transition minister, Monique Barbut, has asked prefects to manage restrictions more rigorously. The phrase from inside the water services is that they are in unknown territory.
+
+On the fiscal side, a report commissioned by the government from the finance and social affairs inspectorates proposes four point two billion euros of savings on family benefits and family-related tax breaks. The stated goal is coherence. The context is a government that has spent two years hunting for exactly this kind of number.
+
+And Paris Saint-Germain beat Aston Villa to hold on to the European Super Cup.
+
+Now the Middle East, where the war has produced a second front that is mostly about maps.
+
+Gulf states are building and expanding pipelines designed to bypass the Strait of Hormuz entirely. That is the long-run answer to a closed waterway, and it is now being funded. Meanwhile the Houthis attacked the Red Sea port of Mocha twice in under twenty-four hours. The pattern that started at Hormuz has migrated south.
+
+In the occupied West Bank, two Palestinian families have been trapped inside their homes in the village of Qusra for several days by a group of Israeli settlers, who pitched a tent in the front yard of one house. The Times frames it as a test of the army's willingness to curb settler violence.
+
+Now the city.
+
+Mayor Mamdani announces a lottery today giving New York City high school students twenty-one hundred free Broadway tickets. Seven shows are contributing them, including Buena Vista Social Club, and the city is putting up no money. Signing up also gets students a two-month membership good for cheap seats and free museum admission. Registration closes Monday. For scale, the average Broadway ticket runs a hundred thirty-one dollars.
+
+One story worth more time this morning. The commercial mortgage-backed securities market is having its best year in a long while, and almost none of it is the kind of lending most people picture.
+
+Private-label issuance in the United States reached seventy-six point two billion dollars through July, by Trepp's count. Strong by any recent standard. But the composition is the story.
+
+Nearly all the growth is in what the market calls single-asset, single-borrower deals, and the two structures behave nothing alike. A conduit deal pools dozens of unrelated mortgages on unrelated buildings from unrelated borrowers, and the diversification is the product: if four loans go bad, the other sixty carry the bonds. A single-asset, single-borrower deal is one building, financed on its own and cut into bonds by seniority. No diversification at all. What you own is that asset with that sponsor, and your protection comes entirely from where your slice sits in the stack.
+
+Office has been the biggest driver of that growth, which sounds surprising until you look at which offices. Trophy assets, named sponsors, signed rent rolls, financed one at a time on their own merits. Lenders will underwrite a specific tower they can go and stand in. What they will not do is buy a blind pool with unknown office loans scattered through it. The recovery in office lending is real, and narrow by construction.
+
+The other new category is data centers. Trepp now counts them as a distinct single-borrower type, absent from conduit entirely, at about seven and a half percent of issuance. Hold that one lightly. The share rests on five loans. It is concentrated, not representative.
+
+Now set it against the maturity wall. Roughly sixty-five billion dollars of commercial mortgage-backed securities debt comes due before year end, and more than a trillion and a half of commercial real estate loans mature by then across all lender types. A maturity wall is just the fact that these loans were written with balloon payments, on the assumption that at the end of the term the borrower would refinance rather than repay. That assumption was made when rates were lower and values were higher. Every loan hitting its date now faces three doors: refinance at today's cost, write a check of fresh equity to close the gap, or hand back the keys.
+
+So the honest read on seventy-six billion dollars is that the capital markets are open, and open selectively. Watch whether conduit volume picks up in the fourth quarter. That is the tell for whether this widens out or stays a market for trophies only.
+
+The second story. The Los Angeles Lakers just sold for twelve and a half billion dollars, and the interesting part is who is selling.
+
+A group led by Bob Iger, the former head of Disney, and Josh Kushner, the venture investor behind Thrive Capital, is buying control, according to ESPN. If the league approves it, it is the highest valuation ever paid for a sports team anywhere.
+
+Now the timing. The record it breaks is about a year old, and this same franchise set it. Last summer Mark Walter bought control from the Buss family for roughly ten billion dollars. So the asset is up about twenty-five percent in twelve months, in a business with no earnings growth to speak of, and the team lost LeBron James in the interim.
+
+That is not a story about basketball improving. It is a story about a seller. Walter chairs Guggenheim Partners and owns the Dodgers, and he is under federal investigation over alleged tax fraud involving billions of dollars of loans to his own companies. Bloomberg reports the sale will help him raise cash to pay those loans down. When the marginal seller is a forced seller and the price still rises a quarter, that tells you something about the depth of the bid.
+
+And the bid has changed shape. On Tuesday I mentioned Apollo putting two point six billion dollars into the Yankees' parent company, and fifty-two private equity deals in professional sports this year against seventy-one in all of last year. Iger and Kushner are the next expression of it. Iger advises Thrive, whose experiences arm bought into the San Francisco Giants earlier this year and was close to buying a piece of the World Cup until the backlash over FIFA's private investment plan killed it. The two were working on a Las Vegas expansion team before pivoting to buy an existing one.
+
+The mechanism worth understanding is why these prices keep clearing. There are thirty teams and the league controls how many exist. Media rights are contracted years forward and negotiated collectively, so revenue is unusually visible. And the league now permits institutional capital in minority positions, which created a bid for stakes that never had one.
+
+What would make this matter beyond the sports pages is the approval vote, and then the first real test: a franchise that has to sell at a bad moment. Every price here has been set in a rising market by a buyer who wanted in. Nobody has had to find out what one of these is worth when nobody does.
+
+A few things I didn't get to.
+
+Nelson Peltz is trying to take Wendy's private, and the shares jumped fifteen percent on it. Nigel Farage's self-inflicted by-election in Clacton is today, a record thirty-four candidates, his main challenger a comedian in a dustbin. Zhu Rongji, the Chinese premier who steered the country toward markets, died at ninety-seven. Karoline Leavitt is leaving as White House press secretary. The Journal has a year-long investigation into North Koreans using stolen identities to land remote jobs at American companies. Forbes fired its top editor over a six million dollar payment. Five years of Taliban rule, and the Times finds the mood in Kabul embattled rather than triumphant. Zambia votes today. And Greg Ip argues the market thinks the economy is accelerating and that jobs will not follow, which nearly made it.
+
+And finally, closer to home.
+
+Cloudy this morning with early thunderstorms, then the sun works its way through. High around eighty-seven, low near seventy-one. Take something for the rain and expect not to need it by lunch. Alternate-side parking runs through Saturday, when it's suspended for the Feast of the Assumption. And a week from today you're in Maui, the twentieth through the twenty-fifth, so this is the stretch where the packing gets real.
+
+If you want somewhere new, Zig Zag Oyster Bar has opened at four oh six Prospect Place, on the line between Prospect Heights and Crown Heights, from the group behind Hart's, Cervo's, The Fly, Eel Bar and Minnow. About as reliable a lineage as Brooklyn offers.
+
+For music, the Charles Mingus Orchestra is at Birdland Friday and Saturday, seven and nine thirty. Monty Alexander plays the late sets there Saturday. And the Dizzy Gillespie All-Star Big Band is at the Blue Note all weekend.
+
+That's the morning. Have a good one.
