@@ -40,9 +40,17 @@ PODCAST_TITLE = "Daily Digest"
 PODCAST_DESC = "A personal daily news briefing."
 PODCAST_AUTHOR = "Automated"
 
-LANGUAGE_CODE = "en-US"
-VOICE = "en-US-Chirp3-HD-Charon"
-SPEAKING_RATE = 1.0
+# Voices per language. The script marks French passages with [[FR]] ... [[/FR]];
+# everything else is read in English. Run --list-voices fr-FR to confirm what
+# your project actually offers before changing these.
+VOICES = {
+    "en": {"code": "en-US", "name": "en-US-Chirp3-HD-Charon", "rate": 1.0},
+    "fr": {"code": "fr-FR", "name": "fr-FR-Chirp3-HD-Charon", "rate": 0.95},
+}
+# If Chirp 3 HD has no French voice on your project, swap in:
+#   "fr-FR-Neural2-D" (male) or "fr-FR-Neural2-A" (female) — both free-tier.
+
+LANGUAGE_CODE = "en-US"   # default for --list-voices
 
 EPISODE_PREFIX = "episodes/"
 MAX_CHUNK = 4500        # Google's limit is 5000 bytes per request
@@ -229,9 +237,11 @@ def tts_call(path, payload=None, query=None):
         raise SystemExit(f"Could not reach Google TTS: {e.reason}")
 
 
-def list_voices():
-    data = tts_call("voices", query={"languageCode": LANGUAGE_CODE})
+def list_voices(lang_code=None):
+    lang_code = lang_code or LANGUAGE_CODE
+    data = tts_call("voices", query={"languageCode": lang_code})
     names = sorted(v["name"] for v in data.get("voices", []))
+    print(f"Voices for {lang_code}:")
     for tier in ("Chirp3-HD", "Neural2", "Studio", "Wavenet", "Standard"):
         matches = [n for n in names if tier.lower() in n.lower()]
         if matches:
@@ -239,6 +249,38 @@ def list_voices():
             for n in matches:
                 print(f"  {n}")
     print(f"\n{len(names)} voices total.")
+
+
+FR_RE = re.compile(r"\[\[FR\]\](.*?)\[\[/FR\]\]", re.S)
+
+
+def strip_markers(text):
+    """Remove language markers — for the archived script and feed summary."""
+    return re.sub(r"\[\[/?FR\]\]", "", text)
+
+
+def split_by_language(text):
+    """
+    Return [(lang, text), ...] in reading order.
+
+    Everything is English unless wrapped in [[FR]] ... [[/FR]]. Markers are
+    stripped from the returned text so they never reach the speech engine.
+    """
+    parts, pos = [], 0
+    for m in FR_RE.finditer(text):
+        pre = text[pos:m.start()].strip()
+        if pre:
+            parts.append(("en", pre))
+        fr = m.group(1).strip()
+        if fr:
+            parts.append(("fr", fr))
+        pos = m.end()
+
+    tail = text[pos:].strip()
+    if tail:
+        parts.append(("en", tail))
+
+    return parts or [("en", text.strip())]
 
 
 def chunk_text(text, limit=MAX_CHUNK):
@@ -267,11 +309,13 @@ def chunk_text(text, limit=MAX_CHUNK):
     return [c for c in chunks if c.strip()]
 
 
-def synthesize(text):
+def synthesize(text, lang="en"):
+    """Return raw mp3 bytes for one chunk, in the given language's voice."""
+    v = VOICES[lang]
     payload = {
         "input": {"text": text},
-        "voice": {"languageCode": LANGUAGE_CODE, "name": VOICE},
-        "audioConfig": {"audioEncoding": "MP3", "speakingRate": SPEAKING_RATE},
+        "voice": {"languageCode": v["code"], "name": v["name"]},
+        "audioConfig": {"audioEncoding": "MP3", "speakingRate": v["rate"]},
     }
     data = tts_call("text:synthesize", payload=payload)
     if "audioContent" not in data:
@@ -388,14 +432,21 @@ def publish(script_path):
         raise SystemExit(f"Script is only {len(text)} chars — refusing to "
                          "publish. Something upstream probably failed.")
 
-    chunks = chunk_text(text)
-    print(f"Script: {len(text.split())} words, {len(text)} chars, "
-          f"{len(chunks)} chunks, voice {VOICE}")
+    # Build the render list: every chunk carries the language it's read in.
+    segments = split_by_language(text)
+    jobs = [(lang, c) for lang, seg in segments for c in chunk_text(seg)]
+
+    clean = strip_markers(text)
+    fr_words = sum(len(seg.split()) for lang, seg in segments if lang == "fr")
+    print(f"Script: {len(clean.split())} words "
+          f"({fr_words} French), {len(clean)} chars, {len(jobs)} chunks")
+    for lang in sorted({l for l, _ in jobs}):
+        print(f"  {lang}: {VOICES[lang]['name']}")
 
     audio = b""
-    for i, chunk in enumerate(chunks, 1):
-        print(f"  synthesizing {i}/{len(chunks)}...", flush=True)
-        audio += synthesize(chunk)
+    for i, (lang, chunk) in enumerate(jobs, 1):
+        print(f"  synthesizing {i}/{len(jobs)} [{lang}]...", flush=True)
+        audio += synthesize(chunk, lang)
 
     today = datetime.now(timezone.utc).astimezone()
     stem = f"digest-{today.strftime('%Y-%m-%d')}_en"
@@ -403,10 +454,10 @@ def publish(script_path):
     # Audio and script first; the feed goes last so it never advertises
     # an enclosure that isn't already in the bucket.
     r2_put(f"{EPISODE_PREFIX}{stem}.mp3", audio, "audio/mpeg")
-    r2_put(f"{EPISODE_PREFIX}{stem}.txt", text.encode("utf-8"),
+    r2_put(f"{EPISODE_PREFIX}{stem}.txt", clean.encode("utf-8"),
            "text/plain; charset=utf-8")
 
-    words = text.split()
+    words = clean.split()
     summary = " ".join(words[:40]) + ("..." if len(words) > 40 else "")
 
     prune_old()
@@ -414,7 +465,7 @@ def publish(script_path):
 
     # Keep a local copy so the next run has it even without --sync
     LOCAL_EPISODES.mkdir(exist_ok=True)
-    (LOCAL_EPISODES / f"{stem}.txt").write_text(text, encoding="utf-8")
+    (LOCAL_EPISODES / f"{stem}.txt").write_text(clean, encoding="utf-8")
 
 
 if __name__ == "__main__":
