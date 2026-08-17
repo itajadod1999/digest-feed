@@ -38,7 +38,7 @@ The Journal went through the disclosures of nine large technology companies and 
 
 Which runs straight into the grid. Today is the deadline the federal regulator gave six big grid operators to defend their rules for what is called a large load, a single site asking for more than fifty megawatts, or write new ones. Those rules are improvised, because until recently almost nobody asked. The arithmetic is stark. The American grid can generate about twelve hundred fifty gigawatts. Peak demand is closer to seven hundred fifty. And roughly a thousand gigawatts of large-load requests are reportedly queued for the difference, many speculative.
 
-[[FR]]Passons à la France et à l'Europe.
+Passons à la France et à l'Europe.
 
 Le sujet du jour, c'est le référendum que promet Marine Le Pen. En cas de victoire en 2027, la candidate du Rassemblement national convoquerait les électeurs pour réviser la Constitution, y inscrire la priorité nationale pour les aides sociales, le logement et l'emploi, et modifier l'article quatre-vingt-neuf afin que toute révision passe par le peuple, et non plus par le Parlement réuni en Congrès.
 
@@ -48,7 +48,7 @@ Côté météo, ça s'améliore enfin. L'incendie des Landes est fixé, selon la
 
 Un chiffre qui pique, publié par l'Unef : le coût de la vie étudiante a augmenté de plus de trente-cinq pour cent depuis l'élection d'Emmanuel Macron en deux mille dix-sept.
 
-Et deux bonnes nouvelles sportives. Léon Marchand est champion d'Europe du quatre cents mètres nage libre, son deuxième titre continental en deux jours, sur une distance où personne ne l'attendait. Et le RC Lens a remporté le premier Trophée des champions de son histoire, face au Paris Saint-Germain.[[/FR]]
+Et deux bonnes nouvelles sportives. Léon Marchand est champion d'Europe du quatre cents mètres nage libre, son deuxième titre continental en deux jours, sur une distance où personne ne l'attendait. Et le RC Lens a remporté le premier Trophée des champions de son histoire, face au Paris Saint-Germain.
 
 Now Iran and the Middle East. The expiry of the truce is the first deep dive, so here is what sits beside it.
 
@@ -100,11 +100,11 @@ Now a minute of French.
 
 How would you say you can't be bothered? Not that you don't want to, not that you're tired. That specific shrug.
 
-[[FR]]J'ai la flemme.[[/FR]]
+J'ai la flemme.
 
 The textbook reach is for this one, which only manages to say you don't feel like it.
 
-[[FR]]Je n'ai pas envie.[[/FR]]
+Je n'ai pas envie.
 
 The word doing the work in the first version is a noun, so you have it rather than are it, and it means a settled disinclination to move rather than tiredness. Assembling the phrase out of the English gives you a sentence about not being disturbed, which is something else.
 
