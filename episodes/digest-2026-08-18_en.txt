@@ -50,17 +50,17 @@ How would you say: actually, I had no idea?
 
 Here it is.
 
-[[FR]]En fait, j'en savais rien.[[/FR]]
+En fait, j'en savais rien.
 
 Two things are happening. The word that looks right, actuellement, means currently, not actually, so the calque sends you somewhere else entirely. And the natural spoken version drops the ne, which is most of what separates it from the textbook sentence.
 
 Yesterday's, again. How would you say you can't be bothered?
 
-[[FR]]J'ai la flemme.[[/FR]]
+J'ai la flemme.
 
 Now the continent, in French, and it opens in Paris with a mess.
 
-[[FR]]L'administration fiscale française a été victime d'un piratage informatique de grande ampleur. Lundi, Sébastien Lecornu a présidé une cellule interministérielle de crise pour faire le point. L'opposition parle de la cyberattaque la plus grave de l'histoire du pays, et une commission d'enquête pourrait voir le jour au Sénat. Le gouvernement reste prudent sur l'étendue exacte des données touchées.
+L'administration fiscale française a été victime d'un piratage informatique de grande ampleur. Lundi, Sébastien Lecornu a présidé une cellule interministérielle de crise pour faire le point. L'opposition parle de la cyberattaque la plus grave de l'histoire du pays, et une commission d'enquête pourrait voir le jour au Sénat. Le gouvernement reste prudent sur l'étendue exacte des données touchées.
 
 Deuxième dossier, les incendies. Sébastien Lecornu s'est rendu en Gironde lundi pour annoncer un plan d'urgence exceptionnel, et il y a été accueilli par la colère des sinistrés. Emmanuel Macron, lui, était dans le Var, où il a insisté sur l'aspect technique de la lutte contre les flammes, sans évoquer le changement climatique. Bonne nouvelle sur le terrain : les principaux feux sont fixés, et les vigilances orange canicule ont été levées.
 
@@ -68,7 +68,7 @@ Côté politique, Gérald Darmanin ne sera pas candidat à la présidentielle et
 
 En Allemagne, le moral des investisseurs remonte nettement : l'indice publié ce mardi progresse de près d'un tiers par rapport à juillet. Mais la sécheresse pèse lourd. Les fleuves européens sont à des niveaux historiquement bas, et le coût pour l'économie allemande pourrait atteindre un demi-point de produit intérieur brut.
 
-Et une bonne nouvelle pour finir. Sophie Adenot va devenir la première Française à effectuer une sortie extravéhiculaire, aux côtés de l'Américain Anil Menon, pour remplacer une antenne de la Station spatiale internationale.[[/FR]]
+Et une bonne nouvelle pour finir. Sophie Adenot va devenir la première Française à effectuer une sortie extravéhiculaire, aux côtés de l'Américain Anil Menon, pour remplacer une antenne de la Station spatiale internationale.
 
 Now Iran and the Middle East, where the deadline I described yesterday came and went.
 
