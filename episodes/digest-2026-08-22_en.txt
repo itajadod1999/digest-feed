@@ -68,27 +68,27 @@ Now the French, and on a Saturday it is review rather than a new phrase. Five we
 
 How would you say you can't be bothered?
 
-[[FR]]J'ai la flemme.[[/FR]]
+J'ai la flemme.
 
 Actually, I had no idea?
 
-[[FR]]En fait, j'en savais rien.[[/FR]]
+En fait, j'en savais rien.
 
 I'll let you know?
 
-[[FR]]Je te tiens au courant.[[/FR]]
+Je te tiens au courant.
 
 You're finding something hard going?
 
-[[FR]]J'ai du mal à suivre.[[/FR]]
+J'ai du mal à suivre.
 
 And: that has nothing to do with it?
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+Ça n'a rien à voir.
 
 Now the continent, in French, where the presidential campaign has begun without officially beginning.
 
-[[FR]]Les universités d'été se suivent et dessinent déjà deux mille vingt-sept. Jean-Luc Mélenchon a ouvert celle de La France insoumise dans la Drôme, en rêvant ouvertement d'un second tour face à Marine Le Pen. Vendredi, à Grenoble, l'écologiste Marine Tondelier a défendu exactement l'inverse : l'union, en rappelant qu'aucune famille politique du camp progressiste n'est capable de gagner seule. Toute la gauche tient dans cet écart.
+Les universités d'été se suivent et dessinent déjà deux mille vingt-sept. Jean-Luc Mélenchon a ouvert celle de La France insoumise dans la Drôme, en rêvant ouvertement d'un second tour face à Marine Le Pen. Vendredi, à Grenoble, l'écologiste Marine Tondelier a défendu exactement l'inverse : l'union, en rappelant qu'aucune famille politique du camp progressiste n'est capable de gagner seule. Toute la gauche tient dans cet écart.
 
 Le Monde a par ailleurs publié cette semaine un constat sévère. Après un été de canicules, d'incendies et de sécheresse, ni le gouvernement ni les candidats n'ont abordé frontalement la question climatique. Le journal relève que le Rassemblement national est particulièrement rattrapé par l'absence de doctrine écologique, alors même que ses électeurs comptent parmi les plus exposés.
 
@@ -96,7 +96,7 @@ Deux autres dossiers. Le piratage de l'administration fiscale n'en finit pas : n
 
 Côté marchés, un rappel utile : les taux longs montent aussi au Royaume-Uni, en France, en Allemagne et au Japon. Ce n'est donc pas un problème purement américain.
 
-Enfin, une nouvelle qui n'a rien à voir avec tout cela : le club du Mans dispute ce samedi son premier match en Ligue 1 depuis deux mille dix, douze ans après une liquidation judiciaire.[[/FR]]
+Enfin, une nouvelle qui n'a rien à voir avec tout cela : le club du Mans dispute ce samedi son premier match en Ligue 1 depuis deux mille dix, douze ans après une liquidation judiciaire.
 
 One last thing from the week, and it is for the ear. The Economist's word of the week was ongaku kissa, the Japanese music café. Listening bars: a serious sound system, a wall of records, low light, and a firm expectation that you shut up and listen. They date to postwar Tokyo, when almost nobody could afford a stereo. A room built on the premise that conversation is the interruption.
 
