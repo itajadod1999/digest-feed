@@ -1,105 +1,123 @@
-Good morning. Monday, August tenth. Here's what happened.
+Good morning. Monday, August twenty-fourth. Here's what happened.
 
-Starting with markets.
+Starting with markets, as of Friday's close in New York. The S and P five hundred at about seventy-six seventy-five. The Dow just under fifty-three thousand three hundred. The Nasdaq around twenty-six thousand one hundred eighty. The two-year Treasury at four point one eight percent, where it sat every single session last week. The ten-year at four point seven four. Brent crude around ninety-three dollars. Gold about forty-six eighty an ounce, still near a three-month high.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+Futures are a couple of tenths lower, which is a market declining to commit, and it has reasons. Nvidia reports Wednesday after the close. The July personal consumption expenditures index, the Federal Reserve's preferred inflation measure, lands the same day. And Jackson Hole opens Thursday, where Kevin Warsh gives his first speech there as chairman. That last one is the second deep dive this morning.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+One piece of arithmetic before we move on. The Economist went through last week's Treasury buyback and found it funded by issuing short-term bonds, which means it does not reduce the forty trillion dollars by a single cent. Their word for it was symbolic.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+To deals, where Asia did most of the work over the weekend.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+Shein has started book-building for its Hong Kong listing, seeking about one point eight billion dollars at a valuation that could reach twenty-seven billion. That is the first deep dive, so I'll come back to it.
 
-Before we get to deals, a small thing I liked.
+Alibaba will sell about ten point two billion dollars of new shares to fund its artificial intelligence business, at a sharp discount. The stock fell nearly nine percent. On Saturday I noted its quarterly profit had dropped seventy-five percent because capital spending rose seventy-five percent. This is the next sentence of that story: the company needs the money, and shareholders have said what they think of the terms.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+Samsung Electronics fell nine percent too, on the same logic pointed the other way. Friday, after the Seoul close, it announced dividends and buybacks worth as much as a hundred ten trillion won, about eighty billion dollars, to quiet questions about its capital spending. Investors took the cash and marked the shares down anyway. One company asked for money and one handed it back, and both got the same answer.
 
-Moving to deals and credit.
+The Journal also reports that the Justice Department's decade-old antitrust case against Live Nation is being settled rather than tried, after the President called a senior official and told him to. That rests on the official describing the call to associates afterwards.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+Following up on yesterday. I said Paramount and California would open settlement talks this morning over the suit twelve states brought to block its purchase of Warner Bros. Discovery. Those talks are off. California's attorney general, Rob Bonta, cancelled them and accused Paramount of leaking and misrepresenting the earlier discussions. The Journal reports the state will demand television channel sales before it signs off at all.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+Something lighter before the technology. Apollo's chief executive, Marc Rowan, has run a seafood shack in Montauk for a dozen years: sunset views, Dom Pérignon, a ninety-seven dollar lobster salad, and neighbours who say it should not be there at all. After years of litigation a judge has just described the fight as back at square one.
 
-Now real estate.
+Over to technology, and Nvidia.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+Analysts expect record quarterly sales of about ninety-two billion dollars on Wednesday. The instructive number is that in January the same analysts were forecasting seventy-eight. Nvidia has also reportedly told some of its largest customers it is raising chip prices by more than fifteen percent, which is a clear statement about who holds the leverage.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+Apple's autumn is now mapped. Tim Cook hands the chief executive job to John Ternus on the first of September. The invitation is expected Wednesday, keynote on the ninth, phones in stores the eighteenth. Three flagships, including the first foldable. Bloomberg's Mark Gurman expects prices up a hundred to two hundred dollars on chip and camera costs.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+While we're on machines. A robot ran a hundred metres in nine point three two seconds last week, at the World Humanoid Robot Games in Beijing. Usain Bolt's record is nine point five eight. The thing is called Lightning, built by Honor, the phone maker, and it celebrated by running directly into a wall.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+Now the world.
 
-Over to technology.
+The Canada trade war is real and both governments have stopped pretending otherwise. Carney has promised to match Saturday's fifty percent tariffs dollar for dollar from the eighth of September, and says Canada is stronger and more unified than when it started. The President's answer, on Truth Social, was that Canada wants the benefits of being a State without being one. The Times went through the schedule: the tariffed list includes buoys, dog muzzles, capes, national flags and base metal statuettes, which tells you these are the goods that fell outside every existing agreement rather than goods anyone chose.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+Ukraine marks thirty-five years of independence today, and twelve years of war. Zelensky spent the weekend rejecting calls for a wartime election, raised by his former defence minister Mykhailo Fedorov. His words were that a vote now would be a tsunami that fractures the country. The coalition of the willing meets today and more air-defence pledges are expected; France promised more interceptors on Saturday. And Ukrainian drones hit logistics centres belonging to Ozon, Russia's second-largest online retailer.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+The federal government released its Colorado River plan on Friday, the first real allocation of pain after years of drought and overuse. On the reading of Sarah Porter at Arizona State, California cuts water use by ten percent, Nevada by sixteen, Arizona by twenty-seven. The four upstream states cut nothing. It is a ten-year framework, and the downstream states have not ruled out suing each other or Washington.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+In the occupied West Bank, settler and Palestinian violence escalated again over the weekend, including a Palestinian teenager killed near Hebron on Friday and an Israeli stabbed in the Jordan Valley on Sunday.
 
-Over to France.
+Now a minute of French, and then the European news in it.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+How would you say you can't get over it? Not that you're upset. That you're astonished, and it hasn't worn off.
 
-And the Middle East.
+Here it is.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+[[FR]]J'en reviens pas.[[/FR]]
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+The English pushes you toward a verb about getting over or getting past, and you build something with dépasser or surmonter that means nothing at all here. French says you have not come back from it. The verb is revenir, and the little en carries whatever it was. In speech the ne disappears entirely.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+And yesterday's, again. How would you say you ended up walking home?
 
-One more small thing before the deep dives.
+[[FR]]J'ai fini par rentrer à pied.[[/FR]]
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+Now the continent, in French, and the French left has had a very loud weekend.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+[[FR]]Raphaël Glucksmann s'est déclaré candidat à la présidentielle, dimanche soir, au vingt heures de TF1, après des mois de faux suspense. Il devra d'abord passer par la primaire organisée avec le Parti socialiste, ce qui n'a rien d'une formalité pour un eurodéputé qui revendique une gauche ouverte sur le centre. Dans la foulée, Léa Salamé s'est retirée du vingt heures de France 2.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+Le même week-end, dans la Drôme, Jean-Luc Mélenchon a clôturé l'université d'été de La France insoumise par un discours très centré sur la planification écologique, en multipliant les appels du pied aux Écologistes. Deux stratégies, deux calendriers, et toujours pas de candidature commune.
 
-Now put that next to private equity, which is running its own version of the same problem.
+Emmanuel Macron réunit ce matin le conseil des ministres de rentrée. Le dossier le plus lourd revient à Sébastien Lecornu : le budget deux mille vingt-sept. Parmi les pistes à l'étude, la désindexation des retraites, qui avait précipité la chute du gouvernement Barnier l'an dernier. La reprendre à quelques mois d'une présidentielle relève du pari.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+Côté diplomatie, Mohammed ben Salmane était à Paris. Quatre ans après une visite très contestée, le prince héritier saoudien est désormais reçu à l'Élysée comme un interlocuteur incontournable au Moyen-Orient. Il a clôturé avec Emmanuel Macron l'Esports World Cup, vitrine assumée du soft power saoudien.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+Un mot de réglementation : selon le Wall Street Journal, l'Union européenne, le Royaume-Uni et le Canada reviennent tous les trois sur une partie de leurs objectifs environnementaux. Ce sont les mêmes capitales qui reprochaient à Washington d'en faire autant.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+Et le sport. Arthur Fils a remporté dimanche le Masters mille de Cincinnati face à Frances Tiafoe, six-trois, un-six, six-zéro : première victoire française dans cette catégorie depuis deux mille quatorze. En Ligue 1, le Paris Saint-Germain a arraché le nul à Rennes grâce à Ferran Torres, et Lille a démarré très fort.[[/FR]]
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+Back in English, and to Iran, where the clock I mentioned yesterday runs out today.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+Scott Bessent holds a press conference this afternoon to announce what he calls an economic D-Day and the single greatest financial offensive ever marshalled against an adversary. It adds to a regime already covering Iranian banking, energy, aviation and cryptocurrency. The line aimed at everyone else is that any nation serving as a financial artery of a withering regime should expect to share its isolation.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+The pressure is already priced. The rial opened this morning on the informal market at about two point zero two million to the dollar, a record low, down roughly four and a half percent since the operation was announced last week. The official central bank rate is around one and a half million, which is not the rate anybody pays. Those are Bloomberg's figures and the wires'.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+Tehran's answer has been maritime. Iran warns that ships violating its transit rules in Hormuz face detention or confiscation, and its security chief has again threatened to stop oil moving through the strait if neighbouring countries join in. Traffic tells it better: fewer than twenty merchant ships crossed Hormuz all weekend, on L'Express's count, and that is up nearly four hundred percent in a fortnight, which tells you how near zero it had fallen.
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+Two things underneath. Pakistan's army chief, Asim Munir, travels to Tehran to try to mediate an end to the war. And China, which buys more than eighty percent of Iran's exported oil and publicly refused to cooperate last week, now says it is actively committed to promoting peace talks. Softer than Wednesday, and Xi Jinping is due in Washington next month.
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+To the city, and three street-level stories.
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+Three cyclists were killed in hit-and-runs in New York in a single week, all three on e-bikes. Seventeen have died in the city this year.
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+A judge granted the mayor's request to move the rent-freeze lawsuit from Staten Island to Manhattan. The suits challenging the rent freeze and the second-home tax were both filed there, and the lawyer who filed them, Randy Mastro, explained that Staten Island is every bit as important as the other boroughs. It is, and that is not why they were filed there.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+And in Liberty Park, across from ground zero, an English horse chestnut grown from a cutting of the Anne Frank tree in Amsterdam is failing. Cornell's plant clinic found two fungal pathogens and signs of root damage. The Port Authority's horticulturist says that with any other tree they would advise cutting it down, and that with this one there is no test they will not run.
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+Good news from a football stadium in Georgia. Twenty-five thousand four hundred and thirty-three people watched the University of Georgia women's soccer team beat James Madison six-nil, breaking a forty-six-year-old attendance record for a college soccer game, men's or women's. Admission was free, and it was ninety-eight degrees at kickoff.
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+One story worth more time this morning.
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+Shein. The company opened its order book seeking about one point eight billion dollars, at a valuation that could reach twenty-seven billion. In twenty twenty-two it raised money privately at ninety-eight. A seventy-two percent haircut in four years, and the Economist's explanation is weak growth, rising costs including tariffs, and competition.
 
-One last small thing before the close, and it is an old one.
+The middle item is the one that matters. Shein's economics rested on three things stacked together: small-batch manufacturing around Guangzhou that let it test a design in hundreds of units before committing; air freight; and the de minimis exemption, which let parcels under eight hundred dollars enter the United States with no duty and almost no inspection. Remove that third leg and every parcel becomes a customs entry with a tariff attached and a broker's fee behind it. That is a new cost line, charged per package, on a business whose whole proposition was the price of the package, and you cannot dilute it with volume, because volume is what you are being charged for. The venue is its own quiet story: this offering has been in preparation, in one city or another, for about three years, and Hong Kong is not where it started.
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+What makes it concrete is the range on the first of September. If the book covers at the top and the stock holds, twenty-seven billion becomes the real number. If it prices at the bottom and breaks, every late-stage private mark in Chinese consumer technology gets re-read in that light.
+
+The second story. Kevin Warsh goes to Jackson Hole on Thursday, his first as chairman. Le Monde's Eric Albert makes the case that the Fed's credibility is what is actually on the table: inflation has run above the two percent target for five years, the President has spent the year attacking the institution's independence, and Warsh, who took the chair in May, has had a bumpy start.
+
+The specific problem is that he has declined to use the main instrument a chairman has between meetings, which is expectations. A central bank moves markets far more often by saying what it intends than by doing anything, and Warsh has said almost nothing about where rates are headed. The Journal has resorted to digging through his old forecasts to work out how he thinks about inflation.
+
+Silence is expensive just now. Last week's minutes showed the three dissents in favour of raising rates were serious, and that several officials now believe artificial intelligence investment is itself pushing up demand and therefore prices. That is a different diagnosis from tariffs washing through, and it implies a different path. Nobody outside the building knows which one the chairman holds. What would make Thursday matter is whether he puts a framework on the table at all. If he doesn't, the market keeps guessing, and guessing is what the term premium is for.
+
+A few things I didn't get to.
+
+Allies of President Tokayev swept a Kazakh election held with no opposition party on the ballot, and he hinted at staying past twenty twenty-nine. Ninety thousand people were told to leave their homes near Reno. Indonesia's peatland fire season is intensifying. The Rochdale grooming-gang retrial opens in Manchester after the first collapsed over a jurors' WhatsApp group. Two senators want the makers of a jewelled ring given to the President to explain themselves to Congress by today, four weeks after which Belgium's diamond industry got a tariff exemption; everyone denies a connection. Amazon's robotaxis are on the road in San Francisco and Las Vegas. Australia found bird flu in a mammal for the first time, a fur seal. And Pluto lost its planethood twenty years ago today, by a show of hands.
+
+One thing to sit with this morning.
+
+The human understanding when it has once adopted an opinion draws all things else to support and agree with it.
+
+That is Francis Bacon, from the Novum Organum, aphorism forty-six of the first book, published in Latin in sixteen twenty. He was Lord Chancellor of England at the time, at the very top of the state. Sixteen months later he was convicted of taking bribes as a judge, fined forty thousand pounds, held briefly in the Tower, and barred from office for life.
+
+The observation I would make is that the sentence is a diagnosis, and the book around it is meant to be the cure: an exhaustive method of tabulating instances, designed to make the mind's tilt irrelevant by never letting it choose what to look at. Nobody ever ran that method, Bacon included, and the tables in the book are unfinished. The diagnosis has outlived the cure by four hundred years, which is an odd result for a work arguing that noticing the problem gets you nothing.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+You've moved up to the north shore, and the weather moved with you. Partly sunny, high near eighty-two, scattered showers, a forty percent chance of rain, maybe a quarter to half an inch. The wind is the thing: east at eighteen to twenty-eight, windy all day. Low around seventy-five tonight. Yesterday's forecast had eastern Maui down for three to six inches, and that has eased considerably. Nothing light is staying where you put it today.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+You're there through Thursday, then San Francisco, and the trades ease as the week goes on.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+And the Yankees took the finale eight to three yesterday, Ben Rice's bases-loaded single capping a three-run sixth. Toronto took the middle game and lost the other two, which is not what the standings needed.
 
 That's the morning. Have a good one.
