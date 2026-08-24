@@ -1,0 +1,107 @@
+Good morning. Sunday, August twenty-third. Here's what happened.
+
+Starting with the markets, as of Friday's close in New York. The S and P five hundred at about seventy-six seventy-five, up four tenths of a percent. The Dow just under fifty-three thousand three hundred, up five hundred eighteen points. The Nasdaq around twenty-six thousand one hundred eighty. The two-year Treasury at four point one eight percent, which is where it sat every session last week. The ten-year at four point six nine. The thirty-year back below five point two, after touching a nineteen-year high on Tuesday. Brent crude just over ninety-four dollars. And December gold at about forty-five seventy an ounce, a three-month high, up nearly five percent on the week.
+
+The largest thing that happened this weekend is this morning's deep dive, so I'll hold it. American tariffs of fifty percent on about twenty billion dollars of Canadian goods took effect at midnight on Saturday, after trade talks collapsed on Friday night. Mark Carney told Canadians their country is at war over trade, and named a date for retaliation. More on that shortly.
+
+Iran is where the other clock is running. Scott Bessent described the strategy as a one-two punch: the naval escort operation already in place, and a sanctions package tomorrow he called the toughest in history. Tehran's answer was that any country joining those sanctions will be treated as an enemy. On Friday I said that until there is a named designation rather than a statement, this is a threat about a threat. Tomorrow is when we find out.
+
+Two things moved underneath that. Iran said on Saturday it would let Iraqi tankers transit the Strait of Hormuz, the first flexibility on passage since the ceasefire framework collapsed. And an army spokesman, Brigadier General Mohammad Akraminia, told the state news agency that Iran's military doctrine has shifted from defensive to offensive, which the Revolutionary Guard had signalled earlier in the month. He was careful to add that offensive does not necessarily mean pre-emptive. That is state media describing its own posture, so weigh it accordingly.
+
+In Japan, a magnitude five point nine earthquake hit the east of the country early on Sunday, centred in southern Ibaraki prefecture at a depth of about seventy kilometres. The United States Geological Survey put it slightly lower, at five point eight. Around thirty-seven people were hurt across five prefectures, most of them lightly, and most of them because they were asleep when it struck and came out of bed into the furniture. No tsunami. Express trains to Narita were delayed. The bullet trains ran normally.
+
+In northeast England, seven people were killed on Saturday, two of them police officers, when a car travelling the wrong way collided with a police vehicle near Middlesbrough.
+
+And Le Monde has a piece this morning on what is left of health care in Gaza. Ninety-five percent of hospitals destroyed or damaged. No working magnetic-resonance scanner in the enclave, and two computed-tomography scanners. Twenty thousand patients on the evacuation list, two hundred of them in critical condition, about two thousand evacuated since February. A doctor's line about reusing the same catheter twenty or thirty times is the detail that stays with you.
+
+To deals. Nvidia is paying Poolside six billion dollars to license the system that startup used to build its models, hiring a hundred and nine of its staff, and putting another billion into what is left. Poolside's letter to its own investors insists this is not an acquisition. The licence is non-exclusive. It is the third deal Nvidia has structured this way, which is the part worth noticing. You get the technology and you get the team, without buying the company, and without the review that buying the company would trigger.
+
+Paramount and California open preliminary settlement talks tomorrow over the lawsuit California and eleven other states brought to block its purchase of Warner Bros. Discovery. The Times puts that deal at a hundred and eleven billion dollars and the Journal at eighty-one. The two papers are counting different things.
+
+And a family fight worth a minute. Brown-Forman, controlled by the same family for more than a hundred and fifty years, has lost sixty percent of its share value in five years, is losing its chief executive, and is facing a fifteen billion dollar hostile bid from a crosstown rival. People are drinking less Jack Daniel's. The heirs are not of one mind about what to do about it.
+
+Following up on Thursday's Moderna result. The shares rose a hundred and seventy-seven percent on Wednesday, and the week took the company from about twenty-five billion dollars of market value to roughly sixty. The Journal's David Wainer published the counter-read on Friday: the arithmetic of a personalised cancer vaccine, which by definition is manufactured one patient at a time, does not obviously get you to that number.
+
+The Journal also reports Russia running readiness exercises for a new round of military mobilisation, because recruitment is not covering battlefield losses.
+
+Two smaller Journal pieces that go together. British school leavers are increasingly skipping university for white-collar apprenticeships, on the view that a degree is worth less in a labour market being rearranged by artificial intelligence. And a reporter got inside Camp Kotok, the invitation-only fishing retreat in Maine that a veteran money manager has run for financiers and policymakers for about twenty-five years. Between the canoes and the poker, the reported mood was anxiety about artificial intelligence from people who are nonetheless still buying it. Doubting the trade and funding the trade at the same time is not new, but it is rarely said out loud in a room that size.
+
+Also disclosed this week: the President's investment accounts made more than a thousand stock trades in June, including million-dollar purchases of Berkshire Hathaway, Visa and Mastercard. The White House says independent managers handle them.
+
+Three things in the week ahead. Nvidia reports Wednesday after the close. The July personal consumption expenditures index, which is the Federal Reserve's preferred inflation measure, lands the same day. And the Jackson Hole symposium opens Thursday.
+
+One number before the long part, and it is a strange one. There are now more car washes in the United States than there are Subway, Starbucks and McDonald's locations combined, and the industry's own view is that the market is nowhere near saturated. Private equity has noticed. Meanwhile about two million clips on TikTok are tagged car detailing, and one former Amazon warehouse worker who started washing cars in twenty twenty-two now makes around eighteen thousand five hundred dollars a month doing it, plus another fifty thousand teaching other people how.
+
+One story worth more time this morning.
+
+At midnight on Saturday the United States imposed tariffs of fifty percent on about twenty billion dollars of Canadian goods. Wine and spirits, furniture, dairy, cement, clothing, fishing rods, hockey equipment. On Saturday morning Carney gave a speech saying Canada had been attacked, that it is at war over trade, that Donald Trump had miscalculated, and that Canada will match the tariffs dollar for dollar starting the eighth of September, the Tuesday after Labour Day. The Canadian list covers American steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics.
+
+Start with why the number is twenty billion and not four hundred. Most trade between these two countries still moves duty free under the United States, Mexico and Canada Agreement, which exempts goods meeting its content rules. Separately there is a set of sector tariffs imposed under the national-security authority, Section two thirty-two, covering steel, aluminium, copper, lumber and autos, which does not care about that agreement at all. What took effect on Saturday is a third thing, a fifty percent rate aimed at goods sitting outside both. Which is why the list reads like the contents of a general store rather than an industrial policy.
+
+Now the two accounts, because they differ, and the difference is the story.
+
+The American version came from the trade representative, Jamieson Greer, in an interview with the Times. He says a deal was agreed earlier in the week and Canada declined to finalise it. The offer, as he describes it, would have removed the Section two thirty-two tariff on softwood lumber entirely, cut the auto rate to fifteen percent, brought steel and aluminium down to twenty-five percent for most Canadian exports, and added coordination on aerospace supply chains and critical minerals. A senior administration official's framing is that this would have left Canada in the best tariff position of any major exporter to the United States.
+
+Carney's version is that Washington added demands in the final hours, and he named three.
+
+The first is autos: how Canadian content inside a vehicle gets counted, and a refusal to extend relief to medium and heavy trucks. That is Ford at Oakville and General Motors at Oshawa. He said the approach would make building there uneconomic over time.
+
+The second is that the United States wanted to limit Canada's ability to sign trade agreements with anyone else. Canada has concluded around twenty of those recently, including with Indonesia, the Emirates and India, and that diversification is the whole of the Carney economic strategy.
+
+The third is the one that ended it. American demands touching Canada's protections for the French language and for Quebec culture. Carney switched into French to say that part, and used the word threats.
+
+What both sides agree on is that there was an offer, that it covered lumber, autos and metals, and that it died over things introduced late. What they disagree on is whether those things were new or already agreed. Neither government has published a text, so hold the sequencing loosely whichever version you prefer.
+
+The third demand is the one to watch, because it is not really trade policy. Tariff rates are a price negotiation, and prices can be split. Language law and cultural protection are not divisible that way, and no Canadian prime minister can trade them without losing Quebec. Put them in the text and a commercial negotiation becomes a sovereignty question, at which point there is nothing left to sign. The same logic runs through the second demand. Those twenty agreements exist precisely as insurance against a week like this one, so a clause restricting them asks Canada to hand over the hedge as the price of the shelter.
+
+The dependence numbers explain why he might have signed anyway. Canada sends roughly seventy percent of its exports to the United States. Of the exports specifically exposed to tariffs, eighty-one percent went south last year. The Bank of Canada already has national output about one and a half percent below where it projected before any of this began, with growth around one point one percent this year. Economists put the direct hit from this particular round at roughly four tenths of a percent of Canadian output. Small in aggregate, and concentrated enough by sector to close named plants.
+
+Carney is nonetheless one of very few leaders anywhere who has answered American tariffs with tariffs rather than absorbing them, and he has now done it twice. That is the live variable. Retaliating while selling seventy percent of your exports into the market you are retaliating against is not an obviously strong hand, and he is doing it anyway, which suggests he has concluded the domestic politics of folding are worse than the economics of a fight.
+
+What would make this concrete, and there are two things. The first is the eighth of September, because a two-week fuse is also a two-week window, and if the Canadian list actually takes effect it means talks did not restart. The second is scope: whether Washington extends the fifty percent beyond that twenty billion dollars, into goods the agreement currently protects. That is the move that turns a sector fight into something that shows up in both countries' inflation numbers. Until then this is twenty billion dollars, which is a rounding error in a relationship this size, and a speech about war, which is not.
+
+Something else entirely, from a church floor in Maastricht. A skeleton found under the Sint-Petrus-en-Paulus church may be d'Artagnan, the musketeer, killed at the siege of that city in sixteen seventy-three. There is a musket ball at chest height and a French coin. The retired archaeologist who found it, Wim Dijkman, spent nearly thirty years looking for that grave, and then excavated it without a permit. Colleagues say the bones were handled with bare hands, which may have made genetic identification impossible. The city took the project off him. He was subsequently picked up by police for driving to Germany and personally collecting a piece of arm bone and two teeth from a laboratory, because the council had proposed posting them back and he considered the post too risky. Le Monde ran the whole saga this morning. Results are months away.
+
+Now a minute of French, and then the European news in it.
+
+How would you say you ended up walking home? Not that you chose to walk. That after everything, that is what happened.
+
+Here it is.
+
+J'ai fini par rentrer à pied.
+
+The English pushes you toward a construction about ending, or about finding yourself somewhere, and neither one lands. French puts the whole idea inside one verb: finir par, followed by an infinitive. Literally, to finish by doing. It is the ordinary spoken way to say that something took a while and then happened.
+
+And one carried over from last week. How would you say you're finding something hard going?
+
+J'ai du mal à suivre.
+
+Now the continent, in French, and it begins in Marseille.
+
+Le Monde consacre ce dimanche un reportage au port de Marseille, devenu une destination émergente du trafic de drogue. Jusqu'ici, les réseaux visaient surtout Le Havre et Anvers. Mais la position de Marseille, au carrefour de la Méditerranée, la rend de plus en plus attractive, alors même que l'économie du stupéfiant pèse déjà lourd dans la cité phocéenne.
+
+La présidentielle de deux mille vingt-sept occupe le reste de la page. À Mayotte, Édouard Philippe a promis à des élus lassés des promesses de fermer les vannes de l'immigration. Aux universités d'été de La France insoumise, dans la Drôme, le banquier Matthieu Pigasse dit voir pas mal de convergences entre lui et les insoumis, ce qui n'est pas exactement la phrase que l'on attendait de ce côté-là. Et le patronat, de son côté, appelle à replacer l'économie au cœur du débat.
+
+Enfin, la Ligue 1 a repris. Lens, vainqueur du Trophée des champions face au Paris Saint-Germain, a confirmé en s'imposant contre Auxerre. Lyon a lancé sa saison par une victoire à Toulouse, avec un effectif pourtant largement remanié.
+
+Back in English, with some good news about a business everyone keeps declaring dead. More than six hundred independent bookshops opened in the United States last year. The American Booksellers Association's membership has tripled in a decade, to three thousand four hundred and seventeen stores, and a majority of them reported higher revenue last year. Barnes and Noble is opening sixty locations this year, with a strategy it describes as copying the way small shops choose their books. The new arrivals are increasingly single-genre. There is a shop in Brooklyn devoted entirely to Black culinary writing, and one in Atlanta that sells horror out of a hearse.
+
+One thing to sit with this morning.
+
+When I play with my cat, who knows whether I do not make her more sport than she makes me?
+
+That is Montaigne, from the Apology for Raymond Sebond, the longest essay in the second book, written in the fifteen seventies. He had retired at thirty-eight to the tower library of his estate near Bordeaux, and France was in the middle of its wars of religion. The essay began as a favour to his dead father, who had asked him to translate a Spanish theologian's proof of the Christian faith, and it became the most corrosive thing Montaigne wrote, a long argument that human reason has no special standing.
+
+The observation I'd make is that the line gets quoted as charm, and it is not charming. It is the sharp end of that argument: you cannot establish which of you is the entertainment. But the sentence may undercut the case it is making. Noticing that the cat might be playing with you takes exactly the reflective step Montaigne spends the essay insisting gives us no advantage.
+
+And finally, closer to home.
+
+You're on Maui today, on the south shore, and you move up to the north shore tomorrow. The weather is the thing this morning. Tropical Storm Moke is passing south of the islands. At five o'clock Saturday afternoon it was about three hundred and sixty miles south-southeast of Hilo, moving west-northwest at fourteen miles an hour, with sustained winds of forty-five. It won't hit you, but it is dragging the trades up hard behind it. There's a wind advisory for parts of Maui County until six this evening, east-northeast at twenty-five to thirty-five miles an hour, gusting to fifty-five. Sunny otherwise, high near eighty-nine, low around seventy-four. Anything loose is going somewhere else today.
+
+The rain arrives late tonight and runs through Monday, and eastern Maui is forecast for three to six inches of it. Which is where you're headed. Drier trades come back Tuesday.
+
+If you want music tonight, Keli'i and Kalei play the sunset set at the Ocean Vodka farm up in Kula, five to seven. That's upcountry, and roughly on your way.
+
+And the Blue Jays took Saturday four to three, on fifteen hits to the Yankees' four. The rubber game is today at one thirty-five Eastern, which is twenty-five past seven in the morning where you are. Baseball with the coffee.
+
+That's the morning. Have a good Sunday.

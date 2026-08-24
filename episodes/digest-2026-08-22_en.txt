@@ -1,0 +1,119 @@
+Good morning. Saturday, August twenty-second. Here's what the week came to.
+
+Friday's close in New York. The S and P five hundred at about seventy-six seventy-five, up four tenths of a percent. The Dow up five hundred eighteen points, just under fifty-three thousand three hundred. The Nasdaq around twenty-six thousand one hundred eighty. The two-year Treasury at four point one eight percent, which is where it has sat every single session this week. The ten-year at four point six nine. The thirty-year back below five point two. Brent crude just over ninety-four dollars. And December gold at about forty-five seventy an ounce, a three-month high, up nearly five percent on the week.
+
+That last number is the week. Stocks finished Friday green and the metals finished the week screaming, which together tell you this was not a risk-off week. It was a week when people went looking for something that isn't a government promise.
+
+The sequence. Tuesday, gross federal debt passed forty trillion dollars and the thirty-year yield touched five point three four percent, the highest since two thousand seven. Wednesday, the Treasury said it would at least double its buyback operations, and the thirty-year fell nearly nine basis points. Thursday it gave back more than seven. More on the mechanism shortly, because it is this morning's deep dive.
+
+Two pieces of accounting. On Wednesday I said the buyback was a demand-side patch on a supply-side problem, and that what would make it concrete was the next auction rather than the next headline. That held. Where I was too generous was Thursday, when I said stocks snapped a three-day losing streak on the buyback. Half right at best. It bought one session in bonds, and the equity move had very little to do with it.
+
+Bessent's own line, on C N B C: there is nothing magic about the forty trillion number, and we can grow our way out of that. He may be right. Nobody in the long end is pricing it.
+
+The Federal Reserve minutes settled a question I had left open: whether the three dissents in favour of raising rates were serious or a gesture. They were serious. And the diagnosis has shifted. Several officials now think investment in artificial intelligence is itself pushing up demand, and therefore prices, which is a very different problem from tariffs washing through.
+
+And the consumer wobbled. Walmart beat, raised its outlook, and got taken out and shot anyway, because sales at American stores open at least a year rose two point six percent against three and a half expected, the slowest in more than six years. The shares fell nine percent.
+
+To deals, where the week's best story finally got its ending.
+
+A small artificial-intelligence-focused hedge fund called Situational Awareness blew up last month. Jane Street took a fifteen billion dollar loss in July, partly from the wreckage. Hudson River Trading, in the same market with the same instruments, made seven point four billion in net profit for the quarter. And on Friday the last piece arrived: Citadel has offloaded more than eighty percent of the risk it absorbed from that fund, through almost a hundred block trades worth over four billion dollars. Ken Griffin volunteered the numbers, which tells you how the trade went.
+
+Alibaba reported. Revenue rose nine percent to about forty billion dollars. Profit fell seventy-five percent, because capital spending rose seventy-five percent. Thursday I noted the shares had run up about forty percent since June on model releases. This is what the bill for those looks like.
+
+Anthropic's listing got bigger again. Friday it was going to match or beat SpaceX's eighty-six billion dollar record. This morning, bankers are telling investors it could raise as much as a hundred billion dollars at a two trillion dollar valuation. Disclosure, Anthropic makes me. That is bankers by way of the Times, so hold it loosely.
+
+And my favourite of the week. Mike Ashley, the British billionaire who built Sports Direct selling discounted trainers and once called unhappy investors cry babies, has bought his way to a forty-eight percent stake in Hugo Boss, whose board had told shareholders to reject him. The bargain-bin man is assembling a luxury conglomerate, one hostile stake at a time.
+
+In real estate, one enormous financing and one worrying personnel story.
+
+Starwood Property Trust and Realterm closed a six hundred seventy-two million dollar loan against seventy-eight industrial outdoor storage properties across thirty-three American markets, eight hundred thirty acres in all. Largest the sector has seen. That is paved land where trucks and containers sit, and rents are up a hundred twenty-three percent since twenty twenty.
+
+The other is Fannie Mae. Roughly a dozen senior officials were dismissed on Wednesday, all involuntary, most notified inside a three-hour window. Capital markets, regulatory affairs, multifamily. The chief economist, Mark Palim, was among them, and some roles are reported to have been cut on the grounds that artificial intelligence can now do the work. The latest purge under the Federal Housing Finance Agency director and Fannie board chairman, Bill Pulte, on Bloomberg's and the Journal's reporting.
+
+And the city put a number on itself: about seven hundred thousand new homes needed over the next decade, on the housing agency's draft report. Two hundred ninety thousand for the shortage that already exists, two hundred forty thousand for growth, a hundred seventy thousand to get vacancy back to normal. First such estimate the Council has required, so there is now an official figure somebody can be held to.
+
+In technology, the politics of data centres finished flipping. Kathy Hochul imposed the country's first statewide moratorium on Monday, a year long, covering any site drawing more than fifty megawatts, and governors in both parties are now tightening rather than courting. Gallup has seventy-one percent of Americans opposed to one in their own area.
+
+Something lighter before the world. Rare-book dealers spent months puzzling over a new kind of customer: odd names, orders of two and three hundred volumes at a time, no haggling. Shops that had never packed more than twenty books were shipping pallets. The Journal traced where they went. The books are sliced apart, scanned and destroyed, to feed training data to artificial intelligence models. One dealer's phrase for it was sent to the guillotine.
+
+Now the world, where the week ended on a trade war nobody quite expected to get.
+
+On Wednesday, hours before fifty percent levies were due to hit about twenty billion dollars of Canadian goods, the President paused them for three days and announced in capital letters that the two countries had a deal. Prime Minister Mark Carney said only that there was important work still to be done. I flagged that gap at the time. It turned out to be the whole story. Talks collapsed late Friday night, the tariffs took effect this morning, and Carney has promised to match them dollar for dollar. Four outlets report the same facts and none has anybody's account of what happened in the room.
+
+Russia's week in Ukraine was brutal. Strikes on Kyiv killed at least fifteen people on Thursday and drove about forty thousand into the subway overnight. On Friday an attack on a shopping centre in central Ukraine killed at least sixteen and wounded more than a hundred thirty. Zelensky says allied air-defence missile deliveries have fallen threefold in a year.
+
+In Washington, a federal judge in the Southern District of New York struck down the seventy-five-country visa ban, finding it exceeded the Secretary of State's authority. And the Supreme Court let construction of the four hundred million dollar White House ballroom continue while it weighs that case.
+
+Iran is the thread that moved most and got the least attention.
+
+Tuesday the Emirates cut off all trade with Iran. Wednesday the President declared what he called an economic D-Day, threatening secondary sanctions on anyone giving Iran a lifeline of any kind, and American destroyers took up escort positions alongside tankers in Hormuz. Bessent told China, which buys more than eighty percent of Iran's exported oil, to get with the programme. Beijing publicly refused.
+
+Then the pressure showed up on the other side. Petrol stations in Tehran ran dry on rumours of a price rise. The parliament speaker said out loud that military strength cannot ensure the Islamic Republic's survival if people go hungry. And on Friday President Masoud Pezeshkian said this would be a good time to end the war with America, while Iran is in what he called a position of power and dignity. The Journal reports his colleagues pushing back publicly against the hardliners. First visible crack in the political line since this started. The administration details its sanctions on Monday.
+
+One number explains why none of this has put oil at a hundred thirty dollars. China has cut its oil imports by nearly forty-nine percent since the war began. That is the Journal's figure, and it is the largest single reason global inflation has not reopened.
+
+One story worth more time this morning, and it is the one underneath all the others. The Journal's summary of it, published Friday, was the wild week when Scott Bessent was schooled by the bond market.
+
+The forty trillion dollar milestone is symbolic. What is not symbolic is that the thirty-year Treasury spent Tuesday at a nineteen-year high, and that the Treasury Secretary responded within a day, doubling the maximum size of his buyback operations from two billion dollars to at least four billion, starting the ninth of September.
+
+A buyback is not what it sounds like. The Treasury is not retiring debt. It buys back older, less liquid long bonds and funds the purchase by issuing something else, usually shorter paper. Total borrowing does not shrink by a dollar. What changes is the maturity mix, and specifically how much long-dated supply the market must absorb. Less long supply, lower long yields. That is the entire trade, and it treats a symptom. Leaning shorter also means refinancing more of the debt more often, which is comfortable while rates behave and expensive when they don't.
+
+The deeper problem is that the buyer base changed underneath all of this. Pension funds that historically absorbed long government paper have stepped back, and technology companies are now issuing corporate bonds at enormous scale to build data centres. Two very large borrowers competing for the same pool of long-duration money, and one of them can offer a spread.
+
+What Bessent added this week was forward guidance, hinting more operations may come. JPMorgan's team said publicly that repeated buybacks carry credibility risk, which is a polite way of saying the market will learn to wait for the next one before it buys. An intervention that works once is a tool. An intervention the market expects is a subsidy, and it gets priced.
+
+What would make this concrete is the next long-dated auction, and the ratio of bids to paper offered. The buyback moved the price. Whether it moved the buyers is an open question, and gold is one answer.
+
+Now the French, and on a Saturday it is review rather than a new phrase. Five went out this week. Question first.
+
+How would you say you can't be bothered?
+
+J'ai la flemme.
+
+Actually, I had no idea?
+
+En fait, j'en savais rien.
+
+I'll let you know?
+
+Je te tiens au courant.
+
+You're finding something hard going?
+
+J'ai du mal à suivre.
+
+And: that has nothing to do with it?
+
+Ça n'a rien à voir.
+
+Now the continent, in French, where the presidential campaign has begun without officially beginning.
+
+Les universités d'été se suivent et dessinent déjà deux mille vingt-sept. Jean-Luc Mélenchon a ouvert celle de La France insoumise dans la Drôme, en rêvant ouvertement d'un second tour face à Marine Le Pen. Vendredi, à Grenoble, l'écologiste Marine Tondelier a défendu exactement l'inverse : l'union, en rappelant qu'aucune famille politique du camp progressiste n'est capable de gagner seule. Toute la gauche tient dans cet écart.
+
+Le Monde a par ailleurs publié cette semaine un constat sévère. Après un été de canicules, d'incendies et de sécheresse, ni le gouvernement ni les candidats n'ont abordé frontalement la question climatique. Le journal relève que le Rassemblement national est particulièrement rattrapé par l'absence de doctrine écologique, alors même que ses électeurs comptent parmi les plus exposés.
+
+Deux autres dossiers. Le piratage de l'administration fiscale n'en finit pas : nouvelle brèche révélée, contribuables prévenus un à un, et les pirates affirment détenir aussi les données de millions d'élèves, ce qui n'est toujours pas confirmé. Et la loi créant un droit à l'aide à mourir a été promulguée mercredi, après des années d'allers-retours législatifs.
+
+Côté marchés, un rappel utile : les taux longs montent aussi au Royaume-Uni, en France, en Allemagne et au Japon. Ce n'est donc pas un problème purement américain.
+
+Enfin, une nouvelle qui n'a rien à voir avec tout cela : le club du Mans dispute ce samedi son premier match en Ligue 1 depuis deux mille dix, douze ans après une liquidation judiciaire.
+
+One last thing from the week, and it is for the ear. The Economist's word of the week was ongaku kissa, the Japanese music café. Listening bars: a serious sound system, a wall of records, low light, and a firm expectation that you shut up and listen. They date to postwar Tokyo, when almost nobody could afford a stereo. A room built on the premise that conversation is the interruption.
+
+One thing to sit with this morning.
+
+There is a limit to our life, but to knowledge there is no limit. With what is limited to pursue after what is unlimited is a perilous thing.
+
+That is Zhuangzi, from the third chapter of the book that carries his name, written in the fourth century before the common era, during the Warring States period in China. What is known about him is thin and mostly anecdote. He supervised a lacquer garden in the state of Song. When the king of Chu sent officials to offer him the premiership, he is supposed to have asked whether a sacred tortoise, dead three thousand years and wrapped in silk in the royal temple, would not rather be alive and dragging its tail through the mud. Then he sent them away.
+
+The observation I would make is that the sentence is arithmetic wearing the clothes of wisdom. Any finite life pursuing any unlimited thing loses on the same terms, so the argument does not single out knowledge at all. It works just as well against pursuing skill, or ease, or the Way. And the chapter it opens goes on to praise a butcher who has spent nineteen years getting one cut exactly right.
+
+And finally, closer to home.
+
+You're on Maui through the twenty-sixth, and you shift up to the north shore on Monday. Today is the hot one. Mostly sunny on the south shore, high near ninety, heat index up to ninety-six, with the wind light and swinging around to the west-southwest in the afternoon, which is the combination that makes the coast feel airless. Low around seventy-four tonight. Drink more water than you think you need.
+
+Tonight is the good night of the Maui Music and Food Experience, in Kaanapali. Los Lobos headline, with Alejandro Escovedo, and Lisa Fischer singing with What Mongoose. Six chef stations, and the proceeds go to food security, housing and youth music programmes in Lahaina.
+
+And the Yankees took the opener three to one Friday night. Game two is this evening in the Bronx, early afternoon where you are. Toronto sits at sixty-three and sixty-six, fourth in the division and running short of runway.
+
+That's the week. Have a good one.
