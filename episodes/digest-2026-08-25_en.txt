@@ -1,0 +1,117 @@
+Good morning. Tuesday, August twenty-fifth. Here's what happened.
+
+Starting with markets, as of Monday's close in New York. The S and P five hundred at about seventy-six fifty, down three tenths of a percent. The Dow just over fifty-three thousand four hundred, up a quarter. The Nasdaq just under twenty-six thousand, down eight tenths. The two-year Treasury at four point one eight percent, where it has now sat for eight straight sessions. The ten-year at four point seven zero, down three basis points. Brent crude fell more than two percent, to just under ninety-three dollars. Gold near forty-seven hundred an ounce, the highest since May.
+
+Bitcoin is the one I did not expect to be reading out this morning. It closed near seventy-nine thousand dollars, up twenty-two percent in a week, its biggest three-day rally since March of twenty twenty-three. The trigger was not a crypto story. It was the Treasury saying it would double its bond buybacks, which I spent Saturday explaining does not retire a dollar of debt. Gold and bitcoin read that the same way and moved together.
+
+Three data points today: consumer confidence, new-home sales for July, and Case-Shiller, expected to show house prices flat. High borrowing costs keep buyers out and lock existing owners in, and that is most of what American housing data says now. Wednesday is the crowded one, with Nvidia after the close and the July personal consumption expenditures index the same morning. Jackson Hole opens Thursday.
+
+To deals.
+
+Following up on the Situational Awareness collapse. The Securities and Exchange Commission has reportedly subpoenaed several Wall Street banks over the fund's implosion, seeking its trading records and its conversations with the lenders who supplied its leverage. The detail I had not registered until this morning is that the fund was run by a twenty-four-year-old with no prior trading experience. Reported, not yet charged.
+
+The autumn listing calendar is filling faster than anyone expected. Oura, which makes the smart ring, is targeting a fall listing well above eleven billion dollars, and Dunkin's owner is looking at an offering as early as year end. That follows SpaceX's eighty-six billion dollar float in June, and the American market is on track for a record year.
+
+Staying with Anthropic, and disclosure, Anthropic makes me. The company is preparing to give Dario Amodei and the other co-founders stock with extra voting power, on the Information's reporting. The second layer is the unusual one: the nonshareholder trustees who elect a majority of the board keep their own share class, and that trust is down to three members from five. Founders first, disinterested philosophers second, and the people supplying the money last.
+
+Something lighter before the property. Sam Altman commissioned seven custom watches from Vanguart, a Swiss maker whose titanium model starts at a hundred eighty thousand dollars, and gave them to selected OpenAI staff. Engraved on them is a line attributed to him: compute is destiny.
+
+Property is thin this morning and I am not going to pad it. The Journal has investors buying tired hotels and renovating rather than building, which is the shape of a market where construction and debt costs both argue for the building that already exists. And the Federal Trade Commission's case against Zillow settled the morning it was due to go to trial, over an alleged payment to Redfin to stop competing in rentals.
+
+To technology, where a shortage of memory chips is now setting prices across the industry.
+
+Nvidia has told large customers that server prices go up more than fifteen percent on systems shipping early next year, including the flagship Vera Rubin and Grace Blackwell machines. Microsoft, Alphabet and Oracle have all been notified. That is Bloomberg's reporting, and the stated reason is not demand for Nvidia's own silicon. It is the memory around it.
+
+Which is why Apple's problem is now everyone's. Apple has been testing memory from a Chinese supplier for products sold in China. A bipartisan group of senators has told it not to, and the Commerce Secretary said this month the administration is not in favour. But Monday brought reporting that the White House may grant permission anyway, as goodwill before Xi Jinping's visit. American memory makers read that as competition arriving: SanDisk fell nine percent, Micron and Western Digital seven.
+
+Now the world.
+
+The Supreme Court cleared the way for parts of the President's mail-voting order to take effect before November, six to three, the three liberal justices dissenting. Concretely: the Department of Homeland Security may build state-by-state citizenship lists from federal databases and share them with states, and the Attorney General may prioritise prosecuting state officials who issue ballots to ineligible voters. The Postal Service portion stays blocked nationwide, including the most contested piece, which would have the Postal Service check each recipient against a government list before sending a ballot at all.
+
+Canada escalated rather than settled. The President said tariffs on Canadian cars, parts and steel go to fifty percent on the first of January, on top of Saturday's fifty percent on twenty billion dollars of other goods. Carney's retaliation still lands on the eighth of September. And Ontario's premier said that if this worsens he will cut off the province's electricity and critical minerals.
+
+In Ukraine, the Times reports that a drone which killed three civilians near Zaporizhzhia was guided entirely by artificial intelligence, no human in the loop. In the debris were mini-computers made by Nvidia, not sold in Russia and freely available secondhand. Separately, a poll puts Zelensky at twenty-one percent in a presidential election, which is the number underneath his refusal to hold one.
+
+The United States removed Syria from its list of state sponsors of terrorism, which Damascus calls the last real obstacle to foreign investment. And ocean surface temperatures hit the highest ever recorded on Friday and Saturday, twenty-one point one degrees Celsius, on the European climate service's numbers.
+
+Now a minute of French, and then the European news in it.
+
+How would you say something doesn't appeal to you? Not that you object to it. That it just doesn't tempt you, and you'd rather not.
+
+Here it is.
+
+Ça me dit rien.
+
+English pushes you toward interest, so you build something with intéresser or attirer and it comes out stiff and slightly cold. French uses dire. The thing speaks to you or it doesn't. It runs the other way too, which is where you'll hear it most: Ça te dit ? Fancy it? And in speech the ne disappears, every time.
+
+And yesterday's, again. How would you say you can't get over something?
+
+J'en reviens pas.
+
+Now the continent, in French, and it begins with the weather.
+
+Une tornade a frappé le village de Pomas, dans l'Aude, lundi vers dix-sept heures vingt. Le bilan est lourd pour une commune d'environ mille habitants : trente-neuf blessés, dont une quinzaine hospitalisés, et trois cents habitations endommagées. Mardi matin, mille six cents foyers restaient privés d'électricité. Les images montrent des toitures arrachées et des maisons soufflées.
+
+Lundi, à Paris, la visite de Mohammed ben Salmane s'est conclue par une annonce spectaculaire. L'Élysée a confirmé un protocole d'accord pour un complexe de loisirs près de Cergy-Pontoise : trois parcs d'attractions, dont un consacré aux mangas, six milliards d'euros financés par des fonds saoudiens, et environ vingt-deux mille emplois attendus. Emmanuel Macron a parlé de « du jamais vu depuis Disneyland Paris ». Reste qu'un protocole d'accord n'est pas un chantier, et que la distance entre les deux se mesure souvent en années.
+
+La rentrée scolaire est devenue le premier terrain de la présidentielle. Gabriel Attal réclame dans « Le Monde » une loi de programmation pour l'école, un ministre qui reste cinq ans en poste, le rétablissement du certificat d'études et la fermeture des « collèges ghettos ». Édouard Philippe, dans « Le Figaro », promet vingt pour cent d'augmentation de la rémunération moyenne des enseignants en cinq ans. Deux candidats, deux journaux, le même lundi : ce n'est pas une coïncidence de calendrier.
+
+Et à Strasbourg, la Cour européenne des droits de l'homme se prononce ce mardi, une fois de plus, sur le sort d'Osman Kavala, le mécène turc emprisonné depuis bientôt neuf ans. Elle avait ordonné sa libération dès deux mille dix-neuf ; Ankara n'en a rien fait. Une décision favorable lui apporterait sans doute une reconnaissance, pas la liberté.
+
+Back in English, and to Iran, where yesterday's deadline produced something smaller than its billing.
+
+Scott Bessent announced what he has named Operation Economic Outcast, then described it himself as a warning shot rather than a full assault. Sixty entities, individuals and vessels were sanctioned immediately, and six sectors named for future action: oil, gold, cryptocurrency, aviation, technology and shipping. No country was designated and no deadline set. Tehran called it economic terrorism and vowed to retaliate. That is the first deep dive this morning.
+
+Two things moved around it. Pakistani officials left Tehran saying significant progress had been made toward ending the war, with the talks centred on reopening the Strait of Hormuz; their army chief reportedly spoke to the President before going. And China, which bought more than eighty percent of Iran's exported oil before the war, said only that its trade with Iran should not be disrupted.
+
+To the city, and one very large number.
+
+New York has priced the repair of the triple-decked stretch of the Brooklyn-Queens Expressway that officials call B.Q.E. Central. Roughly four billion dollars, for a mile and a half of road the city rather than the state owns. Work is not scheduled to start until twenty thirty, and parts of the Brooklyn Heights Promenade will close while it does. The three-level design was an engineering marvel on the drawing board in the nineteen forties and a problem for every administration since. Officials say it remains safe to drive on, at least for now, which is a sentence doing a great deal of work. Local officials called the plan encouraging and also the beginning of a multiyear approval process.
+
+The strangest download numbers of the year, before the long part. Two apps that deliver your text messages by virtual carrier pigeon are booming. One sends birds that fly at a hundred ten miles an hour and carry a zero point two percent chance of dying or getting lost en route. The rival offers a snail that moves at one mile an hour. More than seven hundred thousand downloads between them since April.
+
+One story worth more time this morning.
+
+Operation Economic Outcast. Strip out the branding and Monday produced sixty designations and a list of sectors, considerably less than had been promised since Wednesday. Bessent was explicit about why. Countries would be given time to remedy their bad behaviour, and Washington did not want to blow up the global financial system. That is a real constraint said out loud, and it is the whole story.
+
+The mechanism is secondary sanctions. Primary sanctions bar Americans from dealing with Iran, and those have been in place for decades and are close to exhausted. Secondary sanctions bar everyone else, by threatening any foreign bank, shipper or refiner that touches Iranian trade with the loss of access to the dollar system. They are extraordinarily powerful, and they are aimed at friends and rivals rather than at Iran, which is exactly why they are hard to fire. The country whose cooperation decides this is China, and China has now twice declined.
+
+So the administration has a choice it keeps postponing. Sanction a large Chinese bank and you get real pressure on Iran, a fight with Beijing, and possibly the end of the trade truce weeks before Xi Jinping arrives in Washington. Don't, and Tehran learns the ceiling here is rhetoric.
+
+Meanwhile Iran has found a revenue line inside the crisis. It has begun charging transit fees of up to two million dollars a voyage on some vessels through Hormuz, case by case rather than by rule. Under the law of the sea a coastal state may charge for services rendered, pilotage and the like, but not for passage through an international strait. The Economist calls the idea a phantom tollbooth, and notes Washington has floated collecting one too. A strait that generates rent is a strait somebody fights over.
+
+What would make this concrete is narrow. Whether any named foreign institution gets designated, rather than a vessel or a shell company. And whether Hormuz traffic climbs out of the twenties, because the Pakistani channel is the only part of this actually about ending the war.
+
+The second story, and it is a mechanism worth having.
+
+South Korea had the world's best stock market for most of a year. Samsung Electronics and SK Hynix both reached trillion-dollar valuations on memory demand, and the benchmark index more than tripled. Then it fell about forty percent in six weeks across June and July, erasing something like two and a half trillion dollars. Korean retail investors took most of it.
+
+A new paper by Yinhong Zhao at Princeton argues much of that violence was manufactured. A leveraged exchange-traded fund promises twice the daily move of a stock. To hold that ratio it must buy more when the stock rises and sell when it falls, and it does that at the close. Two things follow. The trade is predictable, because you can see the fund's size and the day's move. And it is self-enlarging, because the more you push the price up in the day, the more the fund must buy at four o'clock.
+
+So traders buy early, the price rises, the mandated purchase grows, and they sell into it. The fund buys high, and the next day it reverses.
+
+Scale is what makes Korea different. Single-stock leveraged funds listed there this year and went from four point three trillion won to fourteen trillion in three weeks. The daily forced rebalance in SK Hynix averaged twenty-two percent of the stock's entire traded volume, and hit fifty on the worst day. Zhao's estimate is that this took annualised volatility in that stock from about eighty-five percent to about a hundred thirty-seven over nine weeks, and moved nineteen percent of the products' terminal wealth away from their mostly retail holders.
+
+Twenty-two percent of daily volume, in a trade nobody chose to make. At that scale the tail is not wagging the dog. The tail is the dog.
+
+A few things I didn't get to.
+
+The administration has begun a review that could revoke visas from as many as two hundred thousand asylum applicants, the largest such action in American history, and proposed a hundred three thousand dollar fee on skilled-worker visas. Taiwanese prosecutors charged nine people, including an Nvidia employee, with smuggling advanced chips to China. OpenAI identified a pro-Kremlin propaganda network running through ChatGPT, including a fabricated Israeli think tank. Zambia closed its courts indefinitely the day before the deadline to challenge its presidential result. First Brands was pushed into liquidation. A retired banker and a Bank of America energy banker were charged with insider trading, on evidence amounting to a basketball game and a calendar entry. Flock Safety's licence-plate cameras have become an issue in midterm races. And Australia barred entirely machine-made music from its national charts.
+
+One thing to sit with this morning.
+
+Look back at the eternity of time that passed before we were born, and see how it has been nothing to us. This is the mirror nature holds up to the time that will come after our death.
+
+That is Lucretius, from the third book of On the Nature of Things, written in Latin hexameter in the first century before the common era. Almost nothing is known about the man. What survives is a hostile line from Saint Jerome three centuries later, claiming he was driven mad by a love potion, wrote the poem in his lucid intervals, and killed himself at forty-four. The poem nearly vanished with him, coming down through a single manuscript found in a German monastery in fourteen seventeen.
+
+The observation I'd make is that this is a symmetry argument, and symmetry arguments are only as good as the response they get. He is right that we are untroubled by the endless stretch before our birth. He is plainly wrong that we therefore feel the same about the stretch after. Everyone reads it, agrees it is tidy, and goes on being afraid.
+
+And finally, closer to home.
+
+You're on the north shore of Maui and the storm has moved on. Sunny and breezy, high near eighty-seven, northeast winds up to twenty-five miles an hour. That is the ordinary trade-wind day the last three haven't been, so whatever you wanted to do outside, today is the day for it.
+
+You're there through Thursday, then San Francisco, which will be roughly thirty degrees cooler and a good deal greyer. Pack something with sleeves.
+
+And Toronto is home to Kansas City tonight, sixty-four and sixty-eight, fourth in the division with a month to go. The Yankees have Houston in the Bronx. Both are evening games on the mainland, so afternoon baseball where you are.
+
+That's the morning. Have a good one.
