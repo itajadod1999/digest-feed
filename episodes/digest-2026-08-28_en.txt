@@ -1,0 +1,129 @@
+Good morning. Friday, August twenty-eighth. Here's what happened.
+
+Starting with markets, as of Thursday's close in New York. The S and P five hundred at about seventy-seven thirty, up seven tenths of a percent. The Dow just under fifty-three thousand five hundred seventy, up two tenths. The Nasdaq around twenty-six thousand five hundred forty, up one and six tenths, and the gap between those three tells you what did the work. The two-year Treasury at four point two three percent, a few basis points above where it spent most of the month. The ten-year at four point six seven, essentially unchanged. Brent near eighty-eight dollars. Gold around forty-six sixty. Bitcoin back at eighty thousand.
+
+Kevin Warsh gives the Jackson Hole keynote this morning, his first as chairman, and the expectation is that he says as little as possible. He has made a habit of it. Beth Hammack, who runs the Cleveland Federal Reserve, is under no such discipline. On CNBC yesterday: I believe now is the time to act. She means raise.
+
+The data underneath her is mixed. Initial claims for the week ending the twenty-second came in at two hundred three thousand, below the two hundred eight thousand expected. Nobody is being laid off. Nobody is being hired either, and I'll come back to that. Meanwhile American federal debt has passed forty trillion dollars, roughly double where it stood at the start of the President's first term.
+
+To deals, and the biggest is reported rather than announced.
+
+Nvidia has agreed to buy Hugging Face, where most of the open-source artificial-intelligence world stores and shares its models, for twelve point nine billion dollars. That is the Information's reporting, and no contract has been signed, so hold it loosely. If it lands, the company that sells the shovels also owns the town square.
+
+The other one is closer to credit. Velocity Financial is buying the operating platform of Toorak Capital, the business-purpose lender majority owned by funds advised by KKR affiliates, for sixty-three million dollars in cash. Separately, a third-party firm takes Toorak's book, about three billion dollars of unpaid principal across whole loans and two securitization trusts. Call it three point two billion all in.
+
+To real estate, where the interesting numbers are about what isn't getting built.
+
+New York multifamily development filings have fallen fifty-two percent, and what is still filed is smaller, mostly under a hundred units, as the tax incentives that made bigger projects work fade out.
+
+At the other end, law firms leased a record seven point three million square feet of office in the second quarter. They are the one reliably expanding office tenant in America.
+
+Something lighter before the technology. The Times ran its number of the day on Davoll's General Store in South Dartmouth, Massachusetts, open for business since seventeen ninety-three, six years into the Washington administration. Still a general store, and the paper's advice was to loiter and linger as long as you like.
+
+To technology.
+
+Following up on yesterday's Nvidia print, because the market answered overnight and it answered loudly. The shares rose eight point seven percent Thursday, adding four hundred forty-two billion dollars of market value in a session, the second-largest one-day gain on record behind Microsoft's four hundred fifty billion last month. What moved people was the guidance for seventy percent growth next fiscal year. I said yesterday the question was whether the customer base is widening. The market decided the supply story was answer enough.
+
+A federal judge ruled that the Department of War acted illegally when it blacklisted Anthropic. Disclosure: Anthropic makes me. In March the Pentagon labelled the company a supply-chain risk, barring any firm doing business with the department from working with it, after Anthropic asked for assurances its technology would not be used for autonomous weapons or mass surveillance.
+
+And beyond the foldable phone at Apple's event a week from Wednesday, expect the Watch Series twelve and home devices. John Ternus takes over from Tim Cook on Tuesday.
+
+Now the world.
+
+The Himalayan flood is far worse than the first count. Nepal alone now reports at least four hundred sixty-nine dead, the Times puts the total above five hundred, and the missing run from a thousand to fourteen hundred. The mechanism is understood now. Wednesday morning a six-hundred-metre-wide section of glacier broke free and fell one and a quarter kilometres. The energy of the fall melted enough of it to make a slurry, which burst dams and ran more than forty miles down the Bhote Koshi and Trishuli valleys. Chinese rescue teams stopped work yesterday on warnings of more flooding, and wrecked hydropower has taken out roughly eight percent of Nepal's generating capacity.
+
+The air war between Russia and Ukraine has entered a deadlier phase, on the Journal's reporting. A Russian barrage last week hit a children's hospital, a school and apartments around Kyiv, killing at least sixteen; Ukraine, short of Patriot interceptors, brought down none of the ballistic missiles. Wednesday a Ukrainian drone struck one of Russia's largest refineries, near Nizhny Novgorod. Moscow is trying to break the civilian population, Kyiv to make the war unaffordable. Neither is close.
+
+On the Central Intelligence Agency director's Moscow trip, the outlets have split. The Journal said he went to warn Russia against attacking NATO; the Times says he urged Russia to end the war in Ukraine. Corriere della Sera's Federico Rampini offers the reading nobody wants: sending intelligence chiefs can mean the opposite of a deal.
+
+The President signed an executive order renaming Lake Ontario as Lake America. That's the second deep dive.
+
+Two deaths. King Harald the Fifth of Norway died at eighty-nine after treatment for anaemia, ending a thirty-five-year reign; his son Haakon succeeds him. And Ratko Mladic, the Bosnian Serb general convicted of genocide at Srebrenica, died at eighty-three.
+
+Now a minute of French, and then the European news in it.
+
+How would you say you can't wait for something? Not that you're waiting patiently. That you want it to be here already.
+
+Here it is.
+
+J'ai hâte.
+
+English gives you a phrasal verb, looking forward, and French has nothing that maps onto it, so you reach for j'attends avec impatience and it comes out sounding like the last line of a cover letter. French makes it a noun you possess. La hâte is haste, and you have it, the way you have hunger. Extend it and it stays natural. J'ai hâte d'y être.
+
+And yesterday's, again. How would you say you got taken for a ride?
+
+Je me suis fait avoir.
+
+And Wednesday's. How would you say you can't be bothered?
+
+J'ai la flemme.
+
+Now the continent, and the French campaign has found its first real fault line.
+
+Le débat de Roland-Garros a eu lieu. Sept candidats, sur le court Philippe-Chatrier, devant le patronat réuni par le Medef : Marine Le Pen, Jean-Luc Mélenchon, Édouard Philippe, Gabriel Attal, Raphaël Glucksmann, Bruno Retailleau et Marine Tondelier. Le constat du « Monde » ce matin est net : sur les enjeux économiques, le clivage gauche-droite s'impose de nouveau. Après des années où l'on nous expliquait que cette grille de lecture était morte, elle revient par la porte du budget.
+
+Sébastien Lecornu a terminé hier deux jours à Mayotte, accompagné de six ministres, presque deux ans après le cyclone Chido. Il a concédé lui-même que la reconstruction était trop lente, et promis de nouveaux moyens contre l'immigration clandestine.
+
+Une affaire passée presque inaperçue : l'armée française a annoncé qu'un légionnaire franco-colombien, le caporal José Olger Melo Charry, a été enlevé le six août dans le département de Nariño, en Colombie. Il serait retenu par des dissidents des Farc.
+
+Demain, l'Islande vote. Le référendum ne porte pas sur l'adhésion, mais sur la reprise des négociations avec l'Union européenne, gelées depuis deux mille treize. Cinquante-sept pour cent des Islandais y sont favorables. Le scrutin est consultatif, et une adhésion véritable exigerait un second référendum, peut-être dès deux mille vingt-huit. Restent les deux obstacles habituels : la pêche et l'agriculture protégée.
+
+Et deux chiffres espagnols qui vont mal ensemble. L'inflation est remontée à quatre virgule trois pour cent en août, contre trois virgule six en juillet, à cause des carburants. Et pourtant la Banque d'Espagne table sur une croissance de deux virgule trois pour cent cette année, quand la Banque centrale européenne n'en attend que zéro virgule huit pour toute la zone euro. L'Espagne a de l'inflation parce qu'elle a de la croissance. Les autres aimeraient avoir ce problème.
+
+Back in English, and to Iran, where the war turns six months old today.
+
+Qatar's prime minister spent Thursday in Tehran, meeting the foreign minister, the president and the head of the national security council. What he was carrying is a framework Iran and Oman have negotiated over two months: temporary maritime routes for commercial vessels through the Strait of Hormuz, and a joint operation to clear the mines. Yesterday I said the Revolutionary Guard's account was running ahead of the diplomats'. The mine-clearing piece is new, and it is the part that would actually take time.
+
+Iran's condition has not moved. The Americans lift the naval blockade and return to the June memorandum, or nothing is implemented. Washington says it is not talking to Iran. Brent near eighty-eight dollars is the market splitting the difference.
+
+The Economist's framing of the anniversary is the one to have. The campaign began with overwhelming force and the expectation the government would crack. It killed the supreme leader. Six months on the hardliners are stronger, the strait is throttled, and the remaining leverage runs through China, which has twice declined to help.
+
+To the city, and one small idea I like. New York's mayor, the governor and the Metropolitan Transportation Authority announced this month a study of a thermal energy network under the Brooklyn Bridge-City Hall and Chambers Street station complex, pulling heat off the platforms in summer and piping it into nearby municipal buildings in winter. It would be the first in an American transit system. Treating platform heat as an asset rather than a complaint is the interesting part of that.
+
+One story worth more time this morning.
+
+The commercial mortgage maturity wall, because the phrase has been used so loosely for three years that it stopped meaning anything, and this is the year it stops being a forecast.
+
+The mechanism first. A commercial mortgage is usually interest-only over five or ten years, with the principal due in a lump at the end. Nobody expects to pay that lump. You refinance it, which works as long as the new loan is at least the size of the old one. That depends on the building's net operating income and the rate a lender will write against it. Move either and somebody writes a cheque for the difference.
+
+The numbers. Roughly nine hundred thirty-six billion dollars of commercial mortgages mature this calendar year. Of the securitized slice, more than a hundred billion comes due in twenty twenty-six, and over half of that is expected to default rather than refinance cleanly. Office delinquency in commercial mortgage-backed securities passed twelve percent early this year.
+
+Here is the part the aggregate hides. Office loans in five of America's three hundred eighty-seven metropolitan areas account for a little over a third of all office delinquencies in the securitized market. This is not a national condition. It is five cities, and inside them a specific vintage of building.
+
+And capital has noticed. Banks originated four hundred fifty-five billion dollars of commercial property loans in the first quarter, up eighty percent year over year. Prime assets are being refinanced enthusiastically. The rest are being handed back.
+
+So the wall is real, and it is also not a wall. It is a sieve, and what gets through has been sorted by quality rather than by date. What would make the next year worse is the thing that hasn't happened: a repricing of the good buildings. If that stops holding, the sorting stops working.
+
+The second story, and it is a serious argument told through a silly gesture.
+
+The President signed an executive order yesterday renaming Lake Ontario as Lake America, effective immediately. Federal agencies and mapping systems will use it. Canada will not, and legally nobody else has to.
+
+The reaction was bipartisan and unkind. Debbie Dingell, a Michigan Democrat, called it idiotic and will introduce a bill Monday titled the Hands Off Our Great Lakes Act. Vermont's Republican governor called it petty. Officials in Wisconsin said Lake Wisconsin sounded good to them.
+
+Underneath the joke is a trade war on a timetable. American tariffs of fifteen to fifty percent on twenty billion dollars of Canadian goods are already in force. Canada's matching retaliation, plus a doubling of steel and aluminium tariffs to fifty percent, lands on the eighth of September. Fifty percent on Canadian cars, parts and steel arrives on the first of January. Ontario's premier has threatened to cut off electricity and critical minerals. The American measures rest on Section three thirty-eight, a provision nearly a century old and largely untested, which is where this goes to court.
+
+And one genuinely new thread. A Canadian official said this week the United States has objected to Canada's use of the French language in the negotiations themselves, and that if the administration dropped that, talks could resume. Single-sourced so far. But it is the first condition either side has named for restarting, and it is about the language the documents are written in.
+
+A few things I didn't get to.
+
+A leaked Florida grand jury report found the governor's administration misappropriated ten million dollars through a charity founded by his wife; no charges, and Ron DeSantis says the only illegal act was the leak. Net immigration to America in twenty twenty-five was roughly zero, against more than two million a year in the three years before, and employers have added an average of thirty thousand jobs a month for eighteen months, against two hundred thirty thousand before that. A cyclosporiasis outbreak traced to Mexican iceberg lettuce has infected nearly twelve thousand people and killed two, and has spread to Georgia, Tennessee and Texas. Wheat futures hit a three-year high near seven dollars sixty a bushel on Black Sea disruption. Tokyo core inflation rose a third straight month to one point eight percent, making a September Bank of Japan rise close to settled. Three Stars and Stripes journalists sued the government over firings they say followed their reporting on the Abraham Lincoln. And the Federal Aviation Administration is moving to fire two LaGuardia controllers who left early the night of March's fatal collision.
+
+One more before the long thought, and it is the strangest auction result of the year. At RM Sotheby's in Monterey this month, chassis number zero of Ferrari's first electric production car sold for forty million dollars as a charity lot. About sixty times sticker, a record for a new car of any kind and for an electric one. Somebody has bought the first of something nobody has driven anywhere.
+
+One thing to sit with this morning.
+
+I do not wish them to have power over men; but over themselves.
+
+That is Mary Wollstonecraft, from A Vindication of the Rights of Woman, written in roughly six weeks in the autumn of seventeen ninety-one and published in London that January. She addressed it by name to Talleyrand, who had just proposed to the French National Assembly that girls' state education end at the age of eight. She was thirty-two, supporting herself entirely by writing and translating, which almost no woman in England did.
+
+The observation I'd make is about the shape of the sentence, which gives something away before it asks for anything. She concedes the frame first, and the request that follows is deliberately the smaller of the two. Self-command is a thing you can ask for without frightening anyone, because it costs the people holding power nothing. It is a tactical sentence, read for two centuries as a modest one.
+
+And finally, closer to home.
+
+You're in San Francisco through Tuesday, then Seattle that night and the Olympic Peninsula the back half of next week. Today is a proper city summer day rather than a warm one: cloudy early, breaking up later, high near sixty-nine, wind out of the west-southwest, low around fifty-six tonight. A layer after dark.
+
+The Prince estate releases Timeless today. Ten unreleased vault tracks spanning nineteen seventy-seven to twenty sixteen, from I Am You, cut a year before the first album, to a live How Come You Don't Call Me Anymore from one of his last shows. After ten years of litigation over that vault, it is the first real sign it is going to open. And Sunday night, Kasbo is at the Midway.
+
+And a rough one in Toronto: Kansas City took the Blue Jays thirteen to two. The Yankees beat Houston five to one, Milwaukee took the Mets eight to two.
+
+That's the morning. Have a good one.

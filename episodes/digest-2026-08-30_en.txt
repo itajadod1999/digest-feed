@@ -70,19 +70,19 @@ How would you say something is a hassle? Not difficult in any technical sense. A
 
 Here it is.
 
-[[FR]]C'est galère.[[/FR]]
+C'est galère.
 
 The obvious version fails because it is flat rather than wrong. The textbook reaches for a word meaning difficult or complicated, and both are correct and both land like a form letter. The noun underneath this one is a galley, the ship convicts were sentenced to row, and French kept it for anything that feels like that.
 
 It bends in every direction.
 
-[[FR]]Quelle galère. On a galéré pour trouver un taxi.[[/FR]]
+Quelle galère. On a galéré pour trouver un taxi.
 
 And note there is no article in the plain form. Two words, nothing between them. Adding one is the tell.
 
 That gets you into the continent, where the vote came in last night.
 
-[[FR]]Les Islandais ont dit non. Cinquante-deux virgule huit pour cent contre la reprise des négociations d'adhésion à l'Union européenne, quarante-sept virgule deux pour cent pour.
+Les Islandais ont dit non. Cinquante-deux virgule huit pour cent contre la reprise des négociations d'adhésion à l'Union européenne, quarante-sept virgule deux pour cent pour.
 
 Samedi, je disais qu'un sondage Gallup donnait cinquante et un et demi pour cent de oui, et que ce n'était une marge pour personne. C'était plus serré encore, et dans l'autre sens. Reykjavik est la seule circonscription du pays à avoir voté oui. Le reste a tranché pour la pêche. Le dossier est enterré jusqu'en deux mille vingt-huit au moins, et Bruxelles perd un candidat riche qu'elle voulait vraiment.
 
@@ -92,7 +92,7 @@ Un bilan climatique, aussi. « Le Monde » publie ce matin les chiffres de l'ét
 
 En Suisse, des tirs en marge d'une rave party à Aarau ont fait plusieurs victimes samedi soir.
 
-Et à Londres, le carnaval de Notting Hill fête ses soixante ans. Né d'une protestation contre le racisme, c'est devenu la plus grande fête de rue d'Europe. « The Economist » relève au passage un chiffre qui va moins bien : environ soixante-dix pour cent des Britanniques blancs sont propriétaires de leur logement, contre vingt-quatre pour cent des ménages noirs.[[/FR]]
+Et à Londres, le carnaval de Notting Hill fête ses soixante ans. Né d'une protestation contre le racisme, c'est devenu la plus grande fête de rue d'Europe. « The Economist » relève au passage un chiffre qui va moins bien : environ soixante-dix pour cent des Britanniques blancs sont propriétaires de leur logement, contre vingt-quatre pour cent des ménages noirs.
 
 Back in English, and one small thing about how a city gets made. There are more than a million street signs in New York, and every one of them comes out of a single building in Queens staffed by forty-six people. A city of eight and a half million navigates on the output of a room you could walk across.
 
