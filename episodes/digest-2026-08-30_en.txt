@@ -1,0 +1,117 @@
+Good morning. Sunday, August thirtieth. Here's what happened.
+
+A quick pass through the last two days first, then one long one.
+
+Markets, as of Friday's close in New York. The S and P five hundred at about seventy-seven ten, down a quarter of a percent. The Dow just under fifty-three thousand five hundred sixty, essentially flat. The Nasdaq around twenty-six thousand four hundred, down half a percent. The two-year Treasury at four point three six, twelve basis points higher on the day, and that is the number the week turned on. The ten-year at four point seven two, up five. Brent near eighty-eight dollars, down more than five percent on the week. Gold around forty-six sixty an ounce. Bitcoin about seventy-seven thousand four hundred.
+
+The two-year moved because Kevin Warsh spoke at Jackson Hole. He called inflation, at three point seven percent on the Federal Reserve's preferred measure, more concerning than the labour market, and said that if it stays there the Fed has work to do. Odds of a September rise went from thirty-five percent to fifty-eight.
+
+The weekend framing is less flattering than Friday's. The Times this morning has Warsh talking himself into a no-win situation: raise in three weeks and infuriate the President, hold and revive every doubt about whether he will ever act. Nick Timiraos at the Journal lands in the same place, that Warsh quieted the concerns about his strategy and thereby raised the bar for standing pat. One inflation print between here and the meeting.
+
+The Economist's leader this week is on the other half of that: Scott Bessent's decision to expand buybacks of long-dated Treasuries looks, the paper argues, like the politicisation of the world's most important asset market, and it expects more of the same while the debt stays where it is. Federal debt passed forty trillion dollars this week.
+
+To deals, where the largest item of the week is still reported rather than signed. Nvidia has agreed to buy Hugging Face, where most of the open-source artificial-intelligence world stores its models, for twelve point nine billion dollars. That is the Information's reporting, no contract has been signed, and it has not moved since. Vanguard is buying Altruist for four billion. Velocity Financial is taking Toorak Capital's operating platform for sixty-three million in cash, with a third party absorbing about three billion dollars of unpaid principal. Advent and Stripe walked away from a bid of more than fifty billion for PayPal, on Bloomberg's reporting. And Shein's Hong Kong listing prices Tuesday.
+
+In real estate, the Times published an investigation this morning into Nob Hill, a sprawling apartment complex in Syracuse that was a coveted address for decades and is now a case study in what happens when a private-equity owner treats maintenance as a cost line. Neglect, squalor, and a family that paid for it with a death.
+
+To technology. Nvidia's quarter was the event of the week and the market's answer was emphatic: shares up eight point seven percent Thursday, four hundred forty-two billion dollars added in a session, the second-largest one-day gain on record. Meta's settlement with the states came in at seventeen point one billion dollars, and the Times has the account of how it came together, which is that the company's new top lawyer brought a number to the table once the legal losses started stacking up. And Apple hands over Tuesday, John Ternus taking the job from Tim Cook, with the event on the ninth.
+
+Something lighter before the world news, and it is the largest beer heist anybody can remember. A truck carrying forty thousand pounds of Pabst Blue Ribbon, better than fifty thousand cans, was taken in Montclair, California on Thursday. Pabst gave the thief eighteen days and forty-four minutes to bring it back, no questions asked. It has not explained the forty-four minutes. It added, and I am quoting, this is real and we are deadly serious.
+
+Now the world, where most of what moved got worse.
+
+The Himalayan flood is at seven hundred fifty dead and three thousand forty-four missing. Seven hundred thirty-four of the deaths are in Nepal, sixteen in Gyirong County on the Chinese side, where Beijing said yesterday that two hundred sixty-one foreigners from twenty-three countries are unaccounted for. That is the clearest number China has released. Rescue crews are working on hundreds believed trapped in hydropower tunnels, and have been pulled off the site repeatedly since Friday because a mudslide has dammed a new lake across the border. The Red Cross puts the affected population above ninety thousand.
+
+In Ukraine, the Zaporizhzhia nuclear plant is running on emergency diesel generators and has been for more than a week. It lost its last off-site power line on the twentieth of August. Rafael Grossi, who runs the International Atomic Energy Agency, said the plant has roughly ten days of fuel left, and that without restored power or new diesel deliveries it faces a total loss of electricity. All six reactors are shut down, but shut reactors and their spent fuel pools still need pumps, and pumps need power.
+
+Separately, a Russian strike on a weapons depot near Kyiv killed thirty-seven people. The depot was in a civilian area, and Volodymyr Zelensky said plainly that it definitely should not have been there. Kyiv is blaming its own negligence for the siting as well as Russia for the strike.
+
+In the West Bank, Israeli settlers attacked a Palestinian village on Saturday. The assault was severe enough that Benjamin Netanyahu and other Israeli officials condemned it, which is not the usual pattern.
+
+On Iran, six months into the war, the shipping picture is the story. The United Nations' maritime agency says at least six thousand sailors are still stranded aboard hundreds of ships in the Gulf, and that nineteen seafarers have been killed since February. The Revolutionary Guard's navy said Saturday that its control of the Strait of Hormuz is complete and that American statements about the strait being open are a lie. Traffic remains far below normal. The Iran-Oman framework for temporary lanes and mine clearing is agreed and unimplemented, because Tehran will not move until Washington honours the June memorandum, and Washington says it is not talking to Iran.
+
+And one from science this morning. NASA's Nancy Grace Roman Space Telescope went up on a Falcon Heavy from Kennedy, a four point three billion dollar instrument headed a million miles out to hunt dark energy. Its field of view is at least a hundred times Hubble's, which is the whole point: it is built to survey rather than to stare, and may measure light from a billion galaxies. First observations around December.
+
+One story worth real time this morning, and it is a structure rather than an event.
+
+The Journal reported this weekend that wealthy Americans are pouring billions into something called private-placement life insurance. Miriam Gottfried's framing is the useful one: a Roth individual retirement account with no contribution limit. Here is the machinery underneath that.
+
+Start with ordinary life insurance. You pay a premium, the insurer holds and invests it, a cash value builds inside the contract, and when you die a death benefit goes to your beneficiaries free of income tax. Crucially, the money compounding inside that contract is not taxed year by year. That treatment is old and deliberate: society decided widows should not be taxed on the proceeds.
+
+Private-placement life insurance takes that wrapper and changes what is inside it. Instead of the insurer's conservative portfolio, the cash value goes into whatever the buyer and the carrier agree on: hedge funds, private credit, private real estate, the whole alternative shelf.
+
+Now think about why those particular assets. A hedge fund trading actively throws off short-term gains, taxed at ordinary income rates. A private credit fund throws off interest, also ordinary income. Both generate tax forms every spring and a bill whether or not you took any cash out. These are the most tax-inefficient assets a rich person can own. Put them inside the insurance wrapper and the annual bill goes away. Nothing is realised, nothing is reported, it compounds gross, and if the policy is held until death it passes to heirs without ever being taxed at all.
+
+That is the entire product. It is not an investment strategy. It is a container.
+
+The numbers come from the Senate. Ron Wyden ran an eighteen-month investigation through the Finance Committee and reported in early twenty twenty-four that the domestic market held at least forty billion dollars across the seven largest carriers, owned by roughly three thousand Americans. The average death benefit was almost thirteen million dollars. The committee also obtained the marketing decks, which pitched the product explicitly as a tax-free way to hold private equity and hedge funds and as a route around income, gift and estate tax. Minimum premiums run one to two million dollars and usually a good deal more, which is why the count is three thousand people rather than three million.
+
+Now the catch, which is the reason this has stayed a niche rather than a national scandal.
+
+For the contract to be insurance in the eyes of the Internal Revenue Service, and not a brokerage account wearing a costume, the policyholder cannot control the investments. This is the investor-control doctrine, and it is not a statute. It is decades of rulings pointing the same direction: you may choose the manager or the strategy when you sign, and after that you may not pick up the phone and tell anyone to sell Nvidia. You cannot vote the positions or direct the trades. Separate rules cap how much of the account any single holding can be.
+
+Cross the line and the consequence is not a fine. The Service simply treats you as the owner of the underlying assets and taxes you on everything the account has earned, going back. The wrapper does not fail gently.
+
+There is a second requirement people forget. To be life insurance at all, under section seventy-seven oh two of the code, the contract has to carry real mortality risk, meaning a death benefit meaningfully larger than the cash value. So you are obliged to buy insurance you may not want in order to get the tax treatment you do. That is the toll, and the whole calculation is whether the toll is smaller than the tax.
+
+So what would have to happen for any of this to change.
+
+Legislation is the obvious answer and probably the wrong one. Wyden introduced the Protecting Proper Life Insurance from Abuse Act on the thirteenth of April this year, which would reclassify policies meeting certain tests as private placement contracts and strip the insurance treatment. It is a serious bill, drafted by people who have read the marketing decks, and it is going nowhere on its own: Wyden is the ranking member, not the chairman, and a provision like this moves only when it gets attached to a larger tax vehicle as a revenue offset. Watch the next reconciliation bill, not the calendar.
+
+The nearer risk is enforcement. Investor control is a doctrine rather than a bright line, which means it gets decided one audit at a time, quietly, for years before anyone outside sees a case.
+
+And the reason the balance is shifting is not about insurance at all. It is about where yield now lives. As more of the world's lending has moved out of banks and public bonds and into private credit funds that generate ordinary income, the pile of assets suffering the worst possible tax treatment has grown enormously, and a wrapper that defers that tax gets more valuable automatically. The forty billion number is two years old. Nobody has published a newer one, and the Journal's reporting on the current growth is single-sourced.
+
+The thing I would actually watch is discipline at the carriers. The product works because buyers genuinely give up control. If it gets sold widely enough to people who are used to managing their own money, some of them will keep managing it, and the doctrine will get tested by someone who did not mean to test it.
+
+Now a minute of French, and then the European news in it. New week, fresh phrase, and this one is about register rather than vocabulary.
+
+How would you say something is a hassle? Not difficult in any technical sense. A pain. A slog. The thing you complain about by text.
+
+Here it is.
+
+C'est galère.
+
+The obvious version fails because it is flat rather than wrong. The textbook reaches for a word meaning difficult or complicated, and both are correct and both land like a form letter. The noun underneath this one is a galley, the ship convicts were sentenced to row, and French kept it for anything that feels like that.
+
+It bends in every direction.
+
+Quelle galère. On a galéré pour trouver un taxi.
+
+And note there is no article in the plain form. Two words, nothing between them. Adding one is the tell.
+
+That gets you into the continent, where the vote came in last night.
+
+Les Islandais ont dit non. Cinquante-deux virgule huit pour cent contre la reprise des négociations d'adhésion à l'Union européenne, quarante-sept virgule deux pour cent pour.
+
+Samedi, je disais qu'un sondage Gallup donnait cinquante et un et demi pour cent de oui, et que ce n'était une marge pour personne. C'était plus serré encore, et dans l'autre sens. Reykjavik est la seule circonscription du pays à avoir voté oui. Le reste a tranché pour la pêche. Le dossier est enterré jusqu'en deux mille vingt-huit au moins, et Bruxelles perd un candidat riche qu'elle voulait vraiment.
+
+En France, la rentrée politique s'est faite ce week-end à Blois, à l'université d'été du Parti socialiste. Olivier Faure et Raphaël Glucksmann, les deux favoris de la primaire à gauche, se sont affrontés à fleurets mouchetés, chacun avançant ses soutiens tout en appelant à éviter les coups bas, pour que le vainqueur n'en sorte pas abîmé. À droite, à Cannes, David Lisnard plaide de son côté pour une grande primaire. Aucun des deux camps n'a encore de date.
+
+Un bilan climatique, aussi. « Le Monde » publie ce matin les chiffres de l'été français : canicules, sécheresse, incendies, un nombre impressionnant de records battus en quatre-vingt-douze jours. En Haute-Corse, un incendie a parcouru environ cent trente hectares et n'est toujours pas éteint.
+
+En Suisse, des tirs en marge d'une rave party à Aarau ont fait plusieurs victimes samedi soir.
+
+Et à Londres, le carnaval de Notting Hill fête ses soixante ans. Né d'une protestation contre le racisme, c'est devenu la plus grande fête de rue d'Europe. « The Economist » relève au passage un chiffre qui va moins bien : environ soixante-dix pour cent des Britanniques blancs sont propriétaires de leur logement, contre vingt-quatre pour cent des ménages noirs.
+
+Back in English, and one small thing about how a city gets made. There are more than a million street signs in New York, and every one of them comes out of a single building in Queens staffed by forty-six people. A city of eight and a half million navigates on the output of a room you could walk across.
+
+One thing to sit with this morning.
+
+The fish-trap is employed to catch fish; but when the fish are got, the men forget the trap. Words are employed to convey ideas; but when the ideas are apprehended, men forget the words. Fain would I talk with a man who has forgot the words.
+
+That is Zhuangzi, in James Legge's translation, from a chapter probably assembled a century or more after the man himself was writing, in the fourth century before the common era. It was the Warring States period, when philosophers were mostly employed advising rulers how to win. Zhuangzi declined that work. The story he left about himself is that when the king of Chu sent officials to make him prime minister, he asked whether they had heard of the sacred tortoise, dead three thousand years and kept wrapped in a box in the ancestral temple, and whether it would rather be honoured in a box or alive dragging its tail in the mud.
+
+The observation I would make is that the last line is a joke at the expense of the first two. He wants to find a man who has forgotten words so he can have a conversation with him, which will require words. And I think the analogy is doing less work than it appears. A trap and a fish are two different objects. With language they are not separable in the same way. Very often the phrasing is the idea, and what you have when you discard the words is a different, smaller thing that you have told yourself is the same one.
+
+And finally, closer to home.
+
+You're in San Francisco through Tuesday, and it's a mild grey one today: cloudy early, breaking up in the afternoon, high near sixty-eight, low around fifty-seven tonight, wind out of the southwest at ten to twenty. A layer after dark.
+
+Tuesday night you fly to Seattle, and the back half of the week is the Olympic Peninsula, so this is the last of the city for a while.
+
+Coffee, and this one is worth the walk. Rize Up, the bakery that made its name on those purple ube sourdough loaves at the farmers markets, has opened its first cafe inside its own production kitchen in SoMa. Bread that was already very good, served for the first time in a room where you can sit down with it.
+
+And a rough Saturday in the Bronx. Boston took the Yankees six to nothing in one half of a doubleheader at the Stadium, a shutout with seven strikeouts and no walks, and the two clubs finish the series today with the wild card genuinely in play. Toronto and Seattle also close out this afternoon at the Rogers Centre.
+
+That's the morning. Have a good Sunday.
