@@ -1,0 +1,115 @@
+Good morning. Saturday, August twenty-ninth. Here's what the week came to.
+
+Friday's close in New York. The S and P five hundred at about seventy-seven ten, down a quarter of a percent. The Dow just under fifty-three thousand five hundred sixty, essentially flat. The Nasdaq around twenty-six thousand four hundred, down half a percent. The ten-year Treasury at four point seven two, up five basis points on the day. Brent near eighty-eight dollars, down more than five percent on the week. Gold around forty-six sixty an ounce. Bitcoin about seventy-seven thousand four hundred, down three and a half percent.
+
+The number that carries the week is the two-year. It sat at four point two four Friday morning and touched four point three six a few hours later. Stocks down, short rates up: that is a market repricing the Federal Reserve rather than repricing the economy. It happened between about ten and eleven in the morning in Wyoming, and it is this morning's deep dive.
+
+Before that, the accounting, because that is what Saturday is for.
+
+On Monday I said the thing that would make Warsh's speech matter was whether he put a framework on the table at all, and that if he didn't, the market would keep guessing. That one landed, though not in the shape I expected. He put a framework down and refused the guidance, and the market moved anyway.
+
+Where I was wrong was Wednesday, on Nvidia. I said what would make the print matter was whether the customer base is widening, because the worry all year had been circular financing. The company didn't answer that question. It answered a different one, about supply, and the market accepted the substitution without complaint. The shares rose eight point seven percent Thursday and added four hundred forty-two billion dollars of market value in a session, the second-largest one-day gain on record. I framed the test correctly and the market declined to sit the exam.
+
+And one I'll take. On Tuesday, on the Iran sanctions, I said what would make the campaign concrete was narrow: whether any named foreign institution got designated, rather than a vessel or a shell company. Thursday the Treasury moved against the Emirates branch of an Egyptian bank over its financial ties to Tehran. That is the first one, and it is the smallest possible version of it.
+
+To deals, where the week was busy and the biggest item is still reported rather than signed.
+
+Nvidia has agreed to buy Hugging Face, where most of the open-source artificial-intelligence world stores its models, for twelve point nine billion dollars. That is the Information's reporting and no contract has been signed, so hold it loosely.
+
+Vanguard is buying Altruist, a wealth-management platform, for four billion. Velocity Financial is buying the operating platform of Toorak Capital for sixty-three million in cash, with a third party taking Toorak's book, about three billion dollars of unpaid principal. Call the whole thing three point two billion.
+
+And one that died. Advent and Stripe have walked away from a bid of more than fifty billion dollars for PayPal, on Bloomberg's reporting. It would have been the largest financial-technology acquisition ever attempted. PayPal wanted more.
+
+Shein's Hong Kong listing prices on the first of September. I spent Monday on it. That one is still open.
+
+To real estate, where the week produced one very large financing and one number about what isn't happening.
+
+Millennium Partners closed eight hundred fifty-six million dollars across Winthrop Center in downtown Boston. Morgan Stanley and Barclays wrote a five-year, five hundred seventy-five million dollar securitized loan against eight hundred twenty-four thousand square feet of office. Nuveen Green Capital added a twenty-year, two hundred eighty-one million dollar clean energy assessment loan against the residences, believed to be the largest of its kind ever done in New England.
+
+Against that: New York multifamily development filings are down fifty-two percent, and what still gets filed is smaller, mostly under a hundred units, as the tax incentives that made larger projects work fade out. And a New York judge sent five hundred and five hundred twelve Seventh Avenue to a foreclosure auction over about three hundred fifty-six million dollars of debt, on a ground lease the partnership bought in nineteen ninety-nine for a hundred forty million.
+
+Something lighter before the technology, and it is a film that was killed and came back. Coyote versus Acme opened in theatres Friday. Warner Bros. spent about seventy million dollars making it, finished it, then shelved it in twenty twenty-three as part of a hundred fifteen million dollar tax writeoff. A small distributor called Ketchup Entertainment bought the worldwide rights for fifty million and marketed the film on the story of its own near-destruction. One trailer line: the Acme Corporation is releasing this film for accounting purposes only. It took one point seven million in previews and is tracking for a fifteen million dollar opening.
+
+To technology.
+
+Nvidia's quarter was the event of the week: ninety-six point two billion dollars of revenue, fifty-nine point seven billion of profit, both more than double a year ago, and guidance for seventy percent growth next fiscal year. The Journal put the company's supply-chain commitment at something like two hundred seventy-nine billion dollars, which is how you win a supply war and also how a demand air pocket turns into an expensive inventory problem.
+
+A federal judge ruled that the administration violated Anthropic's First Amendment rights when the Department of War blacklisted the company in March. Disclosure: Anthropic makes me. And OpenAI cut off Cursor, the coding company Elon Musk's SpaceX recently bought, saying Musk-owned firms have a track record of flouting terms of service.
+
+Apple hands over on Tuesday. John Ternus takes the chief executive job from Tim Cook, with the event on the ninth and a folding phone expected. The Economist's read on him is worth having: Apple has not shipped a genuinely new device in years, its artificial-intelligence effort has flopped to the point that it now pays Google for Gemini, and the answer it has chosen is to promote the hardware engineer. If the boom turns, that starts looking less like conservatism and more like position.
+
+Now the world.
+
+The Himalayan flood is the largest story of the week by any measure and it grew every day. Monday it did not exist. Wednesday morning a section of glacier six hundred metres wide broke free above the Nepal-Tibet border and fell a kilometre and a quarter, melting enough of itself on the way down to become a slurry that burst dams and ran more than forty miles down two valleys. Thursday the count was a hundred sixty-five. This morning it is at least five hundred seventy-nine, with more than two thousand missing, and roughly eight percent of Nepal's generating capacity destroyed.
+
+Late Friday the President announced what he called the biggest oil deal in world history: American majority control of more than sixty-five billion barrels of proven Venezuelan reserves. Le Monde has the shape of it, seventeen strategic fields against more than a hundred billion dollars of investment. The administration says Washington holds over half the value of a new oil company, split between equity and guaranteed at-cost supply, going to the strategic reserve and the military, at no cost to taxpayers. Venezuela's interim president, Delcy Rodríguez, said she hoped it would revive the country. Almost no other detail has been released, and Chevron is separately in talks to expand there. Announced, not documented.
+
+The Canada trade war became permanent furniture this week. Fifty percent tariffs on Canadian cars, parts and steel from the first of January, Canadian retaliation on the eighth of September, and on Thursday an executive order renaming Lake Ontario as Lake America. The reaction was bipartisan and unkind, and businesses around Niagara Falls have said flatly they aren't changing their signs.
+
+And Iran's war turned six months old on Friday. The Economist's framing is the one to keep. It began with overwhelming force and the expectation that the government would crack. It killed the supreme leader. Six months on the hardliners are stronger, the strait is throttled, and the leverage that remains runs through China, which has twice declined to use it. The Times calls it the President's own version of a forever war. Oil fell five percent this week anyway, because the market has decided this is a sanctions fight rather than a supply emergency.
+
+One story worth more time this morning, and it is Friday in Jackson Hole.
+
+Kevin Warsh has been chairman since May and has said almost nothing about the economy in that time, which economists found infuriating and which he has now defended in writing. His argument is that transparency about future policy decisions is not a virtue in itself, and that heavy forward guidance creates what he called a hall-of-mirrors problem: the market watches the Fed, the Fed watches the market, and both stop watching the economy. That is a real position, held by serious people, and it is the first coherent thing anyone outside the building has had to work with.
+
+Then he gave the assessment anyway. Inflation on the Fed's preferred measure is three point seven percent over twelve months and four point one over six, so the recent direction is the wrong one. Fifty-four percent of the goods and services in that basket rose more than three percent over the year. Unemployment is four point one percent and flat, claims are near historic lows, and he called the labour market consistent with full employment. Inflation, he said, is the more concerning of the two. If it stays here, the Fed has, in his words, work to do.
+
+That is not forward guidance. It is a description of conditions plus a description of the reaction function, which gets you to the same place by a different road, and the market did the arithmetic instantly. Odds of a September rise went from thirty-five percent to fifty-eight on the Chicago Mercantile Exchange's data. The two-year jumped twelve basis points. The thirty-year, which spent last week at a nineteen-year high on the suspicion that this Fed lacked the nerve to raise, actually eased.
+
+Which is the part I'd sit with. The complaint about Warsh all summer was that his silence was costing credibility. Friday suggests something narrower: that the silence was costing the short end and buying the long end nothing, and that one paragraph of honest description bought more than three months of quiet. There is one more inflation print before the September meeting. If it comes in soft, we find out whether Friday was a signal or a mood.
+
+Now the French, and on a Saturday it is review rather than a new phrase. Five went out this week. Question first.
+
+How would you say you can't get over it?
+
+J'en reviens pas.
+
+Something just doesn't appeal to you?
+
+Ça me dit rien.
+
+You can't be bothered?
+
+J'ai la flemme.
+
+You got taken for a ride?
+
+Je me suis fait avoir.
+
+And: you can't wait?
+
+J'ai hâte.
+
+Now the continent, in French, where the campaign has found its second fault line in a week.
+
+Le Monde décrit ce matin ce qu'il appelle le piège du choc générationnel. Les candidats promettent aux jeunes et redoutent d'irriter les retraités, et pour l'instant personne n'a trouvé comment tenir les deux. Jeudi, au débat du Medef à Roland-Garros, c'était le clivage gauche-droite qui refaisait surface sur l'économie. Deux fractures en une semaine, et une campagne qui n'a même pas commencé officiellement.
+
+Un chiffre qui rassure Bercy : Fitch a maintenu la note de la France à A plus, avec perspective stable. Après l'été qu'a connu la dette longue en Europe, ce n'était pas acquis.
+
+Sébastien Lecornu a terminé jeudi deux jours à Mayotte, avec six ministres, près de deux ans après le cyclone Chido. Il a concédé lui-même que la reconstruction était trop lente.
+
+Et l'Islande vote aujourd'hui. Le référendum ne porte pas sur l'adhésion à l'Union européenne, mais sur la reprise des négociations, gelées depuis deux mille treize. Un sondage Gallup donne cinquante et un et demi pour cent de « oui », ce qui n'est une marge pour personne. Même en cas de victoire, il faudrait obtenir des concessions sur la pêche et l'agriculture, puis organiser un second référendum. Reykjavik n'entre pas dans l'Union cette année.
+
+Enfin, deux chiffres espagnols qui vont mal ensemble. L'inflation est remontée à quatre virgule trois pour cent en août, contre trois virgule six en juillet, à cause des carburants. Et la Banque d'Espagne table quand même sur deux virgule trois pour cent de croissance cette année, quand la Banque centrale européenne n'attend que zéro virgule huit pour toute la zone euro.
+
+One last thing from the week, and it is very old and very small. Archaeology's summer issue tells the story of three jeu de paume balls found walled into a medieval house in the old university quarter of Orléans. About an inch and a half across, woven fabric wrapped in leather and packed with compressed wool, radiocarbon-dated to the sixteenth or seventeenth century. Paume was the ancestor of tennis, and by the late fifteen hundreds everyone in France played it, kings and clergy included. Somebody lost three balls into a wall, and the wall kept them for four hundred years.
+
+One thing to sit with this morning.
+
+Love turns, with a little indulgence, to indifference or disgust: hatred alone is immortal.
+
+That is William Hazlitt, from an essay called On the Pleasure of Hating, published in eighteen twenty-six. He was forty-eight and comprehensively ruined. Three years earlier he had published a book-length account of his obsession with his landlord's nineteen-year-old daughter, which destroyed what was left of his reputation. His old radical friends had gone over to the Tories, he was writing to pay debts, and he died four years later.
+
+The observation I'd make is that the sentence is doing something sly. It offers itself as a claim about human nature and it is really a claim about durability, which is a much weaker thing. Hazlitt is not saying hatred is stronger than love. He is saying it lasts, and he is right that it does, mostly because it costs nothing to maintain and asks nothing back. What is on record is that Hazlitt's last reported words were that he had had a happy life.
+
+And finally, closer to home.
+
+You're in San Francisco through Tuesday, then Seattle and the Olympic Peninsula the back half of next week. Today is the city being itself: high near sixty-six, low around fifty-seven, breezy in the afternoon. Nothing you need to plan around, but nothing you'd sit outside in after dark either.
+
+For coffee, Binge Coffee House has opened its first San Francisco room in the Mission, a Vietnamese cafe built around phin drip, with pandan waffles and bánh mì alongside it. Berkeley original, and the phin is the reason to go.
+
+Music tonight is a real choice. Nas and the Roots are at Shoreline in Mountain View, which is the version of that pairing worth the drive. And J. Cole is at Oakland Arena, which I flagged Wednesday and which is the shorter trip.
+
+And baseball was kind to almost everybody last night. Toronto took Seattle eight to one behind Dylan Cease and sits at sixty-six and seventy. The Yankees beat Boston one-nil, Cam Schlittler pitching, Bednar's thirty-first save, and they're seventy-six and fifty-eight. Houston took the Mets three to one.
+
+That's the week. Have a good one.
