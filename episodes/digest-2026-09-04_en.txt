@@ -44,23 +44,23 @@ How would you say you don't feel like it? Not that you're busy. That the idea si
 
 Here it is.
 
-[[FR]]Ça me dit rien.[[/FR]]
+Ça me dit rien.
 
 The textbook gives you je n'ai pas envie, which is correct and lands like a refusal. The verb is doing something the English hides: dire here does not mean to tell, it means to appeal. And it flips straight into the invitation, which is the useful half.
 
-[[FR]]Ça te dit, un verre ce soir ?[[/FR]]
+Ça te dit, un verre ce soir ?
 
 One warning. The same phrase also means it doesn't ring a bell, and only context separates them.
 
 And two from this week. You can't be bothered tonight?
 
-[[FR]]J'ai la flemme.[[/FR]]
+J'ai la flemme.
 
 And you're running late, right now, moving?
 
-[[FR]]Je suis à la bourre.[[/FR]]
+Je suis à la bourre.
 
-[[FR]]Passons au continent, et d'abord à Wolfsburg, où le conseil de surveillance a fini par céder. Mercredi, je vous parlais du rejet du plan d'Oliver Blume par douze voix contre dix-neuf. Le conseil vient d'approuver la suppression de cinquante mille postes supplémentaires d'ici 2030, environ huit pour cent des effectifs, ce qui porte le total à cent mille avec le premier plan. Volkswagen parle du programme de transformation le plus profond de son histoire. La cogestion a tenu, mais elle a plié : les syndicats gardent leurs sièges, et les usines ferment quand même.
+Passons au continent, et d'abord à Wolfsburg, où le conseil de surveillance a fini par céder. Mercredi, je vous parlais du rejet du plan d'Oliver Blume par douze voix contre dix-neuf. Le conseil vient d'approuver la suppression de cinquante mille postes supplémentaires d'ici 2030, environ huit pour cent des effectifs, ce qui porte le total à cent mille avec le premier plan. Volkswagen parle du programme de transformation le plus profond de son histoire. La cogestion a tenu, mais elle a plié : les syndicats gardent leurs sièges, et les usines ferment quand même.
 
 En Espagne, Pedro Sánchez est fragilisé. Tout en dénonçant les revendications inacceptables de deux ministres marocains sur Ceuta et Melilla, il affirme n'avoir aucune preuve tangible d'une implication de Rabat dans l'arrivée de soixante-douze mille migrants à Ceuta. Un rapport de la police espagnole, cinquante-cinq pages, le contredit en partie.
 
@@ -70,7 +70,7 @@ Toujours en France, le gouvernement a amputé de quarante millions d'euros son p
 
 Ailleurs sur le continent, deux choses. Les ministres chargés des migrations d'Allemagne, d'Autriche, des Pays-Bas, du Danemark et de Grèce se réunissent aujourd'hui à Copenhague autour d'un projet de hub de retour en Ouganda, qui accueillerait jusqu'à dix mille déboutés du droit d'asile contre compensation financière. La Commission européenne n'a pas été associée aux négociations ; la France et l'Espagne s'y opposent.
 
-Et l'Allemagne va mieux : l'indice Ifo est remonté à quatre-vingt-huit virgule huit points en août, et l'institut DIW a relevé sa prévision de croissance pour 2026 de zéro virgule six à un virgule deux pour cent. Trop tard pour la Saxe-Anhalt, qui vote dimanche, où des patrons de PME qui votaient Merkel envisagent ouvertement l'extrême droite, non par conviction mais par lassitude.[[/FR]]
+Et l'Allemagne va mieux : l'indice Ifo est remonté à quatre-vingt-huit virgule huit points en août, et l'institut DIW a relevé sa prévision de croissance pour 2026 de zéro virgule six à un virgule deux pour cent. Trop tard pour la Saxe-Anhalt, qui vote dimanche, où des patrons de PME qui votaient Merkel envisagent ouvertement l'extrême droite, non par conviction mais par lassitude.
 
 Back in English, and to the war, where the framing is now the news.
 
