@@ -31,7 +31,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
 
@@ -54,7 +54,10 @@ LANGUAGE_CODE = "en-US"   # default for --list-voices
 
 EPISODE_PREFIX = "episodes/"
 MAX_CHUNK = 4500        # Google's limit is 5000 bytes per request
-KEEP_DAYS = 30
+# Episodes are never deleted by default — the archive feeds the Saturday
+# retrospective and the callback logic, and a year of daily shows is ~1 GB
+# against R2's 10 GB free tier. Set an integer here only if you want pruning.
+KEEP_DAYS = None
 SYNC_COUNT = 3          # how many recent scripts --sync pulls down
 # ─────────────────────────────────────────────────────────────
 
@@ -251,12 +254,28 @@ def list_voices(lang_code=None):
     print(f"\n{len(names)} voices total.")
 
 
+# A quarter-second of silence, generated once and embedded so the script has no
+# runtime dependency on ffmpeg. Repeated to build longer pauses.
+SILENCE_250MS = base64.b64decode(
+    "SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjYwLjE2LjEwMAAAAAAAAAAAAAAA//OEwAAAAAAAAAAAAEluZm8AAAAPAAAADQAABaAAMzMzMzMzM0REREREREREVVVVVVVVVVVmZmZmZmZmd3d3d3d3d3eIiIiIiIiIiJmZmZmZmZmqqqqqqqqqqru7u7u7u7u7zMzMzMzMzN3d3d3d3d3d7u7u7u7u7u7/////////AAAAAExhdmM2MC4zMQAAAAAAAAAAAAAAACQDkAAAAAAAAAWgUwUOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//NExAAAAANIAAAAAExBTUUzLjEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExFMAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKYAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVTEFNRTMu//NExKwAAANIAAAAADEwMFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NExKwAAANIAAAAAFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NExKwAAANIAAAAAFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+)
+
+PAUSE_RE = re.compile(r"\[\[PAUSE(?::(\d+(?:\.\d+)?))?\]\]")
+
+
+def pause_bytes(seconds):
+    """Return mp3 bytes for roughly `seconds` of silence."""
+    units = max(1, round(float(seconds) / 0.25))
+    return SILENCE_250MS * units
+
+
 FR_RE = re.compile(r"\[\[FR\]\](.*?)\[\[/FR\]\]", re.S)
 
 
 def strip_markers(text):
     """Remove language markers — for the archived script and feed summary."""
-    return re.sub(r"\[\[/?FR\]\]", "", text)
+    text = re.sub(r"\[\[/?FR\]\]", "", text)
+    return PAUSE_RE.sub("", text)
 
 
 def split_by_language(text):
@@ -266,19 +285,32 @@ def split_by_language(text):
     Everything is English unless wrapped in [[FR]] ... [[/FR]]. Markers are
     stripped from the returned text so they never reach the speech engine.
     """
+    def emit(lang, chunk, out):
+        """Split a run of text on [[PAUSE]] markers as we append it."""
+        pos = 0
+        for pm in PAUSE_RE.finditer(chunk):
+            head = chunk[pos:pm.start()].strip()
+            if head:
+                out.append((lang, head))
+            out.append(("pause", pm.group(1) or "1"))
+            pos = pm.end()
+        rest = chunk[pos:].strip()
+        if rest:
+            out.append((lang, rest))
+
     parts, pos = [], 0
     for m in FR_RE.finditer(text):
-        pre = text[pos:m.start()].strip()
-        if pre:
-            parts.append(("en", pre))
-        fr = m.group(1).strip()
-        if fr:
-            parts.append(("fr", fr))
+        pre = text[pos:m.start()]
+        if pre.strip():
+            emit("en", pre, parts)
+        fr = m.group(1)
+        if fr.strip():
+            emit("fr", fr, parts)
         pos = m.end()
 
-    tail = text[pos:].strip()
-    if tail:
-        parts.append(("en", tail))
+    tail = text[pos:]
+    if tail.strip():
+        emit("en", tail, parts)
 
     return parts or [("en", text.strip())]
 
@@ -351,6 +383,23 @@ def parse_name(stem):
     return (m.group(1), m.group(2) or "en") if m else None
 
 
+# Episodes are stamped 7:00 AM in New York, not UTC. Stamping in UTC put them
+# at 2:30 AM local in podcast apps, which is what this fixes.
+PUBLISH_HOUR = 7
+
+try:
+    from zoneinfo import ZoneInfo
+    LOCAL_TZ = ZoneInfo("America/New_York")
+except Exception:                      # container without tzdata
+    LOCAL_TZ = timezone(timedelta(hours=-4))
+
+
+def episode_datetime(datestr):
+    """7 AM New York on the episode's date, as an aware datetime."""
+    d = datetime.strptime(datestr, "%Y-%m-%d")
+    return d.replace(hour=PUBLISH_HOUR, minute=0, tzinfo=LOCAL_TZ)
+
+
 def episode_title(dt):
     return dt.strftime("%A, %B %-d, %Y")
 
@@ -369,8 +418,7 @@ def build_and_upload_feed(summaries):
             continue
         datestr, lang = parsed
         try:
-            dt = datetime.strptime(datestr, "%Y-%m-%d").replace(
-                hour=6, minute=30, tzinfo=timezone.utc)
+            dt = episode_datetime(datestr)
         except ValueError:
             continue
         entries.append((dt, key, size))
@@ -411,6 +459,8 @@ def build_and_upload_feed(summaries):
 
 def prune_old():
     """Delete episodes older than the most recent KEEP_DAYS days."""
+    if not KEEP_DAYS:
+        return                          # keep the full archive
     dated = {}
     for key, _ in r2_list():
         parsed = parse_name(Path(key).stem)
@@ -434,18 +484,30 @@ def publish(script_path):
 
     # Build the render list: every chunk carries the language it's read in.
     segments = split_by_language(text)
-    jobs = [(lang, c) for lang, seg in segments for c in chunk_text(seg)]
+    jobs = []
+    for lang, seg in segments:
+        if lang == "pause":
+            jobs.append(("pause", seg))
+        else:
+            jobs.extend((lang, c) for c in chunk_text(seg))
 
     clean = strip_markers(text)
     fr_words = sum(len(seg.split()) for lang, seg in segments if lang == "fr")
+    spoken = [j for j in jobs if j[0] != "pause"]
+    pauses = len(jobs) - len(spoken)
     print(f"Script: {len(clean.split())} words "
-          f"({fr_words} French), {len(clean)} chars, {len(jobs)} chunks")
-    for lang in sorted({l for l, _ in jobs}):
+          f"({fr_words} French), {len(clean)} chars, "
+          f"{len(spoken)} chunks, {pauses} pauses")
+    for lang in sorted({l for l, _ in spoken}):
         print(f"  {lang}: {VOICES[lang]['name']}")
 
-    audio = b""
-    for i, (lang, chunk) in enumerate(jobs, 1):
-        print(f"  synthesizing {i}/{len(jobs)} [{lang}]...", flush=True)
+    audio, done = b"", 0
+    for lang, chunk in jobs:
+        if lang == "pause":
+            audio += pause_bytes(chunk)
+            continue
+        done += 1
+        print(f"  synthesizing {done}/{len(spoken)} [{lang}]...", flush=True)
         audio += synthesize(chunk, lang)
 
     today = datetime.now(timezone.utc).astimezone()
