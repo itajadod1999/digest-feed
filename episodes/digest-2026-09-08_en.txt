@@ -40,15 +40,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say that's absurd? Not that it's false, and not a judgment on the argument. The exasperated dismissal you use when someone has just said something with no content in it at all.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]N'importe quoi.[[/FR]]
+N'importe quoi.
 
-[[PAUSE]]
 
-[[FR]]N'importe quoi.[[/FR]]
+
+N'importe quoi.
 
 The textbook hands you two constructions built on the adjectives for absurd and for ridiculous. Both of those are verdicts, and they engage with the claim. This one refuses to. Taken literally the phrase means anything at all, and the implication is that what the person said could have been anything, because it carried nothing.
 
@@ -56,19 +56,19 @@ Now two from the last few days, cold.
 
 It isn't worth the effort. The effort won't pay you back.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 And something is a hassle, a pain to deal with.
 
-[[PAUSE:3]]
 
-[[FR]]C'est galère.[[/FR]]
+
+C'est galère.
 
 Now the continent, where the aftershock is still German.
 
-[[FR]]Passons à l'Europe. Deux jours après le scrutin de Saxe-Anhalt, Friedrich Merz se dit profondément choqué par le score de l'AfD, mais exclut de démissionner. Il concède qu'il faudra en tirer les conséquences, et reconnaît que l'effondrement de la CDU a ébranlé son parti jusque dans ses fondations. Son partenaire de coalition en profite : le SPD veut rouvrir la réforme des retraites. Et l'AfD annonce viser quarante pour cent au niveau fédéral en deux mille vingt-neuf.
+Passons à l'Europe. Deux jours après le scrutin de Saxe-Anhalt, Friedrich Merz se dit profondément choqué par le score de l'AfD, mais exclut de démissionner. Il concède qu'il faudra en tirer les conséquences, et reconnaît que l'effondrement de la CDU a ébranlé son parti jusque dans ses fondations. Son partenaire de coalition en profite : le SPD veut rouvrir la réforme des retraites. Et l'AfD annonce viser quarante pour cent au niveau fédéral en deux mille vingt-neuf.
 
 L'économie ne l'aide pas. La production industrielle allemande a reculé de un virgule un pour cent en juillet, la plus forte baisse depuis presque un an, alors que les économistes attendaient une hausse. L'automobile explique l'essentiel : moins neuf virgule deux pour cent. L'emploi dans le secteur est au plus bas depuis deux mille cinq, et le trente ans allemand est à son plus haut depuis deux mille onze.
 
@@ -76,7 +76,7 @@ Une suite tout de même sur Volkswagen. L'usine d'Osnabrück, qui devait fermer 
 
 En France, Mistral AI annonce une levée de fonds de trois milliards d'euros, la plus importante de son histoire, avec Samsung qui entre à son capital. La start-up répond ainsi à ceux qui l'accusaient d'avoir renoncé à la course aux modèles de pointe.
 
-Enfin, un chiffre qui pique : la récolte de champagne sera inférieure de quarante-huit pour cent à celle de l'an dernier.[[/FR]]
+Enfin, un chiffre qui pique : la récolte de champagne sera inférieure de quarante-huit pour cent à celle de l'an dernier.
 
 Back in English, and to Iran.
 
