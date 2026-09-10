@@ -46,15 +46,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say no kidding? Not surprise. The opposite. Someone tells you something completely predictable and you're agreeing that of course it's that way, with a little edge on it.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]Tu m'étonnes.[[/FR]]
+Tu m'étonnes.
 
-[[PAUSE]]
 
-[[FR]]Tu m'étonnes.[[/FR]]
+
+Tu m'étonnes.
 
 Taken literally it says you astonish me, which is the reverse of what it means, and that's the whole trick. The dryness carries it. The textbook hands you the words for obviously and of course, and both are flat confirmations. This one has a shrug in it.
 
@@ -62,25 +62,25 @@ Now three cold, from the last few days.
 
 You're kicking yourself. That small private irritation at yourself.
 
-[[PAUSE:3]]
 
-[[FR]]Je m'en veux.[[/FR]]
+
+Je m'en veux.
 
 Something is a hassle, a pain to deal with.
 
-[[PAUSE:3]]
 
-[[FR]]C'est galère.[[/FR]]
+
+C'est galère.
 
 And it isn't worth the effort. The effort won't pay you back.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 Now the continent, where the French right is still failing to organize itself.
 
-[[FR]]Passons à la France. Suite d'hier sur Édouard Philippe. Sa proposition de réunir la droite et le centre début novembre pour désigner un candidat unique n'a pas seulement été rejetée par Bruno Retailleau : David Lisnard et Gabriel Attal l'ont écartée à leur tour. Trois refus en trois jours. La vraie question reste celle du leadership sur un espace morcelé, et personne n'a envie de laisser un concurrent tenir le stylo.
+Passons à la France. Suite d'hier sur Édouard Philippe. Sa proposition de réunir la droite et le centre début novembre pour désigner un candidat unique n'a pas seulement été rejetée par Bruno Retailleau : David Lisnard et Gabriel Attal l'ont écartée à leur tour. Trois refus en trois jours. La vraie question reste celle du leadership sur un espace morcelé, et personne n'a envie de laisser un concurrent tenir le stylo.
 
 Côté budget, Sébastien Lecornu a annoncé mercredi que la contribution exceptionnelle demandée aux très grandes entreprises serait réduite dans le budget deux mille vingt-sept. La France peine toujours à contenir sa dette sans lever de nouveaux impôts : l'arbitrage est politique avant d'être comptable.
 
@@ -88,7 +88,7 @@ En Allemagne, Friedrich Merz a haussé le ton. Trois jours après le score de l'
 
 La Banque centrale européenne décide aujourd'hui et devrait relever son taux d'un quart de point, à deux et demi pour cent. La guerre avec l'Iran pèse toujours sur les prix de l'énergie, mais l'économie européenne résiste mieux que prévu : l'indice Ifo a nettement rebondi en août.
 
-Enfin, une bonne nouvelle française. Le chercheur Emmanuel Mignot a reçu le prix Lasker pour ses travaux sur la narcolepsie. Il avait découvert que la maladie venait de la disparition, dans le cerveau, des neurones qui produisent l'orexine. Il entrevoit maintenant des traitements qui pourraient dépasser la seule narcolepsie et s'attaquer à la fatigue chronique.[[/FR]]
+Enfin, une bonne nouvelle française. Le chercheur Emmanuel Mignot a reçu le prix Lasker pour ses travaux sur la narcolepsie. Il avait découvert que la maladie venait de la disparition, dans le cerveau, des neurones qui produisent l'orexine. Il entrevoit maintenant des traitements qui pourraient dépasser la seule narcolepsie et s'attaquer à la fatigue chronique.
 
 Back in English, and to Iran, where the timeline is now a campaign promise.
 
