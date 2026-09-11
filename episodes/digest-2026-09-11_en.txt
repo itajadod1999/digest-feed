@@ -42,15 +42,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say that's far from a sure thing? Not a prediction that it fails, and not a probability. The wry acknowledgement that it's going to be a fight, and nothing is secured yet.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]C'est pas gagné.[[/FR]]
+C'est pas gagné.
 
-[[PAUSE]]
 
-[[FR]]C'est pas gagné.[[/FR]]
+
+C'est pas gagné.
 
 The textbook hands you constructions built on the adjectives for certain and for likely, and both of those are statements about odds. This one is a statement about effort. It's built on the past participle of the verb for winning, negated. Nothing has been won yet, and the speaker has seen what's ahead.
 
@@ -58,25 +58,25 @@ Now three cold, from the last few days.
 
 No kidding. Agreeing that of course it's that way, with an edge on it.
 
-[[PAUSE:3]]
 
-[[FR]]Tu m'étonnes.[[/FR]]
+
+Tu m'étonnes.
 
 That's absurd. The dismissal for something with nothing in it at all.
 
-[[PAUSE:3]]
 
-[[FR]]N'importe quoi.[[/FR]]
+
+N'importe quoi.
 
 And you'll tell them as things develop.
 
-[[PAUSE:3]]
 
-[[FR]]Je te tiens au courant.[[/FR]]
+
+Je te tiens au courant.
 
 Now the continent, where the French numbers came out and they are not good.
 
-[[FR]]Passons à la France. L'Insee a révisé jeudi sa prévision de croissance pour deux mille vingt-six : zéro virgule quatre pour cent, contre zéro virgule sept annoncés en juin. Hors période Covid, ce serait la plus faible croissance depuis deux mille douze.
+Passons à la France. L'Insee a révisé jeudi sa prévision de croissance pour deux mille vingt-six : zéro virgule quatre pour cent, contre zéro virgule sept annoncés en juin. Hors période Covid, ce serait la plus faible croissance depuis deux mille douze.
 
 Le mot employé par l'institut est décrochage, et il est justifié. La France serait la seule grande économie européenne dont le chômage remonte : huit virgule trois pour cent au deuxième trimestre, huit virgule six attendus en fin d'année. L'inflation passerait de deux virgule quatre pour cent en août à deux virgule neuf en décembre. Pendant ce temps, le reste de la zone euro repart.
 
@@ -84,7 +84,7 @@ Suite d'hier sur la Banque centrale européenne. Elle a bien relevé ses taux d'
 
 À Matignon, Sébastien Lecornu envisage de réduire l'indemnité des ministres, voire celle des conseillers de cabinet. L'accueil est glacial : l'un d'eux parle de connerie, une autre redoute de voir ses collaborateurs partir dans le privé. Mesure symbolique, réaction très peu symbolique.
 
-Enfin, Edgar Grospiron a quitté jeudi la présidence du comité d'organisation des Jeux olympiques d'hiver de deux mille trente dans les Alpes, poussé vers la sortie après dix mois de crise.[[/FR]]
+Enfin, Edgar Grospiron a quitté jeudi la présidence du comité d'organisation des Jeux olympiques d'hiver de deux mille trente dans les Alpes, poussé vers la sortie après dix mois de crise.
 
 Back in English, and to the Middle East, where Israel closed something out on Thursday night.
 
