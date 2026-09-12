@@ -1,105 +1,129 @@
-Good morning. Monday, August tenth. Here's what happened.
+Good morning. Saturday, September twelfth. Let's look back at the week.
 
-Starting with markets.
+Four trading days, because Labor Day took Monday. And in those four days the bond market did more work than the stock market has done in a month.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+Start there. Wednesday the Treasury said it would buy back up to six billion dollars of long-dated debt, which is meant to hold borrowing costs down, and the ten-year yield rose anyway. Thursday it rose eleven basis points in a single session and touched four point nine six percent, the highest in nineteen years. The thirty-year reached five point three seven. And it was not only an American move: Australian yields hit their highest since twenty eleven, New Zealand's crossed five percent, Japan's closed in on three.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+Friday brought the consumer price index, and it settled less than you'd think. Headline inflation came in at three point four percent year over year, exactly as forecast, and core at two point four, also as forecast and the lowest since the spring of twenty twenty-one. But the monthly core figure was three tenths of a percent, more than expected, and that is the one traders read. Odds of a rate rise next week went from about seventy percent to about ninety.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+The second thread is why the first one moved, and that's the war.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+American forces destroyed five Iranian tankers around Kharg Island, Iran's main oil export terminal, and Iran answered with missiles at ten ships and a base in Jordan. Saudi Arabia shut a pipeline to the Red Sea after drone strikes out of Iraq, and Saudi exports fell to a thirteen-year low because there is no safe way to ship. Israel destroyed a Hezbollah tunnel complex in southern Lebanon with eleven hundred tonnes of explosives, registering as a magnitude four point one tremor. And Houthi forces took Mocha on Yemen's Red Sea coast, in an offensive the United Nations puts at five hundred dead and forty-six thousand displaced.
 
-Before we get to deals, a small thing I liked.
+Brent crude crossed a hundred dollars a barrel on Tuesday and printed a hundred and nine on Thursday before coming back. And the part that reaches people: gasoline up twenty-seven point four percent year over year in the August data, and diesel past six dollars a gallon for the first time ever. That is the channel through which a war becomes a Federal Reserve meeting.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+To technology, where the week's argument was about restraint, and disclosure: Anthropic makes me.
 
-Moving to deals and credit.
+It opened with a resignation. Jacob Coxon left Anthropic saying the leading labs are racing toward self-improving systems nobody will control, and putting the chance it kills everyone above one in ten. By Thursday Ted Cruz was drafting a bill on catastrophic risk, OpenAI had put Paul Christiano on its non-profit board, and dozens of lawmakers were floating everything from a federal regulator to mandatory kill switches. And Bloomberg reported Sam Altman told OpenAI staff the company would be open to slowing down, if others did.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+Hold that next to the money. Anthropic is preparing an initial public offering at a rumoured two trillion dollar valuation, larger than SpaceX's debut. Everyone in this story agrees the risk is real, and nobody is slowing down first.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+The rest of technology was capacity. Oracle did nineteen point three billion dollars of revenue, up thirty percent, with cloud up a hundred and twenty-one. Microsoft plans to triple its data centre power by twenty thirty-two. And the Pentagon is in talks to lend about five billion dollars to an artificial-intelligence cloud startup called Fluidstack, the largest loan its Office of Strategic Capital would ever have made.
 
-Now real estate.
+Two deals worth keeping. Independence Realty Trust and Centerspace are merging, eight point one billion dollars and more than forty-four thousand apartments. And the Justice Department is investigating whether Nvidia's licensing deal with Groq was structured to avoid antitrust review — whether a license is a license, or an acquisition wearing one. Apple, meanwhile, priced its foldable at nineteen ninety-nine.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+Real estate split cleanly in two. Global Holdings closed a three hundred eighty-two million dollar refinancing on 120 Park Avenue, and what made it financeable was a Bloomberg lease across twenty floors. A six-hundred-basis-point vacancy gap now separates prime buildings from everything else, and fourteen single-asset New York office loans accounted for sixty percent of all private-label office commercial mortgage-backed securities issued in the whole country this year. Housing went the other way: existing-home sales fell two percent in August, the slowest pace since June of last year.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+In politics, the Republicans convened in Dallas, and the promise out of it was five thousand dollars to every American adult if the party wins in November. The cost is around one point two trillion dollars, and by Friday the objection was coming from inside the party, pointed at forty trillion dollars of national debt. Supporters call it an ordinary campaign promise; critics say payment conditional on an election result runs into federal law. Either way it needs Congress. The administration also proposed rewriting the twenty-thirty census to exclude undocumented immigrants from the counts that set congressional seats.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+Abroad, Britain, France and Canada banned imports from Israeli settlements in the occupied West Bank, and Israel closed Britain's consulate in East Jerusalem within hours. And Copernicus confirmed August tied July of twenty twenty-three as the hottest month ever measured.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+In the city, Mayor Mamdani released a hundred seventy thousand pages on air quality around the World Trade Center site and said people got sick because the leaders they trusted told them it was safe to breathe. The Education Department banned artificial intelligence in elementary and middle schools, and Los Angeles went further the same day. And on the anniversary, the memorial downtown held a moment of silence for the first time for those who died of illnesses caused by the rubble. There are more of them now than there were deaths on the day itself.
 
-Over to technology.
+Now a minute of French, and then the European news of the week in it. No new phrase today. Six cold, from the past few weeks.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+The idea simply doesn't appeal.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+[[PAUSE:3]]
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+[[FR]]Ça me dit rien.[[/FR]]
 
-Over to France.
+Something is a hassle, a pain to deal with.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+[[PAUSE:3]]
 
-And the Middle East.
+[[FR]]C'est galère.[[/FR]]
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+It isn't worth the effort. The effort won't pay you back.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+[[PAUSE:3]]
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+[[FR]]Ça vaut pas le coup.[[/FR]]
 
-One more small thing before the deep dives.
+You're kicking yourself. That small private irritation at yourself.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+[[PAUSE:3]]
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+[[FR]]Je m'en veux.[[/FR]]
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+No kidding. Agreeing that of course it's that way, with an edge on it.
 
-Now put that next to private equity, which is running its own version of the same problem.
+[[PAUSE:3]]
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+[[FR]]Tu m'étonnes.[[/FR]]
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+And that's far from a sure thing. It's going to be a fight.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+[[PAUSE:3]]
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+[[FR]]C'est pas gagné.[[/FR]]
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+Which is the right note for the French week, as it turns out.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+[[FR]]La semaine française s'est jouée sur un mot : décrochage. C'est celui de l'Insee, qui a ramené jeudi sa prévision de croissance pour deux mille vingt-six à zéro virgule quatre pour cent, contre zéro virgule sept en juin. Hors Covid, la plus faible depuis deux mille douze. La France serait la seule grande économie européenne dont le chômage remonte, huit virgule trois pour cent au deuxième trimestre, pendant que le reste de la zone euro repart.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+La Banque centrale européenne, elle, a relevé ses taux d'un quart de point jeudi, à deux virgule soixante-cinq pour cent pour le refinancement et deux et demi pour le dépôt. Deuxième hausse depuis le début de la guerre avec l'Iran. Christine Lagarde a qualifié la décision d'évidence, prise à l'unanimité, avec une inflation à trois virgule trois pour cent et une composante énergie à quatorze virgule trois.
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+À droite, l'échec de la semaine est celui d'Édouard Philippe. Sa proposition de réunir la droite et le centre début novembre pour désigner un candidat unique a été rejetée par Bruno Retailleau, puis par David Lisnard et Gabriel Attal. Trois refus en trois jours. Et en Allemagne, Friedrich Merz a attaqué l'AfD devant le Bundestag après son score en Saxe-Anhalt, assimilant le projet de remigration à un nettoyage ethnique.[[/FR]]
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+Back in English, and to the numbers, because Saturday is where they live.
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+The S and P five hundred ended the week at about seventy-six fifty-seven, down roughly eight tenths of a percent. The Nasdaq near twenty-six thousand three hundred, off about seven tenths. The Dow took the worst of it, a shade under fifty-two thousand six hundred, down about one and a half. All three snapped a four-day losing streak on Friday, which is a strange way to end a week you spent losing.
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+Bonds are where the week actually happened. The ten-year Treasury finished at four point nine eight percent, up about nineteen basis points; the two-year at four point six three, up about twenty-five. Note the order of those: the short end moved more. Brent ended near a hundred and five dollars, up close to eight percent.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+Now, what I got wrong, and the first one is clean.
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+Yesterday I told you the average rate on a thirty-year fixed mortgage had crossed seven percent for the first time in fifteen months. It hadn't. Freddie Mac's weekly survey came in at six point seven six percent, up from six point seven one the week before, and the daily trackers peaked near six point eight eight on Thursday. That's a fifty-two week high, and the direction was right, but seven percent is a threshold and I handed you one that hadn't been crossed.
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+The second is about framing. Yesterday I said the test for the bond selloff was binary: a soft inflation number plus a Federal Reserve that raises anyway breaks the move, a hot number plus a Fed that flinches extends it. The number came in hot and the selloff did not extend. Stocks rose almost a percent and the ten-year moved three basis points. The market had already decided what the Fed would do. A binary test is a nice rhetorical shape and the wrong shape for this.
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+Third, and related. I spent the week calling this a term-premium story — about the compensation investors want for holding long debt, rather than about rate expectations. But on the week the two-year outran the ten-year, twenty-five basis points against nineteen. That's a rate-expectations move. Both are happening, and I leaned too hard on one.
 
-One last small thing before the close, and it is an old one.
+And one miss of aim rather than fact. On Mocha I said what would make it matter was a confirmed attack from the newly held coast. What came instead, overnight, was more coastline: Houthi forces took Perim Island, in the Bab el-Mandeb strait itself.
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+Now the week's biggest thread, properly.
+
+Wednesday the Federal Reserve will almost certainly raise interest rates for the first time in three years, in Kevin Warsh's first meeting as chair. About ninety percent of the market is positioned for a quarter point.
+
+Here is the uncomfortable thing about it. Core inflation, which strips out food and energy, is at two point four percent, the lowest since the spring of twenty twenty-one. By that measure the Fed has largely won. Headline inflation is at three point four, the entire gap is energy, and the energy is a war. A rate rise does nothing about Kharg Island or Bab el-Mandeb, and it cannot build refining capacity. As one analyst put it this week, raising into an energy shock risks slowing an economy already absorbing six-dollar diesel.
+
+So why do it. The argument is expectations. The University of Michigan's preliminary September survey put consumer sentiment at forty-seven point eight, with one-year inflation expectations jumping to four point six percent. Central banking's whole theory of itself is that once people expect high prices they behave in ways that produce them, and the institution's only defence is demonstrating it will act. That is what next week is about: not the two tenths in the data, but whether the Fed still moves when the number says move.
+
+The complication is political, and not subtle. Warsh was chosen by a president who expected cuts, and is about to deliver the opposite eight weeks before a midterm in which prices are the issue. Watch the statement more than the number: a quarter point framed as one adjustment is one thing, framed as the start of a sequence it's a different market on Thursday.
+
+A few loose ends going into next week.
+
+Whether the Fed hikes and how it frames it. Whether Congress does anything with the five thousand dollar payment now the objections are coming from the right. Whether the Navier-Stokes proof gets posted and survives review. Whether the Houthis use Perim for anything. And whether Toronto's wild card is alive by Friday.
+
+One idea before we finish.
+
+In August of nineteen fifty-two, Copenhagen was in a polio epidemic that would put more than twenty-seven hundred patients through Blegdam Hospital in six months. Three hundred sixteen of them could not breathe properly, and roughly eighty-seven percent of those died. The hospital had one iron lung.
+
+An anaesthetist named Bjørn Ibsen was called in and made an argument from outside the specialty. Ibsen worked on surgical patients paralysed by curare, and kept them alive by squeezing air into the lungs through a tube. Why, the argument went, was a polio patient any different. On the twenty-sixth of August a twelve-year-old named Vivi Ebert was given a tracheostomy, a cuffed tube, and air pushed in by hand. Mortality fell from eighty-seven percent to around forty, more or less overnight.
+
+The circumstance is the part worth having. There was no machine to scale it with, so the hospital hired students. About two hundred fifty medical and dental students a day, in shifts around the clock at roughly six dollars an hour, squeezing a bag by hand. By the end of the epidemic some fifteen hundred of them had put in a hundred sixty-five thousand hours of it. The following August, Ibsen opened what is generally called the world's first intensive care unit.
+
+The complication is a credit fight that never resolved. Henry Lassen, the chief physician who made the call, published the Blegdam results in The Lancet under his own name, without acknowledging Ibsen. Lassen ran the department and carried the epidemic; Ibsen supplied the idea and was an outsider. Both are true, and every account since has had to pick which one the story is about.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+New York gives you a good Saturday and then takes it back. Mostly sunny, a high near eighty, down to about sixty-nine overnight. But there's an eighty percent chance of rain after two in the morning, with a possible thunderstorm and as much as three quarters of an inch. If you're out late, plan around that.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+Music, and it's the obvious one. Mau P is at Brooklyn Army Terminal Pier 4 today, a Teksupport show running three in the afternoon to ten at night, and it's sold out. Near the end of the outdoor season on that pier, which is half the appeal.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+Food. The Times makes the case this week that New York barbecue finally got interesting, and the argument is that it stopped trying to be Texas. Bark Barbecue has a three-hundred-seat room in Bushwick where Ruben Santana runs Dominican cooking through a Texas smoker — longaniza, tres golpes sandwiches, pit-roasted hog when it lasts. And Jase Franklyn, a high school track coach, has moved Tobagonian pig tails and jerk ribs into the Time Out Market near Union Square.
 
-That's the morning. Have a good one.
+And baseball. The Subway Series is at Yankee Stadium at one thirty-five, after the Yankees took Friday's opener six to four. Toronto is the harder watch: the Blue Jays lost to Baltimore while Cleveland won, so they're two games back of the last wild card, though they hold the tiebreaker if it ends level.
+
+That's the week. Enjoy the weekend.
