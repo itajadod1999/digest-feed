@@ -82,15 +82,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say you find something hard? Not that the thing is difficult in the abstract, and not that you failed at it. That you personally struggle with it, and you're admitting it lightly.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]J'ai du mal.[[/FR]]
+J'ai du mal.
 
-[[PAUSE]]
 
-[[FR]]J'ai du mal.[[/FR]]
+
+J'ai du mal.
 
 The textbook route is to build a sentence around the adjective for difficult and then bolt on the words for "for me." That is the calque, straight from English, and it lands flat. The idiomatic version puts the difficulty inside you, as something you possess, using the ordinary noun for hurt or trouble. And it takes a preposition before the verb that follows, so you have trouble at doing the thing, not with it.
 
@@ -98,25 +98,25 @@ Now three cold, from the archive.
 
 That's absurd. The dismissal for something with nothing in it at all.
 
-[[PAUSE:3]]
 
-[[FR]]N'importe quoi.[[/FR]]
+
+N'importe quoi.
 
 And you'll tell them as things develop.
 
-[[PAUSE:3]]
 
-[[FR]]Je te tiens au courant.[[/FR]]
+
+Je te tiens au courant.
 
 Something is a hassle, a pain to deal with.
 
-[[PAUSE:3]]
 
-[[FR]]C'est galère.[[/FR]]
+
+C'est galère.
 
 And now the continent, where the French week ended with a climbdown and a homecoming.
 
-[[FR]]Passons à la France, et à une reculade diplomatique. La nomination d'Aurélien Lechevallier, proche d'Emmanuel Macron, au poste d'ambassadeur à Washington était gelée par les Américains depuis un message de la diplomatie française, le 25 juillet, qui critiquait leur position sur les droits de l'homme. Paris a publié vendredi un communiqué de mea culpa pour débloquer la situation. Discret, mais tout le monde a compris.
+Passons à la France, et à une reculade diplomatique. La nomination d'Aurélien Lechevallier, proche d'Emmanuel Macron, au poste d'ambassadeur à Washington était gelée par les Américains depuis un message de la diplomatie française, le 25 juillet, qui critiquait leur position sur les droits de l'homme. Paris a publié vendredi un communiqué de mea culpa pour débloquer la situation. Discret, mais tout le monde a compris.
 
 Côté budget, le gouvernement prépare pour deux mille vingt-sept un ensemble de mesures destinées à faciliter les transmissions familiales, dans une note intitulée « Transmissions 2027 » que Le Monde a pu consulter. L'idée est d'abaisser l'âge du premier héritage, et au passage de réduire les droits de succession. Dans un budget qui cherche partout des recettes, c'est un choix qui va se discuter.
 
@@ -124,7 +124,7 @@ Côté budget, le gouvernement prépare pour deux mille vingt-sept un ensemble d
 
 Et puis Céline Dion est remontée sur scène vendredi soir, à Nanterre, pour le premier des vingt-six concerts de sa résidence. Trente mille personnes, vingt-cinq titres, deux heures et quart, après plus de six ans d'absence. Voix maîtrisée, mise en scène sobre, et une artiste visiblement très émue.
 
-Enfin, une nouvelle qui n'est pas tout à fait sérieuse. Sur la Côte bleue, entre Martigues et Marseille, mille à deux mille chèvres errantes se promènent désormais près des routes et des maisons. Elles ont bousculé une dame de quatre-vingt-un ans. Les maires cherchent une solution.[[/FR]]
+Enfin, une nouvelle qui n'est pas tout à fait sérieuse. Sur la Côte bleue, entre Martigues et Marseille, mille à deux mille chèvres errantes se promènent désormais près des routes et des maisons. Elles ont bousculé une dame de quatre-vingt-un ans. Les maires cherchent une solution.
 
 Back in English.
 
