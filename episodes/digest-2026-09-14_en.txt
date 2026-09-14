@@ -44,15 +44,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say you can't wait for something. Not that you are impatient with someone, and not that you are literally unable to wait. That warm, forward-leaning anticipation — the thing you say when a friend tells you the date is booked.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]J'ai hâte.[[/FR]]
+J'ai hâte.
 
-[[PAUSE]]
 
-[[FR]]J'ai hâte.[[/FR]]
+
+J'ai hâte.
 
 The textbook route translates the English almost word for word, negating the verb for waiting, and what you end up saying is that you are physically incapable of it. That is not the sentiment. The idiomatic version does what yesterday's phrase did: it puts the feeling inside you, as something you possess. The noun is an ordinary one meaning haste.
 
@@ -60,31 +60,31 @@ Now three cold, from the archive.
 
 You find something hard. You personally struggle with it, and you're admitting it lightly.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai du mal.[[/FR]]
+
+J'ai du mal.
 
 You're kicking yourself. That small private irritation at yourself.
 
-[[PAUSE:3]]
 
-[[FR]]Je m'en veux.[[/FR]]
+
+Je m'en veux.
 
 It isn't worth the effort. The effort won't pay you back.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 And now the continent, where the French political year restarted over the weekend.
 
-[[FR]]Passons à la France. Marine Le Pen a fait sa rentrée politique dimanche à Hénin-Beaumont, et l'essentiel se joue à l'intérieur de son propre camp. Les cadres du Rassemblement national affichent une unité de façade, mais les dernières semaines ont révélé des divisions réelles avec Jordan Bardella, resté en retrait. Le Pen réaffirme son autorité et avance ses premières propositions, notamment sur le logement.
+Passons à la France. Marine Le Pen a fait sa rentrée politique dimanche à Hénin-Beaumont, et l'essentiel se joue à l'intérieur de son propre camp. Les cadres du Rassemblement national affichent une unité de façade, mais les dernières semaines ont révélé des divisions réelles avec Jordan Bardella, resté en retrait. Le Pen réaffirme son autorité et avance ses premières propositions, notamment sur le logement.
 
 Et une candidature inattendue se prépare. Natacha Polony, ancienne directrice de Marianne, pourrait annoncer dans les prochaines semaines qu'elle se présente en deux mille vingt-sept. Elle structure déjà son équipe et cherche des soutiens, de la gauche souverainiste aux gaullistes sociaux.
 
 Dans la tech, une levée de fonds qui compte. Mistral a bouclé trois milliards d'euros pour une valorisation de vingt et un milliards, dans un tour mené par Samsung. C'est presque le double d'il y a un an, et l'argent doit servir à la recherche et surtout à l'achat de puissance de calcul.
 
-Enfin, en Allemagne, Alice Weidel assume. Trois jours après le score de l'AfD en Saxe-Anhalt, portée par des sondages qui la placent autour de trente pour cent, elle vise ouvertement la chancellerie.[[/FR]]
+Enfin, en Allemagne, Alice Weidel assume. Trois jours après le score de l'AfD en Saxe-Anhalt, portée par des sondages qui la placent autour de trente pour cent, elle vise ouvertement la chancellerie.
 
 Back in English, and to Iran, where a negotiation collapsed before it started.
 

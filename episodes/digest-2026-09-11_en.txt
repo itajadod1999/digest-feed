@@ -1,0 +1,143 @@
+Good morning. Friday, September eleventh. Here's what happened.
+
+Twenty-five years, and we'll get there properly. First the market, because a number moved yesterday that hasn't been where it is since two thousand seven.
+
+Thursday's session in New York was the fourth straight day lower, and the equity losses were modest. All three big indexes finished off between a half and two thirds of a percent. The bond market is the story. The ten-year Treasury yield rose eleven basis points in a single session, to just under four point nine five percent, and touched four point nine six overnight. That is the highest in nineteen years, and it puts a five percent handle one ordinary bad day away.
+
+Oil did not help. Brent crude traded above a hundred and five dollars and printed a hundred and nine before coming back. And the selling spread outward: Australian yields hit their highest since twenty eleven, Japanese yields surged. That part matters, and I'll come back to it.
+
+Wholesale inflation landed roughly where economists expected. The consumer price index arrives this morning, with headline inflation forecast at three point four percent year over year, unchanged from July, and core at two point four. The Federal Reserve meets Tuesday and Wednesday, markets put the odds of an increase at better than sixty percent, and the Economist ran a leader this week arguing that Kevin Warsh should raise. Futures are up about half a percent, which tells you traders expect a benign number.
+
+Something from well outside all that. The ten largest listed drinks companies in the West have lost a hundred and eighty billion dollars of combined market value over five years. A fifth of a trillion gone from the category that spent a century being the safest thing on the shelf, because people are drinking less and nobody has found the replacement drinker.
+
+To deals, where the cloud keeps printing.
+
+Oracle reported nineteen point three billion dollars of revenue for the quarter, up thirty percent year over year. The cloud division did seven point four billion, up a hundred and twenty-one percent, and the shares rose about six percent after the close. The data-center trade needed that number, and got it.
+
+Then a genuinely odd one. The Pentagon is in talks to lend roughly five billion dollars to Fluidstack, an artificial-intelligence cloud-computing startup, which would be by a wide margin the largest loan the Office of Strategic Capital has ever made. On the Journal's reporting, and still in talks. The Defense Department as project-finance lender to a compute provider is a new shape, and worth watching for whether it becomes one.
+
+To real estate, and the follow-up I promised you.
+
+Yesterday I told you the National Association of Realtors had cut its forecast for existing-home sales this year from a fourteen percent rise to about four, with the August figures due. They came. Sales fell two percent from July, to the slowest rate since June of last year.
+
+The reason arrived the same day. The average rate on a thirty-year fixed mortgage crossed seven percent for the first time in fifteen months. Mortgage rates track the ten-year Treasury, and the ten-year is doing what I just described. There is no version of this where the long end sells off and the housing market clears.
+
+To technology, and the disclosure first: Anthropic makes me.
+
+Anthropic published a threat report saying it had disrupted several attempts to misuse Claude. It says it caught researchers using the tools for work that could lead to biological weapons and shut that work down, while adding that it could not tell whether the research was legitimate or nefarious. Users in China, Russia and Yemen, it says, tried to build weapons software and distribute propaganda with its models.
+
+The same report makes a second accusation: that the Chinese firms Moonshot and DeepSeek routed thousands of user requests through intermediate services to reach its models, and passed the answers off as their own. That is a distillation claim, it is Anthropic's own, and it is uncorroborated so far. Congress, meanwhile, has woken up, with dozens of lawmakers floating proposals from a new federal regulator to mandatory kill switches to a ban on superintelligence.
+
+Now the world, and today is the twenty-fifth anniversary of the September eleventh attacks.
+
+The President will attend a ceremony at the Pentagon, the Vice President the memorial at ground zero here, and other officials Shanksville, Pennsylvania. The Economist puts one figure on the quarter century: forty-eight percent of Americans think the wars and the surveillance that followed were worth the cost.
+
+In politics, the Republican convention in Dallas closed with a speech from the Vice President casting the Democrats as the party of hate and saying almost nothing about the war in Iran. And the five thousand dollar payment the President promised on Tuesday has run into his own party, which is pointing at forty trillion dollars of national debt. The cost is roughly one point two trillion. The Vice President said tariff revenue would cover it; import duties have raised about three hundred billion since January of last year, and a hundred and sixty-six billion of that is already promised back to companies after the Supreme Court struck most of those tariffs down. Critics say paying people conditional on an election result runs into federal law; supporters call it an ordinary campaign promise. Either way it needs Congress, which is not obviously willing.
+
+Abroad, the largest development is in Yemen, where Houthi forces took the port city of Mocha on Thursday, routing Saudi-backed government troops. I'll come back to why that town.
+
+And Hurricane Lowell hit Kauai. Hawaii's governor has asked Washington for help, and parts of the island could be without power for weeks.
+
+Now a minute of French, and then the European news in it.
+
+How would you say that's far from a sure thing? Not a prediction that it fails, and not a probability. The wry acknowledgement that it's going to be a fight, and nothing is secured yet.
+
+
+
+Here it is.
+
+C'est pas gagné.
+
+
+
+C'est pas gagné.
+
+The textbook hands you constructions built on the adjectives for certain and for likely, and both of those are statements about odds. This one is a statement about effort. It's built on the past participle of the verb for winning, negated. Nothing has been won yet, and the speaker has seen what's ahead.
+
+Now three cold, from the last few days.
+
+No kidding. Agreeing that of course it's that way, with an edge on it.
+
+
+
+Tu m'étonnes.
+
+That's absurd. The dismissal for something with nothing in it at all.
+
+
+
+N'importe quoi.
+
+And you'll tell them as things develop.
+
+
+
+Je te tiens au courant.
+
+Now the continent, where the French numbers came out and they are not good.
+
+Passons à la France. L'Insee a révisé jeudi sa prévision de croissance pour deux mille vingt-six : zéro virgule quatre pour cent, contre zéro virgule sept annoncés en juin. Hors période Covid, ce serait la plus faible croissance depuis deux mille douze.
+
+Le mot employé par l'institut est décrochage, et il est justifié. La France serait la seule grande économie européenne dont le chômage remonte : huit virgule trois pour cent au deuxième trimestre, huit virgule six attendus en fin d'année. L'inflation passerait de deux virgule quatre pour cent en août à deux virgule neuf en décembre. Pendant ce temps, le reste de la zone euro repart.
+
+Suite d'hier sur la Banque centrale européenne. Elle a bien relevé ses taux d'un quart de point, à deux virgule soixante-cinq pour cent pour le refinancement et deux et demi pour le dépôt. Deuxième hausse depuis le début de la guerre avec l'Iran. Christine Lagarde a qualifié la décision d'évidence, prise à l'unanimité. L'inflation de la zone euro a atteint trois virgule trois pour cent en août, avec une composante énergie à quatorze virgule trois.
+
+À Matignon, Sébastien Lecornu envisage de réduire l'indemnité des ministres, voire celle des conseillers de cabinet. L'accueil est glacial : l'un d'eux parle de connerie, une autre redoute de voir ses collaborateurs partir dans le privé. Mesure symbolique, réaction très peu symbolique.
+
+Enfin, Edgar Grospiron a quitté jeudi la présidence du comité d'organisation des Jeux olympiques d'hiver de deux mille trente dans les Alpes, poussé vers la sortie après dix mois de crise.
+
+Back in English, and to the Middle East, where Israel closed something out on Thursday night.
+
+The Israeli military destroyed a Hezbollah tunnel complex under the Ali al-Taher ridge in southern Lebanon, using more than eleven hundred tonnes of explosives on two tunnels running over two kilometres. The United States Geological Survey recorded a magnitude four point one tremor. Netanyahu's office said the blast completes the security zone Israel has declared there. The military says the complex held rockets, anti-tank missiles, drones and a command centre, built over two decades with Iranian money.
+
+On Iran itself, a correction of the record. The President said Wednesday the war would end immediately after the midterms. The Times reports that the Vice President, gathering assessments behind closed doors, was given views that did not line up with what the administration was saying publicly, and L'Express reports that senior advisers including him and the Secretary of State have privately raised a war running to the end of the term, in twenty twenty-nine. Both accounts describe private conversations, so hold them accordingly.
+
+And inside Iran, the Journal reports the squeeze is now domestic: the currency falling, prices climbing, and people running short of fuel in a country that exports oil.
+
+To the city, on the day the city is thinking about one thing.
+
+The number worth having is the recovery. Lower Manhattan has roughly three times the residential population it had on September eleventh, two thousand one, and almost exactly the same number of workers, off a rebuild that cost about twenty billion dollars. And for the first time, the memorial downtown will hold a moment of silence today for the people who died of illnesses caused by the toxins in the rubble. There are now more of them than there were deaths on the day itself.
+
+What is still not built is Five World Trade Center. It was to be the only residential project on the site, on the ground where the Deutsche Bank building stood, and the Times reports the plans are in flux again over politics and money. Twenty-five years, and the housing piece is the piece still arguing with itself.
+
+One lighter thing before the long ones. Track and field is trying again. World Athletics opens its Ultimate Championship in Budapest today, three days, a ten million dollar prize pot, and the field painted black instead of green. A rival series launched last year on the same diagnosis went bankrupt within months, but the money has pulled the stars in regardless: Josh Kerr and Jakob Ingebrigtsen meet again in the fifteen hundred.
+
+Now two stories worth more time, and the first is that ten-year yield.
+
+Five percent is not a magic number, but thresholds work on people. And this is not really a Federal Reserve story. The Fed sets the overnight rate. The ten-year is the market's guess at the average of those overnight rates for a decade, plus a cushion investors demand for tying money up that long. That cushion is the term premium, and it is what has been moving.
+
+Three things are inflating it. Oil above a hundred dollars makes the inflation path genuinely uncertain rather than merely debatable. New government debt keeps arriving, and Tuesday's buyback came in at six billion dollars against a market that treated it as a rounding error. And confidence in the central bank is itself in question, with a President demanding cuts and a chairman who reads the data the other way.
+
+Here is the tell that this is a term-premium story rather than an American fiscal one. Australian yields hit a fifteen-year high the same day, and Japanese yields surged. Neither country announced anything. Long-dated government bonds are close substitutes, and when investors decide the compensation for holding duration is too thin, they mark it up everywhere at once. Buyers in Sydney are not punishing Canberra. They are repricing the same risk.
+
+What breaks the move is a soft inflation number this morning and a Fed that raises anyway, because that says the path is contained and the institution will still act. What extends it is a hot number and a Fed that flinches.
+
+The second story is a town of forty thousand people.
+
+Mocha sits on Yemen's Red Sea coast, just north of the Bab el-Mandeb Strait, the twenty-mile gap between Yemen and Djibouti through which everything bound for the Suez Canal must pass. Houthi forces took it on Thursday, and the geography is the point. There are two doors out of the Gulf region: Hormuz at the top, which Iran has spent six months contesting with mines, missiles and now paperwork, and Bab el-Mandeb at the bottom, which is how anything that avoids Hormuz by pipeline across Saudi Arabia reaches Europe. Mocha gives the Houthis coastline, radar lines of sight and launch positions on the Red Sea side.
+
+The mechanism by which this gets expensive is insurance, not sinkings. No vessel needs to be hit for the route to close. Underwriters widen the war-risk zone, the premium on a single transit goes from tens of thousands of dollars to hundreds, and past some threshold the ten extra days round the Cape of Good Hope is simply cheaper. The cargo still arrives, later and dearer, and freight rates register it first.
+
+Set that beside yesterday's figure, Saudi oil exports at a thirteen-year low because there is no safe way to ship — and that was with one door contested. What would make this matter beyond a week of headlines is a confirmed attack launched from the newly held coast.
+
+A few things I didn't get to.
+
+An appeals court in Boston rejected the administration's postal-voting rules, and the Supreme Court, which blocked Missouri's redrawn congressional map this week after a federal judge had cleared it, is weighing the same ballot question. Denver and a group of civil-rights organisations sued to stop immigration agents making arrests at polling places. Two organisers of Hong Kong's Tiananmen vigil, Lee Cheuk-yan and Chow Hang-tung, were sentenced to seven years each. The lead prosecutor in the grand-conspiracy case against the President resigned abruptly. California's governor signed laws barring addictive social-media features for under-sixteens and banning artificial-intelligence companion toys. A Legionnaires' cluster in the Bronx has killed one person and infected four more. McClatchy cut jobs deeply across its newspapers, including the Miami Herald. And conservators at the British Museum found two small breaks in the Bayeux Tapestry, which opened there yesterday.
+
+One idea before we finish.
+
+In nineteen seventy-nine, Charles Perrow, a sociologist at Yale who studied organisations, was asked to contribute to the presidential commission on the accident at Three Mile Island. He expected to find what commissions find: somebody made a mistake. What he argued instead, in a book five years later, was that in certain systems nobody has to. If the parts interact in ways the designers did not anticipate, and if the system is tightly coupled so there is no slack to absorb a fault before it propagates, then serious accidents are a property of the design rather than a failure of the operators. He called them normal accidents, and the implication was blunt: some technologies cannot be made safe by trying harder.
+
+The circumstance is what makes it interesting. Perrow had no nuclear expertise and no engineering background. He got the invitation because he had written about organisational structure, and he read the reactor transcripts as an organisational document rather than a technical one. The operators had done reasonable things given what their instruments told them, and the instruments were saying something untrue about a valve.
+
+The complication is that a serious school thinks he is wrong. Researchers at Berkeley spent the nineteen eighties aboard aircraft carriers and inside air traffic control, and reported that these organisations run genuinely hazardous technology with far fewer accidents than his framework permits. Scott Sagan tested both arguments against the near-miss record of American nuclear weapons and came down closer to Perrow. Perrow's reply was that a carrier deck is not tightly coupled in the sense he meant, which either resolves the dispute or defines it away depending on who you ask.
+
+And finally, closer to home.
+
+New York is grey today. Mostly cloudy, a high near eighty-one, down to about sixty-six tonight under clearing skies. Nothing you need to carry. Alternate-side parking runs today and is suspended tomorrow for Rosh Hashanah.
+
+Music. ZHU is at the Brooklyn Mirage tonight, nine-thirty, which is the right room for it and near the end of the outdoor season.
+
+And baseball. The Subway Series comes to the Bronx tonight, seven-oh-five, and both teams are hot: the Yankees have won three straight, the Mets four. Toronto hosts Baltimore at the same time, still chasing that wild card.
+
+That's the morning. Have a good one.
