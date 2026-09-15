@@ -1,0 +1,147 @@
+Good morning. Sunday, September thirteenth. One subject today, and we'll take our time getting to it.
+
+The news first, compressed, and then a question that sounds narrow and is about to be very large: when, exactly, does a company going public become probable. Two of the biggest private companies in the world are about to make that question expensive.
+
+Start with the essay.
+
+The head of Anthropic, Dario Amodei, published a piece yesterday arguing that the industry should deliberately slow the rate at which it makes models more capable. Disclosure: Anthropic makes me. His argument is not that training should stop. It is that risk prevention needs time to catch up, which means pacing capability gains and letting outside evaluators test systems before release. The specific thing he says he has become convinced of is an agent swarm: within six to twelve months, on his estimate, one could take over a large part of the internet as a persistent botnet, with damage he puts in the hundreds of billions of dollars.
+
+Sam Altman agreed the same day that the industry should slow frontier advances. Elon Musk posted three words: Dario is right. This is a week after an Anthropic researcher named Jacob Coxon resigned saying the labs were racing toward systems nobody would control.
+
+So in seven days you have a chief executive, his closest rival, and the loudest man on the internet all saying the same thing. The honest note is the one from yesterday. Nobody has actually slowed down, and Anthropic is preparing to list. Obama, at a private fundraiser, told Democrats to move oversight of this to the center of their agenda.
+
+To the week ahead. The Federal Reserve meets Tuesday and Wednesday, and after Friday's inflation reading the market has gone from roughly seventy percent odds of an increase to better than eighty-five. Headline inflation held at three point four percent in the year to August, core came down to two point four, and it was the monthly core figure that did the work: three tenths of a percent, more than expected.
+
+The most consequential single event of the week was in Saudi Arabia, and it deserves precision. The kingdom shut its East-West pipeline on Friday after drones launched from Iraq struck it near Riyadh and Medina. That line runs about seven hundred and fifty miles to Yanbu on the Red Sea, and it had been carrying something like five million barrels a day that would otherwise move through the Strait of Hormuz. Hormuz is effectively closed. The bypass is now closed too. That is both doors at once.
+
+The Houthis, presumed responsible, had already taken Perim Island in the Bab el-Mandeb strait, and claimed an attack on a Saudi base this weekend in reply to bombing in Yemen.
+
+Separately, American officials say they have linked high-resolution satellite imagery acquired from Chinese entities to the July strike on a base in Jordan that killed three American soldiers. That is the Journal's reporting, sourced to officials, and Beijing has spent months rejecting warnings about exactly this.
+
+Sweden votes today and it is close. Ulf Kristersson is running on an economy that grew three point three percent year over year in the second quarter, and has offered the Sweden Democrats cabinet seats for the first time if he wins. Magdalena Andersson's Social Democrats led the polls for most of four years and have watched part of that vote leak away to their left.
+
+In Nepal, the Times has gone back to the Trishuli valley three weeks after the flood that came off the mountain on the twenty-sixth of August. Nearly fourteen hundred dead, more than five thousand still missing, roughly seven and a half thousand homes destroyed outright.
+
+Russia hit two petrol stations in Kyiv with jet-powered drones, killing two people. And in Britain, members of parliament voted two hundred eighty-six to two hundred seventy against legalising assisted dying.
+
+One figure from the back of the Journal, because it explains a small war in the Mediterranean. The average American tourist in Spain spent four hundred and ten dollars a day in July. British visitors spent about two hundred sixty, Germans about two hundred forty. Mallorca, struggling with overtourism, has worked out which kind it would like fewer of.
+
+Two at home. The Times published an analysis showing office-to-residential conversion in New York has accelerated sharply, and anchored it on the former Pfizer headquarters, where two steel columns buckled on the twenty-first floor in July and emptied the surrounding blocks. Engineers found that reinforcement plates called for in the plans had not been installed. And the 34th Street busway, which Mayor Mamdani said in the spring would go ahead after Washington halted it, is no closer to being built than it was then.
+
+Now the year in numbers, because Sunday is where those live.
+
+The S and P five hundred finished Friday around seventy-six fifty-seven, up roughly twelve percent on the year. The Nasdaq, near twenty-six thousand three hundred, up about thirteen. The Dow, a shade under fifty-two thousand six hundred, up about nine. Three respectable numbers that tell you almost nothing about what this year has actually felt like.
+
+Bonds tell you. The ten-year Treasury began the year at four point one six percent and sits at four point nine eight. That is eighty-two basis points, and the highest level in nineteen years. And the number underneath all of it: Brent crude started the year near sixty-one dollars a barrel and is around a hundred and five. Up about seventy percent. That is the war, in one line.
+
+Gold, for the record, is roughly flat on the year at about forty-four hundred dollars an ounce, which is its own kind of surprise after gaining sixty-five percent last year.
+
+Now the piece.
+
+Here is a question that sounds like it belongs in a footnote. When does it become probable that a private company will go public?
+
+Is it probable when the board first discusses it? When the company starts talking quietly to the Securities and Exchange Commission? When it files its registration document publicly, and the whole world can read the financials? Thirty days out? Seven?
+
+Over the past decade, Wall Street and the big accounting firms have converged on an answer that is, on its face, absurd. An initial public offering is not probable until the moment it actually happens. This is the reporting of the Times, drawing on a new paper by Sven Riethmueller, a professor at Yale Law School, and it matters because that single word governs when billions of dollars of expenses hit a company's income statement.
+
+Start with the instrument, because none of this makes sense without it.
+
+For most of the history of startup compensation, employees got stock options: the right to buy shares later at a price fixed today. Over the last decade options have been largely replaced by grants of actual stock that vest over time. And at large private companies, the dominant version is something called a double-trigger restricted stock unit.
+
+Two triggers, hence the name. The first is service: you have to stay for a minimum period. The second is a liquidity event, which in practice means the company goes public. Both have to happen. If there is no offering before the grant expires, typically after seven years, the employee gets nothing at all.
+
+The first trigger is ordinary. The second one is the clever part, and its original purpose was genuinely humane. Under a plain stock grant, an employee owes tax when the shares vest. If those shares are in a private company, they cannot be sold, so people were being handed large tax bills payable on paper wealth they could not touch. Attaching the grant to a liquidity event solves that. No offering, no shares, no tax.
+
+But it has a second effect, which is where the money is. Because accounting rules only require an expense to be recognised once the performance condition becomes probable, and the performance condition is the offering, the company does not have to book the cost of this compensation while it is private. Options are expensed automatically over the vesting period. These are not. So a company can pay its people in stock for seven years and show almost none of it as an expense.
+
+And then it goes public, and the bill arrives all at once.
+
+The numbers are the part to hold onto. Robinhood averaged about six million dollars of stock-based compensation expense per quarter in the year before it listed. In the quarter it went public, it booked a catch-up charge of one billion dollars. Pinterest went from three point seven million a quarter to a catch-up expense of nine hundred seventy-five million. Those are not typos and they are not rounding. They are the same business, described two completely different ways, eight weeks apart.
+
+Now the convention, and who built it.
+
+Robinhood filed its registration document publicly on the first of July, twenty twenty-one, and went public on the twenty-ninth. On the thirtieth of June, one day before that filing, it took the position that its offering was not probable. Pinterest declined to recognise the expense even after its filing was public, eighteen days before it listed.
+
+This is not one company being aggressive. Riethmueller looked at ninety-one companies with private valuations above a billion dollars that listed between twenty fourteen and twenty twenty-four, and of the fifty-one with significant deferred expenses, fifty were audited by one of the four big accounting firms. The firms' argument is that an offering is always uncertain and depends on things outside the company's control. Markets can close, and sometimes do. That is not a stupid argument. It is just an argument that has never once resolved the other way.
+
+An accounting professor at Temple named Steven Balsam puts the objection simply: there is a principle called conservatism, which says recognise expenses as early as you can and revenue as late as you can. This does the reverse. And as Riethmueller says the practitioners will tell you privately and never in writing, once a company has filed, the odds of the offering happening are quite high.
+
+What it does to investors is the contested part, and I want to be careful here.
+
+Riethmueller found that companies posting catch-up charges above a hundred and seven million dollars saw an average share price decline of ten point one percent, measured from ten days before results to ten days after, adjusted for the Nasdaq. Below that threshold, the underperformance was three point two percent. He is explicit that he is not claiming the charges cause the falls — only that they are a risk factor that ought to be disclosed properly and frequently is not. Rubrik, for instance, disclosed six hundred twenty-one and a half million dollars of coming charges in its filing, and did not quantify a further four hundred seventy-five million of related costs until after it was public.
+
+The honest counterargument comes from two directions. Academics who reviewed the paper for the Times want more statistical work. Partha Mohanram at Toronto's Rotman School made the obvious point: companies with enormous deferred compensation are unusual in other ways too, and those other ways might be what moves the stock. And from the other side, John Berlau at the Competitive Enterprise Institute argues the accounting is simply correct — that you should not charge earnings for an event that has not occurred — and that if there is a problem, it is a disclosure problem, not a measurement one.
+
+So why does this matter this morning rather than in a seminar.
+
+Because the pipeline is Anthropic and OpenAI. Anthropic is preparing an offering at a rumoured two trillion dollar valuation. These are companies that have spent years hiring very expensive people with very large equity grants, at a scale nobody has previously tested this convention against, and neither would comment to the Times about its use of these instruments. Whatever the catch-up charge looks like, it will be a number without precedent, and it will land in the first quarter that retail investors can own the stock.
+
+And there is a wrinkle that could make it worse. If the Securities and Exchange Commission follows through on its proposal to let companies report twice a year instead of four times, the reckoning simply arrives later. More people will have bought in before the accounts say what the compensation actually cost.
+
+Now a minute of French, and then the European news in it.
+
+How would you say you find something hard? Not that the thing is difficult in the abstract, and not that you failed at it. That you personally struggle with it, and you're admitting it lightly.
+
+
+
+Here it is.
+
+J'ai du mal.
+
+
+
+J'ai du mal.
+
+The textbook route is to build a sentence around the adjective for difficult and then bolt on the words for "for me." That is the calque, straight from English, and it lands flat. The idiomatic version puts the difficulty inside you, as something you possess, using the ordinary noun for hurt or trouble. And it takes a preposition before the verb that follows, so you have trouble at doing the thing, not with it.
+
+Now three cold, from the archive.
+
+That's absurd. The dismissal for something with nothing in it at all.
+
+
+
+N'importe quoi.
+
+And you'll tell them as things develop.
+
+
+
+Je te tiens au courant.
+
+Something is a hassle, a pain to deal with.
+
+
+
+C'est galère.
+
+And now the continent, where the French week ended with a climbdown and a homecoming.
+
+Passons à la France, et à une reculade diplomatique. La nomination d'Aurélien Lechevallier, proche d'Emmanuel Macron, au poste d'ambassadeur à Washington était gelée par les Américains depuis un message de la diplomatie française, le 25 juillet, qui critiquait leur position sur les droits de l'homme. Paris a publié vendredi un communiqué de mea culpa pour débloquer la situation. Discret, mais tout le monde a compris.
+
+Côté budget, le gouvernement prépare pour deux mille vingt-sept un ensemble de mesures destinées à faciliter les transmissions familiales, dans une note intitulée « Transmissions 2027 » que Le Monde a pu consulter. L'idée est d'abaisser l'âge du premier héritage, et au passage de réduire les droits de succession. Dans un budget qui cherche partout des recettes, c'est un choix qui va se discuter.
+
+À gauche, Jean-Luc Mélenchon a profité de la Fête de L'Humanité pour une démonstration de force et un duel à distance avec Fabien Roussel, sur un territoire pourtant historiquement communiste. Objectif : convaincre qu'il l'emporterait face à Marine Le Pen en deux mille vingt-sept.
+
+Et puis Céline Dion est remontée sur scène vendredi soir, à Nanterre, pour le premier des vingt-six concerts de sa résidence. Trente mille personnes, vingt-cinq titres, deux heures et quart, après plus de six ans d'absence. Voix maîtrisée, mise en scène sobre, et une artiste visiblement très émue.
+
+Enfin, une nouvelle qui n'est pas tout à fait sérieuse. Sur la Côte bleue, entre Martigues et Marseille, mille à deux mille chèvres errantes se promènent désormais près des routes et des maisons. Elles ont bousculé une dame de quatre-vingt-un ans. Les maires cherchent une solution.
+
+Back in English.
+
+One idea before we finish.
+
+In the summer of nineteen forty-eight, Kenneth Arrow was a twenty-seven-year-old consultant at the RAND Corporation, which existed to do mathematics for the Air Force. The problem in front of him was game theory applied to the Cold War, and it required treating the Soviet Union as a player with preferences — a thing that wants outcomes in a consistent order. The way Arrow told the story afterward, a colleague asked him whether that was legitimate, given that a nation is not a person but a collection of millions of people who want different things.
+
+He went looking for the rule that would combine them, and proved instead that no such rule exists. If you insist on a handful of conditions that all sound like bare minimums — that the method produce a consistent ranking, that it respond to what people actually want, that no single person decides, and that the ranking of two options not depend on some third irrelevant option — then the only procedure satisfying all of them is a dictatorship. He wrote it up that summer as a RAND document and expanded it into his doctoral dissertation in nineteen fifty-one.
+
+The complication is that the theorem may prove less than it appears to. Amartya Sen's argument is that the result depends on how little information Arrow allows himself. The framework takes only rankings: it knows that you prefer this to that, and nothing about how much. It cannot say that one person would be devastated and another mildly inconvenienced. Admit comparisons like that, Sen argued, and the impossibility loosens considerably — which means the question was never really whether democracy is coherent, but what a voting system is permitted to know about the people voting.
+
+And finally, closer to home.
+
+New York is wet this morning. Showers and a possible thunderstorm early, then variable clouds through the afternoon with more showers around, a high near eighty-two and down to about seventy tonight. Locally heavy rain is possible. Take the umbrella, and don't trust a dry hour.
+
+Music, and last night's show has a second half. Mau P is back at Brooklyn Army Terminal tonight, the Teksupport run out on the pier, with DJ Gigola and Joseph Capriati opening. It was moved from Friday, so it's tonight rather than the night you may have had in your head. And Peggy Gou plays Flushing Meadows Corona Park on the third of October.
+
+And baseball. The Subway Series finishes at Yankee Stadium at one thirty-five, level at a game apiece after the Mets took Saturday six to three. The Yankees are eighty-five and sixty-three and firmly in the wild card picture. Toronto arrives at Citi Field tomorrow for three, still chasing.
+
+That's the morning. Enjoy the rest of it.

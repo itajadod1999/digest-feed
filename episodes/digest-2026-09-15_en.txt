@@ -52,15 +52,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say that something suits you. Not that you like it, and not that you approve — that it happens to work out well for you, that it makes your life easier. A friend offers to move dinner to Thursday and that is better for you anyway.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]Ça m'arrange.[[/FR]]
+Ça m'arrange.
 
-[[PAUSE]]
 
-[[FR]]Ça m'arrange.[[/FR]]
+
+Ça m'arrange.
 
 Two wrong routes, and you have probably taken both. The first translates the English directly and says the thing works for you, which in French says something about employment. The second reaches for the textbook verb for suiting, which is correct and sounds like a letter from a notary. The idiomatic version uses the everyday verb for tidying, turned round so the thing does the arranging on your behalf.
 
@@ -68,25 +68,25 @@ Now three cold, from the archive.
 
 You can't wait for something. That warm, forward-leaning anticipation.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai hâte.[[/FR]]
+
+J'ai hâte.
 
 That's absurd. The dismissal for something with nothing in it at all.
 
-[[PAUSE:3]]
 
-[[FR]]N'importe quoi.[[/FR]]
+
+N'importe quoi.
 
 No kidding. Agreeing that of course it's that way, with an edge on it.
 
-[[PAUSE:3]]
 
-[[FR]]Tu m'étonnes.[[/FR]]
+
+Tu m'étonnes.
 
 And now the continent, where the French bond market had the kind of day that gets noticed.
 
-[[FR]]Passons à la France, et à ses taux. Lundi, le rendement de l'emprunt d'État français à dix ans est monté à quatre et demi pour cent. Du jamais-vu depuis deux mille huit. L'écart avec l'Allemagne, jugée nettement plus fiable, a lui aussi atteint un record. Le Monde y voit une nouvelle alerte sur les finances publiques, entre la flambée du pétrole et la hausse générale des taux, et signale que les hedge funds spéculent de plus en plus sur la dette française.
+Passons à la France, et à ses taux. Lundi, le rendement de l'emprunt d'État français à dix ans est monté à quatre et demi pour cent. Du jamais-vu depuis deux mille huit. L'écart avec l'Allemagne, jugée nettement plus fiable, a lui aussi atteint un record. Le Monde y voit une nouvelle alerte sur les finances publiques, entre la flambée du pétrole et la hausse générale des taux, et signale que les hedge funds spéculent de plus en plus sur la dette française.
 
 Le débat budgétaire pour deux mille vingt-sept se durcit en conséquence. L'avertissement qui circule tient en une phrase : attention à ne pas casser ce qui reste de croissance par une austérité trop violente.
 
@@ -94,7 +94,7 @@ Une statistique à contre-emploi, au passage. Les grandes entreprises française
 
 Côté politique, Marine Le Pen consolide son ancrage chez les retraités, une priorité assumée en vue de la présidentielle. Et l'inquiétude gagne Bruxelles : au Parlement européen, la perspective d'un second tour entre le Rassemblement national et La France insoumise en deux mille vingt-sept tétanise une partie des élus.
 
-Au Royaume-Uni, enfin, le chômage reste à quatre virgule neuf pour cent. Le chiffre qui compte est celui des jeunes : seize virgule quatre pour cent, contre quatorze virgule trois il y a un an.[[/FR]]
+Au Royaume-Uni, enfin, le chômage reste à quatre virgule neuf pour cent. Le chiffre qui compte est celui des jeunes : seize virgule quatre pour cent, contre quatorze virgule trois il y a un an.
 
 Back in English, and to Iran, where the diplomacy stayed dead and the shooting picked up.
 
