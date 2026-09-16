@@ -46,15 +46,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say that something has nothing to do with it. Not that it is irrelevant in some formal sense. That flat, faintly impatient correction you make when somebody has connected two things that are not connected.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+Ça n'a rien à voir.
 
-[[PAUSE]]
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+
+Ça n'a rien à voir.
 
 This is the calque trap in its purest form. English says nothing to do with, so the hand reaches for the verb meaning to do. French reaches for the verb meaning to see. There is nothing to reason toward. The expression simply took the other verb, and the word-for-word version gives you away in one syllable.
 
@@ -62,25 +62,25 @@ Now three cold, from the archive.
 
 Something suits you. It works out well for you, makes your life easier.
 
-[[PAUSE:3]]
 
-[[FR]]Ça m'arrange.[[/FR]]
+
+Ça m'arrange.
 
 It isn't worth the effort. The effort won't pay you back.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 And you'll keep them posted as things develop.
 
-[[PAUSE:3]]
 
-[[FR]]Je te tiens au courant.[[/FR]]
+
+Je te tiens au courant.
 
 And now the continent, where the budget got tighter and a former minister went to court.
 
-[[FR]]Passons à la France, et au budget. Sébastien Lecornu a demandé hier que les dépenses de l'État en 2027 restent, je cite, strictement au même niveau qu'en 2026. Autrement dit, un gel. Et il le dit au moment où la colère sociale monte avec le prix des carburants, ce qui rend l'exercice périlleux.
+Passons à la France, et au budget. Sébastien Lecornu a demandé hier que les dépenses de l'État en 2027 restent, je cite, strictement au même niveau qu'en 2026. Autrement dit, un gel. Et il le dit au moment où la colère sociale monte avec le prix des carburants, ce qui rend l'exercice périlleux.
 
 L'Express a poussé le raisonnement jusqu'au bout. Le journal a interrogé une trentaine de spécialistes pour écrire, sous forme de récit, le scénario d'une France rattrapée par l'envolée des taux. C'est une fiction. Ce n'est pas une fantaisie.
 
@@ -90,7 +90,7 @@ Au tribunal correctionnel de Paris, le procès Dati-Ghosn s'ouvre aujourd'hui. R
 
 Une suite, sur un sujet dont je vous ai parlé dimanche. Paris avait publié un communiqué de mea culpa pour débloquer la nomination de son ambassadeur à Washington. Aurélien Lechevallier a obtenu son agrément. La méthode a donc fonctionné.
 
-Enfin, une disparition. Catherine Ringer, la voix des Rita Mitsouko, est morte à soixante-huit ans.[[/FR]]
+Enfin, une disparition. Catherine Ringer, la voix des Rita Mitsouko, est morte à soixante-huit ans.
 
 Back in English, and to Iran, where somebody finally put a price on it.
 
