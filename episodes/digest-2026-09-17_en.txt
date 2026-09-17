@@ -46,15 +46,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say you have reached your limit. Not that a task is beyond you, and not that you are tired. That flat, worn-out declaration you make when your capacity to absorb any more of something is simply finished.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]J'en peux plus.[[/FR]]
+J'en peux plus.
 
-[[PAUSE]]
 
-[[FR]]J'en peux plus.[[/FR]]
+
+J'en peux plus.
 
 The textbook route reaches for a verb meaning to endure or to put up with and builds a sentence around it. That is correct French and it sounds like a translation, because you have supplied an object a French speaker would never name. The idiomatic version drops it and lets one small pronoun carry everything. You are not saying you cannot do a thing. You are saying there is none of you left.
 
@@ -62,25 +62,25 @@ Now three cold, from the archive.
 
 You can't wait for something. That warm, forward-leaning anticipation.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai hâte.[[/FR]]
+
+J'ai hâte.
 
 You're kicking yourself. That small private irritation at yourself.
 
-[[PAUSE:3]]
 
-[[FR]]Je m'en veux.[[/FR]]
+
+Je m'en veux.
 
 And that has nothing to do with it. The flat correction when somebody has connected two things that are not connected.
 
-[[PAUSE:3]]
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+
+Ça n'a rien à voir.
 
 And now the continent, where the budget arithmetic got a number attached to it.
 
-[[FR]]Passons à la France, et au budget. Hier, je vous disais que Sébastien Lecornu voulait geler les dépenses. On connaît désormais le chiffre : trente milliards d'euros d'économies pour deux mille vingt-sept. Et il doit le faire adopter par une Assemblée où, depuis la dissolution de juin deux mille vingt-quatre, aucun groupe n'a de majorité absolue. Chaque ligne, des retraites aux franchises médicales, crée sa propre coalition d'opposants. À quelques mois de la présidentielle, c'est la survie du gouvernement qui se joue là-dessus.
+Passons à la France, et au budget. Hier, je vous disais que Sébastien Lecornu voulait geler les dépenses. On connaît désormais le chiffre : trente milliards d'euros d'économies pour deux mille vingt-sept. Et il doit le faire adopter par une Assemblée où, depuis la dissolution de juin deux mille vingt-quatre, aucun groupe n'a de majorité absolue. Chaque ligne, des retraites aux franchises médicales, crée sa propre coalition d'opposants. À quelques mois de la présidentielle, c'est la survie du gouvernement qui se joue là-dessus.
 
 La colère des carburants, elle, ne se joue pas à l'Assemblée. Une centaine de pêcheurs se sont rassemblés hier dans l'Hérault pour protester contre la hausse des prix. La veille, c'étaient les Bouches-du-Rhône. Le mouvement est encore petit. Il est aussi exactement celui que tout le monde à Paris surveille.
 
@@ -88,7 +88,7 @@ Sur l'intelligence artificielle, le ministre de l'Économie Roland Lescure s'est
 
 Enfin, une affaire lourde à Lyon. Aux Chartreux, établissement catholique privé, une ancienne élève accuse l'ex-directeur, le prêtre Jean-Bernard Plessy, de viol et d'emprise. L'intéressé conteste les faits. Le plus ancien diocèse de France se retrouve dans la tourmente à quelques jours de la visite du pape.
 
-Et à Londres, la Banque d'Angleterre décide aujourd'hui. Les marchés attendent un maintien à trois virgule soixante-quinze pour cent.[[/FR]]
+Et à Londres, la Banque d'Angleterre décide aujourd'hui. Les marchés attendent un maintien à trois virgule soixante-quinze pour cent.
 
 Back in English, and to Iran, where the diplomacy moved to New York.
 
