@@ -28,15 +28,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say you're struggling with something. Not that you can't do it, and not that it's hard in the abstract. That ordinary, slightly rueful admission that a thing is giving you trouble, and you are the one having the trouble.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]J'ai du mal.[[/FR]]
+J'ai du mal.
 
-[[PAUSE]]
 
-[[FR]]J'ai du mal.[[/FR]]
+
+J'ai du mal.
 
 The trap is that English puts the difficulty in the thing. It is hard, it is difficult, and the textbook obliges you with an adjective and an impersonal construction. French puts the difficulty in you and hands it to the verb for having. You do not say the thing is hard. You say you have trouble, and then, if you want, what with.
 
@@ -44,19 +44,19 @@ Now two cold, from the archive.
 
 That has nothing to do with it. The flat correction when somebody has connected two things that are not connected.
 
-[[PAUSE:3]]
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+
+Ça n'a rien à voir.
 
 It isn't worth the effort. The effort won't pay you back.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 And now the continent, where a president spent his weekend on a very small island.
 
-[[FR]]Emmanuel Macron se trouve aujourd'hui à Saint-Pierre-et-Miquelon, avec le premier ministre canadien Mark Carney. C'est la première visite officielle d'un chef du gouvernement canadien dans l'archipel. Au programme : l'aérospatiale, l'énergie, les minerais critiques, et les technologies dites avancées, du quantique aux satellites.
+Emmanuel Macron se trouve aujourd'hui à Saint-Pierre-et-Miquelon, avec le premier ministre canadien Mark Carney. C'est la première visite officielle d'un chef du gouvernement canadien dans l'archipel. Au programme : l'aérospatiale, l'énergie, les minerais critiques, et les technologies dites avancées, du quantique aux satellites.
 
 Le sous-texte, personne ne le cache. Ce mois-ci, Donald Trump a publié une carte où figuraient, en territoire américain, le Groenland, l'Islande, le Mexique, et ce petit bout de France au large de Terre-Neuve. Le déplacement est la réponse. Et il intervient quelques jours après que Bruxelles a proposé au Canada de devenir le premier membre associé de l'Union.
 
@@ -64,7 +64,7 @@ Sur l'énergie, Macron veut convoquer un G7 pour rouvrir la question des réserv
 
 Plus à l'est, les Allemands du Mecklembourg-Poméranie-Occidentale votent aujourd'hui. Il y a quinze jours, en Saxe-Anhalt, l'Alternative pour l'Allemagne a recueilli quarante-trois virgule huit pour cent, son meilleur score dans un scrutin régional. La CDU de Friedrich Merz est tombée à dix-sept virgule deux.
 
-Et à Munich, la fête de la bière a ouvert. Cent quatre-vingt-onzième édition, six millions de visiteurs attendus, un virgule cinq milliard d'euros pour l'économie locale. Le litre de bière atteint quinze euros quatre-vingt-dix. Un économiste a calculé que le prix a augmenté de quatre cents pour cent depuis mille neuf cent quatre-vingt-cinq. La ville, elle, a installé un système de surveillance automatisée des flux de visiteurs, pour repérer les mouvements de foule avant qu'ils ne deviennent dangereux.[[/FR]]
+Et à Munich, la fête de la bière a ouvert. Cent quatre-vingt-onzième édition, six millions de visiteurs attendus, un virgule cinq milliard d'euros pour l'économie locale. Le litre de bière atteint quinze euros quatre-vingt-dix. Un économiste a calculé que le prix a augmenté de quatre cents pour cent depuis mille neuf cent quatre-vingt-cinq. La ville, elle, a installé un système de surveillance automatisée des flux de visiteurs, pour repérer les mouvements de foule avant qu'ils ne deviennent dangereux.
 
 Back in English, and to the morning's subject.
 
