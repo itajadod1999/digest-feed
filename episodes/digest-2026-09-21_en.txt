@@ -40,15 +40,15 @@ Now a minute of French, and then the European news in it.
 
 How would you say something is far from a sure thing. Not impossible, not merely difficult. That sceptical shrug when somebody lays out a plan and you can already see the ways it doesn't come off.
 
-[[PAUSE:3]]
+
 
 Here it is.
 
-[[FR]]C'est pas gagné.[[/FR]]
+C'est pas gagné.
 
-[[PAUSE]]
 
-[[FR]]C'est pas gagné.[[/FR]]
+
+C'est pas gagné.
 
 The trap is that English puts this in the odds, and hands you an adjective every time. Unlikely, far from certain, a long shot. French hands it instead to the verb for winning, in the past, negated, with the subject left deliberately vague. Nobody has won anything yet. That's the whole sentence.
 
@@ -56,25 +56,25 @@ Now three cold, from the archive.
 
 You're struggling with something. It's giving you trouble, and you're the one having the trouble.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai du mal.[[/FR]]
+
+J'ai du mal.
 
 You're kicking yourself.
 
-[[PAUSE:3]]
 
-[[FR]]Je m'en veux.[[/FR]]
+
+Je m'en veux.
 
 You have reached your limit. There is none of you left.
 
-[[PAUSE:3]]
 
-[[FR]]J'en peux plus.[[/FR]]
+
+J'en peux plus.
 
 And now the continent, where the ground moved last night.
 
-[[FR]]Passons à l'Allemagne. En Mecklembourg-Poméranie-Occidentale, l'Alternative pour l'Allemagne arrive en tête avec trente-huit virgule trois pour cent, selon les projections. Le parti d'extrême droite devance ainsi le SPD dans un Land que les sociaux-démocrates dirigeaient depuis des décennies.
+Passons à l'Allemagne. En Mecklembourg-Poméranie-Occidentale, l'Alternative pour l'Allemagne arrive en tête avec trente-huit virgule trois pour cent, selon les projections. Le parti d'extrême droite devance ainsi le SPD dans un Land que les sociaux-démocrates dirigeaient depuis des décennies.
 
 Mais le chiffre le plus frappant est ailleurs. La CDU de Friedrich Merz passe sous la barre des cinq pour cent, le seuil requis pour siéger au Parlement régional : le parti du chancelier n'y aura donc aucun élu. Selon Le Monde, cela ne s'était jamais produit depuis mille neuf cent quarante-neuf. Merz a qualifié le résultat de catastrophe, tout en annonçant qu'il resterait à la tête du parti.
 
@@ -82,7 +82,7 @@ L'économie allemande, elle, n'allait déjà pas fort. Vendredi, Volkswagen a pu
 
 En France, le projet de loi de finances sera présenté le trente septembre. Sébastien Lecornu maintient son cap : cinquante-quatre milliards d'euros d'efforts pour ramener le déficit public à cinq pour cent. Sans rien faire, il dépasserait six et demi. Les postes qui gonflent sont connus : dix milliards de plus pour la charge de la dette d'ici deux mille vingt-sept, vingt-deux milliards pour la Sécurité sociale, six virgule quatre milliards pour la défense. Le tout devant une Assemblée sans majorité absolue.
 
-Et ce soir, à New York, Emmanuel Macron doit s'entretenir avec Donald Trump, deux jours après avoir reçu Mark Carney à Saint-Pierre-et-Miquelon.[[/FR]]
+Et ce soir, à New York, Emmanuel Macron doit s'entretenir avec Donald Trump, deux jours après avoir reçu Mark Carney à Saint-Pierre-et-Miquelon.
 
 Back in English, and to Iran and the Middle East, where a direct follow-up to yesterday.
 
