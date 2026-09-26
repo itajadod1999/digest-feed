@@ -52,51 +52,51 @@ Now a few minutes of French, and then the European week in it. It's Saturday, so
 
 Someone asks what you meant, and it isn't worth explaining. Wave it off, kindly.
 
-[[PAUSE:3]]
 
-[[FR]]Laisse tomber.[[/FR]]
+
+Laisse tomber.
 
 Thursday instead of Wednesday works better for you, and you both know it's a favour.
 
-[[PAUSE:3]]
 
-[[FR]]Ça m'arrange.[[/FR]]
+
+Ça m'arrange.
 
 You're floating dinner to a friend. Are they up for it?
 
-[[PAUSE:3]]
 
-[[FR]]Ça te dit ?[[/FR]]
+
+Ça te dit ?
 
 You're kicking yourself over something you did.
 
-[[PAUSE:3]]
 
-[[FR]]Je m'en veux.[[/FR]]
+
+Je m'en veux.
 
 You'll keep them posted.
 
-[[PAUSE:3]]
 
-[[FR]]Je te tiens au courant.[[/FR]]
+
+Je te tiens au courant.
 
 Someone says something absurd. Total nonsense.
 
-[[PAUSE:3]]
 
-[[FR]]N'importe quoi.[[/FR]]
+
+N'importe quoi.
 
 And with that, over to the continent.
 
-[[FR]]En France, la semaine s'est jouée à la pompe. Le gouvernement Lecornu a prolongé et élargi les aides aux gros rouleurs : cinq virgule cinq millions de personnes y ont désormais droit. Jeudi soir, sur TF1 et France 2, Emmanuel Macron n'a pas exclu de baisser les taxes sur les carburants, et a annoncé l'envoi de soldats et de radars en Arabie saoudite pour protéger le site pétrolier de Yanbu.[[/FR]]
+En France, la semaine s'est jouée à la pompe. Le gouvernement Lecornu a prolongé et élargi les aides aux gros rouleurs : cinq virgule cinq millions de personnes y ont désormais droit. Jeudi soir, sur TF1 et France 2, Emmanuel Macron n'a pas exclu de baisser les taxes sur les carburants, et a annoncé l'envoi de soldats et de radars en Arabie saoudite pour protéger le site pétrolier de Yanbu.
 
-[[FR]]À gauche, la primaire a enfin commencé pour de vrai. Premier débat mercredi soir sur LCI, à cinq candidats. Peu d'écarts sur l'économie, de vraies frictions sur Gaza et sur l'alliance avec La France insoumise. Les deux prochains débats ont lieu le premier et le quatre octobre.[[/FR]]
+À gauche, la primaire a enfin commencé pour de vrai. Premier débat mercredi soir sur LCI, à cinq candidats. Peu d'écarts sur l'économie, de vraies frictions sur Gaza et sur l'alliance avec La France insoumise. Les deux prochains débats ont lieu le premier et le quatre octobre.
 
-[[FR]]Le pape Léon Quatorze est à Paris depuis vendredi, pour la première visite pontificale en France depuis dix-huit ans. Hier soir, au Stade de France, il a célébré devant une foule de jeunes ce qu'il a appelé le combat pour la foi. Le voyage se poursuit jusqu'à lundi.[[/FR]]
+Le pape Léon Quatorze est à Paris depuis vendredi, pour la première visite pontificale en France depuis dix-huit ans. Hier soir, au Stade de France, il a célébré devant une foule de jeunes ce qu'il a appelé le combat pour la foi. Le voyage se poursuit jusqu'à lundi.
 
-[[FR]]Ailleurs en Europe, des signaux contradictoires. En début de semaine, l'indice Ifo du climat des affaires en Allemagne atteignait son plus haut niveau depuis mai deux mille vingt-trois. Mais vendredi, l'indicateur de confiance des ménages allemands pour octobre est tombé à son plus bas depuis quatre mois, plombé par la peur des factures d'énergie cet hiver. L'Europe dépend du gazole américain, qui représentait plus de soixante pour cent de ses importations en août. D'où l'inquiétude à chaque fois que Washington évoque une interdiction des exportations.[[/FR]]
+Ailleurs en Europe, des signaux contradictoires. En début de semaine, l'indice Ifo du climat des affaires en Allemagne atteignait son plus haut niveau depuis mai deux mille vingt-trois. Mais vendredi, l'indicateur de confiance des ménages allemands pour octobre est tombé à son plus bas depuis quatre mois, plombé par la peur des factures d'énergie cet hiver. L'Europe dépend du gazole américain, qui représentait plus de soixante pour cent de ses importations en août. D'où l'inquiétude à chaque fois que Washington évoque une interdiction des exportations.
 
-[[FR]]Et demain, les Suisses votent sur l'initiative portée par Christoph Blocher, qui inscrirait une neutralité stricte dans la Constitution. Elle interdirait notamment à la Suisse de s'associer aux sanctions européennes. Les sondages la donnent perdante.[[/FR]]
+Et demain, les Suisses votent sur l'initiative portée par Christoph Blocher, qui inscrirait une neutralité stricte dans la Constitution. Elle interdirait notamment à la Suisse de s'associer aux sanctions européennes. Les sondages la donnent perdante.
 
 Back in English, for the story worth more time this week. It's the gap between the two oil prices.
 
