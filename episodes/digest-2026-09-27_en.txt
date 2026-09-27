@@ -74,13 +74,13 @@ Now a minute of French, and then the European news in it.
 
 How would you say that doesn't ring a bell. Someone mentions a name, a restaurant, a film, and you've got nothing.
 
-[[PAUSE:3]]
 
-[[FR]]Ça ne me dit rien.[[/FR]]
 
-[[PAUSE]]
+Ça ne me dit rien.
 
-[[FR]]Ça ne me dit rien.[[/FR]]
+
+
+Ça ne me dit rien.
 
 The trap is translating the bell. French has no bell to ring here, and a literal version just sounds odd. Instead, the thing tells you nothing. You've heard the same verb before, in the phrase for floating a plan to a friend, and it's worth noticing that the positive and the negative mean quite different things.
 
@@ -88,29 +88,29 @@ Now three cold, from the archive.
 
 It isn't worth the effort.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 Someone says something absurd.
 
-[[PAUSE:3]]
 
-[[FR]]N'importe quoi.[[/FR]]
+
+N'importe quoi.
 
 Thursday instead of Wednesday suits you better.
 
-[[PAUSE:3]]
 
-[[FR]]Ça m'arrange.[[/FR]]
+
+Ça m'arrange.
 
 And now the continent, where it's a day of votes.
 
-[[FR]]En France, c'est jour d'élections sénatoriales. La moitié du Sénat est renouvelée, soit cent soixante-dix-huit sièges, par un collège d'un peu plus de quatre-vingt-treize mille grands électeurs, surtout des élus de petites communes. C'est le dernier scrutin avant la présidentielle. À suivre : le recul annoncé des Républicains, et le Rassemblement national, qui espère atteindre dix sénateurs pour former son propre groupe.[[/FR]]
+En France, c'est jour d'élections sénatoriales. La moitié du Sénat est renouvelée, soit cent soixante-dix-huit sièges, par un collège d'un peu plus de quatre-vingt-treize mille grands électeurs, surtout des élus de petites communes. C'est le dernier scrutin avant la présidentielle. À suivre : le recul annoncé des Républicains, et le Rassemblement national, qui espère atteindre dix sénateurs pour former son propre groupe.
 
-[[FR]]Le pape Léon Quatorze termine sa visite à Lourdes, où il doit rencontrer sept victimes de violences sexuelles dans l'Église. Hier, il a célébré une messe géante place de la Concorde. Et partout en France, des marches pour le climat ont réuni cent vingt mille personnes selon les organisateurs.[[/FR]]
+Le pape Léon Quatorze termine sa visite à Lourdes, où il doit rencontrer sept victimes de violences sexuelles dans l'Église. Hier, il a célébré une messe géante place de la Concorde. Et partout en France, des marches pour le climat ont réuni cent vingt mille personnes selon les organisateurs.
 
-[[FR]]En Suisse, les électeurs se prononcent aujourd'hui sur l'initiative portée par Christoph Blocher, qui inscrirait une neutralité stricte dans la Constitution et interdirait au pays de s'associer aux sanctions européennes. Les sondages la donnent perdante.[[/FR]]
+En Suisse, les électeurs se prononcent aujourd'hui sur l'initiative portée par Christoph Blocher, qui inscrirait une neutralité stricte dans la Constitution et interdirait au pays de s'associer aux sanctions européennes. Les sondages la donnent perdante.
 
 One idea before we finish.
 
