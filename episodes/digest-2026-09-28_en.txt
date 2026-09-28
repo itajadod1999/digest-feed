@@ -52,13 +52,13 @@ Now a minute of French, and then the European news in it.
 
 How would you say something was not great. A film, a restaurant, a date. Not a disaster, just meh, said to a friend.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas terrible.[[/FR]]
 
-[[PAUSE]]
+C'est pas terrible.
 
-[[FR]]C'est pas terrible.[[/FR]]
+
+
+C'est pas terrible.
 
 The trap is that it looks like faint praise, and in English not terrible leans kind. In French it leans the other way: it means disappointing. And the adjective on its own, in casual speech, can even mean fantastic, so drop the negation and you've said the opposite.
 
@@ -66,37 +66,37 @@ Now three cold, from the archive.
 
 You're running late.
 
-[[PAUSE:3]]
 
-[[FR]]Je suis à la bourre.[[/FR]]
+
+Je suis à la bourre.
 
 You got ripped off.
 
-[[PAUSE:3]]
 
-[[FR]]Je me suis fait avoir.[[/FR]]
+
+Je me suis fait avoir.
 
 You can't be bothered.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai la flemme.[[/FR]]
+
+J'ai la flemme.
 
 And now the continent, starting with the votes you heard previewed yesterday.
 
-[[FR]]En France, le Sénat reste à droite, mais le paysage bouge. Dimanche, cent soixante-dix-huit sièges étaient renouvelés. Les Républicains et les centristes gardent la majorité qu'ils détiennent depuis deux mille quatorze, et Gérard Larcher devrait garder la présidence.[[/FR]]
+En France, le Sénat reste à droite, mais le paysage bouge. Dimanche, cent soixante-dix-huit sièges étaient renouvelés. Les Républicains et les centristes gardent la majorité qu'ils détiennent depuis deux mille quatorze, et Gérard Larcher devrait garder la présidence.
 
-[[FR]]La nouveauté, c'est le Rassemblement national. D'après Le Monde, il gagne neuf sièges, et avec les sénateurs de l'Union des droites pour la République d'Éric Ciotti, il passe la barre des dix. Il pourra donc former un groupe, une première dans son histoire. Jordan Bardella appelle déjà les élus de droite à le rejoindre. Autre première : La France insoumise entre au Palais du Luxembourg, avec Gabriel Amard, élu dans le Rhône. Les écologistes, eux, reculent.[[/FR]]
+La nouveauté, c'est le Rassemblement national. D'après Le Monde, il gagne neuf sièges, et avec les sénateurs de l'Union des droites pour la République d'Éric Ciotti, il passe la barre des dix. Il pourra donc former un groupe, une première dans son histoire. Jordan Bardella appelle déjà les élus de droite à le rejoindre. Autre première : La France insoumise entre au Palais du Luxembourg, avec Gabriel Amard, élu dans le Rhône. Les écologistes, eux, reculent.
 
-[[FR]]Le pape Léon Quatorze achève sa visite en France. À Lourdes, dimanche, il a rencontré des victimes de violences sexuelles dans l'Église. Selon l'une d'elles, il a reconnu le caractère systémique des abus. Les associations attendent maintenant des actes.[[/FR]]
+Le pape Léon Quatorze achève sa visite en France. À Lourdes, dimanche, il a rencontré des victimes de violences sexuelles dans l'Église. Selon l'une d'elles, il a reconnu le caractère systémique des abus. Les associations attendent maintenant des actes.
 
-[[FR]]En Suisse, l'initiative pour une neutralité stricte a été balayée : environ soixante-dix pour cent de non.[[/FR]]
+En Suisse, l'initiative pour une neutralité stricte a été balayée : environ soixante-dix pour cent de non.
 
-[[FR]]En Serbie, Aleksandar Vučić a démissionné de la présidence, sept mois avant la fin de son mandat. Il brigue désormais le poste de Premier ministre, après les législatives anticipées du vingt-cinq octobre, face au mouvement étudiant qui manifeste depuis près de deux ans. Ana Brnabić, présidente du Parlement, assure l'intérim.[[/FR]]
+En Serbie, Aleksandar Vučić a démissionné de la présidence, sept mois avant la fin de son mandat. Il brigue désormais le poste de Premier ministre, après les législatives anticipées du vingt-cinq octobre, face au mouvement étudiant qui manifeste depuis près de deux ans. Ana Brnabić, présidente du Parlement, assure l'intérim.
 
-[[FR]]À New York, les chefs de la diplomatie allemande et russe, Johann Wadephul et Sergueï Lavrov, se sont parlé pour la première fois depuis l'invasion de l'Ukraine. Berlin a réclamé un cessez-le-feu ; Lavrov affirme n'avoir rien appris de nouveau.[[/FR]]
+À New York, les chefs de la diplomatie allemande et russe, Johann Wadephul et Sergueï Lavrov, se sont parlé pour la première fois depuis l'invasion de l'Ukraine. Berlin a réclamé un cessez-le-feu ; Lavrov affirme n'avoir rien appris de nouveau.
 
-[[FR]]Et en Suisse encore, selon le quotidien Blick, au moins huit banques étrangères s'intéresseraient à un rapprochement avec UBS, qui menace de quitter le pays si les nouvelles exigences de fonds propres passent.[[/FR]]
+Et en Suisse encore, selon le quotidien Blick, au moins huit banques étrangères s'intéresseraient à un rapprochement avec UBS, qui menace de quitter le pays si les nouvelles exigences de fonds propres passent.
 
 Back in English, and to Iran, where both sides spent the weekend saying no while leaving the door ajar.
 
