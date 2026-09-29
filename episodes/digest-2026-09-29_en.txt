@@ -54,13 +54,13 @@ Now a minute of French, and then the European news in it.
 
 How would you say you're fed up. Sick of it, had it up to here, said about the commute or a colleague or the weather.
 
-[[PAUSE:3]]
 
-[[FR]]J'en ai marre.[[/FR]]
 
-[[PAUSE]]
+J'en ai marre.
 
-[[FR]]J'en ai marre.[[/FR]]
+
+
+J'en ai marre.
 
 The trap is the English. Fed up and sick of it both translate into nonsense, because fed means nourished and sick means ill. French doesn't reach for either image. It just says you've had your fill of something, and the small pronoun at the front is what points back at the thing you've had enough of.
 
@@ -68,37 +68,37 @@ Now three cold.
 
 A friend mentions a bar, and it rings no bells.
 
-[[PAUSE:3]]
 
-[[FR]]Ça ne me dit rien.[[/FR]]
+
+Ça ne me dit rien.
 
 You'll keep someone posted.
 
-[[PAUSE:3]]
 
-[[FR]]Je te tiens au courant.[[/FR]]
+
+Je te tiens au courant.
 
 Someone asks what you meant, and it isn't worth explaining.
 
-[[PAUSE:3]]
 
-[[FR]]Laisse tomber.[[/FR]]
+
+Laisse tomber.
 
 And with that, over to the continent.
 
-[[FR]]En France, c'est jour de grève dans la fonction publique. Les syndicats appellent à manifester dans tout le pays, entre cent cinquante-cinq et cent soixante-dix cortèges selon les décomptes, et de fortes perturbations sont attendues dans les transports d'Île-de-France. En cause : le gel du point d'indice, prévu par le gouvernement.[[/FR]]
+En France, c'est jour de grève dans la fonction publique. Les syndicats appellent à manifester dans tout le pays, entre cent cinquante-cinq et cent soixante-dix cortèges selon les décomptes, et de fortes perturbations sont attendues dans les transports d'Île-de-France. En cause : le gel du point d'indice, prévu par le gouvernement.
 
-[[FR]]Le calendrier n'a rien d'un hasard. Jeudi, Sébastien Lecornu présente le budget deux mille vingt-sept, qui vise environ cinquante-quatre milliards d'euros d'économies. Sophie Binet, de la CGT, parle déjà de scandale. Les enseignants sont en première ligne : selon Le Monde, ils gagnent en moyenne neuf cents euros nets de moins par mois que les autres fonctionnaires de catégorie A, et quarante ans de décrochage n'ont jamais été rattrapés.[[/FR]]
+Le calendrier n'a rien d'un hasard. Jeudi, Sébastien Lecornu présente le budget deux mille vingt-sept, qui vise environ cinquante-quatre milliards d'euros d'économies. Sophie Binet, de la CGT, parle déjà de scandale. Les enseignants sont en première ligne : selon Le Monde, ils gagnent en moyenne neuf cents euros nets de moins par mois que les autres fonctionnaires de catégorie A, et quarante ans de décrochage n'ont jamais été rattrapés.
 
-[[FR]]Et les marchés regardent. Depuis janvier, le taux auquel l'État français emprunte a davantage augmenté que celui de presque tous les grands pays, note Le Monde, et certains investisseurs évoquent désormais le risque d'une crise de la dette.[[/FR]]
+Et les marchés regardent. Depuis janvier, le taux auquel l'État français emprunte a davantage augmenté que celui de presque tous les grands pays, note Le Monde, et certains investisseurs évoquent désormais le risque d'une crise de la dette.
 
-[[FR]]Au Sénat, les chiffres se précisent. Avec ses neuf nouveaux sièges et les élus de l'UDR d'Éric Ciotti, le Rassemblement national disposera d'un groupe de quatorze sénateurs, une première. Mais Jordan Bardella est sur la défensive : selon Mediapart, il aurait tenu à plusieurs reprises des propos antisémites et complotistes en privé, à partir de deux mille treize. Il dénonce des faux grossiers.[[/FR]]
+Au Sénat, les chiffres se précisent. Avec ses neuf nouveaux sièges et les élus de l'UDR d'Éric Ciotti, le Rassemblement national disposera d'un groupe de quatorze sénateurs, une première. Mais Jordan Bardella est sur la défensive : selon Mediapart, il aurait tenu à plusieurs reprises des propos antisémites et complotistes en privé, à partir de deux mille treize. Il dénonce des faux grossiers.
 
-[[FR]]Petit retour sur Lourdes. Dans l'avion du retour, le pape Léon Quatorze a nuancé les propos que lui prêtaient des victimes. Il n'aurait pas parlé d'abus systémiques dans l'Église, mais d'organisations parfois abusives en tant que système.[[/FR]]
+Petit retour sur Lourdes. Dans l'avion du retour, le pape Léon Quatorze a nuancé les propos que lui prêtaient des victimes. Il n'aurait pas parlé d'abus systémiques dans l'Église, mais d'organisations parfois abusives en tant que système.
 
-[[FR]]Emmanuel Macron est à Madrid pour une visite d'État de deux jours, la première d'un président français depuis deux mille neuf. Dîner ce soir avec le roi Felipe Six, puis entretien demain avec Pedro Sánchez.[[/FR]]
+Emmanuel Macron est à Madrid pour une visite d'État de deux jours, la première d'un président français depuis deux mille neuf. Dîner ce soir avec le roi Felipe Six, puis entretien demain avec Pedro Sánchez.
 
-[[FR]]L'Espagne, justement, inquiète la Banque centrale européenne. L'inflation y a atteint quatre virgule neuf pour cent sur un an en septembre, cinq pour cent selon la mesure harmonisée, son plus haut niveau depuis début deux mille vingt-trois, tirée par les carburants. La France, l'Allemagne et l'Italie publient leurs chiffres demain, la zone euro vendredi.[[/FR]]
+L'Espagne, justement, inquiète la Banque centrale européenne. L'inflation y a atteint quatre virgule neuf pour cent sur un an en septembre, cinq pour cent selon la mesure harmonisée, son plus haut niveau depuis début deux mille vingt-trois, tirée par les carburants. La France, l'Allemagne et l'Italie publient leurs chiffres demain, la zone euro vendredi.
 
 Back in English, and to Iran, where the diplomacy moved even as the President denied it.
 
