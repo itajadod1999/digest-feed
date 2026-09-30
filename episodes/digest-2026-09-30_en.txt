@@ -60,13 +60,13 @@ Now a minute of French, and then the European news in it.
 
 How would you say what a hassle. Not a disaster, just a slog. Getting across town on a strike day, or finding an apartment in Paris.
 
-[[PAUSE:3]]
 
-[[FR]]C'est la galère.[[/FR]]
 
-[[PAUSE]]
+C'est la galère.
 
-[[FR]]C'est la galère.[[/FR]]
+
+
+C'est la galère.
 
 The trap is reaching for the English image. It's a pain comes out as physical pain, and calling it a nightmare is too big for a late train. The noun here is the old word for a galley, the ship convicts were sentenced to row. It also works as a verb, for someone who's struggling.
 
@@ -74,35 +74,35 @@ Now three cold.
 
 You're running late.
 
-[[PAUSE:3]]
 
-[[FR]]Je suis à la bourre.[[/FR]]
+
+Je suis à la bourre.
 
 It isn't worth the effort.
 
-[[PAUSE:3]]
 
-[[FR]]Ça vaut pas le coup.[[/FR]]
+
+Ça vaut pas le coup.
 
 You got ripped off.
 
-[[PAUSE:3]]
 
-[[FR]]Je me suis fait avoir.[[/FR]]
+
+Je me suis fait avoir.
 
 Which brings us to a country with a budget to present.
 
-[[FR]]En France, tout se joue demain. Sébastien Lecornu présente jeudi le budget deux mille vingt-sept : environ cinquante-quatre milliards d'euros d'économies, un gel du point d'indice, et un objectif de déficit ramené à cinq pour cent du PIB. La défense est épargnée.[[/FR]]
+En France, tout se joue demain. Sébastien Lecornu présente jeudi le budget deux mille vingt-sept : environ cinquante-quatre milliards d'euros d'économies, un gel du point d'indice, et un objectif de déficit ramené à cinq pour cent du PIB. La défense est épargnée.
 
-[[FR]]Les chiffres de fond ne sont pas bons. Selon l'Insee, la dette publique atteint trois mille cinq cent quatre-vingt-quinze milliards d'euros, soit cent dix-neuf pour cent du PIB, du jamais-vu depuis mille neuf cent quarante-six. L'écart entre les taux français et allemands à dix ans est au plus haut depuis près de quinze ans, note The Economist. Et Le Monde parle d'une crise historique du pouvoir d'achat : depuis deux mille vingt-quatre, les ménages ont perdu en moyenne mille deux cents euros.[[/FR]]
+Les chiffres de fond ne sont pas bons. Selon l'Insee, la dette publique atteint trois mille cinq cent quatre-vingt-quinze milliards d'euros, soit cent dix-neuf pour cent du PIB, du jamais-vu depuis mille neuf cent quarante-six. L'écart entre les taux français et allemands à dix ans est au plus haut depuis près de quinze ans, note The Economist. Et Le Monde parle d'une crise historique du pouvoir d'achat : depuis deux mille vingt-quatre, les ménages ont perdu en moyenne mille deux cents euros.
 
-[[FR]]La grève d'hier dans la fonction publique est restée limitée. D'après les chiffres officiels relayés par Acteurs publics, environ dix pour cent de grévistes dans la fonction publique d'État, et moins de six dans les collectivités. Les enseignants ont été les plus mobilisés.[[/FR]]
+La grève d'hier dans la fonction publique est restée limitée. D'après les chiffres officiels relayés par Acteurs publics, environ dix pour cent de grévistes dans la fonction publique d'État, et moins de six dans les collectivités. Les enseignants ont été les plus mobilisés.
 
-[[FR]]Côté politique, Jordan Bardella annonce qu'il porte plainte contre Mediapart, qui lui attribue des messages antisémites datant de deux mille treize à deux mille quinze. On veut m'assassiner politiquement, dit-il. L'Express relève surtout le silence de la majorité, qui ne se presse pas de réagir. À droite, Édouard Philippe dévoile son projet sur les retraites : départ à soixante-cinq ans et quarante-cinq années de cotisation.[[/FR]]
+Côté politique, Jordan Bardella annonce qu'il porte plainte contre Mediapart, qui lui attribue des messages antisémites datant de deux mille treize à deux mille quinze. On veut m'assassiner politiquement, dit-il. L'Express relève surtout le silence de la majorité, qui ne se presse pas de réagir. À droite, Édouard Philippe dévoile son projet sur les retraites : départ à soixante-cinq ans et quarante-cinq années de cotisation.
 
-[[FR]]L'inflation, elle, accélère partout. En France, trois pour cent sur un an en septembre, contre deux virgule quatre en août. En Italie, quatre virgule deux pour cent, un record depuis trois ans, tiré par l'énergie. L'Allemagne publie ses chiffres aujourd'hui. À Francfort, la BCE a déjà relevé son taux de dépôt à deux virgule cinq pour cent, et Christine Lagarde juge que des hausses mesurées restent appropriées.[[/FR]]
+L'inflation, elle, accélère partout. En France, trois pour cent sur un an en septembre, contre deux virgule quatre en août. En Italie, quatre virgule deux pour cent, un record depuis trois ans, tiré par l'énergie. L'Allemagne publie ses chiffres aujourd'hui. À Francfort, la BCE a déjà relevé son taux de dépôt à deux virgule cinq pour cent, et Christine Lagarde juge que des hausses mesurées restent appropriées.
 
-[[FR]]Enfin, le Gard et l'Hérault sont en vigilance rouge pluie-inondation. Météo-France annonce un épisode méditerranéen remarquable, voire exceptionnel.[[/FR]]
+Enfin, le Gard et l'Hérault sont en vigilance rouge pluie-inondation. Météo-France annonce un épisode méditerranéen remarquable, voire exceptionnel.
 
 Back in English, and to Iran.
 
