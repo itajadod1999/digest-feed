@@ -52,13 +52,13 @@ Now a minute of French, and then the European news in it.
 
 How would you casually ask a friend if they fancy grabbing a drink. Not would you like to, which sounds like a waiter. The easy, are you up for it version.
 
-[[PAUSE:3]]
 
-[[FR]]Ça te dit d'aller boire un verre ?[[/FR]]
 
-[[PAUSE]]
+Ça te dit d'aller boire un verre ?
 
-[[FR]]Ça te dit d'aller boire un verre ?[[/FR]]
+
+
+Ça te dit d'aller boire un verre ?
 
 The textbook instinct is to reach for the verb for wanting, in the conditional, and it comes out stiff and formal. The natural version uses the verb for saying, the same one you heard earlier this week in the phrase for something that rings no bells. As a question, it means does that appeal to you.
 
@@ -66,33 +66,33 @@ Now three cold.
 
 You've had it with the commute.
 
-[[PAUSE:3]]
 
-[[FR]]J'en ai marre.[[/FR]]
+
+J'en ai marre.
 
 The restaurant was a bit meh.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas terrible.[[/FR]]
+
+C'est pas terrible.
 
 Never mind, forget it.
 
-[[PAUSE:3]]
 
-[[FR]]Laisse tomber.[[/FR]]
+
+Laisse tomber.
 
 And so, to a budget that just landed.
 
-[[FR]]En France, c'est le jour du budget. Le gouvernement de Sébastien Lecornu présente ce matin en Conseil des ministres son projet pour deux mille vingt-sept. L'objectif : ramener le déficit à cinq pour cent du PIB, contre cinq virgule quatre cette année, et à trois pour cent en deux mille vingt-neuf. Il prévoit quarante-trois milliards d'euros de mesures nouvelles, cinquante-quatre milliards en tout.[[/FR]]
+En France, c'est le jour du budget. Le gouvernement de Sébastien Lecornu présente ce matin en Conseil des ministres son projet pour deux mille vingt-sept. L'objectif : ramener le déficit à cinq pour cent du PIB, contre cinq virgule quatre cette année, et à trois pour cent en deux mille vingt-neuf. Il prévoit quarante-trois milliards d'euros de mesures nouvelles, cinquante-quatre milliards en tout.
 
-[[FR]]Le détail fait déjà grincer des dents. Les pensions au-delà de mille deux cent soixante euros par mois ne seront pas entièrement revalorisées. Le point d'indice des fonctionnaires est gelé, les aides au logement aussi, et les collectivités perdent cinq virgule quatre milliards. Côté recettes, une taxe sur les produits sucrés et une contribution supplémentaire des sociétés d'autoroutes et d'aéroports. Les socialistes dénoncent un budget injuste. Et la dette continue de grimper : cent vingt et un virgule sept pour cent du PIB prévus, avec une charge d'intérêts qui passe de soixante-dix-neuf à quatre-vingt-onze milliards. L'Agence France Trésor empruntera un record de trois cent quarante milliards d'euros l'an prochain. Le Monde résume l'enjeu : Lecornu ne pourra faire adopter ce texte qu'au risque de la censure.[[/FR]]
+Le détail fait déjà grincer des dents. Les pensions au-delà de mille deux cent soixante euros par mois ne seront pas entièrement revalorisées. Le point d'indice des fonctionnaires est gelé, les aides au logement aussi, et les collectivités perdent cinq virgule quatre milliards. Côté recettes, une taxe sur les produits sucrés et une contribution supplémentaire des sociétés d'autoroutes et d'aéroports. Les socialistes dénoncent un budget injuste. Et la dette continue de grimper : cent vingt et un virgule sept pour cent du PIB prévus, avec une charge d'intérêts qui passe de soixante-dix-neuf à quatre-vingt-onze milliards. L'Agence France Trésor empruntera un record de trois cent quarante milliards d'euros l'an prochain. Le Monde résume l'enjeu : Lecornu ne pourra faire adopter ce texte qu'au risque de la censure.
 
-[[FR]]Dans la rue, ce sont les lycéens. Mardi, environ quatre-vingts lycées ont été bloqués, et le ministre de l'Intérieur, Laurent Nuñez, a annoncé quatre cent quarante interpellations, des mineurs pour la plupart.[[/FR]]
+Dans la rue, ce sont les lycéens. Mardi, environ quatre-vingts lycées ont été bloqués, et le ministre de l'Intérieur, Laurent Nuñez, a annoncé quatre cent quarante interpellations, des mineurs pour la plupart.
 
-[[FR]]L'affaire Bardella prend de l'ampleur. Depuis Madrid, Emmanuel Macron a jugé gravissimes et inacceptables les propos antisémites que Mediapart attribue au président du Rassemblement national, dans des messages privés de deux mille treize. Jordan Bardella parle de faux grossiers et a porté plainte pour diffamation. Toute la question, désormais, est celle de l'authenticité de ces messages.[[/FR]]
+L'affaire Bardella prend de l'ampleur. Depuis Madrid, Emmanuel Macron a jugé gravissimes et inacceptables les propos antisémites que Mediapart attribue au président du Rassemblement national, dans des messages privés de deux mille treize. Jordan Bardella parle de faux grossiers et a porté plainte pour diffamation. Toute la question, désormais, est celle de l'authenticité de ces messages.
 
-[[FR]]Ailleurs en Europe, l'inflation allemande grimpe à trois virgule trois pour cent en septembre, et l'estimation pour la zone euro tombe demain. BMW va supprimer un cinquième de ses postes d'encadrement d'ici mi-deux mille vingt-sept. À Berlin, Die Linke ouvre aujourd'hui des discussions de coalition avec les Verts et le SPD, l'antisémitisme en tête de l'ordre du jour. Enfin, à Londres, Andy Burnham a évoqué à la BBC la possibilité d'aller jusqu'au bout, c'est-à-dire de rejoindre l'Union européenne. Une première pour un Premier ministre depuis le référendum. Emmanuel Macron lui a répondu en anglais : bienvenue.[[/FR]]
+Ailleurs en Europe, l'inflation allemande grimpe à trois virgule trois pour cent en septembre, et l'estimation pour la zone euro tombe demain. BMW va supprimer un cinquième de ses postes d'encadrement d'ici mi-deux mille vingt-sept. À Berlin, Die Linke ouvre aujourd'hui des discussions de coalition avec les Verts et le SPD, l'antisémitisme en tête de l'ordre du jour. Enfin, à Londres, Andy Burnham a évoqué à la BBC la possibilité d'aller jusqu'au bout, c'est-à-dire de rejoindre l'Union européenne. Une première pour un Premier ministre depuis le référendum. Emmanuel Macron lui a répondu en anglais : bienvenue.
 
 Back in English, and to Iran.
 
