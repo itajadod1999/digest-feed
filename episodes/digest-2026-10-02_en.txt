@@ -48,13 +48,13 @@ Now a minute of French, and then the European news in it.
 
 A friend says, let's meet at eight at the usual place. How do you say sounds good, works for me, the easy yes.
 
-[[PAUSE:3]]
 
-[[FR]]Ça marche.[[/FR]]
 
-[[PAUSE]]
+Ça marche.
 
-[[FR]]Ça marche.[[/FR]]
+
+
+Ça marche.
 
 The trap is translating sounds good literally, with the verb for sounding. That comes out as a comment on how something sounds to the ear, not agreement. French uses the verb for walking, or working, the way a plan works. It's what you'd say to a waiter, a colleague or a friend, and it never sounds stiff.
 
@@ -62,37 +62,37 @@ Now three cold.
 
 Getting a cab on a strike day was a nightmare.
 
-[[PAUSE:3]]
 
-[[FR]]C'était la galère.[[/FR]]
+
+C'était la galère.
 
 You fancy grabbing a drink?
 
-[[PAUSE:3]]
 
-[[FR]]Ça te dit d'aller boire un verre ?[[/FR]]
+
+Ça te dit d'aller boire un verre ?
 
 You paid forty euros for that, you got ripped off.
 
-[[PAUSE:3]]
 
-[[FR]]Je me suis fait avoir.[[/FR]]
+
+Je me suis fait avoir.
 
 And on that note, over to France, where the schools are on fire, in places literally.
 
-[[FR]]En France, la mobilisation lycéenne a changé d'échelle. Jeudi, le ministère de l'Intérieur a recensé près de deux mille interpellations, contre cent soixante-quatre lundi, et environ neuf cents actions devant les établissements, selon l'AFP. Plus de trois cents policiers et gendarmes ont été blessés, ainsi que soixante-cinq personnels de l'Éducation nationale. Un incendie a touché le lycée Nelson-Mandela à Nantes, et à Marseille, des agents ont été aspergés d'essence.[[/FR]]
+En France, la mobilisation lycéenne a changé d'échelle. Jeudi, le ministère de l'Intérieur a recensé près de deux mille interpellations, contre cent soixante-quatre lundi, et environ neuf cents actions devant les établissements, selon l'AFP. Plus de trois cents policiers et gendarmes ont été blessés, ainsi que soixante-cinq personnels de l'Éducation nationale. Un incendie a touché le lycée Nelson-Mandela à Nantes, et à Marseille, des agents ont été aspergés d'essence.
 
-[[FR]]Le gouvernement a réuni une cellule interministérielle de crise. Laurent Nuñez dénonce une violence débridée, et environ quatre cents lycées sont fermés ce vendredi. Matignon va plus loin : selon le gouvernement, les services de renseignement voient dans le mouvement une manœuvre organisée par La France insoumise et l'ultragauche. Aucun élément n'a été rendu public pour l'étayer. Manuel Bompard répond qu'il s'agit de complotisme et d'infantilisation des élèves.[[/FR]]
+Le gouvernement a réuni une cellule interministérielle de crise. Laurent Nuñez dénonce une violence débridée, et environ quatre cents lycées sont fermés ce vendredi. Matignon va plus loin : selon le gouvernement, les services de renseignement voient dans le mouvement une manœuvre organisée par La France insoumise et l'ultragauche. Aucun élément n'a été rendu public pour l'étayer. Manuel Bompard répond qu'il s'agit de complotisme et d'infantilisation des élèves.
 
-[[FR]]Les récits divergent. Le Monde insiste sur un gouvernement pris dans l'engrenage et sur des manifestations parfois brutalement réprimées. L'Express met en avant le rôle prêté à LFI et les violences. Le ministre de l'Éducation, Édouard Geffray, renonce aux frais d'inscription prévus en BTS et en prépa et reçoit les organisations aujourd'hui. Les syndicats lycéens parlent du strict minimum et appellent à manifester mardi.[[/FR]]
+Les récits divergent. Le Monde insiste sur un gouvernement pris dans l'engrenage et sur des manifestations parfois brutalement réprimées. L'Express met en avant le rôle prêté à LFI et les violences. Le ministre de l'Éducation, Édouard Geffray, renonce aux frais d'inscription prévus en BTS et en prépa et reçoit les organisations aujourd'hui. Les syndicats lycéens parlent du strict minimum et appellent à manifester mardi.
 
-[[FR]]Sur le budget présenté hier, les oppositions ont réagi. Les écologistes promettent la censure, les socialistes parlent de provocation, LFI d'un budget récessif. Le Rassemblement national le juge consternant, mais reconnaît qu'une censure serait plus risquée cette année. Le Medef, lui, conteste une vingtaine de milliards de prélèvements sur les entreprises. L'Express titre : derrière les économies, les hausses d'impôts. Sébastien Lecornu exclut le quarante-neuf trois et veut un vote.[[/FR]]
+Sur le budget présenté hier, les oppositions ont réagi. Les écologistes promettent la censure, les socialistes parlent de provocation, LFI d'un budget récessif. Le Rassemblement national le juge consternant, mais reconnaît qu'une censure serait plus risquée cette année. Le Medef, lui, conteste une vingtaine de milliards de prélèvements sur les entreprises. L'Express titre : derrière les économies, les hausses d'impôts. Sébastien Lecornu exclut le quarante-neuf trois et veut un vote.
 
-[[FR]]L'affaire Bardella, elle, prend un tour nouveau. Mediapart publie ce qu'il présente comme les preuves : des courriels et des messages de deux mille treize, authentifiés selon le site grâce à des données extraites de Meta et certifiées par un commissaire de justice. Jordan Bardella dénonce de grossiers montages et annonce une plainte pour faux et usage de faux.[[/FR]]
+L'affaire Bardella, elle, prend un tour nouveau. Mediapart publie ce qu'il présente comme les preuves : des courriels et des messages de deux mille treize, authentifiés selon le site grâce à des données extraites de Meta et certifiées par un commissaire de justice. Jordan Bardella dénonce de grossiers montages et annonce une plainte pour faux et usage de faux.
 
-[[FR]]Comme prévu hier, l'inflation de la zone euro est tombée ce matin : trois virgule huit pour cent sur un an en septembre, contre trois virgule deux en août. C'est son plus haut niveau depuis trois ans. L'énergie en est la cause principale, en hausse de près de dix-neuf pour cent. L'inflation sous-jacente ne monte qu'à deux virgule cinq. La BCE se réunit les vingt-huit et vingt-neuf octobre.[[/FR]]
+Comme prévu hier, l'inflation de la zone euro est tombée ce matin : trois virgule huit pour cent sur un an en septembre, contre trois virgule deux en août. C'est son plus haut niveau depuis trois ans. L'énergie en est la cause principale, en hausse de près de dix-neuf pour cent. L'inflation sous-jacente ne monte qu'à deux virgule cinq. La BCE se réunit les vingt-huit et vingt-neuf octobre.
 
-[[FR]]Enfin, le gazole devient une affaire diplomatique. Vladimir Poutine refuse d'en vendre au reste du monde tant que les sanctions ne seront pas levées, et selon la presse américaine, Washington aurait demandé à la France et à l'Allemagne de puiser dans leurs réserves.[[/FR]]
+Enfin, le gazole devient une affaire diplomatique. Vladimir Poutine refuse d'en vendre au reste du monde tant que les sanctions ne seront pas levées, et selon la presse américaine, Washington aurait demandé à la France et à l'Allemagne de puiser dans leurs réserves.
 
 Back in English, and to Iran, where the tone hardened overnight.
 
