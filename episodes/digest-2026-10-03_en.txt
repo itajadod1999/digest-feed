@@ -60,53 +60,53 @@ Now a few minutes of French, and then the European week in it. Saturday, so no n
 
 A friend suggests eight o'clock. The easy yes.
 
-[[PAUSE:3]]
 
-[[FR]]Ça marche.[[/FR]]
+
+Ça marche.
 
 You've had it with the delays.
 
-[[PAUSE:3]]
 
-[[FR]]J'en ai marre.[[/FR]]
+
+J'en ai marre.
 
 The new restaurant was a bit meh.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas terrible.[[/FR]]
+
+C'est pas terrible.
 
 You can't wait for the weekend.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai hâte.[[/FR]]
+
+J'ai hâte.
 
 Someone drags in an irrelevant point. That's got nothing to do with it.
 
-[[PAUSE:3]]
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+
+Ça n'a rien à voir.
 
 A friend says the strike made everyone late. You don't say, with the eye-roll.
 
-[[PAUSE:3]]
 
-[[FR]]Tu m'étonnes.[[/FR]]
+
+Tu m'étonnes.
 
 And now the continent.
 
-[[FR]]En France, la semaine a commencé par une grève et s'est terminée dans les lycées. Mardi, la grève de la fonction publique est restée limitée, autour de dix pour cent dans la fonction publique d'État. Mais jeudi, la mobilisation lycéenne a changé d'échelle : près de deux mille interpellations, plus de trois cents policiers blessés, et environ quatre cents lycées fermés vendredi.[[/FR]]
+En France, la semaine a commencé par une grève et s'est terminée dans les lycées. Mardi, la grève de la fonction publique est restée limitée, autour de dix pour cent dans la fonction publique d'État. Mais jeudi, la mobilisation lycéenne a changé d'échelle : près de deux mille interpellations, plus de trois cents policiers blessés, et environ quatre cents lycées fermés vendredi.
 
-[[FR]]Vendredi, le mouvement a un peu reculé, sans s'éteindre. Le ministre de l'Éducation, Édouard Geffray, a reçu les syndicats, les représentants lycéens et les parents, et promis un travail sur la démocratie scolaire. Les organisateurs appellent à continuer, avec une manifestation mardi. Matignon accuse La France insoumise d'orchestrer le mouvement, sans avoir rendu public le moindre élément. LFI parle de complotisme.[[/FR]]
+Vendredi, le mouvement a un peu reculé, sans s'éteindre. Le ministre de l'Éducation, Édouard Geffray, a reçu les syndicats, les représentants lycéens et les parents, et promis un travail sur la démocratie scolaire. Les organisateurs appellent à continuer, avec une manifestation mardi. Matignon accuse La France insoumise d'orchestrer le mouvement, sans avoir rendu public le moindre élément. LFI parle de complotisme.
 
-[[FR]]Au milieu de tout cela, le budget. Jeudi, Sébastien Lecornu a présenté un projet visant un déficit de cinq pour cent du PIB l'an prochain, avec cinquante-quatre milliards d'euros d'efforts. Selon Le Monde, cinq virgule cinq milliards d'économies portent sur les retraités, et le gouvernement se dit ouvert à la discussion sur les modalités. Les écologistes promettent la censure, les socialistes parlent de provocation, et le Rassemblement national juge une censure trop risquée cette année. Lecornu exclut le quarante-neuf trois.[[/FR]]
+Au milieu de tout cela, le budget. Jeudi, Sébastien Lecornu a présenté un projet visant un déficit de cinq pour cent du PIB l'an prochain, avec cinquante-quatre milliards d'euros d'efforts. Selon Le Monde, cinq virgule cinq milliards d'économies portent sur les retraités, et le gouvernement se dit ouvert à la discussion sur les modalités. Les écologistes promettent la censure, les socialistes parlent de provocation, et le Rassemblement national juge une censure trop risquée cette année. Lecornu exclut le quarante-neuf trois.
 
-[[FR]]L'affaire Bardella s'est aggravée. Mediapart a publié des messages de deux mille treize, qu'il dit authentifiés par des données de Meta. Emmanuel Macron a jugé ces propos gravissimes et inacceptables. Jordan Bardella parle de montages et porte plainte pour faux.[[/FR]]
+L'affaire Bardella s'est aggravée. Mediapart a publié des messages de deux mille treize, qu'il dit authentifiés par des données de Meta. Emmanuel Macron a jugé ces propos gravissimes et inacceptables. Jordan Bardella parle de montages et porte plainte pour faux.
 
-[[FR]]Côté chiffres, l'inflation de la zone euro est montée à trois virgule huit pour cent en septembre, son plus haut depuis trois ans, sous l'effet de l'énergie. La BCE se réunit fin octobre. Et c'est une idée française qui a fini par l'emporter au G sept : le déblocage de cent millions de barils.[[/FR]]
+Côté chiffres, l'inflation de la zone euro est montée à trois virgule huit pour cent en septembre, son plus haut depuis trois ans, sous l'effet de l'énergie. La BCE se réunit fin octobre. Et c'est une idée française qui a fini par l'emporter au G sept : le déblocage de cent millions de barils.
 
-[[FR]]Et pour finir sur une note plus légère : vendredi soir, au Stade de France, pour son premier match à domicile comme sélectionneur, Zinédine Zidane a été accueilli en triomphe. Les Bleus, eux, n'ont pas fait mieux qu'un match nul contre l'Italie, un partout.[[/FR]]
+Et pour finir sur une note plus légère : vendredi soir, au Stade de France, pour son premier match à domicile comme sélectionneur, Zinédine Zidane a été accueilli en triomphe. Les Bleus, eux, n'ont pas fait mieux qu'un match nul contre l'Italie, un partout.
 
 Back in English, for the story worth more time this week: why soft data didn't save the bond market.
 

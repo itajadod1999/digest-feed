@@ -1,0 +1,125 @@
+Good morning. Thursday, September third. Here's what happened.
+
+Markets, as of Wednesday's close in New York. The S and P five hundred at about seventy-six sixty-seven, up just under half a percent. The Dow a little over fifty-three thousand, the Nasdaq around twenty-six thousand two hundred, both up about the same. The two-year Treasury at four point three eight percent and the ten-year at four point eight, roughly where they started the session. Brent a shade under ninety-five dollars. Bitcoin about seventy-seven thousand, still down more than ten percent on the year.
+
+So a rebound, and a quiet one. Stocks took back most of Tuesday and the long end stopped moving for a day. The standout was Snowflake, up twenty-three percent after hours on revenue up thirty-five percent year over year.
+
+Following up on the bond selloff, because the Journal ran the anatomy of it. They count four forces pushing yields up: worry about government spending, a new Federal Reserve chairman, the issuance funding the artificial-intelligence build-out, and inflation. Their reading is that the fourth is doing most of the work here, and that behind it sits the climb in energy prices caused by the war in Iran. The bond story and the oil story are one story.
+
+And something small that isn't. The Dutch central bank has moved more than seventy-eight tonnes of gold from New York to London, citing geopolitical unrest and saying bullion in Britain would be more available in a crisis. France quietly emptied its own vault at the New York Federal Reserve over the past two years. Central banks rarely explain themselves that plainly.
+
+Friday brings the August jobs report.
+
+To deals, and it was a good week to be selling a data business.
+
+Nvidia is close to buying Hugging Face, the open-source hub where developers publish and share models. Bloomberg puts it at about fourteen billion dollars all in; The Information has the price at twelve point nine billion with a billion-dollar retention package on top. It would be among the largest acquisitions in the company's history. Nothing is signed.
+
+S and P Global is weighing a spinout of Capital IQ Pro, the research terminal inside its market intelligence arm, carrying data on more than sixty million private companies. Bloomberg says a standalone company would be worth high single-digit billions. Deliberations are early. The shares rose three percent anyway.
+
+Broadcom reported quarterly revenue of twenty-nine point six billion dollars, up eighty-six percent year over year, and guided to a hundred fifteen billion for the twenty twenty-seven fiscal year and two hundred thirty billion the year after. It expects Anthropic and OpenAI to displace Google as its two largest customers. Disclosure: Anthropic makes me.
+
+And the Venezuela arrangement grew a private-sector half. Chevron will invest seven billion dollars over five years to double its production there, to six hundred thousand barrels a day. The other majors, who remember the expropriations, have not moved.
+
+To real estate, where the most interesting number is a loan repaid rather than extended. Unibail-Rodamco-Westfield has paid off the three hundred fifty million dollar loan on Westfield Montgomery, the one point two million square foot mall in Bethesda, Maryland. That debt went to special servicing two years ago, missed its twenty twenty-four maturity, took a two-year extension, and came due again on the first of August. Morningstar Credit called the payoff a rarity in a cycle where mall loans simply get extended again.
+
+The largest new origination is in New Jersey. Affinius Capital has lent three hundred ten million dollars for Park Tower, a one thousand forty-nine unit apartment building in Journal Square, Jersey City. Floating rate, interest only, senior construction, with a mezzanine piece from BH3 taking it to three hundred ninety million.
+
+Something lighter before technology, and it is about menus. Bodegas and delis have started generating photographs of their food with artificial intelligence, because inventing a picture costs nothing and taking one costs something, and the results are repelling the customers they were meant to attract. One firm sells restaurants coaching in image generation for nineteen dollars a month, which is a bargain until you remember that photographing a cheeseburger with your phone is free.
+
+To technology, where the news is a remedy rather than a finding. Judge Leonie Brinkema decided a year ago that Google's advertising business is an illegal monopoly, and the Justice Department and seventeen states asked her to make it sell the ad exchange. Yesterday she declined, and will order changes to Google's own policies instead. Which makes three: a different judge let Google keep Chrome after finding it had illegally dominated search, and Meta kept Instagram and WhatsApp after a court found it had built an illegal social networking monopoly. Three findings of illegal monopoly, three companies intact, and two more cases coming, against Amazon and against Apple.
+
+Uber is cutting three thousand three hundred jobs, ten percent of its corporate workforce, its largest restructuring since the pandemic. Dara Khosrowshahi wants to cut managers by a fifth and put the savings into robotaxis and delivery. The shares rose two percent, which is the market's usual verdict on layoffs.
+
+The Justice Department filed in support of OpenAI in the New York Times copyright case, arguing that training on the paper's articles caused no commercial harm and infringed no copyright, and that American technological dominance is a matter of national security. That is the government taking a side in a private suit against a newspaper separately suing it over press access.
+
+And New York City has banned artificial intelligence for its younger students: a one-year moratorium covering forty tools across elementary and middle schools, six hundred thousand pupils. High schools are exempt.
+
+Apple's product event is Wednesday.
+
+Now the world.
+
+Gloria Steinem has died at ninety-two. She personified the women's movement for more than half a century, as a journalist first and then as its most recognizable organizer. Her death was announced without a cause; the family said she died at home.
+
+The United States struck Iran again, and the Times has published a visual investigation into the attack on a wedding in the southern town of Kuhestak. The roof came down on the party. At least five people were killed, including a six-year-old boy, sixty-seven were wounded, and the Times' weapons analysis concludes the bomb was American. Iran's health minister puts this week's toll at eighteen. President Trump said the renewed bombing would not go on too long, and Brent slipped on the remark.
+
+In Kyiv, two arms of the Ukrainian state shot at each other in the street. The Security Service was reportedly investigating a Russian plot involving the military intelligence agency; several people were injured and intelligence officers were arrested. Volodymyr Zelensky's public comment was that the only people anyone should be shooting at are the Russian occupiers.
+
+The Nepal flood has an explanation. More than a thousand are confirmed dead and over four thousand still missing. The Times reconstructed it from satellite imagery, and the likely cause was not the glacier alone but the bedrock beneath it: part of the mountainside had shifted more than a foot in the month before it gave way.
+
+And the funding follow-up, which ended differently than he said it would. On Tuesday the President said he would not sign the stopgap until Congress passed new voter identification rules. He signed it yesterday, without them. Agencies are funded to the eleventh of December, past the midterms.
+
+A federal judge blocked the latest attempt to narrow birthright citizenship. Deborah Boardman ruled that the Supreme Court settled the question in June, when it found the twenty twenty-five executive order unconstitutional, and that the new order limiting eligibility was an attempt to get around that decision. Birthright citizenship, she wrote, is the law of the land.
+
+And the drone tariffs took effect this morning: a hundred percent on large Chinese drones, twenty-five on smaller ones, fifteen on allies. One Chinese firm, DJI, holds ninety percent of the American commercial market. The stated aim is a domestic industry; the immediate effect is that American operators pay more.
+
+Now a minute of French, and then the European news in it.
+
+How would you say you're running late? Not formally delayed. That you're behind, right now, and moving.
+
+Here it is.
+
+Je suis à la bourre.
+
+The textbook gives you je suis en retard, which is correct and lands like a notice pinned to a door. And the literal route, translating running late word for word, produces nothing anyone says. À la bourre is the spoken version, and it takes pour plus a noun or an infinitive. Bourrer means to cram or stuff something full, which is the right feeling: you are crammed up against the clock.
+
+Je suis à la bourre pour le boulot.
+
+And two from this week. You can't be bothered tonight?
+
+J'ai la flemme.
+
+And the plan is dead, forget it?
+
+C'est mort.
+
+Passons au continent, et d'abord à la dissuasion. Six mois après le discours d'Emmanuel Macron à l'Île Longue, où il proposait une dissuasion nucléaire avancée à ses partenaires, dix pays se sont déclarés intéressés par un partenariat avec Paris, dont l'Allemagne, le Royaume-Uni et la Suède. « L'Express » précise que Washington apprécie peu l'initiative. Si ces discussions aboutissent, ce serait le changement le plus important de l'architecture de sécurité européenne depuis des décennies.
+
+Côté budget, le gouvernement a changé d'argument. Pour faire passer le budget 2027, il invoque désormais la crédibilité de la France à l'international, et le spectre d'une récession. Dans « L'Express », le prix Nobel Jean Tirole va plus loin : une crise de la dette signifierait, dit-il, une austérité sans précédent.
+
+Ailleurs sur le continent, Berlin accuse désormais formellement Moscou d'avoir commandité l'attaque au drone explosif du quatre août contre un avion-cargo ukrainien stationné à l'aéroport de Leipzig. L'engin n'a pas explosé.
+
+Et en Espagne, Pedro Sánchez s'exprime aujourd'hui devant le Parlement sur Ceuta, où cinq mille migrants sont encore sur place. Le gouvernement affirme n'avoir aucune preuve que les forces de sécurité marocaines les aient aidés à franchir la frontière ; « Le Monde » écrit ce matin qu'un rapport de la police espagnole contredit cette version.
+
+Back in English, and to the war, where the news is about duration.
+
+The Journal reports that the Pentagon is quietly extending troop deployments in the Middle East into twenty twenty-seven. Six months ago Pete Hegseth promised a quick, decisive blow that would avoid entanglement. The extensions signal an open-ended posture meant to preserve options, and what they are producing is strain on servicemembers and a maintenance backlog that will take years to clear. You can see the shape of it in one ship: the carrier Abraham Lincoln docked at Pattaya this week after two hundred eighty-six days at sea.
+
+To the city, and a number about who is getting further ahead. The comptroller, Mark Levine, published a report on affordability yesterday. Roughly fifty families make up New York's top thousandth of a percent of earners, and their average income went from about three hundred fifteen million dollars in twenty nineteen to about six hundred million in twenty twenty-four. The one percent went from an average of two point nine million to four million, and took over a third of all income earned in the city. Meanwhile New York stands out among big American cities for a real decline in median household income.
+
+On the street, work has begun on One Hundred Sixteenth Street in Manhattan: two and a half miles of bus lanes, and protected bike lanes on Pleasant Avenue connecting to the ones that serve Randall's Island.
+
+One good thing before the longer story. New Zealand now has three hundred twenty-five kakapo, the enormous flightless parrot, after a season that produced ninety chicks. In nineteen ninety-five there were fifty-one birds alive.
+
+One story worth more time this morning, and it's a tax trade that shouldn't work.
+
+Foreign investors in American stocks face a thirty percent withholding tax on dividends. They face nothing on capital gains. So there is an entire industry devoted to converting the first into the second, usually with swaps. Bloomberg's Zachary Mider and Denitsa Tsekova have found a version that needs no derivatives at all, and saved foreign investors about a hundred forty-seven million dollars in American tax last year.
+
+The mechanics first. A fund about to pay a dividend has an ex-dividend date: buy on or after it and you don't get the payment. In theory the price falls that day by the amount of the dividend, because the buyer gets the same assets minus the cash. So in principle you sell the day before, buy back the next morning, and take the drop as a capital gain instead. That fails in practice, because most of the market's gains historically arrive between the close and the open, so the price moves for reasons unrelated to the dividend and you lose what you were chasing.
+
+Here's what makes it work. There are two enormous, nearly identical S and P five hundred exchange-traded funds, one from BlackRock and one from Vanguard, and since twenty twenty-four BlackRock's ex-dividend dates have consistently fallen earlier than Vanguard's. So you hold the BlackRock fund, and the day before its ex-date you sell it and simultaneously buy the Vanguard one. You are never out of the market for a second. BlackRock's ex-date passes, its fund trades lower by the dividend while Vanguard's still carries it, and days later you sell Vanguard high and buy BlackRock back low. You have taken the dividend as price appreciation, and price appreciation is not withheld on.
+
+This is not the famous exchange-traded fund tax machinery, the in-kind redemption trick that defers capital gains; the reporters are explicit that it's unrelated. It needs nothing more exotic than two big, liquid, near-identical funds with staggered calendars. So what ends it isn't legislation. Either issuer could move its dates.
+
+A few things I didn't get to.
+
+The World Meteorological Organization publishes its El Niño update today, and the current event is forecast to be the strongest ever recorded. The Justice Department told states they must report undocumented immigrants to Homeland Security or lose funding for the needy-families programme. Two people were killed and two officers shot at a downtown apartment building in Minneapolis; the suspect is also dead. The National Basketball Association fined the Los Angeles Clippers thirty million dollars, stripped five first-round picks and suspended Steve Ballmer a year over the Kawhi Leonard salary-cap case, the heaviest penalty in league history. Japan recorded Chinese destroyers passing near Amami-Oshima at least ten times this year, against none last year. The Pentagon began mandatory testosterone testing for male personnel over thirty. Patagonia joined groups suing over the shrinking of Bears Ears. And about a fifth of Common Application partner colleges now admit students who never applied.
+
+One thing to sit with this morning.
+
+A frog in a well cannot be talked with about the sea; he is confined to the limits of his hole. An insect of the summer cannot be talked with about ice; it knows nothing beyond its own season.
+
+That's the Zhuangzi, in the chapter called The Floods of Autumn, in James Legge's translation. It comes out of the Warring States period in the fourth century before the common era, when China was seven kingdoms grinding each other down and a philosopher was a man looking for a patron. Zhuangzi appears to have refused the job. The story told about him is that envoys from the king of Chu offered him the premiership while he was fishing, and he asked whether a sacred tortoise would rather be dead and venerated in a temple or alive and dragging its tail through the mud, then went back to fishing.
+
+The observation I'd make is that the argument has no floor. It says your position sets the limits of what you can be told, which is a claim the speaker is also subject to, and it never says how anyone got out of the well to learn there was a sea. Every version of this line arrives with a narrator who has quietly exempted himself.
+
+And finally, closer to home.
+
+Still Port Angeles, and today is the better half of the deal: partly sunny, a high near fifty-nine, low around forty-seven, rain and thunderstorms likely before four and showers easing after. Light wind out of the northwest. The morning is the walkable part, and the shell stays on.
+
+You move on to Forks tomorrow and fly back Sunday night, so today is the last easy driving day.
+
+For when you're home, Justice are playing a disc jockey set at the old Brooklyn Mirage, reopened as Pacha New York, on Saturday the fifth, with The Dare opening. Gordo tomorrow, Black Coffee Sunday. That room is properly back.
+
+And baseball was kind to both of yours. Toronto beat Cleveland eleven to nothing, a considerable answer to Tuesday's six to one. The Yankees took the Angels six to three in ten innings, scoring five with two out after Cam Schlittler struck out nine and walked nobody. The Mets beat Tampa Bay ten to four.
+
+That's the morning. Have a good one.

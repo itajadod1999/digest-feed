@@ -1,0 +1,99 @@
+Good morning. Sunday, September sixth. Here's what happened.
+
+The markets are shut, and with tomorrow being Labor Day they stay shut until Tuesday, so the levels are Friday's close in New York and there they sit. The S and P five hundred at about seventy-seven twenty, down four tenths on the day. The Dow just over fifty-three thousand four hundred, the Nasdaq around twenty-six thousand five hundred. The two-year Treasury at four point three seven percent, the ten-year at four point seven eight. Brent just under ninety-six dollars. Bitcoin about seventy-nine thousand eight hundred.
+
+What moved over the weekend was rhetoric rather than price. After Friday's payroll number came in at a hundred sixty-two thousand against the fifty-five thousand economists had penciled in, the President warned the Federal Reserve against raising rates this month, and said that if the bank would not lower them he would simply stop trading with some countries altogether. His phrasing was that it's better than tariffs. What he described was an embargo on countries running trade surpluses with the United States, which would take in dozens of allies. The committee meets on the sixteenth, with August inflation first.
+
+Now the war, where the escalation went to sea.
+
+United States Central Command says it struck three Iranian oil tankers on Saturday, after Iranian missiles were fired at two American warships, an aircraft carrier and a destroyer. Two tankers were permanently disabled, one off Kharg Island and one off Jask; the third, unladen, was destroyed in the Gulf of Oman. The American military describes the ships as part of a shadow network funding the Revolutionary Guard and its proxies, and said it would go after the rest of the fleet if it had to. Its stated message to Tehran was arithmetic: shoot at two of ours, lose three of yours. Iran has not confirmed the account. This is the first time the United States has hit the tankers themselves rather than ports and launch sites, and it caps the deadliest week in more than a month.
+
+Steve Witkoff and Jared Kushner spent three hours with Vladimir Putin at the Kremlin on Saturday. Nothing was announced beyond the fact of the meeting; Le Monde's read is that Putin restated his demands rather than moved. He did order strikes on Kyiv paused ahead of the visit. The envoys go on to Kyiv today.
+
+Something lighter before the rest. On the twenty-seventh of August the President signed an executive order renaming Lake Ontario as Lake America. MapQuest, which invented online mapping thirty years ago and has spent two decades as a punchline, posted four words: we're not changing it. Its downloads rose about six thousand three hundred percent, to two hundred ten thousand on Tuesday alone against under a thousand a day, and it is now the most downloaded free app on Apple's store. Google Maps and Apple Maps both made the change.
+
+To real estate, and the story is a family. The Journal has an account of the fight inside Solil Management, which holds the Manhattan portfolio Sol Goldman assembled before his death in nineteen eighty-seven. Jane Goldman runs it. Her sister and her late brother's three children, who between them own three quarters of the enterprise, sued in twenty twenty-three claiming she took sole control when her brother died and has run it unilaterally since. A Manhattan judge ruled for her on one contract claim last month; the fiduciary-duty claims survive, and trial is a year or two out. Billions of dollars of buildings, held through a maze of trusts, and the fight is over who signs.
+
+To technology, and it is Apple's week. The event is Wednesday, and it is the first one John Ternus runs. He became chief executive on the first of September, after Tim Cook moved to executive chairman under a succession the board approved back in April. Expected: the iPhone eighteen Pro and Pro Max, a first foldable, a new Watch and a new Ultra, and new AirPods. The standard eighteen and the cheaper model come in spring.
+
+Federal safety regulators have opened an investigation into Tesla's Cybercab, hours after the first ones went onto public roads in Austin. That's the two-seater I mentioned Friday with no steering wheel and no pedals. The question is whether you are allowed to sell a car in this country without either. Separately, Uber and the startup Wayve began testing robotaxis in London this week.
+
+And the Times looked at the fight among authors over Anthropic's one and a half billion dollar copyright settlement. Disclosure: Anthropic makes me. The formula is three thousand dollars for each pirated book used in training, and the argument now is between writers and their publishers over who is entitled to the money.
+
+Following up on LIV Golf. Yesterday I said a Chapter eleven filing was expected within days; it now looks like this coming week, in federal court in New Jersey, with the aim of restructuring as a player-owned tour. Two numbers give the shape of it. The Public Investment Fund, which has put more than five billion dollars in since twenty twenty-two, is expected to provide less than a hundred million in debtor-in-possession financing, the money that keeps a company running while the case does. And BC Partners, circling the assets, has been discussed at up to three hundred million. Players owed guaranteed money beyond this year have been offered a few cents on the dollar.
+
+To the city, where New York has changed sides. In a filing dated the third of September, city lawyers told the court they support reopening College Walk, the stretch of One Hundred Sixteenth Street that runs through the Columbia campus between Broadway and Amsterdam, to the public. Columbia locked those gates in October twenty twenty-three during the protests over Gaza and has kept them locked. Residents sued, arguing that a nineteen fifty-three agreement gave the university the roadway in exchange for a permanent public easement across it. The city had been on Columbia's side. It isn't now, which doesn't decide the case but costs the university its most useful ally in it.
+
+And Bloomberg has a reconstruction this week of how a hundred-billion-dollar data centre died. The Prince William Digital Gateway in Virginia was twenty-three million square feet on twenty-one hundred acres beside the Manassas battlefield, roughly twice the footprint of Central Park, drawing three and a half gigawatts. Residents fought it for five years and won on what sounds like a technicality and isn't: a judge voided the rezonings because the county had published its hearing notice three days out, short of the statutory minimum. Compass Datacenters withdrew in April, Blackstone's QTS in July. The argument is that the campaign is now a template.
+
+One thing from the back of the file, because the number is startling. American families now spend forty billion dollars a year on youth sports, on the Aspen Institute's count — more than the annual revenue of the National Football League and the National Basketball Association combined, and up forty-six percent since twenty nineteen. Private equity has spent two decades buying the rinks, the leagues, the apparel and the streaming rights. One in five parents say the cost has made them cut back what their children play.
+
+A few things I didn't get to.
+
+Global food prices hit their highest level since twenty twenty-two, cereals up two point two percent in August alone and sugar nearly twelve percent. Another survivor was pulled from the mud in Nepal on Saturday, where the toll is above thirteen hundred and about nine hundred workers are still unaccounted for. The Times reports the Justice Department has been quietly investigating a wide circle of virus researchers well beyond Anthony Fauci. Administration officials have drafted a plan to pay stay-at-home parents, married couples only, out of a fund meant to subsidize child care for working ones. The Supreme Court cleared political parties to buy television advertising at reduced rates ahead of the midterms. Sara Duterte posted bail in Manila on charges she threatened to have President Marcos assassinated. And the governors of Texas and Florida are moving to curtail police use of license-plate readers, over the objections of their own police.
+
+Now the one story worth real time this morning, and it started as a footnote in a peace deal.
+
+The Journal reported Friday that when talks between Armenia and Azerbaijan looked like collapsing last year, American negotiators kept them alive by offering something no previous mediator has had to offer. Not aid, not security guarantees, not a seat at a table. Access to Nvidia chips.
+
+Here is the object at the center of it. Firebird is an artificial-intelligence cloud company backed by the Afeyan Foundation for Armenia — Noubar Afeyan, the Flagship Pioneering chief executive, is a founding partner — together with the Armenian government, in a public-private partnership of about five hundred million dollars. Washington cleared the chips for export to Armenia last November. The campus is meant to reach three hundred megawatts and more than seventy thousand Blackwell and Vera Rubin processors by the end of twenty twenty-seven, with servers from Dell, and about five billion dollars invested across all the phases.
+
+Why does that work as leverage at all? Because of a set of properties that almost nothing else in the modern economy has. The most advanced artificial-intelligence processors are designed by one company, fabricated by one foundry in Taiwan, and cannot be legally exported without a licence from the American government. There is no grey market at scale and no substitute at the frontier. So a licence is a scarce good, in the gift of a single state, that a country cannot buy its way around. That is precisely the structure that made oil an instrument in the nineteen-seventies, and enriched uranium and jet engines before that. Officials call it chip diplomacy.
+
+It has been used before, but commercially. Last November the Commerce Department authorized exports to G42 in the United Arab Emirates and Humain in Saudi Arabia — up to thirty-five thousand Blackwell chips, conditioned on security and reporting requirements — days after the Saudi crown prince pledged a trillion dollars of investment in the United States. The longer ambition discussed for the Emirates ran to five hundred thousand chips a year and a five-gigawatt campus in Abu Dhabi. Those were trades: capital for compute. Armenia is the first documented case of the same currency being spent to stop a shooting war.
+
+So what does each party actually want. Washington wants Russia out of the South Caucasus, where it has been Armenia's security guarantor for thirty years, and the peace framework does that structurally: it hands the United States exclusive development rights for ninety-nine years over a transit route of roughly twenty-five miles across southern Armenia, connecting Azerbaijan to its exclave of Nakhchivan. The land stays Armenian. The corridor is called the Trump Route for International Peace and Prosperity, which tells you something about how the deal was assembled. Armenia wants a hedge and a growth story after losing Nagorno-Karabakh. Azerbaijan wants the road. And Nvidia wants markets that its own government's export rules would otherwise close, which is the quiet part: chip diplomacy is also chip sales.
+
+Now the numbers in context, because they are smaller than they sound. Seventy thousand processors is a serious cluster and nothing like a hyperscaler. Three hundred megawatts against a proposed five gigawatts in Abu Dhabi is about six percent. Armenia is not being made into a compute power. It is being given a strategically placed installation that it cannot run without American permission, which is the entire point. The compute is the hostage, not the prize.
+
+What would have to happen for this to matter beyond one clever negotiation. Three things, and none of them has happened yet. The peace agreement has been initialed, not ratified; full ratification is tied to Armenia amending its constitution to drop territorial claims, which points at a referendum in twenty twenty-seven. The chips have to actually arrive and the buildings have to actually go up; approval was ten months ago and the first Blackwell deployment is this year. And the model has to survive its own logic. A licence that can be granted can be withdrawn, so every recipient of one now has a standing reason to fund somebody else's silicon. That is the same incentive that has China pouring money into domestic accelerators, and the reason a policy that looks like leverage today can look like a subsidy for competitors in five years.
+
+One more caution. The Armenia negotiation detail rests on the Journal's reporting and has not been confirmed by anyone at the table. The export approval and the data centre are on the record. The claim that chips saved the talks is, so far, single-sourced.
+
+Now a minute of French, and then the European news in it — where the biggest thing happening anywhere today is a state election in Germany.
+
+How would you say you'll keep someone posted? Not that you will inform them. That you'll tell them as things develop.
+
+Here it is.
+
+Je te tiens au courant.
+
+The literal route is garder plus informé, which is grammatical and lands like a compliance memo. Tenir means to hold. Le courant is the current, the flow of what's going on, and you are holding the other person in it. Then add de and whatever it is you're keeping them posted about.
+
+Je te tiens au courant de la suite.
+
+And one from this week. The idea simply doesn't appeal?
+
+Ça me dit rien.
+
+Now the continent.
+
+Passons à l'Europe. La Saxe-Anhalt vote aujourd'hui, et les bureaux de vote ferment à dix-huit heures. Les derniers sondages donnent l'AfD autour de quarante et un pour cent, contre vingt-deux ou vingt-trois pour la CDU et douze pour Die Linke. Sa tête de liste, Ulrich Siegmund, trente-cinq ans, vendait des parfums avant d'entrer en politique. S'il l'emporte, ce serait le premier ministre-président d'extrême droite d'un Land depuis la guerre.
+
+En France, la tournée européenne de Jordan Bardella a tourné au fiasco. Ses visites au Royaume-Uni vendredi et en Italie samedi devaient soigner l'image du parti sur la scène européenne ; elles ont achoppé sur l'immigration et sur l'aide à l'Ukraine, dont le Rassemblement national veut désormais « couper le robinet ». Pendant ce temps, à la braderie de Lille, Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier faisaient campagne devant deux millions de visiteurs attendus. Et depuis Nice, Eric Ciotti appelle publiquement son alliée Marine Le Pen à adhérer à la retraite par capitalisation.
+
+Côté météo, six départements du sud sont en vigilance orange canicule dimanche et lundi. Samedi, on a relevé trente-neuf virgule quatre degrés à Perpignan, trente-huit virgule deux à Nîmes, trente-sept virgule huit à Narbonne. Des valeurs jamais atteintes en septembre.
+
+Enfin, deux choses ailleurs sur le continent. Samedi soir, la fusée Spectrum de l'allemand Isar Aerospace a décollé d'Andøya, en Norvège, et a atteint l'orbite. C'est le premier lanceur privé européen à y parvenir, et le premier lancement orbital depuis l'Europe continentale. Vingt-huit mètres, dix moteurs, capable d'emporter jusqu'à une tonne en orbite basse ; ce vol-ci emportait six CubeSats. Le premier essai, en mars deux mille vingt-cinq, s'était écrasé au bout d'une trentaine de secondes.
+
+Et Ursula von der Leyen est au Groenland aujourd'hui, accompagnée de Mette Frederiksen. Bruxelles compte porter son financement de l'île à cinq cent trente millions d'euros pour la période allant de deux mille vingt-huit à deux mille trente-quatre, soit plus du double de l'enveloppe précédente.
+
+Back in English. One thing to sit with this morning.
+
+I have laboured carefully, not to mock, lament, or execrate, but to understand human actions.
+
+That is Spinoza, opening the Political Treatise, left unfinished when he died in sixteen seventy-seven. He was forty-four and had spent his adult life outside every institution that might have kept him. Amsterdam's Jewish community expelled him at twenty-three with a writ so violent it forbade anyone to speak with him or read a word he wrote. He ground optical lenses for a living, and the glass dust probably killed him. Three years before the end he turned down a chair at Heidelberg, on the grounds that a salary would come with limits on what he could say.
+
+The observation I'd make is that the sentence is a promise the book does not entirely keep. He says he will not mock, and then he is quite funny at the expense of monarchs and theologians. But the deeper problem is the assumption underneath it, which is that understanding and condemnation are alternatives — that if you traced a human action back far enough you would lose the appetite to judge it. That is not a method. It is a claim about what happens to people who look closely, and it is not obviously true.
+
+And finally, closer to home.
+
+Forks today, and the peninsula saved the best for last: sunny, a high near seventy-four, calm becoming a light west-northwest breeze in the afternoon, and down to about fifty-four tonight as the clouds come back. No rain anywhere in it. That is the day you drove out there for.
+
+You leave Seattle tonight and land in New York in the morning, so this is the whole of it.
+
+For when you're home. Experts Only is back on Randall's Island on the nineteenth and twentieth, John Summit curating the whole weekend and playing it, with GRiZ, Prospa and Korolova on the bill so far. Organizers are talking about fifty thousand people, which would make it the largest dance festival the city has had since Electric Zoo stopped happening.
+
+And Toronto is above five hundred for the first time since the third of April. The Blue Jays beat Kansas City four to three on Saturday, Kazuma Okamoto with four hits including the tiebreaking single in the seventh. Seventy-two and seventy-one, seven wins in eight, tied with Cleveland for the third wild card. The Yankees took San Diego five to one behind Carlos Rodón. Toronto finishes the series in Kansas City this afternoon.
+
+That's the morning. Have a good one.
