@@ -80,13 +80,13 @@ Now a minute of French, and then a little European news in it.
 
 How would you say it's not that big a deal, when a friend is fretting over something manageable. Not it's not important. The reassuring, come on, it's hardly climbing a mountain version.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas la mer à boire.[[/FR]]
 
-[[PAUSE]]
+C'est pas la mer à boire.
 
-[[FR]]C'est pas la mer à boire.[[/FR]]
+
+
+C'est pas la mer à boire.
 
 Literally, it's not the sea to drink. The trap is reaching for the English idea of a big deal and translating it word for word, which comes out as Franglais or as something about importance that sounds like a memo. The French image is an impossible task, and saying it isn't one.
 
@@ -94,27 +94,27 @@ Now three cold.
 
 You paid forty euros for a cocktail. You got ripped off.
 
-[[PAUSE:3]]
 
-[[FR]]Je me suis fait avoir.[[/FR]]
+
+Je me suis fait avoir.
 
 Never mind, forget it.
 
-[[PAUSE:3]]
 
-[[FR]]Laisse tomber.[[/FR]]
+
+Laisse tomber.
 
 You can't wait for the weekend.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai hâte.[[/FR]]
+
+J'ai hâte.
 
 And now the continent, briefly.
 
-[[FR]]En France, le Rassemblement national fait bloc derrière Jordan Bardella, malgré les éléments publiés par Mediapart. Selon Le Monde, Marine Le Pen risque d'être entraînée dans une défense jusqu'au-boutiste de son président, à six mois de la présidentielle. De son côté, Gabriel Attal propose une grande coalition, de la gauche à la droite, pour battre le Rassemblement national.[[/FR]]
+En France, le Rassemblement national fait bloc derrière Jordan Bardella, malgré les éléments publiés par Mediapart. Selon Le Monde, Marine Le Pen risque d'être entraînée dans une défense jusqu'au-boutiste de son président, à six mois de la présidentielle. De son côté, Gabriel Attal propose une grande coalition, de la gauche à la droite, pour battre le Rassemblement national.
 
-[[FR]]Ailleurs en Europe, Friedrich Merz est arrivé ce matin à Kiev, accompagné de sa ministre de l'Économie, Katherina Reiche. Et en Lettonie, le parti pro-européen du Premier ministre, Andris Kulbergs, arrive en tête des législatives, mais les populistes progressent et il faudra une coalition.[[/FR]]
+Ailleurs en Europe, Friedrich Merz est arrivé ce matin à Kiev, accompagné de sa ministre de l'Économie, Katherina Reiche. Et en Lettonie, le parti pro-européen du Premier ministre, Andris Kulbergs, arrive en tête des législatives, mais les populistes progressent et il faudra une coalition.
 
 Back in English.
 
