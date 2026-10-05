@@ -44,13 +44,13 @@ Now a minute of French, and then the European news in it.
 
 A friend asks whether to take the earlier train or the later one. You don't mind, and you want to hand the choice back. How do you say your call.
 
-[[PAUSE:3]]
 
-[[FR]]C'est toi qui vois.[[/FR]]
 
-[[PAUSE]]
+C'est toi qui vois.
 
-[[FR]]C'est toi qui vois.[[/FR]]
+
+
+C'est toi qui vois.
 
 The trap is translating the noun for a call literally. That gets you a phone call or a summons, not a decision. French builds it around seeing instead, it's you who sees, and it sounds relaxed rather than formal.
 
@@ -58,33 +58,33 @@ Now three cold.
 
 Your friend is panicking about a twenty-minute presentation. It's hardly the end of the world.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas la mer à boire.[[/FR]]
+
+C'est pas la mer à boire.
 
 Someone brings up the weather in a budget argument. That's got nothing to do with it.
 
-[[PAUSE:3]]
 
-[[FR]]Ça n'a rien à voir.[[/FR]]
+
+Ça n'a rien à voir.
 
 Third delayed train this week. You've had it.
 
-[[PAUSE:3]]
 
-[[FR]]J'en ai marre.[[/FR]]
+
+J'en ai marre.
 
 And on that, over to France, where the schools are still shut.
 
-[[FR]]En France, la fronde lycéenne ne retombe pas. Ce lundi, selon le ministre de l'Éducation, Édouard Geffray, les cours sont suspendus en tout ou partie dans quatre cents à cinq cents lycées, sur trois mille sept cents. Le ministre affirme que vingt-quatre établissements ont été incendiés ou saccagés, et que soixante-dix-huit personnels ont été blessés.[[/FR]]
+En France, la fronde lycéenne ne retombe pas. Ce lundi, selon le ministre de l'Éducation, Édouard Geffray, les cours sont suspendus en tout ou partie dans quatre cents à cinq cents lycées, sur trois mille sept cents. Le ministre affirme que vingt-quatre établissements ont été incendiés ou saccagés, et que soixante-dix-huit personnels ont été blessés.
 
-[[FR]]Sébastien Lecornu demande une reprise des cours partout où c'est possible. Mais les organisations lycéennes appellent à un troisième acte demain, avec une manifestation nationale, et les syndicats enseignants les soutiennent, y compris par la grève. Le Monde parle d'un mouvement singulier et déjà historique, né du manque de moyens. L'Express le range sous la rubrique crise de la dette : l'État peut-il encore répondre, au moment où il cherche à couper dans les dépenses ?[[/FR]]
+Sébastien Lecornu demande une reprise des cours partout où c'est possible. Mais les organisations lycéennes appellent à un troisième acte demain, avec une manifestation nationale, et les syndicats enseignants les soutiennent, y compris par la grève. Le Monde parle d'un mouvement singulier et déjà historique, né du manque de moyens. L'Express le range sous la rubrique crise de la dette : l'État peut-il encore répondre, au moment où il cherche à couper dans les dépenses ?
 
-[[FR]]À gauche, dimanche soir sur BFM TV, les cinq candidats de la primaire sociale-démocrate, dont Olivier Faure, Raphaël Glucksmann et Ségolène Royal, ont débattu plus de trois heures, et le ton est monté sur les alliances. Le premier tour a lieu vendredi et samedi.[[/FR]]
+À gauche, dimanche soir sur BFM TV, les cinq candidats de la primaire sociale-démocrate, dont Olivier Faure, Raphaël Glucksmann et Ségolène Royal, ont débattu plus de trois heures, et le ton est monté sur les alliances. Le premier tour a lieu vendredi et samedi.
 
-[[FR]]En Espagne, Pedro Sánchez convoque des élections anticipées le vingt-neuf novembre. Vendredi, le Parlement a rejeté ses deux textes sur le logement, et samedi, plus de soixante-dix mille personnes ont manifesté à Madrid contre des loyers qui ont presque doublé en dix ans. Les sondages donnent l'avantage au Parti populaire, allié à Vox.[[/FR]]
+En Espagne, Pedro Sánchez convoque des élections anticipées le vingt-neuf novembre. Vendredi, le Parlement a rejeté ses deux textes sur le logement, et samedi, plus de soixante-dix mille personnes ont manifesté à Madrid contre des loyers qui ont presque doublé en dix ans. Les sondages donnent l'avantage au Parti populaire, allié à Vox.
 
-[[FR]]Enfin, en Bosnie-Herzégovine, les nationalistes serbes et croates progressent aux élections générales de dimanche.[[/FR]]
+Enfin, en Bosnie-Herzégovine, les nationalistes serbes et croates progressent aux élections générales de dimanche.
 
 Back in English, and to Iran, starting in England.
 
