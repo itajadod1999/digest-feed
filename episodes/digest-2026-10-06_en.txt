@@ -44,13 +44,13 @@ Now a minute of French, and then the European news in it.
 
 A friend says a few people are heading out for dinner tonight, are you in. You want to say count me in, keen, not just willing. How do you say it.
 
-[[PAUSE:3]]
 
-[[FR]]Je suis partant.[[/FR]]
 
-[[PAUSE]]
+Je suis partant.
 
-[[FR]]Je suis partant.[[/FR]]
+
+
+Je suis partant.
 
 The trap is translating count me in literally. You end up with something about being counted, or about being physically inside something, and neither means yes. French uses an adjective for someone who's setting off, so you're describing yourself as already on your way. A woman says it with an E at the end, and it sounds the same with a slightly firmer finish.
 
@@ -58,37 +58,37 @@ Now three cold.
 
 A friend tells you the restaurant was packed on a Friday night. Well, obviously.
 
-[[PAUSE:3]]
 
-[[FR]]Tu m'étonnes.[[/FR]]
+
+Tu m'étonnes.
 
 You paid forty euros for a cocktail. You got ripped off.
 
-[[PAUSE:3]]
 
-[[FR]]Je me suis fait avoir.[[/FR]]
+
+Je me suis fait avoir.
 
 Someone suggests eight o'clock. The easy yes.
 
-[[PAUSE:3]]
 
-[[FR]]Ça marche.[[/FR]]
+
+Ça marche.
 
 And with that, to Paris, where today is the big day.
 
-[[FR]]En France, c'est l'acte trois de la mobilisation lycéenne. Cette fois, les lycéens ne sont plus seuls : les syndicats enseignants appellent à la grève, et la CGT annonce des arrêts de travail dans l'énergie. À Paris, le rendez-vous est fixé à quatorze heures, place de la République.[[/FR]]
+En France, c'est l'acte trois de la mobilisation lycéenne. Cette fois, les lycéens ne sont plus seuls : les syndicats enseignants appellent à la grève, et la CGT annonce des arrêts de travail dans l'énergie. À Paris, le rendez-vous est fixé à quatorze heures, place de la République.
 
-[[FR]]Le bilan s'alourdit. Selon le ministère de l'Intérieur, plus de six mille interpellations ont eu lieu depuis le vingt-huit septembre. Le ministre de l'Éducation, Édouard Geffray, fait état de cent quatre-vingt-dix élèves blessés, et lundi, un adolescent a eu la main arrachée par une grenade lacrymogène lors d'affrontements avec la police. Les organisations lycéennes et étudiantes ont présenté dix mesures d'urgence et réclament des réponses immédiates.[[/FR]]
+Le bilan s'alourdit. Selon le ministère de l'Intérieur, plus de six mille interpellations ont eu lieu depuis le vingt-huit septembre. Le ministre de l'Éducation, Édouard Geffray, fait état de cent quatre-vingt-dix élèves blessés, et lundi, un adolescent a eu la main arrachée par une grenade lacrymogène lors d'affrontements avec la police. Les organisations lycéennes et étudiantes ont présenté dix mesures d'urgence et réclament des réponses immédiates.
 
-[[FR]]Le traitement médiatique diverge. Le Monde donne la parole aux élèves, de Marseille à Lyon, inquiets pour leur avenir. L'Express, lui, enquête sur les liens entre le syndicat lycéen à l'origine du mouvement et La France insoumise.[[/FR]]
+Le traitement médiatique diverge. Le Monde donne la parole aux élèves, de Marseille à Lyon, inquiets pour leur avenir. L'Express, lui, enquête sur les liens entre le syndicat lycéen à l'origine du mouvement et La France insoumise.
 
-[[FR]]Toujours en France, plus de cent quarante mille personnes se sont inscrites pour la primaire de la gauche. Et dans un entretien au Monde, Pascal Lamy, ancien patron de l'Organisation mondiale du commerce, fait son mea culpa sur la Chine : nous avons commis, dit-il, une erreur de parallaxe historique.[[/FR]]
+Toujours en France, plus de cent quarante mille personnes se sont inscrites pour la primaire de la gauche. Et dans un entretien au Monde, Pascal Lamy, ancien patron de l'Organisation mondiale du commerce, fait son mea culpa sur la Chine : nous avons commis, dit-il, une erreur de parallaxe historique.
 
-[[FR]]En Allemagne, une affaire d'espionnage spectaculaire. Le parquet fédéral a arrêté ce mardi August Hanning, qui a dirigé le BND, le service de renseignement extérieur, de mille neuf cent quatre-vingt-dix-huit à deux mille cinq. Il est soupçonné de trahison. Selon les enquêteurs, son ancien chef de cabinet lui aurait transmis environ deux mille documents entre deux mille dix et deux mille vingt-deux, qu'il aurait exploités pour son activité de conseil.[[/FR]]
+En Allemagne, une affaire d'espionnage spectaculaire. Le parquet fédéral a arrêté ce mardi August Hanning, qui a dirigé le BND, le service de renseignement extérieur, de mille neuf cent quatre-vingt-dix-huit à deux mille cinq. Il est soupçonné de trahison. Selon les enquêteurs, son ancien chef de cabinet lui aurait transmis environ deux mille documents entre deux mille dix et deux mille vingt-deux, qu'il aurait exploités pour son activité de conseil.
 
-[[FR]]Toujours en Allemagne, le nouveau parlement de Saxe-Anhalt se réunit aujourd'hui, un mois après le score historique de l'AfD, quarante-quatre pour cent. Il lui manque trois sièges pour la majorité absolue.[[/FR]]
+Toujours en Allemagne, le nouveau parlement de Saxe-Anhalt se réunit aujourd'hui, un mois après le score historique de l'AfD, quarante-quatre pour cent. Il lui manque trois sièges pour la majorité absolue.
 
-[[FR]]Enfin, Paris et Berlin proposent de doter l'Union européenne d'outils pour riposter rapidement aux pressions commerciales, sans nommer la Chine. Et en Espagne, Pedro Sánchez dissout le Parlement aujourd'hui.[[/FR]]
+Enfin, Paris et Berlin proposent de doter l'Union européenne d'outils pour riposter rapidement aux pressions commerciales, sans nommer la Chine. Et en Espagne, Pedro Sánchez dissout le Parlement aujourd'hui.
 
 Back in English, and to Iran, starting again in England.
 

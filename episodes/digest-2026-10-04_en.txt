@@ -1,0 +1,139 @@
+Good morning. Sunday, October fourth. A few minutes of news, the year so far in numbers, and then one subject at length: the oil the world keeps in salt caves, and what it can and can't do.
+
+The news first, kept short.
+
+Brazil votes today. Luiz Inácio Lula da Silva, eighty years old and after a fourth term, faces Flávio Bolsonaro, forty-five, the son of the former president now in prison for the coup attempt. The last big poll had Lula at thirty-nine and Bolsonaro at thirty-six, inside the margin of error. If nobody clears half the vote, there's a runoff on October twenty-fifth. Washington suspended consular services in Brazil on Friday, citing security, without explaining further.
+
+On Ukraine, the Times reports that Vladimir Putin raised a sale of Russian energy assets with the President's envoys, Jared Kushner and Steve Witkoff, and that the talks now involve an oil deal tied to allies of the President. That's on the Times' reporting so far. Meanwhile Russia struck another major bridge in Kyiv, and this morning Germany's chancellor, Friedrich Merz, arrived in the city on an unannounced visit.
+
+Here at home, new Times and Siena polls find Democrats competitive in Senate races in Alaska, Iowa, Ohio, Texas and even Kansas, a month before the midterms. Those are polls, not votes.
+
+In business, the Journal says Paramount's fifty-two billion dollar debt sale shows how higher rates are biting, and the deal it paid for closes on Tuesday. Warner Bros. sends itself off with a flop: Digger, the Tom Cruise film and the studio's last release before the merger, opened to about eight million dollars and could lose at least a hundred and twenty-five million.
+
+The week ahead: the Supreme Court opens its term on Monday. Fed minutes from September land Wednesday. Friday brings the Nobel Peace Prize, the first read on October consumer sentiment, and Delta's earnings.
+
+Something lighter before the numbers. A new study has named the loudest birds on earth, and both are Brazilian: the bare-throated bellbird and the red-legged seriema, which researchers found louder than elephants, jackhammers and chain saws. Somebody had to measure it.
+
+Now the year to date, Friday's close against the last day of twenty twenty-five.
+
+The S and P five hundred finished the week around seven thousand seven hundred and twenty, up roughly thirteen percent on the year. The Nasdaq, near twenty-seven thousand two hundred, is up about seventeen percent. The Dow, near fifty-one thousand two hundred, is up about six and a half. Respectable, but narrow: an equally weighted S and P has fallen for several weeks running.
+
+Bonds tell a harder story. The ten-year Treasury yield started the year around four point one percent. It closed Friday near five point two eight, up more than a full percentage point, and on Thursday touched its highest level since two thousand and two. The average thirty-year mortgage rate is back above seven and a quarter.
+
+And oil is the year's defining chart. Brent ended last year a little above sixty dollars. It's now about a hundred and two, up roughly two thirds. American crude has gone from the high fifties to around ninety-one. Gold, which the Journal notes went through four thousand and then five thousand dollars an ounce, kept going.
+
+That oil chart is where today's piece begins.
+
+On Friday, the leaders of the G seven agreed to release a hundred million barrels of crude and diesel from emergency stocks over four months, weighted toward diesel. It's the second big release this year. In March, the thirty-two members of the International Energy Agency unanimously agreed to put four hundred million barrels on the market, the largest emergency release in the agency's history. America's share of that was a hundred and seventy-two million barrels. By August, the Strategic Petroleum Reserve had fallen below three hundred million barrels for the first time since early nineteen eighty-three.
+
+So this morning: who built this system, how a release works, why diesel is the awkward part, and what would break it.
+
+Start in October of nineteen seventy-three. After the Yom Kippur War began, Arab oil producers cut output and embargoed shipments to the United States and the Netherlands for backing Israel. Within a few months the posted price of oil roughly quadrupled, from about three dollars a barrel to about twelve. Americans queued at gas stations, states rationed by odd and even licence plates, and governments discovered that almost nobody held meaningful reserves.
+
+Henry Kissinger's answer was to organise the buyers. In February of nineteen seventy-four he convened the Washington Energy Conference, and by November the major consuming countries had signed the Agreement on an International Energy Program in Paris. It created the International Energy Agency and, at its core, an obligation: each member would hold oil equal to at least ninety days of its net imports, ready to release together if supply was disrupted.
+
+France refused to join. Paris saw the new agency as an American-led consumers' bloc squaring off against the producers, at a moment when French diplomacy was cultivating its own relationships in the Arab world. The French foreign minister, Michel Jobert, clashed openly with Kissinger at the Washington conference. France built its own stockholding system instead, and only joined the agency in nineteen ninety-two. That history explains why French stocks look different from American ones.
+
+America's half of the bargain came in December of nineteen seventy-five, when Gerald Ford signed the Energy Policy and Conservation Act, which created the Strategic Petroleum Reserve. The oil isn't kept in tanks. It sits in enormous caverns carved out of salt domes deep under the Gulf Coast, at four sites, two in Texas and two in Louisiana: Bryan Mound, Big Hill, West Hackberry and Bayou Choctaw.
+
+The caverns are made by pumping fresh water into the salt, dissolving it, and drawing the brine back out. What's left is a sealed chamber that can hold millions of barrels. Salt is close to impermeable, the rock pressure keeps the chamber stable, and storing oil this way costs a fraction of building tank farms. To get the oil out, you pump water back in. Oil floats on water, so it rises to the top and flows into pipelines bound for Gulf refineries.
+
+The authorised capacity is about seven hundred and fourteen million barrels. The reserve peaked at more than seven hundred and twenty-six million between late two thousand and nine and the summer of twenty eleven. It now holds well under half that.
+
+The international system is a patchwork. Some countries, like the United States and Japan, hold stocks directly. Others, including Germany and France, use dedicated agencies financed by a levy on fuel. Many simply require oil companies to keep extra inventory on hand. Collectively, members hold more than one point two billion barrels in public stocks, plus about six hundred million more that industry is required to keep.
+
+A release isn't a single tap. The agency's secretariat assesses the disruption and proposes a volume, the governing board must agree unanimously, and then each country contributes in its own way: selling from government stocks, lending barrels, or temporarily lowering the amount companies must hold, which frees their inventory for sale. In the American case, much of this year's release has been structured as exchanges, meaning refiners borrow the oil now and must return it later, with extra barrels as a kind of interest.
+
+The tool has been used sparingly. The first collective action came in January of nineteen ninety-one, during the Gulf War. The second was in two thousand and five, after Hurricanes Katrina and Rita knocked out Gulf refining. The third was in twenty eleven, sixty million barrels, when the Libyan civil war took that country's crude off the market. Then twice in twenty twenty-two, after Russia invaded Ukraine. This year's four hundred million is the sixth, and it's the largest by a wide margin.
+
+Now the arithmetic, which is the part politicians tend to skip.
+
+Before the war, roughly twenty million barrels a day passed through the Strait of Hormuz, about a quarter of all oil traded by sea. In March, the agency said exports through the strait were running at less than a tenth of their pre-conflict level. Friday's hundred million barrels over four months works out to a bit more than eight hundred thousand barrels a day. That's about four percent of what the strait used to carry. Even the March release, if you spread it over a similar period, replaces only a fraction of the missing flow.
+
+That's not a failure of the design. Emergency stocks were never meant to replace a lost supply indefinitely. They're meant to buy time: to cover the weeks while shipping reroutes, while other producers ramp up, while demand adjusts, and to stop a shortage from becoming a panic. A release works partly through barrels and partly through signal. If traders believe governments will keep oil flowing to refineries, they're less inclined to bid up every cargo as if it were the last one.
+
+Which brings us to diesel, and to why Friday's deal was shaped the way it was.
+
+The Strategic Petroleum Reserve holds crude only. That's fine when the shortage is crude and refineries have spare capacity. It's much less useful when the bottleneck is refined product. And this autumn, diesel is the bottleneck. Russia has extended its ban on diesel exports to the end of October. China reportedly suspended its exports for the month. The Gulf, which supplied a large share of the world's traded diesel and jet fuel, is barely shipping.
+
+You can see it at the pump. The Journal this morning reports from a truck stop off Interstate ten in Texas, where one driver's tank now costs nine hundred and forty-four dollars, against about five hundred a year ago. Diesel moves almost everything else in the economy, so it shows up in grocery prices and freight bills with a lag.
+
+America's only stockpile of diesel-type fuel is the Northeast Home Heating Oil Reserve, about a million barrels. That's roughly a quarter of a single day of American diesel use. Europe is different. Its rules require stocks to reflect what countries actually consume, so a large share of European reserves are held as finished products, diesel and heating oil included. France, the country that stayed outside the system for eighteen years, built its own with heavy product holdings. So when France pushed for a diesel-weighted release, as it did in the run-up to Friday, it was pushing for the kind of oil it, and Europe, actually has in the tank.
+
+Now, what breaks it.
+
+First, depletion. A stockpile you've drawn down is a stockpile you can't use in the next crisis. America entered this year with far less oil in the reserve than in the late two thousands, partly because of the large releases of twenty twenty-two and partly because Congress, over the preceding years, had ordered sales to raise money for unrelated spending. The reserve was used, in effect, as a piggy bank. If this year's planned drawdowns go ahead in full, the Energy Department's numbers point to roughly two hundred and forty million barrels left, about a third of capacity.
+
+Second, repayment. Exchanges have to be returned. If refiners are due to send barrels back into the caverns just as the market is still tight, refilling becomes a new source of demand at the worst moment. The timing of those returns is a policy choice, and an easy one to postpone.
+
+Third, the caverns themselves. Each time you push oil out with fresh water, a little more salt dissolves and the caverns change shape. They can only be cycled so many times, and much of the surface equipment dates from the nineteen seventies and eighties. The Energy Department has spent years on a life-extension programme for exactly this reason.
+
+Fourth, a quirk of the rules. Because the ninety-day obligation is measured against net imports, and the United States has been a net exporter of petroleum since twenty twenty, America technically has no stockholding obligation under the agreement at all. It holds the reserve by choice, and that choice is reopened with every budget.
+
+Then there's the honest counterargument, and it's a serious one. Some economists argue that government stockpiles are an expensive way to do what markets already do. When prices spike, private companies draw down their own inventories, producers elsewhere pump more, and consumers cut back. A release blunts the very price signal that drives those responses. Governments are also not obviously good traders: they tend to sell in a panic and buy back later, sometimes at higher prices. And there's the political temptation. Releases get announced before elections, and the midterms are a month away. Critics would say the hundred million barrels is as much about the November calendar as about supply.
+
+The answer from the other side is that the costs of a disorderly shortage are far larger than the cost of storage, and that a credible reserve deters some disruptions from happening at all. Nobody has a clean way to measure a crisis that didn't happen.
+
+What would tell you whether this year's releases are working? Watch three things. The diesel price relative to crude: if that gap narrows, the product-heavy release is reaching the right part of the market. The reserve level in the weekly government data, and whether any refill schedule is announced. And Europe's gas. The Economist notes European gas storage is nearly three quarters full, a record low for this time of year, with Qatar's exports down to a trickle. Oil stocks were built after nineteen seventy-three. Nobody built the equivalent for gas on anything like the same scale, and a cold winter would test that gap.
+
+Now a minute of French, and then a little European news in it.
+
+How would you say it's not that big a deal, when a friend is fretting over something manageable. Not it's not important. The reassuring, come on, it's hardly climbing a mountain version.
+
+
+
+C'est pas la mer à boire.
+
+
+
+C'est pas la mer à boire.
+
+Literally, it's not the sea to drink. The trap is reaching for the English idea of a big deal and translating it word for word, which comes out as Franglais or as something about importance that sounds like a memo. The French image is an impossible task, and saying it isn't one.
+
+Now three cold.
+
+You paid forty euros for a cocktail. You got ripped off.
+
+
+
+Je me suis fait avoir.
+
+Never mind, forget it.
+
+
+
+Laisse tomber.
+
+You can't wait for the weekend.
+
+
+
+J'ai hâte.
+
+And now the continent, briefly.
+
+En France, le Rassemblement national fait bloc derrière Jordan Bardella, malgré les éléments publiés par Mediapart. Selon Le Monde, Marine Le Pen risque d'être entraînée dans une défense jusqu'au-boutiste de son président, à six mois de la présidentielle. De son côté, Gabriel Attal propose une grande coalition, de la gauche à la droite, pour battre le Rassemblement national.
+
+Ailleurs en Europe, Friedrich Merz est arrivé ce matin à Kiev, accompagné de sa ministre de l'Économie, Katherina Reiche. Et en Lettonie, le parti pro-européen du Premier ministre, Andris Kulbergs, arrive en tête des législatives, mais les populistes progressent et il faudra une coalition.
+
+Back in English.
+
+One idea before we finish.
+
+In nineteen seventy-five, a Bank of England economist named Charles Goodhart gave a paper at a conference in Australia on how Britain managed its money supply. In it he wrote something close to this: any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes. It became known, half as a joke, as Goodhart's law.
+
+The circumstance is what made it bite. In the early nineteen seventies, the Bank had loosened controls on lending, credit exploded, and inflation followed. Policymakers turned to the relationship between the money supply and prices, which had looked stable for years, and started targeting it. As soon as they did, banks and borrowers found ways around the measured aggregates, money moved into forms the targets didn't capture, and the relationship that had justified the target fell apart. A few years later the Thatcher government built its economic strategy around a measure called sterling M three, and missed its targets repeatedly, for much the reason Goodhart had described.
+
+The complication is that he wasn't alone, and he may not have been the most rigorous. Robert Lucas made a more formal version of the argument in nineteen seventy-six, that relationships estimated from past behaviour shift when policy changes, because people respond to the policy. The social scientist Donald Campbell arrived at something similar about social indicators, independently. And the version people usually quote, that a measure which becomes a target stops being a good measure, is a later paraphrase by the anthropologist Marilyn Strathern, not Goodhart's own words. The bigger open question is when the law actually holds. Since nineteen ninety, when New Zealand began, many central banks have targeted inflation directly, and it has worked reasonably well for long stretches. One explanation is that inflation is the goal itself rather than a stand-in for it. Whether that distinction really protects a target, or just delays the gaming, is still argued over.
+
+And finally, closer to home, still San Francisco for a few more days.
+
+The heat holds. Partly sunny today with a high near eighty-seven early, easing toward the high seventies by mid-afternoon, and a low around sixty-two. There's a minor heat advisory around the Bay. Monday and Tuesday are sunny, low eighties. Water bottle, not jacket.
+
+Jungle plays the Greek Theatre in Berkeley on Tuesday and Wednesday night.
+
+And the Yankees are down a game. Drew Rasmussen took a no-hitter into the eighth inning in Tampa yesterday, struck out ten, and Jonathan Aranda's third-inning homer off Gerrit Cole was the only run. Rays one, Yankees nothing. Game Two is Monday at five your time.
+
+You're in Los Angeles from Friday, then out to Palm Desert for a few days. Both will be hot.
+
+That's the long read. Enjoy the Sunday.
