@@ -44,13 +44,13 @@ Now a minute of French, and then the European news in it.
 
 A friend asks whether the two-hour drive to that restaurant was worth it. Not that it deserved the trip. The easy, it was worth it.
 
-[[PAUSE:3]]
 
-[[FR]]Ça valait le coup.[[/FR]]
 
-[[PAUSE]]
+Ça valait le coup.
 
-[[FR]]Ça valait le coup.[[/FR]]
+
+
+Ça valait le coup.
 
 The trap is reaching for an adjective meaning worthy, which makes the restaurant sound morally deserving. French uses the verb for being worth, followed by a noun that means a blow or a shot. Think of it as worth the shot. In the present tense it works for advice, too: something is worth doing.
 
@@ -58,37 +58,37 @@ Now three cold.
 
 A friend says the bar was packed on a Saturday night. Well, obviously.
 
-[[PAUSE:3]]
 
-[[FR]]Tu m'étonnes.[[/FR]]
+
+Tu m'étonnes.
 
 Your colleague is panicking about a ten-minute presentation. It's hardly the end of the world.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas la mer à boire.[[/FR]]
+
+C'est pas la mer à boire.
 
 Friends are heading out for dinner, are you in. Count me in.
 
-[[PAUSE:3]]
 
-[[FR]]Je suis partant.[[/FR]]
+
+Je suis partant.
 
 And so to Paris, where the prime minister went on television last night.
 
-[[FR]]En France, Sébastien Lecornu a pris la parole hier soir, et il a changé de ton. Le premier ministre se dit à l'écoute des lycéens, mais prévient qu'il ne pourra pas satisfaire leurs principales revendications. Les premières décisions sont attendues fin octobre. Trop tard, répondent les organisations lycéennes, qui sont reçues cet après-midi par les ministres de l'Éducation et de l'Enseignement supérieur.[[/FR]]
+En France, Sébastien Lecornu a pris la parole hier soir, et il a changé de ton. Le premier ministre se dit à l'écoute des lycéens, mais prévient qu'il ne pourra pas satisfaire leurs principales revendications. Les premières décisions sont attendues fin octobre. Trop tard, répondent les organisations lycéennes, qui sont reçues cet après-midi par les ministres de l'Éducation et de l'Enseignement supérieur.
 
-[[FR]]Aujourd'hui, c'est l'acte quatre. Selon le ministère, deux cent vingt-quatre établissements sont totalement fermés et cent cinquante et un partiellement, sur environ trois mille sept cents.[[/FR]]
+Aujourd'hui, c'est l'acte quatre. Selon le ministère, deux cent vingt-quatre établissements sont totalement fermés et cent cinquante et un partiellement, sur environ trois mille sept cents.
 
-[[FR]]L'autre annonce concerne le carburant. La France va libérer dix millions de barils de gazole de ses réserves stratégiques. Le gouvernement promet une baisse de douze à dix-huit centimes par litre, et s'engage à ce que l'électricité n'augmente pas cet hiver. L'objectif de déficit reste fixé à cinq pour cent du PIB en deux mille vingt-sept.[[/FR]]
+L'autre annonce concerne le carburant. La France va libérer dix millions de barils de gazole de ses réserves stratégiques. Le gouvernement promet une baisse de douze à dix-huit centimes par litre, et s'engage à ce que l'électricité n'augmente pas cet hiver. L'objectif de déficit reste fixé à cinq pour cent du PIB en deux mille vingt-sept.
 
-[[FR]]Les lectures divergent. Pour Le Monde, le gouvernement se donne du temps, au risque de l'enlisement. Marine Tondelier, chez les écologistes, estime que la stratégie est claire : gagner du temps. Le New York Times, lui, insiste sur l'extrême gauche, pour qui le mouvement est à la fois une opportunité et une menace.[[/FR]]
+Les lectures divergent. Pour Le Monde, le gouvernement se donne du temps, au risque de l'enlisement. Marine Tondelier, chez les écologistes, estime que la stratégie est claire : gagner du temps. Le New York Times, lui, insiste sur l'extrême gauche, pour qui le mouvement est à la fois une opportunité et une menace.
 
-[[FR]]Au Rassemblement national, Marine Le Pen dit maintenir à mille pour cent sa confiance en Jordan Bardella, après les révélations de Mediapart sur des propos antisémites qu'il aurait tenus dans sa jeunesse. Le parti a présenté son contre-budget, qui prévoit notamment une taxe de mille euros sur l'embauche d'un travailleur extra-européen.[[/FR]]
+Au Rassemblement national, Marine Le Pen dit maintenir à mille pour cent sa confiance en Jordan Bardella, après les révélations de Mediapart sur des propos antisémites qu'il aurait tenus dans sa jeunesse. Le parti a présenté son contre-budget, qui prévoit notamment une taxe de mille euros sur l'embauche d'un travailleur extra-européen.
 
-[[FR]]En Espagne, Maricarmen Abascal est morte hier, à quatre-vingt-sept ans. Son expulsion, il y a deux semaines, avait provoqué des manifestations massives sur le logement, puis la dissolution du Parlement. Un rassemblement en sa mémoire a eu lieu à la Puerta del Sol, à Madrid.[[/FR]]
+En Espagne, Maricarmen Abascal est morte hier, à quatre-vingt-sept ans. Son expulsion, il y a deux semaines, avait provoqué des manifestations massives sur le logement, puis la dissolution du Parlement. Un rassemblement en sa mémoire a eu lieu à la Puerta del Sol, à Madrid.
 
-[[FR]]En Allemagne, l'arrestation de l'ancien patron du BND, August Hanning, tourne à la crise pour le renseignement, au moment où Berlin voulait élargir ses pouvoirs face à la Russie. Et au Royaume-Uni, une élection partielle a lieu aujourd'hui dans l'ancienne circonscription de Keir Starmer, à Londres.[[/FR]]
+En Allemagne, l'arrestation de l'ancien patron du BND, August Hanning, tourne à la crise pour le renseignement, au moment où Berlin voulait élargir ses pouvoirs face à la Russie. Et au Royaume-Uni, une élection partielle a lieu aujourd'hui dans l'ancienne circonscription de Keir Starmer, à Londres.
 
 Back in English, and to Iran.
 
