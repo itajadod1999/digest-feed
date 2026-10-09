@@ -48,13 +48,13 @@ Now a minute of French, and then the European news in it.
 
 A friend says they'll walk into the hottest restaurant in town at eight on a Saturday without a booking. You want to say, good luck with that. That's far from a sure thing.
 
-[[PAUSE:3]]
 
-[[FR]]C'est pas gagné.[[/FR]]
 
-[[PAUSE]]
+C'est pas gagné.
 
-[[FR]]C'est pas gagné.[[/FR]]
+
+
+C'est pas gagné.
 
 The trap is reaching for the word for certain, which gives you something stiff that sounds like a weather forecast. French borrows from sport: literally, it isn't won yet. In speech the little negative word at the front disappears, and keeping it makes you sound like a textbook.
 
@@ -62,33 +62,33 @@ Now three cold.
 
 You need to leave a dinner that's run long. I've got to run.
 
-[[PAUSE:3]]
 
-[[FR]]Allez, je file.[[/FR]]
+
+Allez, je file.
 
 The trip was long but the meal was extraordinary. It was worth it.
 
-[[PAUSE:3]]
 
-[[FR]]Ça valait le coup.[[/FR]]
+
+Ça valait le coup.
 
 You paid twenty euros for a sandwich at the airport. I got ripped off.
 
-[[PAUSE:3]]
 
-[[FR]]Je me suis fait avoir.[[/FR]]
+
+Je me suis fait avoir.
 
 And so to Paris, where the government has found some teachers.
 
-[[FR]]En France, l'acte quatre de la mobilisation lycéenne a réuni plus de soixante et onze mille personnes, selon L'Express. Le ministre de l'Éducation, Édouard Geffray, annonce un plan d'urgence pour les établissements les plus touchés par les absences : trois mille professeurs remplaçants, jusqu'ici sans classe, seront affectés dans les prochaines heures. À Paris, la police a chargé et tiré des gaz lacrymogènes sur une place où s'étaient rassemblés des milliers d'élèves.[[/FR]]
+En France, l'acte quatre de la mobilisation lycéenne a réuni plus de soixante et onze mille personnes, selon L'Express. Le ministre de l'Éducation, Édouard Geffray, annonce un plan d'urgence pour les établissements les plus touchés par les absences : trois mille professeurs remplaçants, jusqu'ici sans classe, seront affectés dans les prochaines heures. À Paris, la police a chargé et tiré des gaz lacrymogènes sur une place où s'étaient rassemblés des milliers d'élèves.
 
-[[FR]]Côté politique, la primaire de la gauche sociale-démocrate se tient aujourd'hui et demain. Cinq candidats : Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal. Plus de cent quarante mille inscrits, ce qui rend le scrutin plus incertain que prévu, selon Le Monde. Glucksmann et Guedj excluent clairement toute alliance avec La France insoumise. Les trois autres restent flous.[[/FR]]
+Côté politique, la primaire de la gauche sociale-démocrate se tient aujourd'hui et demain. Cinq candidats : Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal. Plus de cent quarante mille inscrits, ce qui rend le scrutin plus incertain que prévu, selon Le Monde. Glucksmann et Guedj excluent clairement toute alliance avec La France insoumise. Les trois autres restent flous.
 
-[[FR]]Sur les marchés, le taux à dix ans français frôle les cinq pour cent. Conséquence étonnante : environ trente-huit pour cent des obligations d'entreprises françaises bien notées rapportent désormais moins que la dette de l'État à échéance comparable. Les marchés jugent donc certaines entreprises plus sûres que l'État lui-même.[[/FR]]
+Sur les marchés, le taux à dix ans français frôle les cinq pour cent. Conséquence étonnante : environ trente-huit pour cent des obligations d'entreprises françaises bien notées rapportent désormais moins que la dette de l'État à échéance comparable. Les marchés jugent donc certaines entreprises plus sûres que l'État lui-même.
 
-[[FR]]En Allemagne, bonne nouvelle pour l'économie : le ministère relève sa prévision de croissance pour cette année de zéro virgule cinq à un virgule trois pour cent. Mauvaise nouvelle pour la défense européenne : Berlin abandonne le char franco-allemand, le projet MGCS, censé remplacer le Leopard et le Leclerc. L'armée française le regrette.[[/FR]]
+En Allemagne, bonne nouvelle pour l'économie : le ministère relève sa prévision de croissance pour cette année de zéro virgule cinq à un virgule trois pour cent. Mauvaise nouvelle pour la défense européenne : Berlin abandonne le char franco-allemand, le projet MGCS, censé remplacer le Leopard et le Leclerc. L'armée française le regrette.
 
-[[FR]]Au Royaume-Uni, le chef des Verts, Zack Polanski, a échoué à entrer au Parlement. Dans l'ancienne circonscription de Keir Starmer, la candidate travailliste l'emporte avec environ quarante-cinq pour cent, contre trente-trois pour lui. Et en Espagne, des milliers de personnes ont défilé à Madrid contre la hausse des loyers, au lendemain de la mort de Maricarmen Abascal.[[/FR]]
+Au Royaume-Uni, le chef des Verts, Zack Polanski, a échoué à entrer au Parlement. Dans l'ancienne circonscription de Keir Starmer, la candidate travailliste l'emporte avec environ quarante-cinq pour cent, contre trente-trois pour lui. Et en Espagne, des milliers de personnes ont défilé à Madrid contre la hausse des loyers, au lendemain de la mort de Maricarmen Abascal.
 
 Back in English, and to Iran.
 
