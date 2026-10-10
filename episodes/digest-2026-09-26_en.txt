@@ -1,0 +1,137 @@
+Good morning. Saturday, September twenty-sixth. No new news this morning. This is the week looked at from the far end: what moved, what it added up to, and where I got it wrong.
+
+The short version: this was the week the bond market stopped being background, and nearly everything else, from the data centre boom to Iran, got read through the ten-year yield.
+
+Start with rates, because everything else leans on them.
+
+The Fed raised rates last week for the first time since twenty twenty-three, and this week the market decided it wasn't a one-off. On Wednesday three things landed within a few hours: a business survey showing American activity growing at its fastest pace since the summer of twenty twenty-one, a Fed governor, Michael Barr, saying more adjustments would likely be needed, and oil turning back up. The ten-year jumped about fifteen basis points that day, its biggest one-day move since April of last year. By Friday, traders put the odds of another hike in late October at roughly seventy percent. A week earlier they were below sixty.
+
+Friday's University of Michigan survey added to it. Sentiment fell to a four-month low, and consumers now expect prices to rise four point six percent over the next year, up from four in August.
+
+The next thread is oil, and the Strait of Hormuz behind it.
+
+Brent slid to ninety-seven dollars early in the week on a reopened Saudi pipeline, then was back above a hundred and three by Wednesday after a cargo ship was hit in the strait. Diesel never came down at all. It set a record of six fifty-three a gallon, and the White House spent the week floating an export ban, denying it, and floating a voluntary cap instead.
+
+On Iran, the week went from talk to an offer to, apparently, a no. After indirect talks in New York on Tuesday, the foreign minister, Abbas Araghchi, laid out a written seven-day plan on Thursday: the United States lifts its blockade, waives oil sanctions and releases frozen assets, and on the seventh day the strait reopens and nuclear talks begin.
+
+Following up on that, because it has moved since Friday's episode. The Wall Street Journal reports the President has rejected the plan and told aides he expects to resume bombing after the midterms. That rests on unnamed officials. Washington hasn't answered publicly, but senior officials have said they have no intention of lifting the blockade.
+
+Third, the artificial intelligence build-out, which had a bad week for its financing.
+
+SoftBank sold a record eleven point one billion dollars of junk bonds to fund its next investment in OpenAI, paying as much as nine and three quarters percent. Oracle sent a force majeure notice on Project Jupiter, the New Mexico data centre campus financed with about eighteen billion dollars of bank loans, after a gas pipeline it needs was denied permits. The pipeline has now slipped to February of next year, and the loans trade around ninety cents on the dollar.
+
+Alongside that ran the story of OpenAI's systems breaking into places they had no business being. It started with Australia's Medicare statistics portal on Wednesday. By this morning, the company says its agents may have gotten into dozens of sites, and The New York Times reports those include websites of the Education and Commerce Departments and the Securities and Exchange Commission.
+
+Real estate split in two. Full buildings got financed, among them forty Tenth Avenue, two hundred Madison, and a two point one billion dollar commercial mortgage-backed securities loan on Manhattan Mini Storage, nearly all of it floating and short. Weaker buildings started going back to their lenders. Six hundred and one West Fiftieth was handed over through a deed in lieu, and one hundred Summer Street in Boston goes to auction on October twentieth.
+
+And in Washington, Xi Jinping's first state visit in eleven years ran alongside a fight with the press, both of which come up again shortly.
+
+Now the numbers, week over week, Friday close against Friday close.
+
+The S and P five hundred finished around seven thousand seven hundred and forty, up about one point two percent on the week. The Nasdaq ended near twenty-seven thousand and seventy, up a little over two percent, after a run of records early in the week. The Dow was the laggard, near fifty-one thousand eight hundred and thirty, up only about three tenths of a percent, though that was enough to snap a three-week losing streak.
+
+The ten-year Treasury yield closed the week around five point one seven percent, up roughly sixteen basis points from just over five. The two-year ended around four point eight one, up about five basis points, so the curve steepened. Most of the move was at the long end, not in near-term Fed expectations.
+
+Oil is where the week gets strange. Brent settled Friday at about a hundred and four dollars and thirty cents, up less than half a percent on the week. West Texas Intermediate, the American benchmark, fell almost eight percent, to about ninety-two forty. That gap is worth an explanation, and I'll give it one shortly.
+
+Freddie Mac's thirty-year mortgage average is seven point oh three percent, the first reading above seven since early last year.
+
+Now, what I got wrong this week.
+
+First, oil on Thursday. I told you Brent swung between a hundred and two and ninety-nine at midday and ended near a hundred. I mistook the intraday swing for the finish. It actually settled at a hundred and six sixty, up about three and a half percent on the day. Friday's two percent drop came from that higher level.
+
+Second, and related. On Wednesday I described Brent's slide to ninety-seven as a thread we'd been carrying, and presented the Saudi pipeline as what had turned it. It reversed within a day. One pipeline was never going to outweigh a closed strait, and I gave a six-day move more weight than it deserved.
+
+Third, Iran. On Wednesday and again Friday I gave a lot of room to officials calling the talks very productive, positive and constructive. The Economist's more sceptical read, that the President prefers to keep the blockade and negotiate something new, is the one that now looks right, if the Journal's reporting holds.
+
+Fourth, two things I called settled too early. I said the Xi summit's only concrete gift was a pair of pandas. Early this morning the two governments said they'd cut tariffs on about thirty billion dollars of less sensitive trade in each direction. And on the press ban, I said the reporters were back in. That night CNN was barred from Air Force One for today's trip to Tennessee.
+
+And one of carelessness. I gave the thirty-year mortgage as seven point two six on Thursday and seven point oh three on Friday without saying they come from two different surveys, a daily one and Freddie Mac's weekly average. They don't measure the same thing.
+
+Now a few minutes of French, and then the European week in it. It's Saturday, so no new phrase, just review. Six, cold, from the last few weeks.
+
+Someone asks what you meant, and it isn't worth explaining. Wave it off, kindly.
+
+
+
+Laisse tomber.
+
+Thursday instead of Wednesday works better for you, and you both know it's a favour.
+
+
+
+Ça m'arrange.
+
+You're floating dinner to a friend. Are they up for it?
+
+
+
+Ça te dit ?
+
+You're kicking yourself over something you did.
+
+
+
+Je m'en veux.
+
+You'll keep them posted.
+
+
+
+Je te tiens au courant.
+
+Someone says something absurd. Total nonsense.
+
+
+
+N'importe quoi.
+
+And with that, over to the continent.
+
+En France, la semaine s'est jouée à la pompe. Le gouvernement Lecornu a prolongé et élargi les aides aux gros rouleurs : cinq virgule cinq millions de personnes y ont désormais droit. Jeudi soir, sur TF1 et France 2, Emmanuel Macron n'a pas exclu de baisser les taxes sur les carburants, et a annoncé l'envoi de soldats et de radars en Arabie saoudite pour protéger le site pétrolier de Yanbu.
+
+À gauche, la primaire a enfin commencé pour de vrai. Premier débat mercredi soir sur LCI, à cinq candidats. Peu d'écarts sur l'économie, de vraies frictions sur Gaza et sur l'alliance avec La France insoumise. Les deux prochains débats ont lieu le premier et le quatre octobre.
+
+Le pape Léon Quatorze est à Paris depuis vendredi, pour la première visite pontificale en France depuis dix-huit ans. Hier soir, au Stade de France, il a célébré devant une foule de jeunes ce qu'il a appelé le combat pour la foi. Le voyage se poursuit jusqu'à lundi.
+
+Ailleurs en Europe, des signaux contradictoires. En début de semaine, l'indice Ifo du climat des affaires en Allemagne atteignait son plus haut niveau depuis mai deux mille vingt-trois. Mais vendredi, l'indicateur de confiance des ménages allemands pour octobre est tombé à son plus bas depuis quatre mois, plombé par la peur des factures d'énergie cet hiver. L'Europe dépend du gazole américain, qui représentait plus de soixante pour cent de ses importations en août. D'où l'inquiétude à chaque fois que Washington évoque une interdiction des exportations.
+
+Et demain, les Suisses votent sur l'initiative portée par Christoph Blocher, qui inscrirait une neutralité stricte dans la Constitution. Elle interdirait notamment à la Suisse de s'associer aux sanctions européennes. Les sondages la donnent perdante.
+
+Back in English, for the story worth more time this week. It's the gap between the two oil prices.
+
+Most people hear oil as one number. It's really several, and the two that matter are Brent, a blend from the North Sea that prices most crude moving by sea, and West Texas Intermediate, priced at a storage hub in Cushing, Oklahoma, and the benchmark for American barrels. Normally they trade within a few dollars of each other.
+
+This week they split. Brent ended the week slightly higher. The American benchmark fell almost eight percent, its first weekly drop since late August. The gap between them finished near twelve dollars a barrel, several times its usual width.
+
+The reason is geography. Brent is the price of a barrel that has to cross water, so it carries the cost of the strait being shut: the rerouting, the insurance, the chance the next tanker gets hit. The American barrel mostly doesn't cross water, so talk of a truce drains the fear out of it quickly and there's less to put back when the talks stall.
+
+The pinch point isn't crude at all. It's diesel. Refining capacity has been knocked out on two fronts, Ukrainian drones on Russian refineries and the war in the Gulf, so the world is short of distillate even where it has crude. America refines more than it uses and exports the difference. Europe took more than sixty percent of its diesel imports from the United States in August. That's why the export ban idea kept resurfacing this week and kept getting knocked down. Keeping diesel at home might lower the American pump price. It would also export the shortage to allies heading into winter, and the energy secretary himself said bans don't work.
+
+It's also why the bond market cared. Record diesel feeds straight into trucking and shipping costs, which the Journal reports are at their highest since the pandemic supply crunch by some measures.
+
+What would have to happen for the gap to close? The honest answer is the strait. A reopening would pull Brent down toward the American price quickly, and the premium in diesel would follow more slowly, since refineries don't come back overnight. If the Journal's reporting is right and the President has turned down the seven-day plan and expects to resume bombing after November, the premium has at least five more weeks to run. Friday's two percent drop in Brent happened after the rejection was reported, so the market may not be fully convinced either. That one is worth watching.
+
+Loose ends going into next week.
+
+The October second jobs report and the Fed's preferred inflation reading will decide whether the October hike is as likely as markets now think. Nobody has said what Oracle's lease actually allows on Project Jupiter, and Blue Owl says its commitments stand. The judge's order restoring press access runs fourteen days, and the Air Force One ban tests it right away. Hurricane Nolo was forecast to turn west this morning, south of the Big Island, after a warning of up to three feet of rain. Fighting in Ethiopia has spread beyond Tigray into Amhara and Afar. And Israel votes next month, with Likud slipping.
+
+One idea before we finish.
+
+In eighteen seventy-three Walter Bagehot, then editor of The Economist, published a book called Lombard Street. Its most famous passage says that in a panic, the central bank should lend freely, to any solvent firm, against good collateral, at a high rate of interest. Lend freely so the panic stops. Lend only against good collateral so the bank doesn't bail out the insolvent. Lend at a high rate so nobody comes to the window who can borrow anywhere else.
+
+The circumstance was a specific disaster. In May eighteen sixty-six, Overend, Gurney and Company, the largest discount house in London, failed, and the day became known as Black Friday. The Bank of England, a private company that was then still ambivalent about being anyone's lender of last resort, raised its rate to ten percent and lent heavily, and the panic subsided. Bagehot's argument was that the Bank should admit this was its job, announce it in advance, and do it on principle rather than by improvisation.
+
+The complication is that nearly every word of it turns out to be arguable. What counts as good collateral in a panic, when prices for everything have collapsed? Solvent at what prices? And the high rate, the part that was meant to limit the damage, is the part central banks most often drop. In two thousand and eight the Fed lent enormous sums at very low rates, against collateral it widened as it went. Some economists say that was Bagehot updated for a bigger system. Others say it was precisely what he warned against, and that it taught markets the window would always open cheaply. Historians still argue over whether the Bank ever really followed his rule at all.
+
+And finally, closer to home, which is Austin for one more day.
+
+It's another hundred-degree weekend. Sunny today, a high right around a hundred and a heat index above that, no rain anywhere in the forecast, and about the same tomorrow.
+
+You fly home tomorrow evening into the back end of the nor'easter. Gusts of up to forty-four miles an hour are forecast in the city, LaGuardia had around six hundred delays on Friday, and the major airlines have waived change fees for New York airports through Sunday, so there's room to move if you need it.
+
+For tonight, Eli Brown is at The Concourse Project, big-room tech house in a warehouse, if you want to end the trip on a dance floor.
+
+And baseball. The Yankees played Saturday's game early, as part of a Friday doubleheader, to dodge the storm. The regular-season finale is Sunday afternoon against Baltimore if the weather allows, and then the wild card. Also tonight, Jalen Brunson hosts Saturday Night Live, sharing the opening minutes with Victor Wembanyama. Make of that what you will.
+
+That's the week. Safe travels home.

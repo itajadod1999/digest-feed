@@ -1,0 +1,133 @@
+Good morning. Monday, September fourteenth. Here's what happened.
+
+Markets first, because the week ahead is the one that matters.
+
+Friday's session in New York was a rebound. All three big indexes finished higher, the S and P by close to a percent, snapping a four-day losing streak at the end of a week they otherwise spent losing.
+
+This morning looks different, and the weight is concentrated in one place. Nasdaq futures were off about one point eight percent before the open, against roughly a quarter of a percent for the Dow. That gap is the story, and it is the artificial-intelligence trade coming under pressure. More on that shortly.
+
+Oil is the other mover. Brent crude jumped more than three percent, to around a hundred and eight dollars a barrel, after Houthi forces launched further strikes on Saudi Arabia over the weekend. That is on top of a pipeline already shut.
+
+Then Wednesday. The Federal Reserve is expected to raise rates for the first time in three years, in Kevin Warsh's first meeting as chair, with about ninety percent of the market positioned for a quarter point. Friday brings the Bank of Japan, where the odds are higher still: roughly ninety-seven percent for a quarter point, to one and a quarter, after a generation at zero. Two of the world's most consequential central banks tightening in the same week is not a combination that comes up often.
+
+To deals, and the largest one is in Lagos.
+
+Aliko Dangote listed his refinery business on the Nigerian stock exchange this morning at a valuation of around forty-eight billion dollars, in what is expected to be the biggest initial public offering in African history. The company wants one point six billion dollars by the thirteenth of October, selling four point one billion shares at about forty cents each. The minimum purchase is ten shares and the target is ten million retail investors — Dangote is calling it the people's offering. The money is meant to double capacity at what is already the continent's largest refinery, a plant that became a serious fuel supplier at home and abroad precisely because the war disrupted everything else.
+
+Following up on yesterday's piece about when a company going public becomes probable. Anthropic has now filed the paperwork. Disclosure: Anthropic makes me. On the Economist's reporting it has told investors it will be profitable for a second consecutive quarter, and the listing would potentially be the largest ever. The other side changed too: Sam Altman said OpenAI will not go public this year, citing his own safety concerns. Of the two companies I called the untested case yesterday, one is now in the queue and the other has stepped out.
+
+While we're on money owed, something from considerably earlier. Assyrian merchants sealed their letters inside clay envelopes that had to be smashed to be read, so for four thousand years the unopened ones stayed unopened. Scanning has now got inside them without breaking anything. Among the newly legible letters from the city of Kanesh is one sent thirty-eight hundred years ago by a woman named Anna-anna to her husband, Ennum-Ashur, in which she is thoroughly fed up about silver she is trying to collect for him, and complains that the debtor will not repay her directly.
+
+To real estate, where a loan went into workout.
+
+A seven hundred eighty-five million dollar senior commercial mortgage-backed securities loan against One SoHo Square — the seven hundred eighty-seven thousand square foot office complex managed by Stellar Management — has transferred to Midland Loan Services as special servicer. The trigger has not been made public. The structure is the interesting part: the loan was written in twenty twenty-one and spread across its own single-asset deal plus pieces in six separate conduits. When one of those goes into workout, the pain lands on a lot of bondholders who thought they had bought quite different paper.
+
+The other half of the market went the opposite way, and I'll come back to it later.
+
+To technology, where the weekend turned an argument into a political fight.
+
+Ten days ago a researcher resigned from Anthropic warning about systems nobody would control. Then the chief executive published an essay arguing the industry should deliberately slow down. Then his two loudest rivals agreed with him. As of this weekend the President has rejected the premise outright, saying the critics are raising risks that, in his words, won't happen. He put it more plainly in an interview: we're leading China on artificial intelligence, and whoever wins artificial intelligence, wins.
+
+He is not alone. A number of people in Silicon Valley spent the weekend arguing that the calls for regulation are self-serving — that a company with a lead has an obvious interest in freezing the race where it stands. That is the regulatory capture argument, and it is not a frivolous one.
+
+Congress is in between and moving slowly. Speaker Mike Johnson warned about the competitive risk from China; Hakeem Jeffries said talks on a framework should begin this week. Both conceded there is no quick fix. And Buckingham Palace says King Charles will convene artificial-intelligence executives this week, which tells you the story has escaped the technology pages entirely.
+
+The thing to watch is narrower than the noise. Nobody in this argument has actually slowed anything down. The test is whether a bill gets introduced, or whether one lab delays a release it had scheduled.
+
+Now the world.
+
+A Russian drone struck a rail line in western Ukraine over the weekend, shortly after senior Western figures had travelled through on it. Boris Johnson and David Petraeus, the former head of the Central Intelligence Agency, had just crossed into Poland along that line. Ukraine's foreign minister, Andrii Sybiha, called it Putin's terror knocking on the doors of the European Union and NATO. Poland's prime minister, Donald Tusk, says he expects the strikes to intensify and has warned an escalation could reach Polish territory.
+
+Sweden, where I told you yesterday the vote was close. It was. Early results give the centre-left opposition bloc a hundred and seventy-six seats against a hundred and seventy-three for the government and its hard-right ally, putting Magdalena Andersson in line to return as prime minister. Hold it loosely — postal and overseas ballots are still being counted and it may not settle until Wednesday. And the mandate is thinner than the headline: the Social Democrats are still the largest party on a bit over twenty-eight percent, but down from twenty twenty-two.
+
+Now a minute of French, and then the European news in it.
+
+How would you say you can't wait for something. Not that you are impatient with someone, and not that you are literally unable to wait. That warm, forward-leaning anticipation — the thing you say when a friend tells you the date is booked.
+
+
+
+Here it is.
+
+J'ai hâte.
+
+
+
+J'ai hâte.
+
+The textbook route translates the English almost word for word, negating the verb for waiting, and what you end up saying is that you are physically incapable of it. That is not the sentiment. The idiomatic version does what yesterday's phrase did: it puts the feeling inside you, as something you possess. The noun is an ordinary one meaning haste.
+
+Now three cold, from the archive.
+
+You find something hard. You personally struggle with it, and you're admitting it lightly.
+
+
+
+J'ai du mal.
+
+You're kicking yourself. That small private irritation at yourself.
+
+
+
+Je m'en veux.
+
+It isn't worth the effort. The effort won't pay you back.
+
+
+
+Ça vaut pas le coup.
+
+And now the continent, where the French political year restarted over the weekend.
+
+Passons à la France. Marine Le Pen a fait sa rentrée politique dimanche à Hénin-Beaumont, et l'essentiel se joue à l'intérieur de son propre camp. Les cadres du Rassemblement national affichent une unité de façade, mais les dernières semaines ont révélé des divisions réelles avec Jordan Bardella, resté en retrait. Le Pen réaffirme son autorité et avance ses premières propositions, notamment sur le logement.
+
+Et une candidature inattendue se prépare. Natacha Polony, ancienne directrice de Marianne, pourrait annoncer dans les prochaines semaines qu'elle se présente en deux mille vingt-sept. Elle structure déjà son équipe et cherche des soutiens, de la gauche souverainiste aux gaullistes sociaux.
+
+Dans la tech, une levée de fonds qui compte. Mistral a bouclé trois milliards d'euros pour une valorisation de vingt et un milliards, dans un tour mené par Samsung. C'est presque le double d'il y a un an, et l'argent doit servir à la recherche et surtout à l'achat de puissance de calcul.
+
+Enfin, en Allemagne, Alice Weidel assume. Trois jours après le score de l'AfD en Saxe-Anhalt, portée par des sondages qui la placent autour de trente pour cent, elle vise ouvertement la chancellerie.
+
+Back in English, and to Iran, where a negotiation collapsed before it started.
+
+Gulf diplomats and Iranian officials were due to meet today in Salalah, in Oman, to discuss an Omani plan for reopening the Strait of Hormuz to ordinary tanker traffic. The meeting has been postponed indefinitely. Oman's foreign minister, Badr Albusaidi, said it was put off in the interests of consensus. Iran's foreign ministry says the delay came at Saudi Arabia's request, and the Saudi frustration is not hard to locate: its territory keeps being hit by groups Iran supports. The postponement came hours after an attack on an Iranian cargo vessel killed one person in the strait itself. And the United States was never going to be at the table, which means what was already a long shot is now not happening at all.
+
+Separately, and handle this carefully because it rests on unnamed regime insiders speaking to the Times: the paper reports that Iranian hard-liners deliberately sabotaged the American peace deal, attacking ships in Hormuz to make agreement impossible, and that Iran's president was furious when he found out. Single-sourced so far, and a serious claim about who actually controls Iranian policy.
+
+To the city, where a large piece of Chelsea changed hands quietly.
+
+Vanderbilt University has opened a Manhattan campus on the grounds of the General Theological Seminary, under a forty-four million dollar, ninety-nine-year lease signed last autumn. The first eighty-five undergraduates are living on the neo-Gothic quadrangle, and the university has announced a partnership putting students into internships across the Whitney — not only curatorial, but marketing and education. The chancellor says the premise is that the era of the ivory tower university is over. A ninety-nine-year lease on a nineteenth-century seminary is an emphatic way to say it.
+
+Now one story worth more time this morning.
+
+Over the past year American mall values rose thirteen percent — more than double the gain across commercial property as a whole, and the best of any property type in the country. Simon Property, the largest mall owner in America, is at record highs. That is the Journal's reporting. After twenty years of the mall being the standing example of terminal decline, it is the most counterintuitive figure I have read this month. Part of the answer is real and part of it is arithmetic.
+
+Start with the arithmetic. Property values are measured against a basket, and the composition of that basket changes. Over the past decade an enormous number of weak American malls did not recover. They were demolished, converted to warehouses or medical offices, or handed back to lenders and written down to very little. When a property stops being a mall, it stops being counted as one. The surviving population is therefore systematically better than the original population was, and the index measures survivors. That is not fraud, it is what survivorship does to an average. But it means thirteen percent describes the malls that are left, not the mall business as it existed in twenty fifteen.
+
+Now the part that is real, because it is substantial. The malls that survived did it by changing what they sell. The anchor department store was the structural weak point — enormous square footage, low rent per foot, a tenant in secular decline, and usually a co-tenancy clause that let every other tenant cut its rent when the anchor left. In many centres that box has been carved up and replaced with restaurants, gyms, medical tenants, entertainment and luxury retail. Those tenants pay more per foot and keep people on site longer. Luxury and grocery-anchored centres now behave like a different asset class, and are underwritten as one.
+
+Simon at record highs matters here, because listed prices move daily while appraisals move slowly. When the listed owner and the appraisal index agree, the appraisal is usually telling the truth.
+
+What would make this more than a good year. Retail sales land Wednesday, alongside the Federal Reserve. The spending holding these values up belongs to the same household paying six dollars a gallon for diesel. A thirteen percent gain built on resilient consumers is exactly as durable as the consumers.
+
+A few things I didn't get to.
+
+The Environmental Protection Agency is expected to erase limits on climate pollution from power plants, on the Times' reporting. Bayer asked a Missouri judge to approve a seven point two five billion dollar settlement of the Roundup cancer litigation. Indonesia's president fired his finance minister, who had called the International Monetary Fund stupid. A third person has died in Pennsylvania's measles outbreak, now past six hundred and seventy cases. Legionella bacteria were found in a cooling tower at Yankee Stadium, in an outbreak that has killed one and infected nine. Amazon has paused operations with 21 Air, the cargo carrier flying the Amazon-branded plane that crashed in Miami, killing five. The Kennedy Center has warned its own board it faces bankruptcy unless the President's name is added to the building. And Ohio is trying to shut down a grey market in an unapproved Eli Lilly weight-loss drug.
+
+Something lighter before we finish. A crypto billionaire named Justin Sun is reported to have paid around four and a half million dollars as a fee to marry the Chinese actress Jing Tian, and then, when the romance ended, to have hired one of the country's best-known litigators to get the money back. It has held China's attention for weeks. I have no analysis to offer. I simply thought you should know it exists.
+
+One idea before we finish.
+
+In nineteen thirty-one, Ronald Coase was a twenty-one-year-old student at the London School of Economics who had won a travelling scholarship to the United States. He spent the year visiting factories — Ford, General Motors, whatever would let him in — and came back with a question that sounds childish and is not. If markets allocate resources efficiently through prices, why do firms exist at all? A firm is a zone where the price mechanism has been switched off. Inside it nobody bids for the next task; somebody is simply told to do it. His answer, published in nineteen thirty-seven, was that using the market is not free — you have to find the counterparty, negotiate, write the contract, enforce it — and a firm expands up to the point where doing something internally costs less than those frictions. He called them transaction costs.
+
+The circumstance is the part worth having. Coase was a young socialist, and the question came out of the argument of the moment: whether Soviet central planning could work. Lenin had said an economy could be run like one big factory, and the standard reply was that this was absurd. Coase noticed that Western economies were already full of very large organisations run in exactly that way, and wanted to know why nobody could say where the line fell.
+
+The complication is that economists who admire the paper mostly think its mechanism is wrong. Sanford Grossman and Oliver Hart argued in the nineteen eighties that transaction costs alone cannot locate a firm's boundary, because you could write the same contract between two firms as inside one. What matters, on their account, is who owns the physical assets, and therefore who decides in the situations the contract failed to anticipate. Coase complained late in life that his paper was much cited and little used.
+
+And finally, closer to home.
+
+New York has earned it. Sunny all day, a high near seventy-six, down to about fifty-eight tonight under clear skies, with a north wind gusting to twenty-four. A proper first-week-of-autumn day after the weekend you just had, and all it asks of you is a layer for the walk home.
+
+A practical note: alternate-side parking runs every day this week, through to the twenty-first, when it comes off for Yom Kippur.
+
+And baseball. Toronto is at Citi Field tonight, the first of three against the Mets, and the Blue Jays need most of them — they are roughly two games off the last American League wild card, with Texas and Baltimore in the same scrum.
+
+That's the morning. Have a good one.

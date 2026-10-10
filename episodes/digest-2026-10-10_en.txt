@@ -54,53 +54,53 @@ Now a few minutes of French, and then the European week in it. Saturday, so no n
 
 A friend can't decide between two restaurants and you don't mind. Your call.
 
-[[PAUSE:3]]
 
-[[FR]]C'est toi qui vois.[[/FR]]
+
+C'est toi qui vois.
 
 Someone suggests a late dinner. Count me in.
 
-[[PAUSE:3]]
 
-[[FR]]Je suis partant.[[/FR]]
+
+Je suis partant.
 
 You need to leave the party. I've got to run.
 
-[[PAUSE:3]]
 
-[[FR]]Allez, je file.[[/FR]]
+
+Allez, je file.
 
 It's raining and you can't be bothered to go out.
 
-[[PAUSE:3]]
 
-[[FR]]J'ai la flemme.[[/FR]]
+
+J'ai la flemme.
 
 You're running late, again.
 
-[[PAUSE:3]]
 
-[[FR]]Je suis à la bourre.[[/FR]]
+
+Je suis à la bourre.
 
 You forgot a friend's birthday and you're kicking yourself.
 
-[[PAUSE:3]]
 
-[[FR]]Je m'en veux.[[/FR]]
+
+Je m'en veux.
 
 And now the continent.
 
-[[FR]]En France, la semaine a appartenu aux lycéens. L'acte trois, mardi, a été massif : deux cent soixante-six mille manifestants selon le ministère de l'Intérieur, quatre cent cinquante mille selon les organisateurs. L'acte quatre, jeudi, a réuni plus de soixante et onze mille personnes selon L'Express. Le bilan humain pèse lourd, avec un adolescent qui a eu la main arrachée par une grenade lacrymogène.[[/FR]]
+En France, la semaine a appartenu aux lycéens. L'acte trois, mardi, a été massif : deux cent soixante-six mille manifestants selon le ministère de l'Intérieur, quatre cent cinquante mille selon les organisateurs. L'acte quatre, jeudi, a réuni plus de soixante et onze mille personnes selon L'Express. Le bilan humain pèse lourd, avec un adolescent qui a eu la main arrachée par une grenade lacrymogène.
 
-[[FR]]Le gouvernement a changé de ton sans céder sur l'essentiel. Mercredi soir, Sébastien Lecornu s'est dit à l'écoute, tout en prévenant qu'il ne pourrait pas satisfaire les principales revendications. Il a surtout annoncé la libération de dix millions de barils de gazole des réserves stratégiques. Vendredi, le ministre de l'Éducation a promis trois mille professeurs remplaçants pour les établissements les plus touchés.[[/FR]]
+Le gouvernement a changé de ton sans céder sur l'essentiel. Mercredi soir, Sébastien Lecornu s'est dit à l'écoute, tout en prévenant qu'il ne pourrait pas satisfaire les principales revendications. Il a surtout annoncé la libération de dix millions de barils de gazole des réserves stratégiques. Vendredi, le ministre de l'Éducation a promis trois mille professeurs remplaçants pour les établissements les plus touchés.
 
-[[FR]]En toile de fond, le budget et la dette. Cinquante-quatre milliards d'euros d'efforts pour ramener le déficit à cinq pour cent du PIB, et un taux à dix ans qui frôle les cinq pour cent. Le patron de Pimco résume : il ne vend pas la dette française, mais il n'en achète pas davantage. Au Rassemblement national, Marine Le Pen dit garder une confiance totale en Jordan Bardella. Et la primaire de la gauche sociale-démocrate s'achève aujourd'hui, avec plus de cent quarante mille inscrits.[[/FR]]
+En toile de fond, le budget et la dette. Cinquante-quatre milliards d'euros d'efforts pour ramener le déficit à cinq pour cent du PIB, et un taux à dix ans qui frôle les cinq pour cent. Le patron de Pimco résume : il ne vend pas la dette française, mais il n'en achète pas davantage. Au Rassemblement national, Marine Le Pen dit garder une confiance totale en Jordan Bardella. Et la primaire de la gauche sociale-démocrate s'achève aujourd'hui, avec plus de cent quarante mille inscrits.
 
-[[FR]]En Allemagne, une semaine contrastée. L'ancien patron du renseignement extérieur, August Hanning, a été arrêté pour trahison présumée. L'extrême droite a obtenu la présidence du parlement de Saxe-Anhalt, une première depuis l'époque nazie. Mais Berlin a relevé sa prévision de croissance à un virgule trois pour cent, tout en abandonnant le char franco-allemand.[[/FR]]
+En Allemagne, une semaine contrastée. L'ancien patron du renseignement extérieur, August Hanning, a été arrêté pour trahison présumée. L'extrême droite a obtenu la présidence du parlement de Saxe-Anhalt, une première depuis l'époque nazie. Mais Berlin a relevé sa prévision de croissance à un virgule trois pour cent, tout en abandonnant le char franco-allemand.
 
-[[FR]]En Espagne, Pedro Sánchez a dissous le Parlement, avec des élections le vingt-neuf novembre, et Maricarmen Abascal, devenue le symbole de la crise du logement, est morte à quatre-vingt-sept ans. Au Royaume-Uni, le chef des Verts a échoué à entrer au Parlement. Et vendredi, Bruxelles et Pékin ont trouvé un terrain d'entente pour limiter les exportations chinoises de voitures hybrides vers l'Europe.[[/FR]]
+En Espagne, Pedro Sánchez a dissous le Parlement, avec des élections le vingt-neuf novembre, et Maricarmen Abascal, devenue le symbole de la crise du logement, est morte à quatre-vingt-sept ans. Au Royaume-Uni, le chef des Verts a échoué à entrer au Parlement. Et vendredi, Bruxelles et Pékin ont trouvé un terrain d'entente pour limiter les exportations chinoises de voitures hybrides vers l'Europe.
 
-[[FR]]Enfin, une fierté française : le prix Nobel de chimie pour Henri Kagan, quatre-vingt-quinze ans.[[/FR]]
+Enfin, une fierté française : le prix Nobel de chimie pour Henri Kagan, quatre-vingt-quinze ans.
 
 Back in English, for the story worth more time this week: what artificial intelligence companies are actually worth, and who is lending against the answer. Disclosure once more, since Anthropic makes me and is part of this.
 
