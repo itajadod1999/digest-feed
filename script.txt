@@ -1,105 +1,143 @@
-Good morning. Monday, August tenth. Here's what happened.
+Good morning. Sunday, October eleventh. A few minutes on what happened since Friday, then the year so far in numbers, and then one subject, taken slowly: the auction where America sells its debt, and what Wednesday's sale actually told us.
 
-Starting with markets.
+The news first, kept short.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+Following up on the Houthi attacks on Saudi airports. On Thursday, a missile strike at Riyadh's main airport killed three people. On Saturday a second attack killed at least twelve and injured more than three hundred. Saudi Arabia's civil aviation authority says four Saudis and eight foreigners died, one of them an American. The Times calls it the deadliest attack in a Gulf Arab country since the war with Iran began in February.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+On Ukraine, the diesel deal with Moscow had a sharp sequel. Hours after announcing it, the President said Ukraine should get a new president and pressed Kyiv again to stop striking Russian oil refineries. On Saturday he said Russia wants a settlement and Volodymyr Zelensky doesn't. The Kremlin, for its part, said there would be no immediate return to peace talks. And Ukraine kept going after Russian infrastructure: drones knocked out two data centres east of Moscow run by Yandex, which says tens of thousands of its servers are down.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+Panama was hit on Friday by a magnitude seven point seven earthquake, centred in Herrera province. As of Saturday, Panama's civil protection agency reported no deaths, twenty-seven people injured, more than four hundred damaged homes and twenty-one damaged health facilities. Part of the basilica tower at Atalaya came down, and the cabinet declared a state of emergency.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+In the United States, a weakened Isaias moved through the Southeast. The Times counts four dead and hundreds of thousands without power, though towns near the landfall were relieved it wasn't worse. And in Erie, Pennsylvania, a gunman killed eight people, among them a pregnant woman, a five-year-old and a toddler. The shooter is also dead, according to city officials.
 
-Before we get to deals, a small thing I liked.
+Two moves from Washington on Friday. The President formed a committee to investigate the Fed governor Lisa Cook over mortgage-fraud claims she denies, four months after the Supreme Court blocked his first attempt to remove her. And the administration put sanctions on the International Criminal Court. The Secretary of State, Marco Rubio, said either the court ends its threats against Americans or Washington ends the court.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+The Nobel Peace Prize went to Navi Pillay, the eighty-five-year-old South African jurist who fought apartheid and went on to be the United Nations' human rights chief. More recently she chaired the inquiry that concluded last year that Israel committed genocide in Gaza, a finding Israel rejects.
 
-Moving to deals and credit.
+The week ahead. Monday, the bond market is shut for Columbus Day, though stocks trade, and the economics Nobel is announced. Tuesday, JPMorgan Chase and Goldman Sachs open bank earnings, and Apple is expected to show its new home products. Wednesday is the September consumer price index. Thursday, producer prices and retail sales. Friday, the Fed chairman, Kevin Warsh, speaks at the International Monetary Fund's meetings in Bangkok.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+A quick look at how cities get built. In London, a twenty-two-flat development called Petra Heights, topping out at ten storeys, stands with no steel or concrete frame at all. It's held up by a thousand tons of volcanic stone from Sicily and Norway. The argument is carbon: making cement and steel produces roughly sixteen percent of humanity's emissions, Bloomberg notes, while stone mostly just has to be dug out and cut.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+And for the record, Philadelphia held its first parallel parking championship. Fourteen drivers, a crowd as judges, and a winner who took home bragging rights and a piece of concrete. A fitting trophy.
 
-Now real estate.
+Now the year to date, Friday's close against the last day of twenty twenty-five.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+The S and P five hundred finished the week around seventy-eight hundred and ten, up about fourteen percent on the year. The Nasdaq, near twenty-seven thousand four hundred, is up roughly eighteen. The Dow, near fifty-one thousand six hundred and fifty, is up about seven and a half.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+The ten-year Treasury yield started the year around four point one percent and closed Friday near five point two four, up more than a full percentage point, after touching five point three five on Wednesday. Economists surveyed by the Journal now expect it to end the year around five point one percent. In July, the same survey said four point four.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+And oil. Brent began the year a little above sixty dollars and sits around a hundred and three, up roughly seventy percent. American crude has gone from the high fifties to about ninety-two.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+That ten-year yield is where today's piece begins.
 
-Over to technology.
+At one o'clock Eastern on Wednesday afternoon, bids closed on thirty-nine billion dollars of ten-year Treasury notes. A couple of minutes later the result came out, and the bond market, which had spent the morning at its highest yields since two thousand and two, exhaled. A routine monthly sale, on a published calendar, moved the most important interest rate in the world.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+So this morning: how the auction works, who built it that way, what the numbers coming out of it actually mean, and what would break it.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+Start with the plumbing. The Treasury doesn't decide what to borrow week by week. Its Office of Debt Management sets the sizes of its regular notes and bonds every quarter, at what's called the quarterly refunding, after taking advice from a committee of dealers and investors. The guiding doctrine is regular and predictable. The Treasury wants to be boring. It announces each auction days in advance, and the moment it does, the new security starts trading on a when-issued basis, meaning people buy and sell it before it formally exists. That when-issued yield becomes the benchmark the auction gets judged against.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+On the day itself, small buyers can put in noncompetitive bids, up to ten million dollars each, which say, in effect, I'll take whatever yield the auction produces. Everyone else bids competitively: this much, at this yield. No single bidder can be awarded more than thirty-five percent of the issue. The bids are ranked from the lowest yield upward, and the Treasury fills them until the whole amount is sold. The yield on the last bid accepted is called the high yield or the stop-out, and every winning bidder gets it, including the ones who bid lower.
 
-Over to France.
+That last detail is the important one, and it wasn't always this way.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+For most of the twentieth century, the Treasury sold notes and bonds by subscription. It picked a coupon and a price and invited orders. Auctions for coupon securities only became routine in the nineteen seventies, and when they did, they were what economists call discriminatory, or multiple-price. You paid what you bid. Bid too aggressively and you overpaid everyone else. So bidders shaded their bids down, and the ones best placed to shade cleverly were the big dealers who could see the most order flow.
 
-And the Middle East.
+Milton Friedman had argued against that design as early as nineteen fifty-nine, in testimony to Congress. His case was that if everyone pays the same price, you can bid what the bond is genuinely worth to you without fear of being punished for it. More bidders come in, the playing field levels, and the Treasury ends up borrowing more cheaply. For three decades the idea stayed mostly in the journals.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+What moved it was a scandal. In May of nineteen ninety-one, Salomon Brothers, then the most powerful bond house on Wall Street, ended up controlling roughly ninety-four percent of a two-year note auction, once its own bids and its customers' were added together. A trader named Paul Mozer had been submitting bids in customers' names without their knowledge to get around the thirty-five percent limit. When it came out that summer, Salomon's chairman, John Gutfreund, resigned, Warren Buffett stepped in to run the firm, and Salomon paid two hundred and ninety million dollars to settle.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+The government's review afterwards reopened Friedman's idea. In September of nineteen ninety-two, the Treasury began selling two- and five-year notes by uniform price as an experiment. By late nineteen ninety-eight, every Treasury auction worked that way, and still does.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+Now, who's bidding. The results sort winners into three groups.
 
-One more small thing before the deep dives.
+Primary dealers are about two dozen big banks and broker-dealers that trade directly with the Federal Reserve. In return, they're expected to bid in every auction for a share of the issue, at reasonable prices. They're the backstop. Whatever nobody else wants, they absorb, and then they have to sell it on or finance it on their balance sheets.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+Direct bidders are institutions bidding for their own account, without a dealer.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+Indirect bidders place their bids through a dealer or through the Fed, and this group is usually read as a proxy for foreign demand, because foreign central banks bid through the New York Fed. That reading is only partly right.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+Three numbers come out of every auction. The bid-to-cover ratio is the total bid divided by the amount sold. The tail is the gap between the stop-out yield and where the when-issued market was trading at one o'clock. If the auction clears at a higher yield than the market expected, it tailed, and buyers had to be paid extra. If it clears lower, it stopped through. And the dealer takedown is the share the backstop got stuck with. High dealer share means real money stayed home.
 
-Now put that next to private equity, which is running its own version of the same problem.
+Here's Wednesday, from the Treasury's own data. The thirty-nine billion dollars sold at a high yield of five point three percent, the highest at a ten-year auction since November of two thousand. In September, the same auction cleared at four point eight three, so almost half a percentage point higher in a month.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+Then the demand. The bid-to-cover was two point seven seven, the strongest of any ten-year auction in the past year, against an average of about two and a half. Indirect bidders took about eighty percent. Primary dealers were left with two and a half percent, against an average near nine and a half over the past year, and the smallest share of any ten-year sale in that stretch. And according to market trackers, the auction stopped through by about a basis point and a half.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+To see what a bad one looks like, go back to the five-year note auction in late September. Bid-to-cover of two point two one, and dealers stuck with almost sixteen percent. Or the famous one, a seven-year auction in February of twenty twenty-one, when the bid-to-cover fell to a record low of about two point oh four, dealers absorbed around forty percent, and the stop-out came in roughly four basis points above the market.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+Now, what breaks it.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+The first thing to understand is that a Treasury auction can't fail in the way people imagine. There's no minimum price. The Treasury sells the full amount every time, at whatever yield clears it. Not everyone works that way. In November of twenty eleven, at the height of the euro crisis, Germany offered six billion euros of ten-year bonds and drew bids for less than four billion. The Bundesbank had to keep the rest. In America, failure shows up only as a price: a big tail, a high stop-out, dealers carrying paper they didn't want.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+Which points to the real vulnerability: the dealers. Their balance sheets haven't grown anything like as fast as the debt they're expected to backstop, partly because of bank capital rules written after two thousand and eight. When everyone wants to sell Treasuries at once, as in March of twenty twenty, the dealers can't absorb it, and the Fed has to. So when people worry about Treasury demand, the precise worry is this: a run of auctions where the backstop is needed, at a moment when the backstop is full.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+Second, the buyer base. As foreign central banks have bought a smaller share over the past decade, the gap has been filled by price-sensitive private investors, who come in only when the yield is high enough. The Treasury is still selling everything. It just has to pay more each time to find the buyers.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+Then the honest counterargument, and it's a strong one: we read far too much into auction results. Yields are set every second in the secondary market, which trades hundreds of billions of dollars a day. The auction is one hour in that market. A stop-through often just means the market had already cheapened the bond going in. Yields had climbed for days into Wednesday, which is precisely what made five point three attractive. On this view, the auction didn't calm the market. The market had already done the work, and the auction confirmed it.
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+And the eighty percent indirect figure is less clean than it sounds. The indirect category includes foreign central banks, but also domestic funds that simply route their bids through a dealer. Not all of it is foreign.
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+The defence of the auction, though, is substantial. Through a pandemic, debt-ceiling standoffs that went to the wire and this year's war-driven inflation, every auction has sold the full amount and the market has cleared it. The uniform-price design Friedman argued for and the Salomon scandal forced through is one of the quieter successes of economic policy.
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+So what would tell you whether Wednesday meant anything? Three things. The inflation number on Wednesday, because the buyers at five point three are betting it won't climb further. The November refunding announcement, due in early November, which will say whether the Treasury plans to sell more longer-dated debt. And the next ten-year auction, also in November. If the bid-to-cover falls back toward two and a half and the dealers are carrying ten percent again, Wednesday was a good price, not a change of heart.
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+Now a minute of French, and then a little European news in it.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+How would you say a plan fell through. Not that it was cancelled by someone, officially. The deflated version.
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+[[PAUSE:3]]
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+[[FR]]C'est tombé à l'eau.[[/FR]]
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+[[PAUSE]]
 
-One last small thing before the close, and it is an old one.
+[[FR]]C'est tombé à l'eau.[[/FR]]
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+Literally, it fell into the water. The trap is translating fell through word for word, which gives you a sentence about falling across something that no French speaker would recognise. The French image is a plan sinking, and it fits everything from a holiday to a merger to an outdoor concert in a rainstorm.
 
-And finally, closer to home.
+Now three cold.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+You can't get over it, you're still astonished.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+[[PAUSE:3]]
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+[[FR]]J'en reviens pas.[[/FR]]
 
-That's the morning. Have a good one.
+A friend offers to move dinner to Thursday, which suits you better.
+
+[[PAUSE:3]]
+
+[[FR]]Ça m'arrange.[[/FR]]
+
+I'll keep you posted.
+
+[[PAUSE:3]]
+
+[[FR]]Je te tiens au courant.[[/FR]]
+
+And now the continent, briefly.
+
+[[FR]]En France, la primaire de la gauche sociale-démocrate a été perturbée dès son ouverture, vendredi matin, par une cyberattaque. Selon la commission d'organisation, il s'agissait d'un afflux massif et fictif de connexions. À dix-neuf heures vendredi, seuls vingt mille des cent quarante mille inscrits avaient pu voter. Le premier tour a donc été prolongé jusqu'à ce dimanche, dix-huit heures. Cinq candidats sont en lice : Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel.[[/FR]]
+
+[[FR]]Le Monde décrit ce matin une France à bout de nerfs, entre canicules, dette, hausse des taux, logement et mouvement lycéen. À Lens, l'avocate du lycéen amputé d'une main affirme qu'il dément avoir ramassé la grenade. Gabriel Attal, lui, ajuste son programme présidentiel autour d'un pacte pour la jeunesse.[[/FR]]
+
+[[FR]]À Bruxelles, les dirigeants européens se retrouvent la semaine prochaine pour parler du déficit commercial avec la Chine, quelques jours après l'accord sur les voitures hybrides.[[/FR]]
+
+Back in English.
+
+One idea before we finish.
+
+In the summer of nineteen fifty-three, at Los Alamos, Enrico Fermi, John Pasta and Stanislaw Ulam set one of the first electronic computers, the MANIAC, a problem they thought they knew the answer to. Take a chain of masses joined by springs, add a slight nonlinearity to the springs, and put all the energy into the simplest vibration. Physics predicted the energy would gradually spread across every possible mode of vibration until it was shared evenly. They wanted to watch it happen.
+
+It didn't. The energy spread a little, then flowed back, until almost all of it was sitting in the original mode again. The person who actually made the machine do it was a young programmer named Mary Tsingou, who wrote the code and ran the simulations. The nineteen fifty-five report carried only the three men's names. Fermi had died the year before. Her obituary ran in the Times this weekend, under a headline noting she waited fifty years for proper credit. Physicists now often call it the Fermi-Pasta-Ulam-Tsingou problem.
+
+The complication is that nobody has fully closed it. In nineteen sixty-five, Norman Zabusky and Martin Kruskal traced the recurrence to stable travelling waves they named solitons, which opened an entire field. Soviet physicists showed that with enough energy in the chain, chaos does set in and the energy spreads after all. But whether a weakly nonlinear chain like the original one eventually shares its energy evenly if you simply wait long enough, and how long that would take, is still being worked on, more than seventy years after a computer gave four people an answer they didn't expect.
+
+And finally, closer to home, which is still the desert.
+
+There's a flood watch for the Coachella Valley until eight tonight. Rain showers through the afternoon, a high near seventy-seven, gusts to thirty, and up to half an inch more on top of the overnight downpour. A wind advisory runs until five tomorrow morning, then Monday is partly sunny and cooler, low seventies, with a chance of a shower.
+
+That weather already cost you a night. Head Trip suspended Saturday's show over lightning from Tropical Storm Rachel, and didn't resume. Organisers said they'd reassess around eleven this morning, so check the app before you head over, and bring the waterproof layer either way.
+
+Then it's the overnight trip home on Monday, into Newark Tuesday morning.
+
+That's the long read. Enjoy the Sunday, and stay dry.
