@@ -1,0 +1,131 @@
+Good morning. It's Sunday, September twenty-seventh. The markets are shut, the weekend's news is short, and the long read this morning is a railroad that went bankrupt on Friday night and kept running on Saturday morning. First, the four minutes you need.
+
+The biggest development since yesterday is on Iran, and it moves Friday's story from the Journal's sourcing onto the record. On Saturday the President said Iran's seven-day plan would not be acceptable, and told reporters Tehran wants the strait opened immediately because, in his words, they're losing so badly. He wouldn't say whether strikes resume after the midterms, which is what the Journal reported he'd told aides.
+
+Abbas Araghchi, the foreign minister, says nothing has come through the mediators yet and Iran is still waiting for a definitive answer. So for now the blockade stays, and so does the closed strait. The Journal also reports that a senior Treasury official spent this month touring the Middle East and Europe with one message for Iran's trading partners: you trade with Tehran or with Washington, not both.
+
+At home, the nor'easter arrived in earnest. A New York City Housing Authority worker, Leighton Brown, fifty-six, was killed by a falling tree in Brooklyn. More than a hundred thousand homes and businesses lost power at the peak on Saturday. The Jersey Shore flooded from Bergen County down to Cape May, with voluntary evacuations in Point Pleasant, and about four hundred and twenty-five flights had been cancelled by Saturday night, most of them at Boston and on the islands. New York and New Jersey are both under states of emergency. Forecasters expect the storm to stall through Monday and leave on Tuesday.
+
+In Ukraine, ArcelorMittal has stopped production at the country's biggest steelworks. Russia hit the plant four times in five weeks and killed five workers. Steel was once fifteen percent of Ukraine's exports.
+
+And one small, strange number, from Morning Brew. Anguilla, a Caribbean island of about fifteen thousand people, happens to own the internet suffix dot A I. Selling those web addresses brought in thirty-nine million dollars in twenty twenty-four, almost a quarter of the government's revenue. Of everyone betting on artificial intelligence, a tiny island may have the best business model.
+
+Now the year so far, since Sunday is where those numbers live. From the last close of twenty twenty-five to Friday's: the S and P five hundred is up about thirteen percent, at roughly seventy-seven hundred and forty. The Nasdaq is up around sixteen percent. The Dow has lagged, up high single digits after a rough September.
+
+The ten-year Treasury started the year near four point one six percent and finished Friday around five point one seven, a full percentage point higher. Brent crude began the year just under sixty-one dollars and closed Friday around a hundred and four, up about seventy percent. And the thirty-year mortgage average, a little above six percent in January, is now just over seven.
+
+Stocks up double digits in a year when the ten-year rose a full point and oil climbed by more than two thirds is not a combination the textbooks predict. It's been that kind of year.
+
+Now the long read. How Brightline was built, how it was paid for, and why the only private intercity passenger railroad in America ended up in a bankruptcy court in Newark.
+
+Start with what happened. Just before midnight on Friday, seventeen companies connected to Brightline filed for Chapter Eleven in New Jersey, Brightline Holdings among them. The company that actually runs the trains, Brightline Trains Florida, did not file. On Saturday morning the trains left Miami on schedule. That detail is not an accident, and we'll come back to it.
+
+The railroad itself runs two hundred and thirty-five miles from Miami to Orlando, stopping at Aventura, Fort Lauderdale, Boca Raton and West Palm Beach. Service began in twenty eighteen along the southern stretch, and the Orlando extension opened in twenty twenty-three. The trains are fast by American standards, clean, and by most accounts pleasant to ride.
+
+The idea behind it is older than the company. In the eighteen nineties, Henry Flagler built the Florida East Coast Railway down the Atlantic side of the state, and that corridor still runs through the middle of every big coastal city between Jacksonville and Miami. In two thousand and seven, Fortress Investment Group bought Florida East Coast Industries, the railway's parent, for about three and a half billion dollars in cash.
+
+What Fortress had bought, besides a freight railroad, was a right of way. Building intercity rail in America is usually strangled by land: buying a corridor through developed suburbs takes decades and costs billions. Fortress already owned one. It could lay a second track next to the freight line and skip the hardest part. And it owned land near where the stations would go, including air rights over the new MiamiCentral station downtown. The pitch had two halves. The train would carry people, and the train would make the land around its stations more valuable.
+
+There was a political opening, too. In twenty eleven Florida's governor, Rick Scott, turned down about two point four billion dollars of federal money for a publicly built high-speed line between Orlando and Tampa, saying it was too great a financial risk for taxpayers. That left the field to a private operator.
+
+In twenty seventeen, Fortress sold the freight railroad to Grupo México for about two point one billion dollars, keeping the passenger rights under agreements signed in twenty sixteen and twenty seventeen. That split matters now, because the freight owner has since become an obstacle. This May it formally refused a proposed new station at Stuart, and it has challenged in court Brightline's plans to run commuter service in South Florida.
+
+Now the money, which is where this story really lives.
+
+Brightline was built largely with private activity bonds. Here's the mechanism. Ordinarily, municipal bonds are debts of cities, states and public authorities, and the interest on them is exempt from federal income tax. That exemption is a subsidy: investors accept a lower yield because they keep more of it, so the borrower pays less. Private activity bonds extend that same treatment to a private project with a public purpose. A public agency issues the bonds as a conduit, the private company is the one on the hook, and the investor still gets tax-free interest. For surface transportation, the Department of Transportation hands out the right to issue them, project by project, from a capped national pool.
+
+Brightline got more of that allocation than anyone. By twenty seventeen its total had reached about two point seven billion dollars, at the time the largest ever awarded to a single borrower. Counties along the Treasure Coast, where the trains run through without stopping, sued to block it. A federal appeals court in Washington upheld the allocation.
+
+The natural buyers were high-yield municipal bond funds. They manage enormous sums, they need tax-exempt paper, and there are only so many risky projects that qualify. A private railroad paying a high tax-free coupon was exactly what they were built to own.
+
+Then came the refinancing in twenty twenty-four, which was supposed to put the company on solid ground. Brightline reorganised roughly four and a half billion dollars of debt into layers. The top layer is two point two billion dollars of senior bonds, secured by the stations, the trains and the fares, rated investment grade, with about half, one point one three billion, insured by Assured Guaranty. That replaced debt carrying yields as high as twelve percent.
+
+Below that sit about one point two billion dollars of junior municipal bonds at a holding company. Beside those, nine hundred and eighty-five million dollars of so-called commuter bonds, secured by the future payments three counties, Miami-Dade, Broward and Palm Beach, might make for access to the line. Those county agreements were never signed, which is why Debtwire described that collateral as largely theoretical. And at the bottom, about one point one billion dollars of taxable corporate notes, held mostly by hedge funds. All in, something like five and a half billion dollars of debt, depending on who's counting. The Economist puts it nearer six.
+
+That's a lot of debt for a railroad of this size, and the whole structure rested on a forecast.
+
+Here is the gap. Brightline had projected six point six million passengers a year and four hundred and eighty-five million dollars in annual ticket revenue. In twenty twenty-five it carried a record three point one million passengers and took in two hundred and fourteen million dollars in total revenue. It lost two hundred and thirty-three million dollars. On April thirtieth its auditor, Ernst and Young, raised substantial doubt about its ability to continue as a going concern.
+
+The ridership is growing, and that's the frustrating part for the people who built it. Through August, ridership is up fourteen percent on last year and revenue up seventeen. But fourteen percent growth from half the forecast still leaves you far short of the forecast, while the interest bill is fixed. More than two billion dollars of the long-term debt was scheduled to generate two and a half billion in interest over the coming decades.
+
+The cracks showed first at the edges. The commuter bonds, which started life with a ten percent coupon, stopped paying in February and began accruing at a penalty rate. They were due to be redeemed in full on June fifteenth, nine hundred and eighty-five million dollars plus interest, and the company didn't have it. Bondholders granted short extensions. By July the reserve fund on the senior bonds was expected to be empty, and both Fitch and S and P were warning of default by early next year.
+
+There's one more strand the company's critics raise, and it isn't financial. An investigation by the Miami Herald and South Florida public radio counted a hundred and eighty-two deaths on the line since twenty eighteen, far more than publicly reported, at a rate nearly triple that of Tri-Rail, South Florida's commuter railroad. Much of that reflects the corridor itself, a fast train running through dense towns with hundreds of street crossings. It has made the local politics harder, including the commuter deals the bonds depended on.
+
+Now back to the detail from the beginning: why the train company didn't file.
+
+Federal bankruptcy law has a special section for railroads. If a railroad itself files, the Transportation Secretary proposes five disinterested candidates and a court-appointed trustee takes over operations from management. It's there to keep trains running in a collapse, but no owner wants it. So Brightline put the parent companies into bankruptcy and kept the operator out. The trains run, and management keeps the controls.
+
+The plan filed with the case is unusual in another way. None of the four point four billion dollars of municipal bonds loses any principal. Senior bondholders can choose to defer some interest in exchange for a fee, and Assured Guaranty will guarantee that deferred interest on the bonds it insures. The hit lands on the roughly one point one billion dollars of corporate notes, which Bond Buyer describes as on the chopping block, and Fortress's equity is being diluted.
+
+And the municipal bondholders are putting in more money. A group that includes Nuveen, First Eagle, Invesco, Nomura, BlackRock and Assured Guaranty has committed two hundred and fifty-eight million dollars to keep the operator funded during the case, then four hundred and ninety million in long-term capital afterward, a hundred and forty million of it senior and three hundred and fifty million junior. Assured's chief executive said earlier this year he didn't view Brightline as a loss situation, pointing to collateral he valued at at least two point four billion dollars.
+
+So read the plan for what it is. The bondholders are betting that the train is worth more running than sold for parts, and that ridership catches up with the debt if it's given time and fresh cash. They're choosing to lend more rather than take a loss now. Brightline's chief executive, Patrick Goddard, says the deal will be a catalyst for further growth in ridership and revenue.
+
+Here's the honest case for the other side, because there is one. Brightline's defenders point out that it got built, which is more than most American passenger rail projects can say, and largely on borrowed private money rather than government construction grants. People ride it in growing numbers every year. By this reading, the train works; the balance sheet didn't. A railroad that carries three and a half million people and loses money is the normal condition of passenger rail almost everywhere on earth. Few systems cover their capital costs from fares.
+
+The counterargument cuts both ways, though. It was never entirely private. Tax-exempt bonds are a federal subsidy by design, since the Treasury gives up the tax it would otherwise collect on the interest. Two stations sit on public land under agreements with local governments, and the Orlando station and maintenance yard are leased from the airport authority. What Brightline really tested was whether a private owner, with public help on borrowing costs, could make intercity rail pay its own debts. The answer, at least at this price and this debt load, is no.
+
+What would have to happen next for this to turn out differently? Three things to watch. Whether Miami-Dade and Broward finally sign the commuter agreements, which would turn that theoretical collateral into cash. Whether ridership keeps compounding at double digits. And whether the Tampa extension, which needs about four hundred million dollars of new tax-exempt debt and has no financing lined up, ever gets built.
+
+The trains will run this morning, from Miami to Orlando. Who owns them in a year is a different question.
+
+Now a minute of French, and then the European news in it.
+
+How would you say that doesn't ring a bell. Someone mentions a name, a restaurant, a film, and you've got nothing.
+
+
+
+Ça ne me dit rien.
+
+
+
+Ça ne me dit rien.
+
+The trap is translating the bell. French has no bell to ring here, and a literal version just sounds odd. Instead, the thing tells you nothing. You've heard the same verb before, in the phrase for floating a plan to a friend, and it's worth noticing that the positive and the negative mean quite different things.
+
+Now three cold, from the archive.
+
+It isn't worth the effort.
+
+
+
+Ça vaut pas le coup.
+
+Someone says something absurd.
+
+
+
+N'importe quoi.
+
+Thursday instead of Wednesday suits you better.
+
+
+
+Ça m'arrange.
+
+And now the continent, where it's a day of votes.
+
+En France, c'est jour d'élections sénatoriales. La moitié du Sénat est renouvelée, soit cent soixante-dix-huit sièges, par un collège d'un peu plus de quatre-vingt-treize mille grands électeurs, surtout des élus de petites communes. C'est le dernier scrutin avant la présidentielle. À suivre : le recul annoncé des Républicains, et le Rassemblement national, qui espère atteindre dix sénateurs pour former son propre groupe.
+
+Le pape Léon Quatorze termine sa visite à Lourdes, où il doit rencontrer sept victimes de violences sexuelles dans l'Église. Hier, il a célébré une messe géante place de la Concorde. Et partout en France, des marches pour le climat ont réuni cent vingt mille personnes selon les organisateurs.
+
+En Suisse, les électeurs se prononcent aujourd'hui sur l'initiative portée par Christoph Blocher, qui inscrirait une neutralité stricte dans la Constitution et interdirait au pays de s'associer aux sanctions européennes. Les sondages la donnent perdante.
+
+One idea before we finish.
+
+In June nineteen seventy-one, three petroleum engineers at Atlantic Richfield, Ed Capen, Bob Clapp and Bill Campbell, published a paper with an awkward conclusion for their own industry. In a sealed-bid auction for something whose value nobody knows for sure, the winner is likely to be whoever overestimated it most. So winning is, on average, bad news. They called it the winner's curse.
+
+The circumstance was the federal lease sales for oil tracts in the Gulf of Mexico. Companies were paying huge sums for the right to drill, and the engineers noticed that the returns on those leases were disappointing across the industry, even though each company's geologists were competent. Their explanation was that everyone's estimate was noisy, and an auction reliably hands the prize to the noisiest optimist. Their advice was to bid below your own estimate, deliberately.
+
+The complication is that it's still not clear how much the curse actually bites. Economists pointed out that a rational bidder should already shade down, and in lab experiments in the nineteen eighties, John Kagel and Dan Levin found that inexperienced bidders fell into the trap reliably, while experienced ones did better, though not always. And when Kenneth Hendricks and Robert Porter later studied the same Gulf of Mexico lease sales, they found the winning firms had on the whole earned positive returns. So either the industry had learned, or the engineers had described a real bias in a market that mostly corrected for it. Nobody has settled which.
+
+And finally, closer to home, which is still Austin until this evening.
+
+Another hundred-degree day, with the heat index above that. There's a chance of afternoon storms, mostly out over the Hill Country, so the drive to the airport may be wet even if the city stays dry.
+
+You fly home this evening straight into the worst of the storm. New York expects heavy rain overnight with gusts of forty to fifty miles an hour, and delays at all three airports through the weekend, so check the flight before you leave. Showers linger Monday, and it should clear out on Tuesday. After that you're off to San Francisco on Friday.
+
+And baseball. The Yankees moved today's regular-season finale against Baltimore up to five past one to beat the rain. It changes nothing: they're locked in to host Boston in the wild card, starting Tuesday in the Bronx.
+
+That's Sunday. Safe travels home.
