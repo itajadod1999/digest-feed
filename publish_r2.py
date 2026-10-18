@@ -2,7 +2,7 @@
 """
 publish_r2.py — build a podcast episode and publish it to Cloudflare R2.
 
-    python3 publish_r2.py --sync          download recent scripts for context
+    python3 publish_r2.py --sync          download recent scripts + LEDGER.txt
     python3 publish_r2.py script.txt      synthesize, upload, rebuild feed
     python3 publish_r2.py --list-voices   see available Google voices
 
@@ -27,11 +27,13 @@ import json
 import os
 import re
 import sys
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
+from difflib import SequenceMatcher
 from email.utils import format_datetime
 from pathlib import Path
 
@@ -58,7 +60,14 @@ MAX_CHUNK = 4500        # Google's limit is 5000 bytes per request
 # retrospective and the callback logic, and a year of daily shows is ~1 GB
 # against R2's 10 GB free tier. Set an integer here only if you want pruning.
 KEEP_DAYS = None
-SYNC_COUNT = 3          # how many recent scripts --sync pulls down
+SYNC_COUNT = 7          # full scripts --sync pulls down: a week, enough for
+                        # callbacks and the Saturday review
+# Freshness ledger: every French phrase taught as new, and every idea segment.
+# --sync writes it out as episodes/LEDGER.txt; publishing refuses a script
+# whose new phrase or idea repeats one already in it.
+LEDGER_KEY = "ledger.json"
+IDEA_WINDOW_DAYS = 31   # an idea's person can't come back inside this window
+PHRASE_SIMILARITY = 0.75  # near-duplicates (tense swaps etc.) count as repeats
 # ─────────────────────────────────────────────────────────────
 
 TTS_ROOT = "https://texttospeech.googleapis.com/v1"
@@ -100,8 +109,9 @@ def _canonical_query(params):
 
 
 def r2_request(method, key="", query=None, body=b"", content_type=None,
-               now=None):
-    """Signed request against the R2 S3 API. Returns the response body."""
+               now=None, missing_ok=False):
+    """Signed request against the R2 S3 API. Returns the response body,
+    or None for a missing key when missing_ok is set."""
     account = env("R2_ACCOUNT_ID")
     access_key = env("R2_ACCESS_KEY_ID")
     secret = env("R2_SECRET_ACCESS_KEY")
@@ -169,6 +179,8 @@ def r2_request(method, key="", query=None, body=b"", content_type=None,
         with urllib.request.urlopen(req, timeout=120) as resp:
             return resp.read()
     except urllib.error.HTTPError as e:
+        if missing_ok and e.code == 404:
+            return None
         detail = e.read().decode("utf-8", errors="replace")[:400]
         raise SystemExit(f"R2 {method} {canonical_uri} failed "
                          f"({e.code}): {detail}")
@@ -184,8 +196,8 @@ def r2_put(key, body, content_type):
     print(f"  uploaded {key} ({len(body) / 1_000_000:.2f} MB)")
 
 
-def r2_get(key):
-    return r2_request("GET", key)
+def r2_get(key, missing_ok=False):
+    return r2_request("GET", key, missing_ok=missing_ok)
 
 
 def r2_delete(key):
@@ -271,10 +283,16 @@ def pause_bytes(seconds):
 
 FR_RE = re.compile(r"\[\[FR\]\](.*?)\[\[/FR\]\]", re.S)
 
+# Bookkeeping markers. Never spoken; they feed the freshness ledger.
+NEW_PHRASE_RE = re.compile(r"\[\[NEW_PHRASE:\s*(.*?)\s*\]\]")
+IDEA_RE = re.compile(r"\[\[IDEA:\s*(.*?)\s*\]\]")
+META_RE = re.compile(r"[ \t]*\[\[(?:NEW_PHRASE|IDEA):.*?\]\][ \t]*\n?")
+
 
 def strip_markers(text):
     """Remove language markers — for the archived script and feed summary."""
     text = re.sub(r"\[\[/?FR\]\]", "", text)
+    text = META_RE.sub("", text)
     return PAUSE_RE.sub("", text)
 
 
@@ -355,25 +373,193 @@ def synthesize(text, lang="en"):
     return base64.b64decode(data["audioContent"])
 
 
+# ══ LEDGER — what's been taught, so nothing repeats ══════════
+
+def _norm(s):
+    """Casefold, drop accents and punctuation: for comparing phrases."""
+    s = unicodedata.normalize("NFKD", s.casefold())
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = re.sub(r"[\u2019'`]", "", s)
+    return " ".join(re.sub(r"[^\w\s]", " ", s).split())
+
+
+def _paras(text):
+    return [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+
+
+def guess_new_phrase(text):
+    """Backfill only: in old scripts the new phrase is the one line said
+    twice in a row inside the French lesson. Saturdays have none."""
+    paras = _paras(text)
+    start = next((i for i, p in enumerate(paras) if "of French" in p), None)
+    if start is None:
+        return None
+    window = paras[start:start + 12]
+    for a, b in zip(window, window[1:]):
+        if a == b and len(a.split()) <= 12:
+            return a
+    return None
+
+
+def guess_idea_text(text):
+    """Backfill only: the idea segment's text, for surname matching."""
+    m = re.search(r"One idea before we finish\.(.*?)"
+                  r"(?:And finally, closer to home|$)", text, re.S | re.I)
+    return " ".join(m.group(1).split())[:1500] if m else None
+
+
+def script_keys():
+    """{date: key} for every English script in the bucket."""
+    keys = {}
+    for k, _ in r2_list():
+        parsed = parse_name(Path(k).stem) if k.endswith(".txt") else None
+        if parsed and parsed[1] == "en":
+            keys[parsed[0]] = k
+    return keys
+
+
+def backfill_ledger():
+    """Rebuild the ledger from archived scripts. Runs once, when the bucket
+    has no ledger yet; after that each publish appends its own entry."""
+    print("No ledger in the bucket — backfilling from the archive...")
+    ledger = []
+    for d, key in sorted(script_keys().items()):
+        text = r2_get(key).decode("utf-8", errors="replace")
+        ledger.append({"date": d,
+                       "new_phrase": guess_new_phrase(text),
+                       "idea": None,
+                       "idea_text": guess_idea_text(text)})
+    return ledger
+
+
+def load_ledger():
+    raw = r2_get(LEDGER_KEY, missing_ok=True)
+    if raw is not None:
+        return json.loads(raw)
+    ledger = backfill_ledger()
+    save_ledger(ledger)
+    return ledger
+
+
+def save_ledger(ledger):
+    ledger = sorted(ledger, key=lambda e: e["date"])
+    r2_put(LEDGER_KEY, json.dumps(ledger, ensure_ascii=False,
+                                  indent=1).encode("utf-8"),
+           "application/json")
+
+
+def phrase_clash(phrase, ledger):
+    """Return the earlier entry this phrase repeats, or None."""
+    a = _norm(phrase)
+    for e in ledger:
+        b = _norm(e.get("new_phrase") or "")
+        if not b:
+            continue
+        if a == b or a in b or b in a or \
+                SequenceMatcher(None, a, b).ratio() >= PHRASE_SIMILARITY:
+            return e
+    return None
+
+
+def idea_clash(idea, ledger, today):
+    """Return an entry inside the window that used the same person."""
+    person = idea.split("|")[0]
+    names = [w for w in _norm(person).split() if len(w) >= 3]
+    if not names:
+        return None
+    surname = names[-1]
+    cutoff = (date.fromisoformat(today)
+              - timedelta(days=IDEA_WINDOW_DAYS)).isoformat()
+    for e in ledger:
+        if e["date"] < cutoff:
+            continue
+        hay = _norm(f"{e.get('idea') or ''} {e.get('idea_text') or ''}")
+        if re.search(rf"\b{re.escape(surname)}\b", hay):
+            return e
+    return None
+
+
+def check_fresh(meta, ledger, today):
+    """Refuse to publish a repeat. Runs before any audio is made."""
+    prior = [e for e in ledger if e["date"] != today]   # reruns are fine
+    problems = []
+
+    phrase = meta.get("new_phrase")
+    if phrase:
+        hit = phrase_clash(phrase, prior)
+        if hit:
+            problems.append(f"New phrase \"{phrase}\" repeats "
+                            f"\"{hit['new_phrase']}\" from {hit['date']}.")
+    else:
+        print("  note: no [[NEW_PHRASE: ...]] marker (fine on Saturday)")
+
+    idea = meta.get("idea")
+    if idea and not idea.casefold().startswith("skip"):
+        hit = idea_clash(idea, prior, today)
+        if hit:
+            what = hit.get("idea") or (hit.get("idea_text") or "")[:120]
+            problems.append(f"Idea \"{idea}\" repeats a person from "
+                            f"{hit['date']}: {what}")
+    elif not idea:
+        print("  note: no [[IDEA: ...]] marker — idea not checked")
+
+    if problems:
+        raise SystemExit("REPEAT — not published. Change the script and run "
+                         "again.\n  " + "\n  ".join(problems) +
+                         "\nSee episodes/LEDGER.txt for everything used.")
+
+
+def write_ledger_txt(ledger, today):
+    """Human-readable ledger for the routine to read before writing."""
+    lines = ["FRENCH PHRASES ALREADY TAUGHT AS NEW",
+             "Never teach any of these as new again — including a tense or",
+             "wording variant. Draw the review from this list.", ""]
+    seen = set()
+    for e in reversed(ledger):
+        key = _norm(e.get("new_phrase") or "")
+        if key and key not in seen:
+            seen.add(key)
+            lines.append(f"{e['date']}  {e['new_phrase']}")
+
+    cutoff = (date.fromisoformat(today) - timedelta(days=60)).isoformat()
+    lines += ["", f"IDEA SEGMENTS, LAST 60 DAYS",
+              f"Anyone dated within {IDEA_WINDOW_DAYS} days is blocked until "
+              "the date shown. Don't reuse the idea itself either.", ""]
+    for e in reversed(ledger):
+        if e["date"] < cutoff:
+            continue
+        what = e.get("idea") or " ".join(
+            (e.get("idea_text") or "(none)").split()[:30]) + "..."
+        until = (date.fromisoformat(e["date"])
+                 + timedelta(days=IDEA_WINDOW_DAYS)).isoformat()
+        flag = f"  [blocked until {until}]" if until > today else ""
+        lines.append(f"{e['date']}  {what}{flag}")
+
+    (LOCAL_EPISODES / "LEDGER.txt").write_text("\n".join(lines) + "\n",
+                                                encoding="utf-8")
+
+
 # ══ SYNC — pull recent scripts down for continuity ═══════════
 
 def sync_recent_scripts():
-    """Download the most recent scripts so Step 0 has context to read."""
+    """Download the most recent scripts and the ledger for Step 1."""
     LOCAL_EPISODES.mkdir(exist_ok=True)
 
-    txts = sorted((k for k, _ in r2_list() if k.endswith(".txt")),
-                  reverse=True)[:SYNC_COUNT]
+    keys = script_keys()
+    recent = sorted(keys, reverse=True)[:SYNC_COUNT]
 
-    if not txts:
+    if not recent:
         print("No previous scripts in the bucket — first run.")
         return
 
-    for key in txts:
-        dest = LOCAL_EPISODES / Path(key).name
-        dest.write_bytes(r2_get(key))
+    for d in recent:
+        dest = LOCAL_EPISODES / Path(keys[d]).name
+        dest.write_bytes(r2_get(keys[d]))
         print(f"  fetched {dest.name}")
 
-    print(f"Synced {len(txts)} script(s) into episodes/")
+    today = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d")
+    write_ledger_txt(load_ledger(), today)
+    print(f"Synced {len(recent)} script(s) and LEDGER.txt into episodes/")
 
 
 # ══ FEED ═════════════════════════════════════════════════════
@@ -482,6 +668,19 @@ def publish(script_path):
         raise SystemExit(f"Script is only {len(text)} chars — refusing to "
                          "publish. Something upstream probably failed.")
 
+    # Pull out the bookkeeping markers, check them, then drop them so they
+    # never reach the speech engine.
+    meta = {}
+    for field, rx in (("new_phrase", NEW_PHRASE_RE), ("idea", IDEA_RE)):
+        m = rx.search(text)
+        meta[field] = m.group(1) if m else None
+    text = META_RE.sub("", text).strip()
+
+    today = datetime.now(timezone.utc).astimezone()
+    datestr = today.strftime('%Y-%m-%d')
+    ledger = load_ledger()
+    check_fresh(meta, ledger, datestr)
+
     # Build the render list: every chunk carries the language it's read in.
     segments = split_by_language(text)
     jobs = []
@@ -510,14 +709,16 @@ def publish(script_path):
         print(f"  synthesizing {done}/{len(spoken)} [{lang}]...", flush=True)
         audio += synthesize(chunk, lang)
 
-    today = datetime.now(timezone.utc).astimezone()
-    stem = f"digest-{today.strftime('%Y-%m-%d')}_en"
+    stem = f"digest-{datestr}_en"
 
     # Audio and script first; the feed goes last so it never advertises
     # an enclosure that isn't already in the bucket.
     r2_put(f"{EPISODE_PREFIX}{stem}.mp3", audio, "audio/mpeg")
     r2_put(f"{EPISODE_PREFIX}{stem}.txt", clean.encode("utf-8"),
            "text/plain; charset=utf-8")
+    save_ledger([e for e in ledger if e["date"] != datestr] +
+                [{"date": datestr, "new_phrase": meta["new_phrase"],
+                  "idea": meta["idea"], "idea_text": guess_idea_text(clean)}])
 
     words = clean.split()
     summary = " ".join(words[:40]) + ("..." if len(words) > 40 else "")
