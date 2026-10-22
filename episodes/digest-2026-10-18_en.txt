@@ -1,0 +1,137 @@
+Good morning. It's Sunday, October eighteenth, and today is a deadline that no longer means anything. Under a law Congress passed in September, this was the day the President had to start punishing the countries that buy Russian oil. On Friday he waived it. So after the weekend's news and the year in numbers, one subject at length: secondary sanctions, how America punishes people who aren't American, and why it so often ends in a waiver.
+
+The weekend first, kept short.
+
+Following up on that waiver, because we now know what it covers, and it isn't a narrow carve-out. According to ABC News and Radio Free Europe, it sets aside nearly every Russia provision in the Graham Act: the tariffs on Russian goods and on Russia's biggest customers, the penalties on foreign banks, the bans on Russian sovereign debt. Older sanctions stay. The White House says enforcing the new ones now would impede peace efforts. The waivers carry no end date.
+
+The reaction crossed party lines. Thom Tillis, a Republican, called it beyond irresponsible, noting the Senate passed the law eighty-six to eleven. John Cornyn said Graham, who died in July, would be appalled. Thomas Massie, who voted against the bill, said he was glad the President used the authority Congress gave him. Volodymyr Zelensky said it helps only the Russians. The Times frames the move around fuel prices and next month's midterms; the White House, around diplomacy.
+
+In Canada, a disaster at Canadian Forces Base Wainwright in eastern Alberta. On Saturday a serious incident set off a fire that crossed the base fence in high winds. The defence minister, David McGuinty, confirmed deaths and injuries without numbers. Global News, citing military sources, reports at least seven dead and dozens hurt, and says a live-fire exercise may have struck a gas line; that cause is unconfirmed. It comes a day before Alberta votes on whether to begin leaving Canada.
+
+In France, Saturday's day of protest was enormous and, by evening, violent: five hundred and fifty thousand marchers by the government's count, eight hundred thousand by the organisers', and twelve hundred arrests. More on that in French shortly.
+
+Pope Leo is back at the Vatican, four days after lung surgery for cancer, and says he is much better.
+
+In the Gulf, Iran says two supertankers hit mines on Saturday. American Central Command says the strait has been cleared of mines and that ships are being hit by Iranian projectiles instead. Britain's maritime agency counts at least ten vessels attacked last week, the most since the war began in February.
+
+One deal, from the Garden. Madison Square Garden Sports is splitting the Knicks from the Rangers, and the Knicks are expected to list on the New York Stock Exchange later this month. JPMorgan puts the champions' private-market value at around eleven point seven five billion dollars.
+
+And from the cave files, a story seventy-five thousand years cold. A team led by Emma Pomeroy at Cambridge has described a Neanderthal from Shanidar Cave in Iraqi Kurdistan with a hole about a centimetre and a half wide through the left shoulder blade. Their reading, in Scientific Reports, is a wooden spear aimed at the heart, which would make it among the earliest evidence of one. Others say a hunting accident fits just as well.
+
+The week ahead: Alberta votes Monday, the NBA opens Tuesday, Bank OZK reports Wednesday, and the World Series starts Friday. Then Brazil's runoff, Israel's election, and the Fed on the twenty-eighth.
+
+Now the year to date, Friday's close against the last day of twenty twenty-five.
+
+The S and P five hundred sits around seventy-six sixty, up about twelve percent on the year, against fourteen a week ago. The Nasdaq, near twenty-six thousand one hundred and forty, is up about twelve and a half, down from roughly eighteen. Last week alone took a third of its year away. The Dow, just above fifty-two thousand, is up a little over eight, the only one of the three better off than a week ago.
+
+The ten-year Treasury yield started the year around four point one percent and finished Friday near five point one, a full point higher, though fourteen basis points below where it stood a week ago.
+
+And Brent crude, which began the year a little above sixty dollars, settled Friday near a hundred and nine seventy. That's up about eighty percent since January.
+
+Some of that eighty percent is in Friday's decision. Which is where today's piece begins.
+
+Start with a distinction. When America sanctions Iran, it is, in the first instance, telling Americans what they may not do. An American company can't sell to Tehran. An American bank can't move Iranian money. Those are primary sanctions, and every country has them.
+
+Secondary sanctions are the other thing. They tell a German company, or an Indian refinery, or a Chinese bank, that if it does business with the target, America will punish it, even though it isn't American, the deal isn't in America, and the goods never come near an American port. The leverage is access. Do business with Iran, or with Russia's state banks, and you lose the right to do business with the United States, its markets, and above all its banks and its dollar.
+
+That threat is only as good as the thing withheld, which is why the tool belongs to America more than anyone. Most international trade is invoiced in dollars, and most dollars at some point pass through an American bank. So the real target of a secondary sanction is almost never the oil buyer. It's the buyer's bank.
+
+It wasn't built that way at first.
+
+In nineteen ninety-six Congress passed the Iran and Libya Sanctions Act, sponsored by Senator Alfonse D'Amato. It threatened penalties on foreign companies that made large investments in Iran's oil and gas. Europe was furious. The European Union passed what it called a blocking statute, making it illegal for European companies to comply with American sanctions of this kind. The next year, the French company Total, with Gazprom and Malaysia's Petronas, signed a two billion dollar deal to develop the South Pars gas field. In May of nineteen ninety-eight, the Clinton administration waived the penalties. The law had blinked at its first real test.
+
+That's the first lesson, and it never goes away. A secondary sanction that requires America to punish its friends tends to end in a waiver.
+
+The method changed in the two thousands, at the Treasury rather than the State Department. Treasury set up an office of terrorism and financial intelligence in two thousand four, and its first under secretary, Stuart Levey, noticed something about banks. They don't wait to be ordered. They act on risk.
+
+The proof came in September two thousand five. Treasury labelled a small bank in Macau, Banco Delta Asia, a primary money laundering concern for its dealings with North Korea. It barely did anything to the bank directly. But depositors ran, the authorities in Macau froze about twenty-five million dollars of North Korean money, and banks around the world, with no legal obligation to do so, began shutting North Korean accounts on their own. No compliance officer anywhere wanted to be the next bank in the press release.
+
+That insight, that the banks would do the enforcement, built the modern system. On the last day of twenty eleven came the provision that actually worked: section twelve forty-five of that year's defence bill. It said any foreign bank that settled oil payments with Iran's central bank could be cut off from the United States. Unless its home country had, in the words of the law, significantly reduced its purchases of Iranian oil.
+
+That exception is the clever part. The law didn't demand that China, India, Japan and South Korea stop buying Iranian oil overnight, which they wouldn't have done. It demanded that they buy less every hundred and eighty days, to keep their exemptions. A ratchet, not a wall. By mid twenty twelve, twenty countries had exceptions. Europe added an oil embargo, and the payments messaging network SWIFT disconnected Iranian banks. Iran's oil exports, about two and a half million barrels a day in twenty eleven, were roughly halved within two years. That pressure is widely credited with bringing Iran to the table for the twenty fifteen nuclear deal.
+
+Then the teeth became very real. In twenty fourteen BNP Paribas, France's biggest bank, pleaded guilty and paid about eight point nine billion dollars for moving money for Sudan, Iran and Cuba through New York. Strictly a primary sanctions case, but every bank board in the world read it the same way. When America left the Iran deal in twenty eighteen, European companies left Iran almost immediately, blocking statute or no. Europe built a payment channel to keep trade going. It processed exactly one transaction, a shipment of medical goods, and was wound up three years later.
+
+So by the time Russia invaded Ukraine, the tool had a track record: devastating when the target is small and the banks are scared, and weak when the target's customers are big enough not to care.
+
+Russia is the second kind. After twenty twenty-two, the West didn't try to stop Russian oil being sold. It capped the price at sixty dollars a barrel, by denying Western shipping and insurance to cargoes sold above it. Russia built a shadow fleet of older tankers with opaque owners. India, which bought very little Russian crude before the war, became one of its two largest customers alongside China. Neither country's banks were cut off, because cutting off the banks of India and China is not a threat anyone in Washington wanted to carry out.
+
+Two newer moves tried to get around that. In August of last year, the President put an extra twenty-five percent tariff on Indian goods as a penalty for buying Russian oil, an ordinary import tariff used as a secondary sanction. And last October, Treasury sanctioned Rosneft and Lukoil directly, and some Indian and Chinese refiners slowed their buying because their own banks grew nervous.
+
+The Graham Act was meant to make all of that permanent and compulsory. Its tariffs were aimed not at banks but at countries: up to a hundred percent on all goods from any of the top five buyers of Russian crude or gas that kept buying. It reached the shadow fleet, its insurers, and the ports that host it. It extended the old Iran Sanctions Act for five more years. And Congress wrote it as a mandate with a deadline. Thirty days. Today.
+
+But it also did what Congress almost always does. It handed the President a waiver. Section one fifteen lets him set aside any of it if he certifies to Congress, in writing, that the waiver is in the national interests of the United States. That certification is what he signed on Friday.
+
+So what was the waiver weighing? On one side, a war and a Congress that voted eighty-six to eleven. On the other, the price of fuel. A hundred percent tariff on everything from India or China would be among the largest trade shocks in modern history, and it would arrive with Brent near a hundred and ten dollars, the Strait of Hormuz under fire, and an election in sixteen days. And it came a week after the administration licensed imports of Russian diesel through April. The honest reading is that the threat ran into the same wall it ran into in nineteen ninety-eight: carrying it out would have hurt the country making it.
+
+Now the counterarguments.
+
+The first comes from inside the Treasury. In twenty sixteen the then secretary, Jack Lew, warned that the more often America used its financial dominance as a weapon, the more reason everyone else had to build ways around it. China has built its own cross-border payment system. On that view, Friday's waiver is prudence, and the danger was the law.
+
+So far the evidence is thin. By the International Monetary Fund's count, the dollar is still a bit under three-fifths of the world's central bank reserves.
+
+The second counterargument runs the other way. A threat that is always waived stops being a threat. Refiners in Gujarat and Shandong now know that the largest penalty Congress could design was set aside before it began, with no end date. The next deadline, whoever writes it, will be priced accordingly.
+
+And the third is about who decides. In twenty seventeen Congress passed a Russia law, ninety-eight to two in the Senate, with mandatory sanctions on buyers of Russian weapons. They were finally used against Turkey, in December twenty twenty, for buying a Russian missile system. India bought the same system and was never sanctioned. Mandatory, in sanctions law, has always meant something less than mandatory.
+
+Three things to watch. Whether Congress tries to claw the authority back. Gregory Meeks, the senior Democrat on House Foreign Affairs, has filed a bill to block the diesel deal, but overriding a veto takes two thirds of both chambers. Whether Indian and Chinese purchases of Russian crude rise in the next two months, which would mean the market has read the waiver as permanent. And Iran, which is the other half of the law's title. Washington's leverage there no longer runs mainly through banks. Iran's own proposal to reopen Hormuz asks first for an end to an American blockade of its ports. Once a navy is doing the enforcing, sanctions are no longer the main instrument.
+
+The tool was built on one insight, that banks would enforce what governments wouldn't. It still works on banks. What it has never worked on is the government that wrote it.
+
+Now a minute of French, and then the European news in it.
+
+How would you say something isn't really your thing. Not that you dislike it, and not that you disapprove. A friend suggests a jazz brunch, or a ten-mile hike, and you're declining lightly, as a matter of taste.
+
+
+
+C'est pas mon truc.
+
+
+
+C'est pas mon truc.
+
+The trap is translating thing with the dictionary noun, which gives you a sentence about an object you don't own. The cup of tea idiom exists in French, but it sounds borrowed and a little dated. The natural version uses the all-purpose word for a thingamajig, the one people grab when they can't remember a name.
+
+Now three cold.
+
+The week has been relentless, and you've got nothing left.
+
+
+
+J'en peux plus.
+
+Someone drags an unrelated point into the argument.
+
+
+
+Ça n'a rien à voir.
+
+Friends are heading out late, are you in. Count me in.
+
+
+
+Je suis partant.
+
+And so to Paris, the morning after.
+
+En France, la journée du dix-sept octobre a été à la fois massive et violente. Cinq cent cinquante mille manifestants selon le ministre de l'Intérieur, Laurent Nuñez, huit cent mille selon les organisateurs. Matignon fait état de mille deux cents interpellations. Le Monde décrit le même scénario dans plusieurs villes : d'un côté, une foule de lycéens, d'étudiants et de salariés venus défiler pacifiquement, de l'autre, des groupes décidés à en découdre.
+
+À Paris, place de la République, des commerces ont été pillés en fin de journée. Un témoin raconte au Monde que les gens se filmaient, et parle d'un grand défouloir. Le gouvernement doit maintenant gérer deux choses à la fois : un mouvement de jeunesse qui ne retombe pas, et le vote solennel sur la partie recettes du budget, mardi à l'Assemblée.
+
+Ailleurs, selon Le Monde, des colons ont attaqué un convoi diplomatique européen en Cisjordanie occupée, et un maire français a été frappé.
+
+Back in English, and one idea before we finish.
+
+In nineteen sixty-eight the ecologist Garrett Hardin published an essay in Science called The Tragedy of the Commons. On a pasture open to all, each herder gains the whole benefit of one more cow and bears only a fraction of the overgrazing, so everyone adds cows until the pasture is ruined. Hardin's conclusion was that a commons has two exits: the state takes it over, or it gets carved into private property.
+
+Elinor Ostrom, a political scientist at Indiana University, spent the next two decades looking for actual pastures, and found them. In the Swiss village of Törbel, farmers had managed shared alpine meadows since at least fifteen seventeen, under a rule that no one could send more cows up the mountain in summer than he could feed through the winter. In Valencia, a tribunal of farmers has met on Thursdays outside the cathedral for centuries to settle irrigation disputes on the spot. Her book, Governing the Commons, in nineteen ninety, set out what the lasting cases shared: clear boundaries, rules made by the users, monitors who answer to them, penalties that start small. In two thousand nine she became the first woman to win the Nobel prize in economics.
+
+The complication is scale. Her successes involve people who know each other, can see each other cheat, and will still be neighbours next year. Critics call them selected survivors, and nobody has shown the principles work for a commons with billions of users and no village square, like the atmosphere. Hardin later said he should have called it the tragedy of the unmanaged commons. Whether that settles the argument or just renames it is still open.
+
+And finally, closer to home.
+
+A clear, sunny Sunday in New York, a high near sixty and a light north wind, then mostly clear tonight, down to the mid forties. Monday edges into the low sixties, and Tuesday gets windy, gusts to twenty-five, so keep a hand on your hat on the way to the Garden.
+
+And Chicago, Wednesday through Friday, looks unusually kind for late October. The forecast there is sunny all three days, highs in the upper sixties, lows in the mid fifties. A light jacket will do.
+
+That's the long read. Enjoy the Sunday.
