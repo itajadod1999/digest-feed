@@ -1,0 +1,141 @@
+Good morning. Saturday, October seventeenth, and the week in review. Nothing new this morning unless it moves something we already covered.
+
+If the week fits in a sentence, it's this: inflation came in hot, the bond market rallied anyway, and the money that left the artificial intelligence trade went looking for safety and found Treasuries. The Dow finished the week higher. The Nasdaq had its worst week since June.
+
+Start with inflation, because everything else ran off it.
+
+September's consumer prices on Wednesday came in at three point seven percent a year, a tenth above forecast, with core also a tenth hot and the increases spread wide: airfares, medical care, used cars, clothing. Thursday's producer prices were worse, up one point three percent in a single month, six point three over the year, the highest since twenty twenty-two.
+
+Then Kevin Warsh, in Bangkok, declined to give any hint at all about the meeting on the twenty-eighth. "We're not in that business anymore," the Fed chair said. The Fed raised rates last month for the first time in three years, and most traders now expect it to go again by December.
+
+And yet the ten-year yield fell. It jumped twelve basis points after the inflation report, reversed the same afternoon, then dropped ten more on Thursday as money ran from chip stocks into bonds. A hot inflation print and a bond rally, because something else frightened people more.
+
+The banks reported, and the split was trading. Goldman Sachs earned seventeen dollars and one cent a share against roughly thirteen expected, and for the first time on record its equities business made more lending to hedge funds than trading for them. JPMorgan posted a rare miss. Bank of America's profit fell seventeen percent, weighed down by a one point two billion dollar Treasury penalty.
+
+Deals were busy. Penske Automotive agreed to go private with its parent and the Japanese trading house Mitsui, at about sixteen point three billion dollars including debt. Ithaca Holdings signed to buy Bumble for about one point three billion. And Character dot A I filed for bankruptcy with a twenty million dollar bid from Disney, the company that sent it a cease-and-desist letter last year.
+
+And the listing everyone is waiting for. Disclosure: Anthropic makes me. The reported plan is to start marketing the week of November ninth, raising around a hundred billion dollars at a valuation of up to two trillion.
+
+Real estate was a week of famous buildings.
+
+Tishman Speyer took a hundred-and-fifty-year ground lease on the Chrysler Building from Cooper Union, with a two hundred and thirty-five million dollar restoration planned. The roughly two billion dollar sale of the Pierre collapsed when the buyer missed a deposit deadline. The Plaza will close for at least four years from January.
+
+Further down the stack, the usual autumn story. In San Francisco, eleven fifty-five Market Street sold for about eight million dollars, wiping out a forty-eight million dollar commercial mortgage-backed loan. And in San Diego, Bank OZK's nine hundred and fifteen million dollar construction loan on IQHQ's life science campus was extended to December twenty twenty-nine, with about a hundred million paid down.
+
+Now Ukraine, which is where this morning actually changes the story.
+
+The week opened with an energy ceasefire the President announced and neither Kyiv nor Moscow confirmed. Russia kept hitting the Ukrainian grid. By Thursday Ukraine had hit a refinery in Ryazan anyway, its drones briefly lost full use of Starlink, and the President called the strikes "a disgrace."
+
+Then last night he signed an executive order waiving the sanctions in the Graham Act, the Russia law he signed only last month, citing the national interest. The law gave him until tomorrow to impose penalties on Russian energy, including secondary sanctions on buyers, or to waive them. He waived them. Twelve senators of both parties had written to object to the diesel deal earlier in the week. What Congress does now is the open question.
+
+In the Gulf, the Houthis widened their war on Saudi Arabia from Riyadh's airport to Aramco's headquarters in Dhahran. In and around Hormuz, more than twenty ships have been attacked this month, and one container ship sank, its crew rescued. On Friday Iran said a tanker carrying two million barrels hit a mine in the strait. Brent touched a hundred and ten dollars for the first time since May.
+
+Elsewhere, the week's hardest news. Pope Leo had the lower lobe of his right lung removed for cancer, and is up and walking. In Peshawar, a school roof fell in during classes and killed at least thirty-four children and a teacher. In Bend, Oregon, a sixteen-year-old killed three children and a teacher at an elementary school before an armed bystander, a father of two pupils there, shot him. Congo's Ebola outbreak passed nine thousand cases.
+
+In technology, Apple closed above five trillion dollars in market value for the first time, the week it launched a two hundred and ninety-nine dollar home display.
+
+Now the numbers, week over week, Friday close against Friday close.
+
+The S and P five hundred finished around seventy-six sixty, down about two percent on the week. The Nasdaq closed near twenty-six thousand one hundred and forty, down about four and a half percent. The Dow went the other way, ending just above fifty-two thousand, up about seven tenths of a percent. That gap, between the Dow and the Nasdaq, is the whole rotation in two numbers.
+
+The ten-year Treasury yield closed around five point one percent, down about fourteen basis points from five point two four a week ago. As last week, I couldn't confirm the two-year close from a source I trust, so I'll leave it out.
+
+Brent settled near a hundred and nine seventy, up about three and a half percent on Friday and roughly six or seven percent on the week, depending on which settlement you use for last Friday.
+
+Abroad, two numbers worth saying out loud. Since Monday, SK Hynix is down twenty-one percent and Samsung fourteen. And Indonesia's market fell more than ten percent on Friday, its worst day since January nineteen ninety-eight, after the index provider Morgan Stanley Capital International warned it could drop the country from its emerging markets benchmark.
+
+Now, what I got wrong.
+
+First, and worst, repetition in the idea segment. Last Saturday I said I'd fixed it. This week, four of the five weekday ideas were reruns. The Tacoma Narrows Bridge ran on Monday and again on Friday. John Snow's cholera pump ran on Wednesday, for the third time in a month. And the Hawthorne experiments ran on Thursday, seventeen days after the last time. Only Tuesday's bet between Julian Simon and Paul Ehrlich was new. That's a broken check, not a slip, and this morning I checked against every script from the last month, not the last three days.
+
+Second, the same failure in the French lesson. Thursday's new phrase, for forget it, was first taught on September twenty-fifth and has been in rotation ever since. Friday's new phrase, for running late, was already in last Saturday's review. Two of the week's five new phrases were not new.
+
+Third, on Wednesday I said Hurricane Simon was heading for landfall in Sinaloa. It turned toward Baja California instead. I corrected it Thursday, but it went out wrong first.
+
+Fourth, a smaller one. On Friday morning I said futures pointed modestly higher. The Nasdaq then fell two percent. A dawn futures quote isn't a forecast, and I shouldn't let it sound like one.
+
+One story worth more time this morning: the week the bond market started asking how artificial intelligence gets paid for.
+
+What happened. On Wednesday, CoreWeave's nine and five-eighths percent bonds due twenty thirty-two fell below eighty cents on the dollar, a yield of roughly fifteen percent. By Thursday the annual cost of insuring its debt against default was about eleven point four percent, which Morning Brew reckoned implies better than a sixty percent chance of insolvency within five years. The shares bounced almost six percent on Thursday after Jensen Huang said its borrowing costs were falling, then fell about twelve on Friday. Nvidia lost around two hundred and seventy billion dollars in market value over the week, by Finimize's count.
+
+The mechanism. CoreWeave and the other so-called neoclouds buy huge numbers of Nvidia chips, rent the computing to companies like Microsoft and OpenAI, and borrow against those rental contracts to pay for the chips. The structure holds if two things hold: money stays affordable, and the chips keep their value for the life of the loan. Wednesday's inflation report pressed on the first, by raising the odds of another rate rise. Doubts about the second have been building for weeks.
+
+How far it spread. By Friday the selling had moved past the neoclouds to bonds financing data centres leased to Meta and Microsoft, tenants nobody worries about. The fear there wasn't default but delay: power shortages, local opposition, construction setbacks. Oracle, which has borrowed heavily to build for OpenAI, now sits one notch above junk.
+
+The private side. Much of this debt doesn't trade at all. It sits in private funds, marked quarterly, which is why the week's argument over Apollo's daily valuations mattered. Monroe Capital's Ted Koenig called daily marks "an illusion of precision, not accuracy." But Tuesday's WhiteHorse Finance story showed the gap from the other side: a listed lending fund trading around sixty cents on the dollar of its own stated value, while bids for its loans reportedly came in the high nineties. When public prices and private marks disagree that much, one of them is wrong.
+
+The honest counterargument. Demand hasn't cracked. Taiwan Semiconductor reported its sixth straight record quarter, and CoreWeave's chief executive, Mike Intrator, says the backlog covers the debt. Jefferies calls it an indigestion period. All of that can be true while the financing is still too expensive.
+
+What would make it matter. Three dates. The Fed on the twenty-eighth, because each extra rise raises the cost of rolling this debt. Whether CoreWeave or its peers can borrow again, and at what price. And the Anthropic listing in November, which is, for what it's worth, the clearest public test of what investors will pay for the demand side of this story.
+
+Loose ends going into next week.
+
+Bank OZK reports on Wednesday, the first chance to hear what that IQHQ extension actually looks like. Alberta votes on Monday on whether to begin leaving Canada. Brazil's runoff is a week from Sunday, Israel votes on the twenty-seventh, and the Fed decides on the twenty-eighth. And whether Congress answers last night's sanctions waiver, or lets it stand.
+
+Now a few minutes of French, and then the European week in it. Saturday, so no new phrase. Six cold, from the past few weeks.
+
+The afternoon slump that hits out of nowhere.
+
+
+
+J'ai un coup de barre.
+
+Wrapping up a long phone call. Right, I'll let you go.
+
+
+
+Bon, je te laisse.
+
+Someone asks which bar you'd prefer, and you truly don't care.
+
+
+
+Ça me fait ni chaud ni froid.
+
+A friend thinks they'll walk into the hottest restaurant in town without a booking. That's far from a sure thing.
+
+
+
+C'est pas gagné.
+
+The train is late for the third time this week. You've had it.
+
+
+
+J'en ai marre.
+
+Getting home on a strike day. What a nightmare.
+
+
+
+C'est la galère.
+
+And so to Paris, where today is the day the week was building toward.
+
+En France, tout converge vers ce samedi. Après un mois de mobilisation lycéenne, les élèves, les étudiants et d'anciens gilets jaunes descendent ensemble dans la rue, au premier jour des vacances. La préfecture de police a interdit les rassemblements non déclarés dans plusieurs secteurs de Paris, notamment autour de l'Élysée et de Matignon, de sept heures à vingt-deux heures. Le bilan donné cette semaine par Sébastien Lecornu reste lourd : plus de neuf cents policiers et près de deux cent cinquante élèves blessés depuis le début du mouvement.
+
+À l'Assemblée, le budget a franchi son premier obstacle mardi, quand la motion de rejet des socialistes a été repoussée. Le vote solennel sur la partie recettes a lieu ce mardi. Sans majorité, le Premier ministre n'a toujours que deux issues : le quarante-neuf trois ou les ordonnances. Et à gauche, Raphaël Glucksmann a remporté la primaire sociale-démocrate dès le premier tour, avec soixante-six pour cent des voix.
+
+Un chiffre a beaucoup bougé depuis lundi : la cyberattaque contre les frigos des supermarchés. On parlait de cent cinquante à deux cents magasins Intermarché. Selon Le Monde, plus de sept cents magasins ont finalement été touchés, et l'affaire rappelle que la France a pris du retard pour transposer deux directives européennes sur la cybersécurité.
+
+Côté entreprises, la Banque centrale européenne a autorisé UniCredit à prendre le contrôle de Commerzbank, dont elle détient déjà quarante-huit pour cent. Et LVMH a encore déçu, avec une croissance d'un pour cent seulement au troisième trimestre.
+
+Ailleurs en Europe, le sommet de Bruxelles s'est terminé sans accord sur le budget européen de deux mille vingt-huit à deux mille trente-quatre, mais Emmanuel Macron et Friedrich Merz veulent conclure avant la fin de l'année. Et en mer Noire, la Bulgarie a demandé l'aide de l'OTAN après le naufrage d'un cargo frappé par des drones, onze marins portés disparus.
+
+Back in English, and one idea before we finish.
+
+In March of nineteen twenty-nine, Harold Hotelling, a mathematician and statistician at Stanford, published a short paper in the Economic Journal called Stability in Competition. Picture one street, customers spread evenly along it, and two shops. Each wants as many customers as possible, so instead of spreading out to serve the town, both creep toward the middle until they stand side by side.
+
+The circumstance is what makes it more than a puzzle about shops. Hotelling wasn't really writing about geography. He was writing about sameness. He complained in the paper that cider was too homogeneous, that Methodist and Presbyterian churches were too alike, and that the Republican and Democratic parties offered voters almost the same thing. His street explained why competition, supposed to produce variety, so often produces two near-identical choices. Anthony Downs turned it into the median voter theory in nineteen fifty-seven.
+
+The complication is that the mathematics didn't hold. In nineteen seventy-nine, three economists, Claude d'Aspremont, Jean Gabszewicz and Jacques-François Thisse, showed that once the two shops compete on price as well as location, Hotelling's own model has no stable outcome when the shops get close. Change one assumption about the cost of travel, and the shops do the opposite: they flee to the two ends of the street to avoid a price war. And in politics, parties in many countries have spent the last two decades moving apart, not together. Whether Hotelling found a law or a special case is still argued over.
+
+And finally, closer to home.
+
+It's a sunny, breezy Saturday in New York, with a high in the mid fifties and a low in the low forties tonight, so it's a jacket day, a real one. Sunday warms a little, into the upper fifties.
+
+Two things for Tuesday. The artist presale for Calvin Harris at Barclays in April opens that day, ahead of the general sale on Thursday. And the NBA season starts that night at the Garden, the Knicks raising their banner against the 76ers, with LeBron James making his Sixers debut.
+
+And then it's Chicago, Wednesday through Friday. I'll have the forecast there for you on Tuesday.
+
+That's the week. Have a good weekend.
