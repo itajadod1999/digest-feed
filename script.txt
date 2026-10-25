@@ -1,105 +1,147 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[NEW_PHRASE: T'inquiète.]]
+[[IDEA: Frederick Winslow Taylor | Pig iron at Bethlehem Steel, 1899]]
+Good morning. It's Sunday, October twenty-fifth. On Friday night, after Europe's markets had shut, Moody's announced that it would not downgrade France. Almost nobody in the bond market thought France still deserved its rating, and the decision moved nothing. So after a short run through the weekend and the year in numbers, one subject at length: the credit rating of a country. Who decides it, how, and why a verdict the market has already reached still arrives as news.
 
-Starting with markets.
+The weekend first, kept short.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+France got through its second Saturday calmly. The government counted about four hundred and ten thousand marchers, and the main union, eight hundred thousand. There were clashes late in the day in Nantes, Rennes and Marseille, and police broke up a banned march in Lyon with tear gas, but nothing on the scale of the week before. More on that in French shortly.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+Brazil votes today in the runoff between Luiz Inácio Lula da Silva and Flávio Bolsonaro. Mr Bolsonaro led the first round, Mr Lula has closed the gap, and the polls call it neck and neck.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+In the Gulf, Saudi air defences said on Saturday they had intercepted ballistic missiles over Mecca, Medina, Taif and the oil port of Yanbu, according to the Institute for the Study of War's daily tracker. The Houthis claimed strikes on airports, an Aramco site and the East-West pipeline. None of those claims has been confirmed. Brent settled Friday a little under a hundred and seventeen dollars.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+In the West Bank, the Israeli army began demolishing homes in a Palestinian part of Hebron after gunmen killed two Israeli soldiers. The United Nations human rights office called it collective punishment. Israel votes on Tuesday, and Gadi Eisenkot's new party, Yashar, is level with or just ahead of Likud, depending on the poll.
 
-Before we get to deals, a small thing I liked.
+Following up on Starlink. Ukraine said on Friday that the service was working normally again. On Saturday Elon Musk posted a warning aimed at Kyiv: Starlink is a civilian system, in his words, not a means of killing, and any breach of its terms would end the service.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+At home, the Archdiocese of New York has agreed to pay more than eight hundred million dollars to settle the claims of about thirteen hundred people who said they were abused by clergy and lay leaders, which may keep it out of bankruptcy.
 
-Moving to deals and credit.
+Halloween has reached the legal department. Reese's peanut butter pumpkins now carry the words Carving not on actual product, after a class action complained that the jack-o'-lantern face on the wrapper never appears on the chocolate. A judge threw the suit out last month. The disclaimer stayed.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+The week ahead is crowded. Israel votes Tuesday. The Fed decides Wednesday, and Apple holds its event in Los Angeles the same day. The European Central Bank meets Thursday. Google, Microsoft and Amazon report. Anthropic is expected to file its public prospectus, and disclosure, Anthropic makes me. And a week from Tuesday, the midterms.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+Now the year to date, Friday's close against the last day of twenty twenty-five.
 
-Now real estate.
+The S and P five hundred, around seventy-six twenty-five, is up about eleven and a half percent on the year, a little less than a week ago. The Nasdaq, near twenty-five thousand nine hundred and fifty, is up a little under twelve, after two losing weeks. The Dow, around fifty-two thousand two hundred, is up a little over eight.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+The ten-year Treasury yield began the year around four point one percent and ended Friday at about four point nine nine. That's roughly ninety basis points higher since January, though eleven lower than a week ago.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+And Brent, which started the year near sixty-one dollars, settled near a hundred and sixteen sixty-five. Up about ninety percent.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+Which brings us to France, and to Friday night.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+Start with what happened. Moody's rates France double-A three, the bottom rung of the double-A range, and on Friday it kept it there, with a warning attached. The Economist had expected a cut. The bond market had arguably cut France long ago. On Wednesday France's ten-year yield touched five point one percent, its highest in twenty-four years, a full one hundred and fifty-nine basis points above Germany. The other two big agencies, Fitch and S and P, both took France down to single-A plus in the autumn of twenty twenty-five. So the question worth an hour of a Sunday is why the opinion of a company in lower Manhattan still gets announced like a court verdict.
 
-Over to technology.
+First, the timing, because it tells you something. Rating changes on European Union governments can only be published on Fridays, after the close of European markets and at least an hour before they reopen on Monday. Each agency has to publish a calendar at the start of the year with the dates it will review each country. That's law, a European regulation from twenty thirteen. It was written after the euro crisis, and after one particularly bad afternoon in November twenty eleven, when S and P sent some subscribers a message, by mistake, suggesting France had been downgraded. French yields jumped before anyone could correct it. Europe's response was to put the agencies on a timetable.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+Now the history, which is older than most people assume.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+In nineteen-oh-nine a Wall Street publisher named John Moody put out a book that graded American railroad bonds with letters. Railroads were the giant borrowers of the age, investors couldn't possibly study all of them, and Moody sold the shortcut. The investors paid for the book. Poor's and Standard Statistics followed, and later merged into S and P. Fitch, in the nineteen-twenties, gave us the scale everyone now uses, from triple-A down to D.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+Two things turned a publishing business into infrastructure.
 
-Over to France.
+The first came from regulators. In the nineteen-thirties, American bank supervisors began telling banks that the bonds they held should be what the agencies called investment grade. In nineteen seventy-five the Securities and Exchange Commission went further, creating an official category of recognised rating agencies, and writing their grades into the rules for how much capital brokers had to hold. From then on, a rating wasn't just advice. It decided who was allowed to buy what.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+The second change was who paid. In the early nineteen-seventies, the agencies switched from charging investors to charging the borrowers being rated. Partly it was the photocopier, which made a subscription easy to share. Partly it was the collapse of the Penn Central railroad in nineteen seventy, which made borrowers eager for a seal of approval. Issuer pays has been the business model ever since, and the conflict in it is the oldest criticism of the industry.
 
-And the Middle East.
+Countries came later. After the Second World War few governments borrowed in international bond markets, and in the mid nineteen-seventies only a handful were rated at all. The boom came in the nineteen-nineties, when emerging markets started issuing bonds abroad, and today S and P rates more than a hundred and thirty sovereigns.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+So how is a country rated? Not by a formula, though there's a scorecard. Moody's looks at four things: the economy's strength, the quality of its institutions and government, its fiscal strength, and its exposure to sudden shocks, from a banking crisis to a war. An analyst writes the case, and a committee votes. The committee is the point. A rating is an opinion that a group of people signs, which is why the agencies' lawyers have for decades described it as protected speech rather than advice.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+Here is where France gets interesting, and it's the part worth carrying away. A country's biggest advantage as a borrower is usually that it owes money in a currency it prints. Japan's debt is more than twice the size of its economy, and Moody's rates it a full notch below France, yet Japan borrows far more cheaply, because no one doubts the Bank of Japan will always have yen. France gave that up in nineteen ninety-nine. It borrows in euros, which it can't create. In that respect France looks less like Britain and more like a very large American state.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+The Belgian economist Paul De Grauwe made the argument in twenty eleven. Countries in a currency union, he said, can suffer a self-fulfilling run. If investors fear a default, yields rise, the debt gets harder to carry, and the fear becomes justified, a spiral a country with its own central bank can usually stop. The euro crisis was his evidence. Then, in July twenty twelve, Mario Draghi said in London that the European Central Bank would do whatever it takes, and Italian and Spanish yields fell without the bank ever using the programme it then announced. The backstop, not the budget, broke the spiral.
 
-One more small thing before the deep dives.
+That backstop still exists, in a newer form, and this is the mechanism that actually matters for France. In twenty twenty-two the central bank created what it calls the Transmission Protection Instrument, which lets it buy a country's bonds if their yields rise in a way it judges disorderly. But it comes with conditions. The country has to be broadly complying with Europe's fiscal rules, among other things. France has been under the European Union's excessive deficit procedure since July twenty twenty-four. So the real question hanging over a five percent French yield isn't Moody's. It's whether Frankfurt would decide France qualifies for rescue, and how much of a fight that would be.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+Now, what the ratings themselves do. A good deal of money is bound by them mechanically. Investment mandates have buckets, double-A or better, single-A or better. The central bank's rules on what banks may pledge as collateral are tied to ratings. Bond indexes sort countries by them. That's why a move across a letter line, from double-A to single-A, matters more than a move within one.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+And it's why Friday mattered less than it looked. Many indexes, the big Bloomberg bond indexes among them, use the middle of the three agencies' ratings. With Fitch and S and P already at single-A plus, France's middle rating was single-A plus before Friday, and it would have stayed single-A plus whichever way Moody's went. The hold keeps France with one double-A, which is worth something to a few mandates written around a single agency, and to French pride. It doesn't move the index.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+Then the record, which is the honest case against the whole system.
 
-Now put that next to private equity, which is running its own version of the same problem.
+The agencies tend to arrive after the market. In October nineteen ninety-seven, S and P rated South Korea double-A minus. By the twenty-second of December, after four downgrades, it was single-B plus, deep in junk. The crisis had happened, and the ratings ran to catch up with it. In two thousand eight it was worse: thousands of mortgage securities rated triple-A were downgraded, and the official inquiry into the crisis called the agencies key enablers of the meltdown. Congress responded in the Dodd-Frank Act by ordering federal agencies to strip references to credit ratings out of their rules, decades after regulators had written them in.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+The opposite complaint comes from governments, and it's the one with a French accent. During the euro crisis, European officials accused the agencies of making the panic worse by downgrading in the middle of it. In twenty eleven the European commissioner in charge of financial regulation proposed letting regulators suspend ratings on countries receiving bailouts. His name was Michel Barnier. Thirteen years later, as prime minister, he lost a confidence vote, and nine days later Moody's cut France to where it stands now.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+The agencies' defence is that their ratings rank risk well over long periods. In their own decades-long studies, governments rated higher really have defaulted less often than those rated lower, and countries default rarely enough that a few late calls get a lot of attention. Its job, they'd say, is to be slow and stable, so the money tied to it doesn't lurch with every headline.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+There's a harder test of their influence. When S and P took America's triple-A away in August twenty eleven, on a Friday night, Treasury yields fell the following week. Investors bought the very bonds that had been downgraded, because in a panic there was still nowhere safer to go. A rating didn't tell the market anything; the market had its own view of what safe meant. Moody's, the last of the three, took the American triple-A away in May twenty twenty-five, and after a brief wobble, the market moved on.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+So what would make France's rating matter again? Three things to watch. Whether Paris passes a budget that convinces anyone, under a government that has spent the month on curfews. What Fitch and S and P do at their next scheduled Fridays, because the index rating moves only if both of them cut again. And above all, whether the spread over Germany keeps widening, because the further it goes, the sooner the question shifts from Moody's to Frankfurt.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+Now a minute of French, and then the European news in it.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+How would you say no worries? A friend thanks you for picking up their coffee, or apologises for running late, and you wave it off.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+[[PAUSE:3]]
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+[[FR]]T'inquiète.[[/FR]]
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+[[PAUSE]]
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+[[FR]]T'inquiète.[[/FR]]
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+It's the longer don't-worry phrase with the front and back chopped off, the way people actually say it. The trap is translating no worries noun for noun. Don't say this:
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+[[FR]]Pas d'inquiétudes.[[/FR]]
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+To a French ear, that sounds like a doctor reading out your test results.
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+In a sentence. A friend texts that they're stuck on the metro and will be twenty minutes late.
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+[[FR]]T'inquiète, je suis en terrasse, prends ton temps.[[/FR]]
 
-One last small thing before the close, and it is an old one.
+Or someone apologises for forgetting to pay you back.
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+[[FR]]Ah, t'inquiète, tu me le rends quand tu veux.[[/FR]]
+
+Now three cold.
+
+You missed the last train. Oh well.
+
+[[PAUSE:3]]
+
+[[FR]]Tant pis.[[/FR]]
+
+Finding an apartment in Paris has been a nightmare.
+
+[[PAUSE:3]]
+
+[[FR]]C'est la galère.[[/FR]]
+
+A friend says the new boss is a nightmare, and you're not surprised in the slightest.
+
+[[PAUSE:3]]
+
+[[FR]]Tu m'étonnes.[[/FR]]
+
+So, to France, the morning after the second Saturday.
+
+[[FR]]En France, la deuxième journée de mobilisation s'est déroulée dans le calme. Quatre cent dix mille manifestants selon les autorités, huit cent mille selon la CGT, contre la vie chère, en soutien aux lycéens ou pour les libertés publiques. Il y a eu des heurts en fin de journée à Nantes, à Rennes et à Marseille, et à Lyon, le cortège interdit a été dispersé au gaz lacrymogène. Mais rien de comparable avec le dix-sept octobre.[[/FR]]
+
+[[FR]]À Orléans, le Rassemblement national tenait son congrès, sous haute surveillance. En face, une manifestation antifasciste, grave, mais marquée, selon Le Monde, par les divisions de la gauche.[[/FR]]
+
+[[FR]]L'enquête sur l'attentat de Trappes avance. D'après Le Monde, le tireur présumé a dit aux policiers qu'il voulait venger les commerçants pillés le dix-sept octobre, et qu'il avait choisi ses cibles selon leur couleur de peau. Un exemplaire de Mein Kampf a été retrouvé chez lui. Une personne est morte, cinq ont été blessées.[[/FR]]
+
+[[FR]]Dans le Doubs, Pontarlier, dix-huit mille habitants, manque d'eau à un point inédit. La population est invitée à la sobriété, et les autorités n'excluent plus une coupure générale. Et ce soir, le Stade de France accueille le premier match de saison régulière de la NFL à Paris, malgré les manifestations.[[/FR]]
+
+[[FR]]Ailleurs en Europe, le sommet entre l'Union européenne et les pays du Golfe, prévu samedi en Arabie saoudite, a été reporté. La Banque centrale européenne se réunit jeudi. Et l'Europe est passée à l'heure d'hiver cette nuit. Les États-Unis, eux, attendront dimanche prochain.[[/FR]]
+
+Back in English, and one idea before we finish.
+
+In nineteen eleven, Frederick Winslow Taylor published The Principles of Scientific Management, and its most famous story is about pig iron. At Bethlehem Steel in eighteen ninety-nine, he wrote, men loading ninety-two pound iron bars onto rail cars were moving about twelve and a half tons a day each. Taylor timed every motion with a stopwatch, worked out exactly when a man should rest, and claimed a well-chosen worker could load forty-seven and a half. His star was a Pennsylvania Dutchman he called Schmidt, who hit the target and was paid a dollar eighty-five a day instead of a dollar fifteen.
+
+The circumstance explains the zeal. Taylor had been a gang boss at Midvale Steel in Philadelphia in the eighteen-eighties, where he fought for years with machinists who deliberately kept output low so the piece rate wouldn't be cut. He came to see that as the central waste of industry, and the stopwatch as the cure: replace the foreman's guesswork, and the workers' own, with measurement.
+
+The complication is that the story doesn't survive close reading. In nineteen seventy-four, two management scholars, Charles Wrege and Amedeo Perroni, went back to the Bethlehem records and found the experiment smaller and messier than the book: many of the men chosen dropped out, and the numbers were polished in the retelling. Taylor himself was let go by Bethlehem in nineteen-oh-one. Workers hated the method enough that, after a strike at a federal arsenal, Congress banned stopwatch time studies in government arsenals for decades. Whether Taylor discovered something real about work, or mostly a new way to argue about who controls it, his admirers and critics have never agreed.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+A properly gorgeous Sunday in New York: sunny, a high near sixty-six, light winds, and a clear night down to about fifty. Monday is even better, sunny and near seventy, before a cooler Tuesday in the low sixties.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+The Sixers are three and oh. Joel Embiid had a triple-double last night, twenty-eight points, eleven rebounds and ten assists, in a hundred and twenty-seven to a hundred and sixteen win over Milwaukee. They host Detroit tonight at seven thirty. The Knicks have Orlando at the Garden at seven, and the Raptors are in Minnesota at the same hour.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+And one useful note: Europe set its clocks back last night, so for the next week Paris is only five hours ahead, not six.
 
-That's the morning. Have a good one.
+That's the long read. Enjoy the Sunday.
