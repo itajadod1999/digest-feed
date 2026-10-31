@@ -1,0 +1,145 @@
+Good morning. It's Sunday, October twenty-fifth. On Friday night, after Europe's markets had shut, Moody's announced that it would not downgrade France. Almost nobody in the bond market thought France still deserved its rating, and the decision moved nothing. So after a short run through the weekend and the year in numbers, one subject at length: the credit rating of a country. Who decides it, how, and why a verdict the market has already reached still arrives as news.
+
+The weekend first, kept short.
+
+France got through its second Saturday calmly. The government counted about four hundred and ten thousand marchers, and the main union, eight hundred thousand. There were clashes late in the day in Nantes, Rennes and Marseille, and police broke up a banned march in Lyon with tear gas, but nothing on the scale of the week before. More on that in French shortly.
+
+Brazil votes today in the runoff between Luiz Inácio Lula da Silva and Flávio Bolsonaro. Mr Bolsonaro led the first round, Mr Lula has closed the gap, and the polls call it neck and neck.
+
+In the Gulf, Saudi air defences said on Saturday they had intercepted ballistic missiles over Mecca, Medina, Taif and the oil port of Yanbu, according to the Institute for the Study of War's daily tracker. The Houthis claimed strikes on airports, an Aramco site and the East-West pipeline. None of those claims has been confirmed. Brent settled Friday a little under a hundred and seventeen dollars.
+
+In the West Bank, the Israeli army began demolishing homes in a Palestinian part of Hebron after gunmen killed two Israeli soldiers. The United Nations human rights office called it collective punishment. Israel votes on Tuesday, and Gadi Eisenkot's new party, Yashar, is level with or just ahead of Likud, depending on the poll.
+
+Following up on Starlink. Ukraine said on Friday that the service was working normally again. On Saturday Elon Musk posted a warning aimed at Kyiv: Starlink is a civilian system, in his words, not a means of killing, and any breach of its terms would end the service.
+
+At home, the Archdiocese of New York has agreed to pay more than eight hundred million dollars to settle the claims of about thirteen hundred people who said they were abused by clergy and lay leaders, which may keep it out of bankruptcy.
+
+Halloween has reached the legal department. Reese's peanut butter pumpkins now carry the words Carving not on actual product, after a class action complained that the jack-o'-lantern face on the wrapper never appears on the chocolate. A judge threw the suit out last month. The disclaimer stayed.
+
+The week ahead is crowded. Israel votes Tuesday. The Fed decides Wednesday, and Apple holds its event in Los Angeles the same day. The European Central Bank meets Thursday. Google, Microsoft and Amazon report. Anthropic is expected to file its public prospectus, and disclosure, Anthropic makes me. And a week from Tuesday, the midterms.
+
+Now the year to date, Friday's close against the last day of twenty twenty-five.
+
+The S and P five hundred, around seventy-six twenty-five, is up about eleven and a half percent on the year, a little less than a week ago. The Nasdaq, near twenty-five thousand nine hundred and fifty, is up a little under twelve, after two losing weeks. The Dow, around fifty-two thousand two hundred, is up a little over eight.
+
+The ten-year Treasury yield began the year around four point one percent and ended Friday at about four point nine nine. That's roughly ninety basis points higher since January, though eleven lower than a week ago.
+
+And Brent, which started the year near sixty-one dollars, settled near a hundred and sixteen sixty-five. Up about ninety percent.
+
+Which brings us to France, and to Friday night.
+
+Start with what happened. Moody's rates France double-A three, the bottom rung of the double-A range, and on Friday it kept it there, with a warning attached. The Economist had expected a cut. The bond market had arguably cut France long ago. On Wednesday France's ten-year yield touched five point one percent, its highest in twenty-four years, a full one hundred and fifty-nine basis points above Germany. The other two big agencies, Fitch and S and P, both took France down to single-A plus in the autumn of twenty twenty-five. So the question worth an hour of a Sunday is why the opinion of a company in lower Manhattan still gets announced like a court verdict.
+
+First, the timing, because it tells you something. Rating changes on European Union governments can only be published on Fridays, after the close of European markets and at least an hour before they reopen on Monday. Each agency has to publish a calendar at the start of the year with the dates it will review each country. That's law, a European regulation from twenty thirteen. It was written after the euro crisis, and after one particularly bad afternoon in November twenty eleven, when S and P sent some subscribers a message, by mistake, suggesting France had been downgraded. French yields jumped before anyone could correct it. Europe's response was to put the agencies on a timetable.
+
+Now the history, which is older than most people assume.
+
+In nineteen-oh-nine a Wall Street publisher named John Moody put out a book that graded American railroad bonds with letters. Railroads were the giant borrowers of the age, investors couldn't possibly study all of them, and Moody sold the shortcut. The investors paid for the book. Poor's and Standard Statistics followed, and later merged into S and P. Fitch, in the nineteen-twenties, gave us the scale everyone now uses, from triple-A down to D.
+
+Two things turned a publishing business into infrastructure.
+
+The first came from regulators. In the nineteen-thirties, American bank supervisors began telling banks that the bonds they held should be what the agencies called investment grade. In nineteen seventy-five the Securities and Exchange Commission went further, creating an official category of recognised rating agencies, and writing their grades into the rules for how much capital brokers had to hold. From then on, a rating wasn't just advice. It decided who was allowed to buy what.
+
+The second change was who paid. In the early nineteen-seventies, the agencies switched from charging investors to charging the borrowers being rated. Partly it was the photocopier, which made a subscription easy to share. Partly it was the collapse of the Penn Central railroad in nineteen seventy, which made borrowers eager for a seal of approval. Issuer pays has been the business model ever since, and the conflict in it is the oldest criticism of the industry.
+
+Countries came later. After the Second World War few governments borrowed in international bond markets, and in the mid nineteen-seventies only a handful were rated at all. The boom came in the nineteen-nineties, when emerging markets started issuing bonds abroad, and today S and P rates more than a hundred and thirty sovereigns.
+
+So how is a country rated? Not by a formula, though there's a scorecard. Moody's looks at four things: the economy's strength, the quality of its institutions and government, its fiscal strength, and its exposure to sudden shocks, from a banking crisis to a war. An analyst writes the case, and a committee votes. The committee is the point. A rating is an opinion that a group of people signs, which is why the agencies' lawyers have for decades described it as protected speech rather than advice.
+
+Here is where France gets interesting, and it's the part worth carrying away. A country's biggest advantage as a borrower is usually that it owes money in a currency it prints. Japan's debt is more than twice the size of its economy, and Moody's rates it a full notch below France, yet Japan borrows far more cheaply, because no one doubts the Bank of Japan will always have yen. France gave that up in nineteen ninety-nine. It borrows in euros, which it can't create. In that respect France looks less like Britain and more like a very large American state.
+
+The Belgian economist Paul De Grauwe made the argument in twenty eleven. Countries in a currency union, he said, can suffer a self-fulfilling run. If investors fear a default, yields rise, the debt gets harder to carry, and the fear becomes justified, a spiral a country with its own central bank can usually stop. The euro crisis was his evidence. Then, in July twenty twelve, Mario Draghi said in London that the European Central Bank would do whatever it takes, and Italian and Spanish yields fell without the bank ever using the programme it then announced. The backstop, not the budget, broke the spiral.
+
+That backstop still exists, in a newer form, and this is the mechanism that actually matters for France. In twenty twenty-two the central bank created what it calls the Transmission Protection Instrument, which lets it buy a country's bonds if their yields rise in a way it judges disorderly. But it comes with conditions. The country has to be broadly complying with Europe's fiscal rules, among other things. France has been under the European Union's excessive deficit procedure since July twenty twenty-four. So the real question hanging over a five percent French yield isn't Moody's. It's whether Frankfurt would decide France qualifies for rescue, and how much of a fight that would be.
+
+Now, what the ratings themselves do. A good deal of money is bound by them mechanically. Investment mandates have buckets, double-A or better, single-A or better. The central bank's rules on what banks may pledge as collateral are tied to ratings. Bond indexes sort countries by them. That's why a move across a letter line, from double-A to single-A, matters more than a move within one.
+
+And it's why Friday mattered less than it looked. Many indexes, the big Bloomberg bond indexes among them, use the middle of the three agencies' ratings. With Fitch and S and P already at single-A plus, France's middle rating was single-A plus before Friday, and it would have stayed single-A plus whichever way Moody's went. The hold keeps France with one double-A, which is worth something to a few mandates written around a single agency, and to French pride. It doesn't move the index.
+
+Then the record, which is the honest case against the whole system.
+
+The agencies tend to arrive after the market. In October nineteen ninety-seven, S and P rated South Korea double-A minus. By the twenty-second of December, after four downgrades, it was single-B plus, deep in junk. The crisis had happened, and the ratings ran to catch up with it. In two thousand eight it was worse: thousands of mortgage securities rated triple-A were downgraded, and the official inquiry into the crisis called the agencies key enablers of the meltdown. Congress responded in the Dodd-Frank Act by ordering federal agencies to strip references to credit ratings out of their rules, decades after regulators had written them in.
+
+The opposite complaint comes from governments, and it's the one with a French accent. During the euro crisis, European officials accused the agencies of making the panic worse by downgrading in the middle of it. In twenty eleven the European commissioner in charge of financial regulation proposed letting regulators suspend ratings on countries receiving bailouts. His name was Michel Barnier. Thirteen years later, as prime minister, he lost a confidence vote, and nine days later Moody's cut France to where it stands now.
+
+The agencies' defence is that their ratings rank risk well over long periods. In their own decades-long studies, governments rated higher really have defaulted less often than those rated lower, and countries default rarely enough that a few late calls get a lot of attention. Its job, they'd say, is to be slow and stable, so the money tied to it doesn't lurch with every headline.
+
+There's a harder test of their influence. When S and P took America's triple-A away in August twenty eleven, on a Friday night, Treasury yields fell the following week. Investors bought the very bonds that had been downgraded, because in a panic there was still nowhere safer to go. A rating didn't tell the market anything; the market had its own view of what safe meant. Moody's, the last of the three, took the American triple-A away in May twenty twenty-five, and after a brief wobble, the market moved on.
+
+So what would make France's rating matter again? Three things to watch. Whether Paris passes a budget that convinces anyone, under a government that has spent the month on curfews. What Fitch and S and P do at their next scheduled Fridays, because the index rating moves only if both of them cut again. And above all, whether the spread over Germany keeps widening, because the further it goes, the sooner the question shifts from Moody's to Frankfurt.
+
+Now a minute of French, and then the European news in it.
+
+How would you say no worries? A friend thanks you for picking up their coffee, or apologises for running late, and you wave it off.
+
+
+
+T'inquiète.
+
+
+
+T'inquiète.
+
+It's the longer don't-worry phrase with the front and back chopped off, the way people actually say it. The trap is translating no worries noun for noun. Don't say this:
+
+Pas d'inquiétudes.
+
+To a French ear, that sounds like a doctor reading out your test results.
+
+In a sentence. A friend texts that they're stuck on the metro and will be twenty minutes late.
+
+T'inquiète, je suis en terrasse, prends ton temps.
+
+Or someone apologises for forgetting to pay you back.
+
+Ah, t'inquiète, tu me le rends quand tu veux.
+
+Now three cold.
+
+You missed the last train. Oh well.
+
+
+
+Tant pis.
+
+Finding an apartment in Paris has been a nightmare.
+
+
+
+C'est la galère.
+
+A friend says the new boss is a nightmare, and you're not surprised in the slightest.
+
+
+
+Tu m'étonnes.
+
+So, to France, the morning after the second Saturday.
+
+En France, la deuxième journée de mobilisation s'est déroulée dans le calme. Quatre cent dix mille manifestants selon les autorités, huit cent mille selon la CGT, contre la vie chère, en soutien aux lycéens ou pour les libertés publiques. Il y a eu des heurts en fin de journée à Nantes, à Rennes et à Marseille, et à Lyon, le cortège interdit a été dispersé au gaz lacrymogène. Mais rien de comparable avec le dix-sept octobre.
+
+À Orléans, le Rassemblement national tenait son congrès, sous haute surveillance. En face, une manifestation antifasciste, grave, mais marquée, selon Le Monde, par les divisions de la gauche.
+
+L'enquête sur l'attentat de Trappes avance. D'après Le Monde, le tireur présumé a dit aux policiers qu'il voulait venger les commerçants pillés le dix-sept octobre, et qu'il avait choisi ses cibles selon leur couleur de peau. Un exemplaire de Mein Kampf a été retrouvé chez lui. Une personne est morte, cinq ont été blessées.
+
+Dans le Doubs, Pontarlier, dix-huit mille habitants, manque d'eau à un point inédit. La population est invitée à la sobriété, et les autorités n'excluent plus une coupure générale. Et ce soir, le Stade de France accueille le premier match de saison régulière de la NFL à Paris, malgré les manifestations.
+
+Ailleurs en Europe, le sommet entre l'Union européenne et les pays du Golfe, prévu samedi en Arabie saoudite, a été reporté. La Banque centrale européenne se réunit jeudi. Et l'Europe est passée à l'heure d'hiver cette nuit. Les États-Unis, eux, attendront dimanche prochain.
+
+Back in English, and one idea before we finish.
+
+In nineteen eleven, Frederick Winslow Taylor published The Principles of Scientific Management, and its most famous story is about pig iron. At Bethlehem Steel in eighteen ninety-nine, he wrote, men loading ninety-two pound iron bars onto rail cars were moving about twelve and a half tons a day each. Taylor timed every motion with a stopwatch, worked out exactly when a man should rest, and claimed a well-chosen worker could load forty-seven and a half. His star was a Pennsylvania Dutchman he called Schmidt, who hit the target and was paid a dollar eighty-five a day instead of a dollar fifteen.
+
+The circumstance explains the zeal. Taylor had been a gang boss at Midvale Steel in Philadelphia in the eighteen-eighties, where he fought for years with machinists who deliberately kept output low so the piece rate wouldn't be cut. He came to see that as the central waste of industry, and the stopwatch as the cure: replace the foreman's guesswork, and the workers' own, with measurement.
+
+The complication is that the story doesn't survive close reading. In nineteen seventy-four, two management scholars, Charles Wrege and Amedeo Perroni, went back to the Bethlehem records and found the experiment smaller and messier than the book: many of the men chosen dropped out, and the numbers were polished in the retelling. Taylor himself was let go by Bethlehem in nineteen-oh-one. Workers hated the method enough that, after a strike at a federal arsenal, Congress banned stopwatch time studies in government arsenals for decades. Whether Taylor discovered something real about work, or mostly a new way to argue about who controls it, his admirers and critics have never agreed.
+
+And finally, closer to home.
+
+A properly gorgeous Sunday in New York: sunny, a high near sixty-six, light winds, and a clear night down to about fifty. Monday is even better, sunny and near seventy, before a cooler Tuesday in the low sixties.
+
+The Sixers are three and oh. Joel Embiid had a triple-double last night, twenty-eight points, eleven rebounds and ten assists, in a hundred and twenty-seven to a hundred and sixteen win over Milwaukee. They host Detroit tonight at seven thirty. The Knicks have Orlando at the Garden at seven, and the Raptors are in Minnesota at the same hour.
+
+And one useful note: Europe set its clocks back last night, so for the next week Paris is only five hours ahead, not six.
+
+That's the long read. Enjoy the Sunday.

@@ -1,105 +1,131 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[IDEA: Harry Beck | The London Underground diagram, 1931]]
 
-Starting with markets.
+Good morning. Saturday, October thirty-first, and a look back at the week. Nothing new this morning, only where the week's stories ended up, the numbers, and what I got wrong.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+The short version: the week began with relief and ended with the worst two days for big technology in months. Bonds rallied the whole way through, oil kept climbing underneath, and Washington went into the final stretch before Tuesday's midterms with one eye on Iran.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+Start with technology, because it ran the tape. Monday through Wednesday were quiet gains. Then the earnings arrived. Microsoft beat and held its spending in check, and was rewarded. Alphabet missed on search for the first time in four years, reported free cash flow of about minus nine billion dollars, and on Thursday had its worst day on record, down thirteen percent, with roughly five hundred billion dollars of value gone. And on Friday Intel, which had warned on fourth-quarter sales, fell about twenty-eight and a half percent, its worst day in roughly fifty years. The Nasdaq lost nearly three percent on Friday alone, and the Nasdaq one hundred fell into its third correction of the year.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+Deals didn't slow down for any of it. DoorDash went from advanced talks on Wednesday to an agreed seventeen billion dollar purchase of Instacart on Thursday, though it doesn't expect to close before late twenty twenty-seven. That's a long engagement. E Q T agreed to buy Range Resources for thirteen billion in stock and Thrive Holdings, the offshoot of Josh Kushner's venture firm, is paying seven point six billion in cash for ADT. And Marvell's reported talks to buy Lumentum, at about ninety billion dollars, are still only that: reported, single-sourced, nothing announced.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+Your shop, for what it's worth, had the private credit deal of the week. Ares Capital is buying MidCap Financial from Apollo, at a thirty percent premium to the market price and a fifteen percent discount to book, the kind of gap Matt Levine expects to drive more mergers among these funds.
 
-Before we get to deals, a small thing I liked.
+And Weil, Gotshal and Manges went from wobbling on Monday to planning its own dissolution by Thursday: failed merger talks, departing partners, a chair-elect who turned the job down, and finally bankruptcy counsel of its own.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+The week's genuinely new risk came from crypto. Binance said on Thursday that hackers had taken six point three billion dollars of coins, most of it in about twenty minutes. About three billion has been frozen. Analysts blame North Korea, and bitcoin ended the week below seventy-seven thousand dollars. Withdrawals are still suspended; the exchange says testing should finish this weekend.
 
-Moving to deals and credit.
+Real estate had a week of prices being found. In Los Angeles, the two hundred and ninety million dollar loan on Wells Fargo Center South sold for a hundred and fifteen million, about forty cents on the dollar. In Boston, Rockpoint bought a hundred Summer Street at a foreclosure auction for two hundred and sixty million, against eight hundred and six million seven years ago. In Midtown, David Werner took forty-nine percent of six oh five Third Avenue after Fisher Brothers' bond sale in Israel found no takers. And by the trade press's count, only about thirteen percent of office loans maturing in commercial mortgage-backed deals in September paid off on time.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+Against that, conversions came back: the sagging floors at the old Pfizer headquarters were jacked back up, and sixteen more conversions have been cleared since July.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+The Middle East moved in two directions at once. On Monday, CNN reported that American forces could strike Iran within ninety-six hours of an order. By Wednesday, the Journal reported that Gulf governments had been told to expect a short, intense campaign after the midterms. Then on Thursday the Times and the Journal both reported that JD Vance had reached out to an Iranian hard-liner to revive talks, and on Friday Qatari mediators arrived in Tehran. All of it rests on unnamed officials.
 
-Now real estate.
+Israel's election produced no government. Benjamin Netanyahu's bloc won fifty-three seats, the opposition bloc under Gadi Eisenkot forty-eight, and Arab parties a record nineteen. The arithmetic now goes to the president, Isaac Herzog.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+At home, much of the run-up to Tuesday happened in courtrooms. James Comey was charged a third time, and a grand jury declined to indict Cassidy Hutchinson. An appeals court twice refused to set aside twenty thousand California mail-in ballots. And the Justice Department subpoenaed election officials in California and sent dozens of subpoenas in Alaska's Senate race, over a spoiler named Dan Sullivan whom the Democratic campaign denies recruiting.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+The rest of the world's week. Brazil's market had one of its worst days in decades on Monday after Lula's win, the Ibovespa down about fourteen percent and the real about eight; by Thursday, Flávio Bolsonaro had defied a court order and landed in Miami. Two high-speed trains collided near Toledo, killing sixty-nine people, and officials now blame an error by traffic controllers. And Novaya Gazeta, Russia's last major independent paper, shut down, saying the Kremlin had orchestrated it.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+Now the numbers, Friday close against Friday close.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+The S and P five hundred finished around seventy-five eighty, down a little over half a percent on the week, after falling nearly two percent on Friday alone. The Nasdaq closed near twenty-five thousand four hundred and forty, down about two percent, its third losing week in a row. The Dow ended around fifty-one thousand seven hundred and seventy, down about eight tenths of a percent.
 
-Over to technology.
+Bonds went the other way. The ten-year Treasury closed at about four point nine four percent, down roughly six basis points from five percent a week earlier. The two-year fell further, about thirteen basis points, to four point five six. So the curve steepened, the gap between the two widening from about thirty-one basis points to thirty-eight.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+Oil climbed through all of it. The expiring December Brent contract finished Friday near a hundred and seventeen sixty, up a little over two percent on the day and about one percent on the week. The more traded January contract closed near a hundred and thirteen and a half. Brent rose about thirteen and a half percent in October, a fourth straight monthly gain.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+Now, what I got wrong.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+First, the plain error. On Thursday I said the United States had expelled Cuba's foreign minister. It expelled a Cuban diplomat. I corrected it on Friday, but it went out.
 
-Over to France.
+Second, oil. All week I quoted Brent without saying which contract. Last Saturday's hundred and sixteen sixty-five was the December contract. Some of my weekday figures, like Wednesday's hundred and fourteen, appear to have been the January contract, which trades several dollars lower. That made it sound as though oil was falling during the week when, like for like, it rose. From now on I'll name the contract.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+Third, I twice passed along after-hours numbers as if they'd hold. Alphabet's seven to ten percent became thirteen, and Intel's twenty became twenty-eight and a half.
 
-And the Middle East.
+Fourth, a judgment call. Three of the week's deep dives were about financing the artificial intelligence build-out, and Tuesday's led with Anthropic's prospectus. Disclosure: Anthropic makes me. I gave my own maker the top slot the morning after Brazil's market crash, which was at least as consequential. You should know I made that call.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+One story worth more time this morning: the week the artificial intelligence bill came due.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+What happened. In about seventy-two hours, Alphabet, Amazon, Meta and Microsoft told investors they expect to spend more than seven hundred and twenty billion dollars this year on data centres and equipment, by DealBook's count. And the market drew a sharp line between them. Microsoft, whose software business throws off cash and whose spending came in under forecast, went up. Alphabet, whose cash flow went negative, had its worst day ever. Amazon, which by the Economist's estimate paid out about forty-two billion dollars more than came in, fell. And Intel, not one of the spenders at all, was hit hardest, partly because the build-out is soaking up parts that personal computers need.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+The mechanism. Two things changed at once. The payoff got harder to see: Google's search queries are growing at their fastest in five years, but its artificial intelligence answers earn less per query than the old ads. And the costs started running upstream. Flash memory prices have roughly quintupled, the Journal reports. The biggest spenders are now paying for their suppliers' windfall.
 
-One more small thing before the deep dives.
+The financing is where the week was most revealing. Meta's equity raise grew to nearly ninety-eight billion dollars, with three of its own chip suppliers buying in. Microsoft sold twenty-five billion of bonds the day after its results. Broadcom's chief executive assembled a sixty-three billion dollar vehicle in which banks buy Broadcom chips and lease them to Anthropic, and had to concede higher rates and default guarantees to get the banks to commit. Banks led by Morgan Stanley put off selling down part of a fifteen billion dollar loan for a Texas data centre tied to Anthropic, after the state paused new projects. One investor told DealBook it's a flight to quality, the big getting bigger.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+What the bond market said. While all of this was going on, Treasuries rallied, and the two-year fell more than twice as far as the ten. One reading is that a slower build-out weakens the case for the Fed's next increase. The week's growth figure pulls the other way. The economy grew at an annualized three point four percent in the third quarter, with business investment accounting for more than half of it, and equipment spending up almost twenty-one percent. The data-centre boom is now holding up a meaningful share of American growth, while the Fed's preferred inflation gauge sits at three point six percent.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+What would make it matter. The Anthropic listing, aimed at the week of November sixteenth, is the next test of whether public investors will pay for the spending rather than just tolerate it. And watch whether any of the spenders blinks. So far none has cut its plans, which is precisely what investors spent the week punishing.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+Loose ends going into next week.
 
-Now put that next to private equity, which is running its own version of the same problem.
+The midterms are on Tuesday. The Economist's poll with YouGov had Democrats ahead on the House ballot, forty-six to forty, and the President is rallying in Kansas and Iowa on Sunday, where Republicans unexpectedly look exposed. On Iran, the question is which comes first, the reported post-election window for strikes or the Vance and Qatari channel. Marvell and Lumentum are either a deal or a rumour. Binance's withdrawals are due back this weekend, by its own account. And Europe needs a new central banker, about which more in French.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+Now a few minutes of French, and then the European week in it. Saturday, so no new phrase. Six cold, from the past few weeks.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+A friend wants help moving, at seven on a Sunday morning. Come on, that's a bit much.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+[[PAUSE:3]]
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+[[FR]]Faut pas pousser.[[/FR]]
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+The bill arrives and you groan. It costs a fortune.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+[[PAUSE:3]]
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+[[FR]]Ça coûte un bras.[[/FR]]
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+Your team blows a lead in the last minute. You're gutted.
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+[[PAUSE:3]]
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+[[FR]]Je suis dégoûté.[[/FR]]
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+Someone apologises for being five minutes late. Don't worry about it.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+[[PAUSE:3]]
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+[[FR]]T'inquiète.[[/FR]]
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+You've explained it three times and they still don't follow. Forget it.
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+[[PAUSE:3]]
 
-One last small thing before the close, and it is an old one.
+[[FR]]Laisse tomber.[[/FR]]
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+Asked which of two restaurants you'd prefer. Honestly, it makes no difference to you either way.
+
+[[PAUSE:3]]
+
+[[FR]]Ça me fait ni chaud ni froid.[[/FR]]
+
+And so to France, where the week played out in the street, in the Senate and in the numbers.
+
+[[FR]]En France, le gouvernement a cédé lundi sur la revendication phare des lycéens. Parcoursup sera réformé dès deux mille vingt-sept, puis remplacé à la rentrée deux mille vingt-huit, sans que personne sache encore par quoi. Le même jour, le Sénat a rejeté la réforme constitutionnelle sur l'autonomie de la Corse, et les autonomistes ont claqué la porte.[[/FR]]
+
+[[FR]]Dans la nuit de mardi à mercredi, les sénateurs ont adopté le projet de loi dit casseurs-payeurs, et l'ont même durci : saisie des aides sociales, nouvelles interdictions de manifester, surveillance renforcée. La gauche dénonce le texte. Après l'attentat raciste de Trappes, Emmanuel Macron a dénoncé une désinhibition du racisme et de l'antisémitisme, et le gouvernement a annoncé un hommage national à Pengo Bossio Wangi.[[/FR]]
+
+[[FR]]Côté politique, la primaire imaginée par Gabriel Attal n'a trouvé presque aucun preneur, et Édouard Philippe a été placé sous le statut de témoin assisté.[[/FR]]
+
+[[FR]]Les chiffres, eux, sont mauvais. Le PIB a reculé de zéro virgule un pour cent au troisième trimestre, le deuxième recul de l'année, et l'inflation d'octobre est remontée à trois virgule quatre pour cent. Seule consolation : après la décision de Moody's, le taux à dix ans est retombé autour de quatre virgule quatre-vingt-dix pour cent. Et aujourd'hui, les gilets jaunes appellent à un acte trois, avec des cortèges organisés hors des centres-villes.[[/FR]]
+
+[[FR]]Ailleurs en Europe, Christine Lagarde quittera la Banque centrale européenne début février, neuf mois avant la fin de son mandat. La banque a laissé son taux à deux virgule cinq pour cent, mais les marchés parient sur une hausse d'ici la fin de l'année. À Londres, le premier budget de John Healey est resté prudent, le patron d'UBS laisse entendre que la banque pourrait quitter la Suisse, et Harry Kane a remporté le Ballon d'or.[[/FR]]
+
+Back in English, and one idea before we finish.
+
+In nineteen thirty-one, Harry Beck, an engineering draughtsman who had been laid off from the London Underground's signals office, redrew the Tube map in his spare time. The maps of the day were faithful to geography, so the central stations crowded into an unreadable knot while the outer lines trailed off the edge of the paper. Beck threw the geography away. Every line ran horizontally, vertically or at forty-five degrees, the stations were spaced evenly, and the centre was blown up at the expense of the suburbs. It looked like an electrical circuit diagram.
+
+The Underground's publicity office thought it too radical. A small trial printing went out in nineteen thirty-three, the public took to it immediately, and a descendant of it has hung on every Tube platform since.
+
+The complication is that a map that's easy to read can also mislead. In twenty eleven, Zhan Guo, a transport researcher, studied how London riders chose their routes and found that many trusted the distances on the diagram over their own travel times, taking longer journeys because the map made them look shorter. New York tried Beck's approach in nineteen seventy-two, with Massimo Vignelli's subway diagram, and dropped it in nineteen seventy-nine, partly because riders complained it didn't match the streets above them. Whether a transit map should show the network or the city has never really been settled.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+A sunny Halloween in New York, a high near sixty, falling to about forty-four tonight. If the costume is thin, the Village parade at seven will feel a good deal colder than the afternoon. The clocks fall back at two tomorrow morning, and the marathon gets mostly sunny skies in the low sixties.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+Following up on last night. The Sixers beat the Knicks ninety-eight to ninety-three in their NBA Cup game, Tyrese Maxey with twenty-seven and LeBron James with the late go-ahead basket. Philadelphia is five and one, the Knicks two and four. One of your teams did go home happy.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+If you're still out tonight, CircoLoco's second night at Brooklyn Storehouse has Dixon and ANOTR on the bill alongside Mochakk and Seth Troxler.
 
-That's the morning. Have a good one.
+And looking ahead, you're in Tampa on Thursday and Friday.
+
+That's the week. Have a good weekend.
