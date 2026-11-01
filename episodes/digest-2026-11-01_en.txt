@@ -1,0 +1,141 @@
+Good morning. It's Sunday, November first. The clocks went back overnight, and the Journal this morning has a line from a trader worth sitting with. Asked why he's buying protection against the artificial intelligence trade, he said, I don't think my house is going to catch on fire, but I still have insurance. The insurance he means is mostly the credit default swap. So after the weekend and the year in numbers, that's today's subject: what a credit default swap actually is, who invented it, how it nearly broke the financial system, and why it's suddenly busy again.
+
+The weekend first, kept short.
+
+Tuesday is the midterms. By Le Monde's count, more than fifty-two million Americans had already voted early, and the Journal cites the ad tracker AdImpact putting total spending near twelve billion dollars, the most expensive midterm cycle on record. The Journal also reports that South Carolina's Senate race, for the seat Darline Graham took over from her late brother Lindsey, is now polling as tied or close to it. And on Friday a federal judge dismissed President Trump's ten billion dollar defamation suit against the Wall Street Journal over its reporting on a birthday note to Jeffrey Epstein.
+
+On Iran, Le Monde reports that President Trump has threatened new strikes on, in his words, one or two sites, including Kolang mountain, the fortified site a couple of kilometres from the Natanz enrichment plant. Iran has denied there is any nuclear facility there. A threat, not an order, and it sits alongside last week's reported channel through JD Vance and Qatar.
+
+Following up on Binance. The Journal reports the exchange has reopened withdrawals after racing to cover its losses, and the Times and Le Monde say the Federal Bureau of Investigation now formally blames North Korea for the six point three billion dollar theft.
+
+Elsewhere. In Ukraine, hundreds of civilians got out of Russian-occupied Oleshky under a rare local truce that the Times says was backed by the pope and by Melania Trump, and Ukraine struck the Kstovo refinery, one of Russia's largest. The United Nations peacekeeping mission in Western Sahara ceased to exist this morning after thirty-five years, because the Security Council, split between Washington and Moscow by Le Monde's account, failed to renew it. In Israel, Benjamin Netanyahu is trying to assemble a coalition from a smaller bloc than he had. And in California, police are searching for a gunman who shot seven people at a Halloween costume store on Friday night, killing a thirty-one-year-old pregnant mother of four.
+
+The week ahead: Apple and Palantir report on Monday, the midterms are Tuesday, the Bank of England decides on Thursday, and Friday brings the October jobs report.
+
+Now the year to date, Friday's close against the last day of twenty twenty-five.
+
+The S and P five hundred, around seventy-five eighty, is up a little under eleven percent on the year, down from eleven and a half a week ago. The Nasdaq, near twenty-five thousand four hundred and forty, is up about nine and a half, after its third losing week in a row. The Dow, around fifty-one thousand seven hundred and seventy, is up a little under eight.
+
+The ten-year Treasury yield started the year at about four point one seven and closed Friday near four point nine four, a little under eighty basis points higher. A correction while I'm at it: last Sunday I put the rise at about ninety. That started from too low a base. The honest figure was closer to eighty then.
+
+Brent, which began the year near sixty-one dollars, has the January contract at about a hundred and thirteen and a half. Up roughly eighty-five percent. And bitcoin, under seventy-seven thousand dollars, is down about twelve percent on the year.
+
+Which brings us to insurance on a house you don't think will burn.
+
+Start with the thing itself. A credit default swap is a contract between two parties about a third party's debt. The buyer pays a fee every quarter, quoted as a spread in basis points per year. Buy ten million dollars of protection on a company at two hundred basis points, and you pay two hundred thousand dollars a year. If nothing goes wrong, the seller keeps the fees and that's it. If the company has what the contract calls a credit event, typically a bankruptcy or a missed payment, the seller pays out the difference between face value and what the debt is now worth. The standard contract runs five years.
+
+So it works like insurance, but with one difference that explains nearly everything that follows. You don't need to own the bond to buy the protection. You can insure your neighbour's house.
+
+Now the history, which starts with an oil spill.
+
+In nineteen eighty-nine the Exxon Valdez ran aground in Alaska. In nineteen ninety-four an Alaskan jury ordered Exxon to pay five billion dollars in punitive damages, and Exxon drew on a credit line of nearly that size from JPMorgan. The bank had a problem. It didn't want to turn away a client that big, but regulators required it to hold capital against the loan, and the loan would tie up a lot of it. So a small team at the bank, including a young banker named Blythe Masters, found a way to keep the loan and give away the risk. They paid the European Bank for Reconstruction and Development a fee to take on the danger of Exxon defaulting. The loan stayed on JPMorgan's books, the risk went to London, and the capital was freed. The journalist Gillian Tett tells this story in her book Fool's Gold, and it's usually treated as the birth of the market.
+
+Three years later the same bank did it at scale. In December nineteen ninety-seven, a structure called Bistro took a pool of about nine point seven billion dollars of loans to more than three hundred companies and transferred the risk on most of it without selling a single loan, by issuing only about seven hundred million dollars of securities against the riskiest slice. Regulators accepted that the rest was safe enough to need very little capital. That was the commercial insight. Banks could make loans, keep the clients, and lease out the risk.
+
+The industry's trade body wrote standard definitions in nineteen ninety-nine, and the market took off. By the end of twenty-oh-seven, by the Bank for International Settlements' count, there were close to sixty trillion dollars of these contracts outstanding. Warren Buffett had already called derivatives like these financial weapons of mass destruction.
+
+Then the house really did catch fire, and the problem turned out to be the insurer.
+
+The insurer American International Group had a unit in London that sold protection, by the hundreds of billions of dollars, on the safest-looking slices of mortgage securities. It collected fees for years, set little aside, because the triple-A rating said it would never pay. When those securities fell in value and the company's own rating was cut in September twenty-oh-eight, its contracts required it to post collateral it didn't have. The Federal Reserve lent it eighty-five billion dollars within days, and the total government commitment eventually reached about a hundred and eighty billion. Much of that money passed straight through to the banks that had bought the protection, Société Générale and Goldman Sachs among them, more than ten billion dollars each, at full face value.
+
+That episode is the strongest case against the swap, and it's worth being precise about what failed. The contract worked as written. What failed was the seller. Insurance companies are regulated so that they reserve against claims. A swap seller, in two thousand and seven, didn't have to reserve against anything.
+
+The same autumn produced the counterexample. When Lehman Brothers went bankrupt, there were roughly seventy-two billion dollars of swaps written on it. Most of it offset, because dealers had traded protection back and forth many times over. An auction in October set Lehman's bonds at about eight and a half cents on the dollar, and the net money that actually had to change hands came to about five point two billion.
+
+So the post-crisis repair targeted the seller and the plumbing, not the idea. In April twenty-oh-nine came what the industry called the Big Bang. Contracts were standardised, so that most American swaps now carry a fixed coupon of either one hundred or five hundred basis points, with an upfront payment to square the difference. A committee of large banks and investors was set up to rule, publicly, on whether a credit event had happened. And the auction that settled Lehman was written into every contract. The next year, the Dodd-Frank Act pushed the standard index contracts into central clearing houses, which demand margin every day. The market today is much smaller. Recent Bank for International Settlements figures put it at under ten trillion dollars.
+
+Europe went further in one corner. During the euro crisis, governments blamed speculators buying swaps on Greek debt they didn't own for driving up Greece's borrowing costs. From the first of November twenty twelve, fourteen years ago today, the European Union banned buying swaps on a government's debt unless you actually hold exposure to it. Greece was eventually restructured that March anyway, the committee ruled it a credit event, and the payout was a modest two and a half billion dollars or so, net.
+
+Now what the cleanup didn't fix.
+
+The first is what the law professors Henry Hu and Bernard Black called the empty creditor. Someone who owns a bond and has bought more protection than the bond is worth makes money if the company fails. So they may vote against a rescue they'd otherwise support. A lender is supposed to want you to survive. An overinsured lender doesn't.
+
+The second is the manufactured default, and the best example is a homebuilder. In twenty eighteen, Blackstone's credit arm offered Hovnanian cheap financing, on one condition: that the company deliberately skip a payment of about one million dollars on a bond held by its own subsidiary. That tiny, arranged default would have triggered a payout on swaps Blackstone owned, at the expense of the funds that had sold them, led by Solus. Solus sued, regulators publicly warned the market, and the sides settled before the payment was missed. The trade body then rewrote the rules in twenty nineteen to exclude what it called narrowly tailored defaults. Nobody thinks it was the last trick.
+
+It ran the other way at Windstream, the telecoms company, in twenty nineteen. A hedge fund, Aurelius, bought its bonds, sued to prove an old transaction had broken their terms, and won, and Windstream filed for bankruptcy weeks later. Aurelius was widely reported to hold more swaps than bonds, which meant it profited from the default it had litigated into being. Wall Street even has a polite name for this: net-short debt activism.
+
+So why is the instrument back in the news?
+
+Because of who's borrowing. The artificial intelligence build-out has turned some of the richest companies in the world into heavy issuers of debt, directly and through off-balance-sheet structures for data centres. Last week alone, Microsoft sold twenty-five billion dollars of bonds. And credit swaps are the cheapest, fastest way to bet on, or protect against, a company's creditworthiness without buying or shorting its bonds. According to Morgan Stanley research cited in the trade press, weekly trading in swaps on a group of the big technology borrowers went from under two billion dollars in July to more than nine billion in September. Oracle, the most indebted of the group and the lowest-rated, has been the centre of it. Lenders to data-centre projects, whose loans are ultimately only as good as the tech tenant that signs the lease, are among the reported buyers. That's Exxon in nineteen ninety-four all over again: keep the client, lease out the risk.
+
+The Journal adds a wrinkle this morning: trading firms are now designing derivatives tied to the price of computing power itself.
+
+Here's the honest case for the swap, and it's a real one. A bank that can buy protection can keep lending to a client it would otherwise have to drop. And the price of protection is a live, public opinion on a company's credit, which, unlike the rating agencies we talked about last Sunday, updates every minute and doesn't wait for a committee. Academic work going back two decades has found swap spreads tend to widen before downgrades arrive.
+
+And the honest case against. When the protection is concentrated, the risk moves rather than disappears, and it tends to move to whoever was paid the most to take it and understood it least. Whether that's a clearing house with good margin rules or a hedge fund selling protection on data-centre tenants for the income is the question the next year will answer.
+
+What would tell you this matters? Watch the spreads on the biggest borrowers against each new financing. Watch whether the protection sellers are banks, hedge funds or insurers. And watch whether anyone tries the Hovnanian trick on a company that's suddenly worth more dead on paper than alive.
+
+Now a minute of French, and then the weekend's European news in it.
+
+How would you say he lost it? Not that he misplaced something. That he completely snapped.
+
+
+
+Il a pété un câble.
+
+
+
+Il a pété un câble.
+
+The picture is a blown cable, the way a circuit shorts out. The trap is translating lost it word for word. Don't say this:
+
+Il l'a perdu.
+
+To a French ear, that sounds like he put his keys down somewhere and can't find them.
+
+In a sentence. A taxi driver screams at a cyclist who cut him off.
+
+Le chauffeur a complètement pété un câble, en pleine rue.
+
+Or you're on the platform and the train's delayed for the third time this week.
+
+Franchement, si le métro tombe encore en panne, je vais péter un câble.
+
+Now three cold.
+
+You run into an old friend you haven't seen in ages.
+
+
+
+Ça fait un bail.
+
+Someone proposes a late dinner after the show. You're in.
+
+
+
+Je suis partant.
+
+Your rent goes up thirty percent overnight. I can't believe it.
+
+
+
+J'hallucine.
+
+And so to France, after a third Saturday in the street.
+
+En France, l'acte trois de la mobilisation contre la vie chère a rassemblé environ cinq cent mille personnes samedi, selon les organisateurs, et trois cent vingt mille selon les autorités. Les cortèges étaient festifs, raconte Le Monde, mais très encadrés, et les manifestants se disent de plus en plus inquiets des entraves et des intimidations. À Marseille, il y a eu des échauffourées après un parcours improvisé, et des couvre-feux partiels étaient en vigueur la nuit dernière dans plusieurs grandes villes.
+
+Depuis ce matin, les retraites complémentaires du privé sont revalorisées, mais le prix du gaz augmente, et une nouvelle taxe frappe les petits colis. Et cet après-midi, les cent quinze bateaux de la Route du Rhum quittent Saint-Malo pour la Guadeloupe, sans plusieurs skippeurs restés à quai, faute de sponsors.
+
+Ailleurs en Europe, Bruxelles demande au président polonais, Karol Nawrocki, de valider la nomination de nouveaux juges au Tribunal constitutionnel. Et en Allemagne, on a manifesté dans une trentaine de villes contre le retour du service militaire.
+
+Back in English, and one idea before we finish.
+
+In seventeen eighty-six, a Scottish engineer named William Playfair published a book called The Commercial and Political Atlas, and in it he did something that now seems too obvious to have needed inventing. He drew England's trade with each of its partners as lines rising and falling across the years, imports in one colour, exports in another, and shaded the gap between them. The book had forty-four of these. One chart is different. For Scotland he couldn't find figures for more than a single year, so he couldn't draw a line through time, and instead he laid out each trading partner as a bar. That was the first bar chart, born of missing data.
+
+The circumstance is the interesting part. Playfair had trained as a draughtsman for James Watt, the steam-engine maker, and he credited his older brother John, a mathematician, with showing him how to plot a series of readings as a line. His argument was that merchants and ministers would never read tables of figures, but would take in a shape at a glance. Fifteen years later he added the pie chart.
+
+The complication is twofold. Britain largely ignored him. Statisticians stuck to tables for decades, he did better in France, and he died poor in eighteen twenty-three, after a career that also included selling Ohio land of doubtful title to French settlers. And whether he really invented the form is disputed. Joseph Priestley had already drawn people's lives as bars along a timeline in seventeen sixty-five, and a fourteenth-century bishop, Nicole Oresme, had sketched quantities as shapes. Where drawing data stops and drawing anything else begins has never had a clean answer.
+
+And finally, closer to home.
+
+A clear, sunny Sunday in New York, a high near sixty-two, falling to about forty-six tonight. Tomorrow is warmer still, near sixty-eight. And with the clocks back, it'll be dark before five, so whatever you're doing outside, do it early.
+
+If you're going out tonight, it's the last night of Brooklyn Storehouse. The Navy Yard warehouse ends its closing Halloween run today, before the building is turned into clean-energy infrastructure.
+
+Looking ahead to Thursday and Friday in Tampa: sunny and around eighty-four, with lows in the mid to high sixties. Leave the jacket.
+
+And an update to last Sunday's note: now that America has fallen back too, Paris is six hours ahead again.
+
+That's the long read. Enjoy the Sunday.
