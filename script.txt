@@ -1,105 +1,140 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[NEW_PHRASE: Ça mange pas de pain.]]
+[[IDEA: Donald Shoup | The High Cost of Free Parking, 2005]]
 
-Starting with markets.
+Good morning. It's Sunday, November eighth. There's a line in the Journal this morning from Nick Timiraos, who covers the Federal Reserve, that the new Democratic Senate will be the strongest check yet on the President's efforts to control the central bank. It sounds like a narrow point about confirmations. It's actually the latest chapter of a fight that's more than a century old. So after the weekend and the year in numbers, that's today's subject: what Federal Reserve independence actually is, who built it, how close it has come to breaking, and what changed on Tuesday.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+The weekend first, kept short.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+Following up on the White House. The Times reports that Stephen Miller, two days into the chief of staff job, has made clear he plans to push ahead with the agenda voters just rejected. Dana White, who runs the Ultimate Fighting Championship, says he'll meet the President about an offer to make him press secretary. On the other side, the Journal now puts the incoming House majority at no fewer than two hundred and fifty-four seats, and the Times says Chuck Schumer has the commitments to become majority leader. One more number from the Associated Press's voter survey: Americans under thirty swung more than twenty points toward House Democrats compared with twenty twenty-four.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+Following up on Israel. As expected, President Isaac Herzog has asked Gadi Eisenkot, the former military chief, to try to form a government. He has six weeks, and a bloc that can't agree whether to bring in the Arab parties or the ultra-Orthodox.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+Elsewhere. South Africa's African National Congress had its worst election since the end of apartheid, losing heavily in local elections. New Zealand voted on Saturday, and early results point to a tight race between Christopher Luxon and Labour's Chris Hipkins. In Kenya, the cult leader Paul Mackenzie was sentenced to two hundred years for the deaths of a hundred and ninety-one people, all but one of them children, whom his followers starved. And the Times reports that the Commerce Department cleared dozens of Chinese companies to handle Nvidia's H two hundred chips, some with ties to sanctioned firms.
 
-Before we get to deals, a small thing I liked.
+One lighter note. The art market is back. Christie's, Sotheby's and Phillips sold six point eight billion dollars of art in the first half of the year, up seventy percent, led by a Jackson Pollock at a hundred and eighty-one million. On November eighteenth in New York, Sotheby's offers a Van Gogh of chestnut trees in blossom estimated above a hundred and eighty million, which would clear his auction record by more than sixty.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+The week ahead. Congress returns on Monday for a lame-duck session, the United Nations climate summit opens in Turkey, and Group of Seven foreign ministers meet in Paris. October's consumer prices come out Tuesday, the same day Russia and Ukraine are due back in Abu Dhabi. Wednesday is Veterans Day.
 
-Moving to deals and credit.
+Now the year to date, Friday's close against the last day of twenty twenty-five.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+The S and P five hundred, around seventy-three seventy-five, is up about seven and three quarter percent on the year. A week ago that figure was nearly eleven. The Nasdaq, near twenty-four thousand five hundred and eighty, is up a little under six percent, after four straight losing weeks. The Dow, around fifty-one thousand three hundred, is up a little under seven.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+The ten-year Treasury started the year near four point one seven percent and closed Friday at about four point eight six, roughly seventy basis points higher. Brent, which began the year near sixty-one dollars, closed the week at about ninety-eight thirty for the January contract, up around sixty percent. And bitcoin, just under seventy-six thousand dollars, is down about thirteen percent on the year.
 
-Now real estate.
+Which brings us to the central bank, and to the question of who it answers to.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+Start with what independence means, because it's narrower than it sounds. The Federal Reserve is not independent of the law. Congress created it, sets its goals, maximum employment and stable prices, and can rewrite its charter whenever it likes. The Fed's own phrase is independent within the government. What it has is independence of operation. Once its officials are in place, nobody can order them to raise or cut rates, and nobody has to approve the decision.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+Three features make that work. The first is the terms. The seven governors serve fourteen years each, staggered so a seat comes open every two years, which means no single president should be able to appoint a majority in one term. The chair serves four years, and that term deliberately doesn't line up with the president's. The second is removal. The statute says a governor can be removed for cause, and never says what cause means. For most of the Fed's history that ambiguity was the protection. The third is money. The Fed pays for itself out of the interest on the securities it holds, and sends the surplus to the Treasury. It doesn't go to Congress for a budget, so Congress can't squeeze it through appropriations.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+Then there's the committee that actually sets rates. The Federal Open Market Committee has twelve votes: the seven governors, the president of the New York Fed, and four of the other eleven regional bank presidents, on rotation. Those regional presidents aren't appointed by the White House at all. They're chosen by their banks' boards and approved by the governors in Washington. That's a structural oddity, and it matters. Even a president who filled every seat on the board wouldn't directly control five of the twelve votes.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+None of this was there at the start. When Woodrow Wilson signed the Federal Reserve Act in December nineteen thirteen, the board in Washington included the Treasury secretary and the Comptroller of the Currency, and it met in the Treasury building. The modern design came in the Banking Act of nineteen thirty-five, pushed through by Marriner Eccles, a Utah banker Franklin Roosevelt had made chairman. It took the Treasury off the board, created the long terms, and gave Washington control of the rate committee. The irony is that Eccles wanted a stronger central bank partly so it could work with the New Deal, not stand apart from it.
 
-Over to technology.
+And during the Second World War it didn't stand apart at all. The Fed agreed to hold Treasury borrowing costs fixed, three eighths of a percent on short bills and two and a half on long bonds, buying whatever it took to keep them there. The central bank was, in effect, a financing arm of the Treasury.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+The break came in nineteen fifty-one, and it was messy. The Korean War had pushed inflation up sharply, and the Fed wanted out of the peg. Harry Truman wanted the peg kept. At the end of January he summoned the entire rate committee to the White House, and the next day his staff announced that the Fed had pledged to keep supporting the bond market. The Fed had pledged nothing of the kind. Eccles, by then an ordinary governor, released the Fed's own account of the meeting to the press. Within weeks, the Treasury and the Fed signed a short agreement, known as the Accord, freeing the Fed to set rates as it saw fit.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+The man who negotiated it for the Treasury was William McChesney Martin. Truman then made him Fed chairman, presumably expecting a friend. Martin turned out to be the most committed defender of independence the Fed ever had, and the story goes that years later, passing Martin on a New York street, Truman said a single word to him: traitor. It was Martin who in nineteen fifty-five described the Fed's job as taking away the punch bowl just as the party gets going.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+The pressure never stopped. In December nineteen sixty-five, after the Fed raised its discount rate, Lyndon Johnson called Martin to his Texas ranch and, by several accounts, physically shoved him against a wall. Richard Nixon did it more quietly. The White House tapes record him leaning on his own chairman, Arthur Burns, ahead of the nineteen seventy-two election, and the Fed kept money loose that year. Most economists count that as one ingredient in the inflation of the decade that followed.
 
-Over to France.
+Paul Volcker is the counterexample everyone cites. He raised rates to around twenty percent to break that inflation, through two recessions, and Ronald Reagan mostly let him. Mostly. In his memoir, Volcker describes a meeting in the summer of nineteen eighty-four in the White House library, where James Baker, with Reagan sitting there, told him the President was ordering him not to raise rates before the election. Volcker says he walked out without answering. He hadn't been planning to raise them anyway.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+The case for all this rests on an argument and a chart. The argument is that politicians face elections on a short clock, and easy money pays off before an election while the inflation shows up after it. Give the decision to people who don't face voters, and the temptation goes away. The chart came in nineteen ninety-three, from Alberto Alesina and Lawrence Summers, who ranked rich countries by how independent their central banks were and found that the more independent ones had lower inflation, with no visible cost in growth.
 
-And the Middle East.
+Now the honest counterargument, because there's a serious one, in three parts.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+The first is that the chart may be backwards. The economist Adam Posen argued that independent central banks don't create low inflation. Countries with a strong constituency against inflation, often a powerful financial sector, create independent central banks and then protect them. Germany's Bundesbank was independent because Germans remembered nineteen twenty-three, not the other way round.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+The second is democratic. Since two thousand eight, the Fed has done far more than set one interest rate. It has bought trillions of dollars of bonds, lent to companies and cities in emergencies, and lifted asset prices in ways that help people who own assets more than people who don't. Those are choices with winners and losers, made by officials nobody elected. You don't have to be a populist to find that uncomfortable.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+The third is arithmetic. In nineteen eighty-one Thomas Sargent and Neil Wallace showed that if a government keeps running deficits it can't otherwise finance, the central bank eventually has to accommodate them, however independent it is on paper. Independence, on that view, is only as strong as the fiscal policy around it.
 
-One more small thing before the deep dives.
+And pressure isn't confined to one party. In twenty twenty-four, Elizabeth Warren and other Democrats publicly urged Jerome Powell to cut rates.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+Which brings us to the last two years, when every one of those protections was tested at once.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+In August of twenty twenty-five, the President moved to fire Lisa Cook, a governor appointed by Joe Biden, citing allegations of mortgage fraud that she denies. It was the first attempt to remove a sitting governor in the Fed's history. In January, Powell disclosed that the Justice Department had opened a criminal investigation tied to his testimony about the renovation of the Fed's headquarters, and called it a pretext. In May the Senate confirmed Kevin Warsh as chair, fifty-four to forty-five.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+Then the courts. At the end of June, the Supreme Court handed down two decisions on the same day. By six to three, it held that commissioners of the Federal Trade Commission could be fired at will, gutting the ninety-year-old precedent that protected independent agencies. But by five to four, in an opinion by Chief Justice Roberts, it refused to let the President remove Cook while her case goes on. The Court has been signaling for some time that it sees the Fed as a special case, but the ruling was explicit that it didn't decide what for cause means. That question is still open.
 
-Now put that next to private equity, which is running its own version of the same problem.
+And then the Fed did something odd for a central bank supposedly under the President's thumb. Under Warsh, it raised rates by a quarter point in September and held them at three and three quarters to four percent in October. Two officials dissented in October because they wanted another increase, and one of them was Lisa Cook. Markets now lean toward a December hike, at a meeting on the ninth.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+So what did Tuesday change? Mainly the appointment lever. From January, anyone the President nominates to the board needs a Democratic Senate to confirm them, and Reuters expects Warren to chair the Banking Committee. A seat taken from Cook could no longer simply be handed to an ally. That's Timiraos's point.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+What it doesn't change is the removal question, which belongs to the courts, or the money question, which belongs to Congress as a whole. And it does nothing about the softest protection of all, which is whether markets believe the Fed will do what it says. That one doesn't sit in any statute. It's earned at each meeting, and the next one is a month away.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+That's the long read. Now a minute of French, and then the European news in it.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+How would you say there's no harm in trying? Not that it's free. That shrug of, go on, it costs you nothing.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+[[PAUSE:3]]
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+[[FR]]Ça mange pas de pain.[[/FR]]
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+[[PAUSE]]
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+[[FR]]Ça mange pas de pain.[[/FR]]
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+The literal picture is something that doesn't eat any bread, so it's no burden to keep around. The trap is to translate the English idiom about harm. Don't say this:
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+[[FR]]Ça ne blesse pas de demander.[[/FR]]
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+To a French ear, that sounds like asking might leave a bruise.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+In a sentence. A friend is nervous about asking the landlord for a discount.
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+[[FR]]Demande-lui, franchement. Ça mange pas de pain.[[/FR]]
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+Or you're sending a long-shot application anyway.
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+[[FR]]Bon, j'envoie quand même mon CV, ça mange pas de pain.[[/FR]]
 
-One last small thing before the close, and it is an old one.
+Now three cold.
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+You'll keep someone posted.
+
+[[PAUSE:3]]
+
+[[FR]]Je te tiens au courant.[[/FR]]
+
+Something leaves you completely indifferent. Neither hot nor cold.
+
+[[PAUSE:3]]
+
+[[FR]]Ça me fait ni chaud ni froid.[[/FR]]
+
+Someone's taking it too far. Come on, let's not push it.
+
+[[PAUSE:3]]
+
+[[FR]]Faut pas pousser.[[/FR]]
+
+And so to France, where the presidential race has started early.
+
+[[FR]]En France, Jean-Luc Mélenchon a lancé sa campagne samedi au Bourget, devant plusieurs milliers de partisans. Le candidat de La France insoumise a présenté son programme, L'Avenir en commun, autour de l'idée d'une « nouvelle France ». Il promet de ne pas mettre d'eau dans son vin, mais Le Monde note un ton moins agressif, pour élargir son électorat au-delà de sa base.[[/FR]]
+
+[[FR]]Dans la rue, la mobilisation contre la vie chère s'essouffle un peu, mais les manifestants veulent maintenir la pression avant la conférence sociale prévue lundi à Matignon. Et la Banque de France a mis en vente la Maison de l'Amérique latine, boulevard Saint-Germain, où le Parti socialiste fêtait ses soirées électorales.[[/FR]]
+
+[[FR]]En Pologne, un homme de vingt-quatre ans, fasciné par l'extrême droite selon Le Monde, a ouvert le feu sur la place du marché de Cracovie, tuant au moins six personnes avant d'être blessé et arrêté par la police. Donald Tusk parle de terrorisme, et le pays observe deux jours de deuil national.[[/FR]]
+
+[[FR]]Côté sport, Tom Laperche a remporté la Route du Rhum en Ultim, avec un nouveau record, à bord du trimaran SVR-Lazartigue. Et le XV de France a écrasé les Fidji à Décines, mais perd Romain Ntamack, blessé, six jours avant d'affronter l'Afrique du Sud.[[/FR]]
+
+Back in English, and one idea before we finish.
+
+In two thousand five, Donald Shoup, a professor of urban planning at the University of California, Los Angeles, published a book of more than seven hundred pages called The High Cost of Free Parking. His argument was that the minimum parking requirements written into nearly every American zoning code, so many spaces per apartment, per restaurant seat, per square foot of office, were quietly one of the most expensive policies in the country. They made buildings costlier, pushed them apart, and hid the price of driving inside the price of everything else.
+
+The circumstance is what makes it land. Shoup went looking for where the numbers came from, and found that planners mostly copied them from each other, or from a manual of trip counts taken largely at busy suburban sites, at peak hours. A required ratio could rest on a handful of observations. He also measured the other side, the curb, and estimated that drivers circling for cheap street parking in a small part of Westwood in Los Angeles drove close to a million extra miles a year. His fix was to scrap the minimums and price the curb so that a space or two was always free on each block.
+
+The complication is that it worked on paper faster than in practice. Cities followed. Buffalo dropped its minimums in twenty seventeen, and New York lifted them for new housing across much of the city in twenty twenty-four. One study of Buffalo found developers building about half the parking the old rules would have demanded. But in many places they keep building it anyway, because lenders and tenants ask for it, and San Francisco's experiment with pricing the curb produced gains that researchers still argue about. Whether the rule was the cause, or just a symptom of how people already wanted to live, isn't settled.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+A sunny, breezy Sunday in New York. A high near sixty-one, slipping into the high fifties by afternoon, with west winds gusting near thirty, so bring a layer that blocks the wind. Clear tonight, down to about forty-eight. Monday looks much the same, a little cooler.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+The Knicks won in Cleveland last night, a hundred and nine to ninety-seven, back above five hundred at five and four. This afternoon the Sixers, at eight and two, play in Chicago at three thirty against a Bulls team that has won once. The Nets are in Dallas tonight.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+And looking ahead, you're in Toronto from Thursday night. I'll have the weather there closer to the day.
 
-That's the morning. Have a good one.
+That's the long read. Enjoy the Sunday.
