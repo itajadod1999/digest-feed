@@ -1,105 +1,173 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[NEW_PHRASE: Il fait un froid de canard.]]
+[[IDEA: Donald Kessler | Collisional cascading of satellites, 1978]]
+Good morning. Tuesday, November tenth. Here's what happened.
 
-Starting with markets.
+Markets first, and Monday was the big relief rally the week before never got. The S and P five hundred jumped about two point four percent, to roughly seventy-five fifty. The Nasdaq added about two point seven, and the Dow rose about two point two, leaving it above where it stood before the midterms. Amazon, Alphabet and Microsoft led, and A M D rose about thirteen percent.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+The exception was the company at the center of it all. Nvidia fell about four percent, which took roughly two hundred and thirty billion dollars off its value, and at one point in the morning the drop was closer to nine. A rally of two percent with the most valuable chipmaker going the other way is a strange shape for a day.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+Oil did most of the work. Brent fell almost six percent on Monday, to around ninety-two dollars a barrel, and slipped again overnight toward ninety-one and a half, near a ten-week low. More on why in the Middle East section. Treasuries barely moved; the ten-year stayed close to four point eight seven percent.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+Overnight, Japan's Topix rose about two percent and European stocks about one. And China reported an October trade surplus of a hundred and five billion dollars, which takes the first ten months past a trillion, a faster pace than last year's record.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+The day's number arrives at eight thirty: October consumer prices, the last inflation reading before the Federal Reserve meets in December. Futures traders on Monday put the odds of a December rate increase at about eighty-three percent.
 
-Before we get to deals, a small thing I liked.
+Now deals and credit.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+Following up on SoftBank. The Japanese conglomerate reported a loss of about one point one trillion yen, roughly seven billion dollars, for the quarter to September, its first loss in nearly two years. The biggest single piece was a three point seven billion dollar hit on a data center project in America.
 
-Moving to deals and credit.
+KKR went the other way, with a record quarter. Adjusted net income rose twenty-nine percent from a year ago, to one point six five billion dollars, on higher management fees and dividends from portfolio companies, which offset weaker profits in its insurance arm.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+Exxon Mobil has signed a memorandum of understanding with Venezuela's government and the state oil company for what it calls potential upstream opportunities. Exxon left the country nineteen years ago, and its chief executive called Venezuela uninvestable only months ago.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+Following up on the Anthropic listing. Disclosure: Anthropic makes me. The company released two new models on Monday, and DealBook reports it plans to begin its roadshow for investors this week, though it calls the offering increasingly embattled after the selloff. The Nvidia affair is part of why: Nvidia is one of its investors.
 
-Now real estate.
+Something lighter, from the Dolomites. KFC Italy plans to open two restaurants on the ski slopes at Cortina d'Ampezzo and Madonna di Campiglio on December fifth, the first fast food on any Italian ski slope. The biggest shareholder in Cortina's lift company has called it disgraceful, absurd, shameful and mad, and threatened to sue. Four adjectives, and he meant all of them.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+Real estate.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+Related Group has secured one hundred and seventy-seven million dollars of construction financing from Wells Fargo, as administrative agent, to build apartments on Office Depot's former headquarters campus in Boca Raton, on Commercial Observer's reporting. The plan is four hundred and ninety-four luxury units and fifty workforce units on eight acres, finished by summer twenty twenty-eight. The rest of the campus stays office, plus shops and an Equinox. Related's venture paid a hundred and four million for the whole campus in twenty twenty-three.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+And Truist and Capital One have provided a four hundred and seventy-four million dollar refinancing for Faropoint, the New Jersey investor in last-mile warehouses, covering eighty-five buildings in twelve states, many near Chicago, Philadelphia and New York. The unusual part is an eighty-four million dollar reserve that pays out only if the portfolio's net operating income rises over the life of the loan. Faropoint calls that earn-out what sets the deal apart.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+Technology.
 
-Over to technology.
+Following up on Jensen Huang. On Monday, the President said the F B I was looking into the matter, that Huang told him he had no idea the woman was a spy, and that he believed him. Then the Times reported that a Commerce Department inquiry into Megaspeed, the Singapore company that employed her and bought about two billion dollars of Nvidia products, was handed to the Justice Department after a senior Nvidia executive contacted Commerce officials. Democrats in Congress have written asking for answers on the administration's chip policy. More on Nvidia in a few minutes.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+Apple, meanwhile, confirmed a seven and a half billion dollar bond sale, on AppleInsider's reporting.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+Now the world.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+In Washington, Representative Thomas Massie, a Kentucky Republican leaving Congress at year's end, filed eight articles of impeachment against Defense Secretary Pete Hegseth on Monday. Massie accuses him of waging the war in Iran without a declaration from Congress, among other charges. The filing forces a House vote by Wednesday. Hakeem Jeffries says he supports it, and most Democrats are expected to vote yes. Hegseth calls it noise and has a news conference today. Even if the House approves the charges, conviction would need two thirds of the Senate, which nobody expects.
 
-Over to France.
+Following up on California. Voters have rejected Proposition Forty, the one-time five percent tax on billionaires' wealth, after a long count. The Times reports the outcome divided Democrats, and Le Monde notes the idea now heads back to Washington, where Democrats will soon run both chambers.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+In Britain, Russell Brand was sentenced to ten and a half years in prison for rape and sexual assault.
 
-And the Middle East.
+Off Senegal, dozens of migrants died when their boat capsized last week, and the Canary Islands have declared a migrant emergency. Arrivals to Europe are down overall this year, and the deaths have not stopped.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+The Global Carbon Project expects fossil fuel emissions to fall about zero point four percent this year, to thirty-eight point two billion tonnes, the first drop since the pandemic. The reason is high energy prices from the Iran war, plus renewables, and the researchers warn it may not last.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+And Russian, Ukrainian and American delegations open talks in Abu Dhabi today, the first round since February. More on that in French.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+Now a minute of French, and then the European news in it.
 
-One more small thing before the deep dives.
+How would you say it's absolutely freezing out? Not just cold. The kind of cold that makes you complain about it out loud.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+[[PAUSE:3]]
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+[[FR]]Il fait un froid de canard.[[/FR]]
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+[[PAUSE]]
 
-Now put that next to private equity, which is running its own version of the same problem.
+[[FR]]Il fait un froid de canard.[[/FR]]
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+The animal in the phrase is a duck, and the picture is the hunter waiting in a frozen marsh at dawn. The trap is building it from an English adjective. Don't say this:
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+[[FR]]C'est congelant dehors.[[/FR]]
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+To a French ear, that sounds like an instruction on a freezer.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+In a sentence. A friend in Paris asks how the weekend away was.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+[[FR]]Sympa, mais franchement, il faisait un froid de canard.[[/FR]]
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+Or someone suggests eating on the terrace in November.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+[[FR]]En terrasse ? T'es fou, il fait un froid de canard.[[/FR]]
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+Now three cold.
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+Things are spiraling out of control.
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+[[PAUSE:3]]
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+[[FR]]Ça part en vrille.[[/FR]]
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+You're running late.
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+[[PAUSE:3]]
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+[[FR]]Je suis à la bourre.[[/FR]]
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+It's not really your thing.
 
-One last small thing before the close, and it is an old one.
+[[PAUSE:3]]
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+[[FR]]C'est pas mon truc.[[/FR]]
+
+Good. Over to France.
+
+[[FR]]En France, la conférence sociale a accouché d'un coup de pouce. À l'issue de la réunion de lundi à Matignon avec les syndicats et le patronat, Sébastien Lecornu a annoncé une hausse du Smic de un virgule six pour cent : il passera de mille quatre cent soixante-dix-huit euros à mille cinq cent deux euros nets par mois au premier décembre, avec d'autres mesures sur le pouvoir d'achat. Reste la question que pose L'Express : avec des finances publiques dans le rouge, où le gouvernement a-t-il trouvé la marge ?[[/FR]]
+
+[[FR]]Côté jeunesse, ça coince. Les organisations lycéennes et étudiantes ont claqué la porte du comité sur la réforme de Parcoursup, lundi, en disant qu'aucune annonce n'avait été faite. Elles appellent à manifester aujourd'hui à Paris. Et sur le front de l'emploi, le chômage s'est stabilisé au troisième trimestre, à huit virgule deux pour cent.[[/FR]]
+
+[[FR]]L'histoire la plus étrange de la semaine a désormais un coupable désigné. Les services de renseignement français attribuent à l'Iran la cyberattaque d'octobre contre les frigos de supermarchés : plus de sept cents magasins visés, des pirates qui ont lancé le dégivrage pour faire monter la température. Le parquet de Paris a ouvert une enquête contre un groupe lié aux Gardiens de la révolution. Jean-Noël Barrot a convoqué l'ambassadeur d'Iran et réclame des sanctions européennes. Marco Rubio, lui, s'est demandé quel genre de malades s'attaquent à des réfrigérateurs.[[/FR]]
+
+[[FR]]Dans la banque, le Crédit Agricole propose un rapprochement avec l'italien Banco BPM. Le nouvel ensemble serait la troisième banque d'Italie, et la participation du groupe français passerait d'environ trente pour cent à près de quarante-cinq.[[/FR]]
+
+[[FR]]En Europe, les pourparlers d'Abou Dhabi s'ouvrent aujourd'hui et demain. Côté russe, la délégation est menée par Vladimir Medinski, dont Le Monde rappelle l'idée fixe : l'Ukraine doit revenir dans le giron russe. Pour L'Express, ce sont des discussions à trois, sans les Européens. Euronews rapporte toutefois que l'Union veut y envoyer une équipe commune.[[/FR]]
+
+[[FR]]Et pour finir sur une note plus gourmande : le Gault et Millau a sacré Jérôme Banctel, chef du Gabriel, à Paris, cuisinier de l'année.[[/FR]]
+
+Back in English, and to Iran and the Gulf.
+
+The President met Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, at the White House on Monday, Qatar being the main channel between Washington and Tehran. Afterward, he said the war could end fairly soon, that Iran militarily is effectively over, and that new strikes were quite unlikely, though he said America was ready if needed. He also said he wouldn't allow Iran a nuclear weapon. He said the Gulf states prefer the status quo, meaning the naval blockade stays, along with a new task force announced Saturday to cut Iran's land routes for moving weapons.
+
+On the substance, the two sides are describing different realities. Reuters, citing a senior Iranian official, reports Iran sent a proposal through Qatar asking for sanctions relief and a new shipping arrangement through Hormuz. A senior Iranian security official called American reports of talks fake news. And Marco Rubio still calls Iran's terms unrealistic. Oil, as you heard, believed the softer version.
+
+City planning, and a short one with a long tail.
+
+New York has put five hundred thousand dollars into free dog and cat food at twenty-two city-funded food pantries, aimed at keeping people from surrendering pets when money is tight. Housing rules, including breed restrictions, account for about sixteen percent of shelter surrenders nationally, more than twice the share for money troubles. The New York Common Pantry in East Harlem got about four thousand pounds in its first delivery.
+
+A music item, since The Weeknd is having a strange month in Asia. His new song, called Hong Kong, samples Faye Wong's nineteen ninety-three Cantopop ballad Monsoon, and its video borrows the look of Wong Kar-wai's films. It has topped Hong Kong's charts for weeks.
+
+One story worth more time this morning: why a chief executive's affair is a problem for the whole artificial intelligence industry.
+
+Start with what Nvidia has become. It sells the chips, but it also finances the people who buy them. Morning Brew counts about five hundred billion dollars of investments across the industry, and roughly a hundred and sixty-five billion dollars lent to neoclouds, the companies that rent chips to the big labs. DealBook calls Nvidia the central bank of A I. When a supplier lends its customers money to buy its products, its revenue and their solvency become the same bet.
+
+Now the people. Huang founded the company and runs it with something like sixty direct reports. He owns about three and a half percent of the shares, without supervoting stock, so the board can remove him if it chooses. Bernstein's Stacy Rasgon says he is Nvidia. Nobody has named a successor. The board says it has no reason to believe national security or company secrets were compromised.
+
+Then the policy. Huang has been the loudest voice against export controls on China. The woman at the center of this worked for a customer that American officials already suspected of moving chips into China. And now there is the report that a Commerce inquiry into that customer was moved after an Nvidia executive called. Elizabeth Warren wants tighter export laws, and as of January her party runs both chambers.
+
+Put that together and you get Monday's market. The rest of the industry rallied because last week's selling had gone too far. Nvidia fell because the risk is specific to it: a key man, an investigation, and a political argument it may now lose.
+
+What would make this matter more? Three things to watch: what the board's independent committee concludes, whether Huang gives the closed-door briefing House committees have asked for, and whether the new Congress writes chip rules he can no longer lobby against. CoreWeave, which Nvidia has backed, reports today. Its results are the first test of how much of this has reached the customers.
+
+A few things I didn't get to.
+
+China is staging naval drills in the western Pacific with the Liaoning carrier group, and Taiwan's defense minister has raised concerns.
+
+The Times reports deported migrants were sent on by third countries to places American courts had deemed too dangerous.
+
+Children's Place has filed for Chapter eleven and started liquidating, with nine bids for some or all of the business.
+
+Honda will spend three billion dollars on a new assembly plant in Ohio.
+
+The F D A will require a warning on G L P one drugs about a rare eye condition that can cause blindness.
+
+Senior executives have left Blackstone's real estate team over falling pay, the Journal reports.
+
+Campari's holding company sold four eighty-four Broadway in SoHo for about thirty-four million dollars.
+
+M. John Harrison's The End of Everything won the Booker Prize, the first outright science fiction winner.
+
+One idea before we finish.
+
+In June of nineteen seventy-eight, a NASA scientist named Donald Kessler and his colleague Burton Cour-Palais published a paper in the Journal of Geophysical Research with an uncomfortable prediction. If enough satellites and spent rocket stages piled up in low orbit, collisions between them would create fragments faster than the thin upper atmosphere could drag them down. Each collision would make more debris, which would make more collisions. Past a certain density, the process would sustain itself, and parts of orbit could become unusable for generations.
+
+The circumstance is what made him see it. Kessler had spent years at the Johnson Space Center working on meteoroids, and on whether spacecraft could cross the asteroid belt safely. The mathematics of the asteroid belt is the mathematics of rocks grinding each other into smaller rocks over millions of years. He realized that low Earth orbit, with thousands of objects moving at roughly seventeen thousand miles an hour, was a young asteroid belt we had built ourselves. A military analyst named John Gabbard gave it the name people still use, the Kessler syndrome.
+
+In two thousand seven, China destroyed one of its own weather satellites with a missile and created more than three thousand trackable pieces. In February two thousand nine, an active Iridium communications satellite and a dead Russian one collided over Siberia, the first accidental collision of two intact satellites.
+
+The complication is that nobody agrees on where the threshold is, or whether we've crossed it. Kessler himself has argued that some altitude bands, around five to six hundred miles up, may already be unstable even if nothing else is launched. Others note the big new constellations sit lower, where drag clears debris within a few years. A runaway cascade, if it is happening, would be slow enough to look like nothing for decades.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+A good day to walk in New York. Cloudy early, then clearing, with a high near sixty-three and a low around forty-eight tonight. West winds gust to about twenty-five. Tomorrow, Veterans Day, is about the same, and alternate-side parking is suspended.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+Thursday is the one to plan around. Rain arrives in New York in the afternoon and gets heavier at night, which is when you head to Toronto. Toronto stays raw through Sunday, highs in the mid-forties, lows near freezing, with showers and a chance of flurries most nights. Pack the coat, and an umbrella you don't mind losing.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+Tonight, the Knicks host Milwaukee at the Garden at seven thirty, and the Sixers host Boston at eight.
 
-That's the morning. Have a good one.
+That's the briefing. Have a good Tuesday.
