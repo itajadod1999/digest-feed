@@ -1,0 +1,127 @@
+Good morning. Saturday, November fourteenth, and time to look back. Nothing new this morning. Just where the week's stories ended up, what the markets did with them, and where I got it wrong.
+
+If the week needs one sentence: a founder fell, the bond market broke through a number it had been circling for months, and somehow stocks still had a good week.
+
+Start with Nvidia, because it ran through everything. Last Sunday, Jensen Huang told staff about an affair with Alice Huang, no relation, an executive at Megaspeed, a Singapore customer, whom American intelligence believes was working for China. Monday the shares fell about four percent. Tuesday brought the first class action, and the board hired Wachtell Lipton. Wednesday the Times reported a second relationship, with a vice president who reported to him. Thursday he resigned. Colette Kress, the finance chief, is interim chief executive, and Harvey Jones became the board's first chair.
+
+By Friday it had become a Washington story. Treasury Secretary Scott Bessent said Treasury, Defense and State all wanted tighter export rules on Megaspeed, and that it was up to Commerce. Howard Lutnick has agreed to testify. Reuters reported a third relationship, single-sourced so far. And the board said it is still choosing a search firm and hasn't approached anyone, after a report it had sounded out Arm's chief executive, Rene Haas. Nvidia closed the week near a hundred and sixty-three dollars, its sixth losing week in a row, the longest streak since twenty twelve.
+
+The listing that rode alongside it went the other way. Disclosure: Anthropic makes me. On Monday DealBook called the offering increasingly embattled. On Wednesday it set a range of seventy to seventy-eight dollars, up to about sixty-four billion dollars raised, plus a twenty-six billion dollar private placement from its chip and cloud suppliers. By Friday Bloomberg had the book about six times covered, with bankers weighing a price above the range. It prices next week.
+
+Iran turned in a circle. Monday, after meeting Qatar's prime minister, the President said the war could end fairly soon, and Brent fell almost six percent. Wednesday, Iran's security chief called talk of negotiations a pure lie. Thursday, the President said America doesn't need a deal, pulled JD Vance off the effort, and Brent gave back about three percent. Underneath it, tankers kept hitting mines. And on Friday the White House confirmed the President will meet Xi Jinping and Vladimir Putin together in China on Thursday, with nuclear weapons and Iran on the agenda and, on Le Monde's reporting, Ukraine off it.
+
+The election finished counting, mostly. Scott Colom won Mississippi, the first Democrat to take a Senate seat there since nineteen eighty-two. On Friday Lauren Boebert lost her Colorado seat, and Democrats won the governorships of Alaska and Kansas. In Alaska's Senate race, the last one uncalled, Mary Peltola's lead is widening. The House shelved Pete Hegseth's impeachment, and Chris Van Hollen says he'll challenge Chuck Schumer for leader.
+
+Deals kept moving under all of it. CoreWeave beat forecasts, showed a hundred and thirty-three billion dollars of unfilled contracts, and jumped almost a quarter in a day. Two days later Bloomberg reported it plans at least four billion dollars of investment-grade debt, secured on its chips and contracts, at seven to seven and a half percent, about half what its junk bonds yield. SoftBank posted its first loss in nearly two years; KKR posted a record quarter. Weil, Gotshal and Manges voted to wind itself down. And Exxon signed a preliminary deal to go back into Venezuela.
+
+In real estate, three numbers told one story. Sixty Wall Street went into contract at about two hundred and fifty dollars a foot, a little over a third of what Singapore's fund paid in twenty seventeen. Starwood Property Trust set aside three hundred and thirty-seven million dollars for credit losses, and also wrote its most loans in four years. And Trepp's special servicing rate for commercial mortgage-backed securities reached eleven point seven four percent in October, the highest since December twenty twelve. Lending carried on beside it: Wells Fargo's construction loan to Related in Boca Raton, a refinancing for Faropoint's warehouses with an eighty-four million dollar earn-out reserve, and a five hundred and fifty-five million dollar loan on Simon's Dadeland Mall, valued at a seven cap. At Commercial Observer's finance forum, Sondra Wenger of KBS put values about nineteen percent below peak, and the equity owners need over this year and next at four hundred and seventy to five hundred billion dollars.
+
+Technology had two outages to go with its scandal. Microsoft's Outlook, Teams and Copilot went down across more than seventy countries on Thursday, into Friday. Then on Friday afternoon, the Federal Aviation Administration stopped every departing flight in the country for about four hours, only the second national ground stop since September eleventh. The Transportation Secretary blamed old equipment overloaded by new upgrades, and asked Congress for fifty billion dollars. More than sixty-six hundred Friday flights were cancelled. Apple, meanwhile, hit an all-time high on record Mac sales.
+
+And the rest of the world. In Flatbush, a building collapse killed eight people, two of them children; the Times now reports the developer won approval for three stories, then sought more, which kept the project out of stricter oversight. A seven-month-old boy in Lewis County became the first measles death in New York State in thirty years. Indonesia's vice president, the former president's son, resigned, and twenty thousand soldiers deployed in Jakarta. And the Black Sea passed Hormuz as the world's deadliest shipping lane.
+
+A small one to break it up. Quebec keeps the world's only strategic maple syrup reserve, and this week its producers said it had been drawn down to zero, by American buyers stocking up against tariffs, in a record harvest year.
+
+Now the numbers, Friday's close against last Friday's.
+
+The S and P five hundred finished around seventy-five sixty, up about two and a half percent on the week. The Nasdaq closed near twenty-five thousand one hundred and forty, up about two and a quarter, its best week since August, despite Nvidia. The Dow ended around fifty-two thousand three hundred and fifty, up about two percent.
+
+Bonds were the opposite story. The ten-year Treasury closed at about five point one five percent, up twenty-nine basis points from four point eight six. The two-year rose more, by roughly thirty-five, to about four point eight six, though that close rests on a single data source. So the curve flattened again, to under thirty basis points.
+
+Brent, January contract, closed around ninety-six thirty, down about two percent on the week after touching ninety-one and a half on Tuesday. Gold ended near three thousand eight hundred and eighty dollars. Bitcoin fell about ten percent, to roughly sixty-eight thousand.
+
+Now, what I got wrong.
+
+First, last Saturday I called Anthropic's listing window a question rather than a date, and on Tuesday I passed along the word embattled. Same disclosure. Within two days the book was covered, and by Friday it was six times over. I gave one week's mood too much weight.
+
+Second, on Tuesday I said oil believed the softer version of the Iran story. I didn't flag how quickly that version could reverse, and two days later it did.
+
+Third, a number. On Tuesday I put Monday's Nvidia loss at about two hundred and thirty billion dollars. The Times's figure was a hundred and ninety-two billion, and I corrected it on Wednesday.
+
+And a small one closer to home. On Thursday I said you were flying to Toronto that night. On Friday I said that afternoon. They can't both be right.
+
+One story worth more time this morning: the week the ten-year crossed five percent. Nvidia had two deep dives already. This is the thread that moved most quietly, and further.
+
+What happened. On Tuesday, October consumer prices rose four tenths of a percent, core prices three tenths, and core is running at about three point seven percent annualized over three months. The two-year had its biggest one-day jump since April of last year. Fed governor Christopher Waller had said beforehand that a core reading of three tenths or more might justify a half-point move. Chicago's Austan Goolsbee called the numbers distressing. Wednesday the ten-year sat at five. Thursday it jumped ten basis points. Friday's producer prices were a touch softer than expected, three tenths on the month, but six and a half percent on the year, the fastest since twenty twenty-two, and yields still went up.
+
+The mechanism. The war has pushed energy into everything; heating oil bills alone are forecast up about seventy percent this winter. The Federal Reserve is now expected to raise rates in December, and futures fully price it. A rate increase in an economy that just added a hundred and sixty-five thousand jobs isn't a rescue, it's a brake. The long end is asking for more on top, because nobody can tell when inflation stops.
+
+Where it lands first is housing. Existing-home sales fell to an annual pace of three point seven five million in October, the lowest since twenty ten. The thirty-year mortgage is at seven point one one percent, against six point two four a year ago. And yet the median price, about four hundred and sixteen thousand dollars, is still up on the year. Owners locked in below six percent aren't selling, so prices hold while volume collapses.
+
+The context. DealBook points out the ten-year was just under four percent in late February, before the war. That's well over a full point in nine months.
+
+The puzzle is that stocks rose two and a half percent anyway. The optimistic read is that the economy is strong enough to carry higher rates. The less comfortable one is that equities were relieved about a chip selloff that had gone too far, and haven't caught up with the bond market yet.
+
+What would settle it is the Fed in December, and whether it moves a quarter or a half.
+
+Loose ends going into next week.
+
+Anthropic prices its listing, and whether it lands above the range.
+
+Nvidia reports on Tuesday, its first quarter under Colette Kress.
+
+Howard Lutnick testifies on Megaspeed, date still to be set.
+
+The President, Xi and Putin meet on Thursday in China.
+
+North Carolina's state Senate race, and with it control of the chamber, hung on two hundred and twenty-eight votes at Friday's deadline.
+
+Alaska's Senate race is still uncalled.
+
+EasyJet shareholders voted Wednesday on Apollo's bid, and I haven't seen the result.
+
+And Sixty Wall Street hasn't closed.
+
+Now some French. No new phrase on a Saturday. Six from the past few weeks, cold. Answer before you hear it.
+
+Something's fishy. There's something nobody's telling you.
+
+Il y a anguille sous roche.
+
+It's flying off the shelves.
+
+Ça part comme des petits pains.
+
+It can't hurt to try. It costs nothing.
+
+Ça mange pas de pain.
+
+He completely lost it. Snapped.
+
+Il a pété un câble.
+
+That holds up. It makes sense.
+
+Ça se tient.
+
+Let's not push it. That's going too far.
+
+Faut pas pousser.
+
+Good. Now the week in Europe, in French.
+
+En France, la semaine s'est jouée entre Matignon et la rue. Lundi, à l'issue de la conférence sociale, Sébastien Lecornu a annoncé une hausse du Smic de un virgule six pour cent au premier décembre. Ça n'a pas suffi. Les lycéens ont claqué la porte du comité sur Parcoursup, et vendredi, après les discussions sur la fonction publique, c'est la CFDT qui s'est emportée. Aujourd'hui, une cinquantaine de cortèges sont attendus pour l'acte cinq de la mobilisation contre la vie chère.
+
+En politique, Jean-Luc Mélenchon a pris toute la lumière. Son idée d'un référendum sur la cession du Donbass a fait scandale, son programme s'est hissé en tête des ventes de livres, et un sondage Cluster 17 le place pour la première fois au-dessus de vingt pour cent. Au centre, le judoka Teddy Riner s'est lancé, et Thierry Breton se dit plan B.
+
+Côté sécurité, le renseignement français attribue à l'Iran la cyberattaque contre les frigos de plus de sept cents supermarchés. Et pour finir sur une bonne note, le Quinze de France a battu l'Afrique du Sud vingt et un à dix-neuf, vendredi soir au Stade de France.
+
+En Europe, les pourparlers d'Abou Dhabi se sont terminés sans percée, mais avec un échange de prisonniers, avant le passage des émissaires américains à Moscou. Des drones ukrainiens ont frappé le terminal pétrolier d'Oust-Louga, sur la Baltique. En Espagne, la première grève générale depuis quatorze ans portait sur le logement, à deux semaines des élections. Aux Pays-Bas, la coalition de Rob Jetten se déchire sur une taxe de l'épargne. Et en Russie, Novaïa Gazeta ferme sa rédaction.
+
+Back in English, and one idea before we finish.
+
+In the winter of nineteen sixty-one, Edward Lorenz, a meteorologist at M I T, wanted to look again at a weather simulation he'd run on his Royal McBee computer. To save time, he restarted it halfway through, typing in numbers from a printout. Then he went for a coffee. When he came back, the new run had drifted completely away from the old one. The printout had rounded his numbers to three decimal places, from six. A difference of about one part in ten thousand had grown, in a couple of simulated months, into a different weather.
+
+The circumstance is that he was trying to prove the opposite. In the nineteen fifties, many in the field believed that with enough data and big enough computers, weather could be forecast weeks or months ahead, and Lorenz had set out partly to test the statistical methods behind that hope. In nineteen sixty-three he published the result as Deterministic Nonperiodic Flow, a paper almost nobody outside meteorology read for a decade. The butterfly came later, from a talk title in nineteen seventy-two that a colleague, Philip Merilees, supplied when Lorenz hadn't given one.
+
+The complication is where the limit actually sits. In nineteen sixty-nine Lorenz argued there was a hard ceiling, roughly two weeks, past which no improvement in data could help. Forecasting has since gained roughly a day of skill per decade, and a twenty nineteen study led by Fuqing Zhang at Penn State put the ceiling near two weeks, broadly backing him. Others argue some patterns, such as El Niño, stay predictable for months. Whether the two-week wall is a law of the atmosphere, or of the models we've built so far, is still argued.
+
+And finally, closer to home.
+
+You're in Toronto, and it's grey. A high around forty-three today, showers likely from about noon, and a low near freezing tonight. Sunday is much the same, mid-forties and cloudy, with the wind picking up late morning.
+
+On the way home, Friday's ground stop is still working through the system. Airlines cancelled another fifteen hundred flights for today, and crews are out of position, so check before you head to the airport.
+
+And if you're still in town Sunday evening, the Knicks are at the Raptors at six. Toronto is five and seven, with four losses in five.
+
+That's the week. Have a good weekend, and a smooth trip home.
