@@ -1,0 +1,139 @@
+Good morning. It's Sunday, November fifteenth. At six minutes to four on Friday afternoon, every departing flight in the United States was told to stay on the ground. By Saturday, the Wall Street Journal had traced the trigger to a single router at a radio site in rural Arkansas. It's a strange sentence, and it raises a better question than who to blame: how is American air traffic control actually built, that one box on a hill could stop it? That's today's subject. The weekend and the year in numbers first, kept short.
+
+Following up on Iran. Iran's Revolutionary Guards say they launched six drones this morning at an American air defense radar at Riffa Air Base in Bahrain. Bahrain says its air defenses stopped the attacks; the American military hadn't commented as of this morning. It's the second such claim in three days. On Friday, Central Command said it shot down two drones, with no damage. On Saturday, the Guards said two more tankers hit mines in the Strait of Hormuz, an Iranian claim nobody has confirmed. Tehran has sent seven conditions through Qatar, among them lifting the naval blockade and releasing frozen funds, and is waiting on a reply. And the Journal reports American intelligence believes Iran still has fifteen hundred to twenty-five hundred missiles.
+
+In Israel, Gadi Eisenkot, trying to form a government, accused Benjamin Netanyahu of playing tricks, as Netanyahu argues for a unity government instead. And Le Monde reports a commander of Hamas's military wing was killed in a strike in southern Gaza.
+
+On Nvidia, the Journal reports Jensen Huang built a network of Asian partners that kept its chips flowing toward Chinese buyers, and that the scandal now threatens the whole arrangement. Colette Kress holds her first company-wide meeting on Wednesday.
+
+Elsewhere. In New Orleans on Friday, a tanker hit a docked cruise ship and left it on its side in the Mississippi. All of the hundred and eighty or so people aboard were rescued, and thirty-two are in hospital with injuries that aren't life-threatening. The Coast Guard points to a loss of steering on the tanker. SpaceX caught a Starship upper stage in its launch tower for the first time, after fourteen orbits.
+
+One genuinely good number. The Economist reports China's carbon dioxide emissions fell three point one percent year over year in the third quarter. China has been the world's biggest annual emitter for twenty years.
+
+And a lighter one. The first Eurovision Song Contest Asia was held in Bangkok on Saturday. Prediction markets had a Malaysian pop star, Aina Abdul, as the favourite. The winner was Carmelle, from the Philippines.
+
+The week ahead. Grammy nominations come Monday, October retail sales Tuesday. Wednesday brings housing starts and the DealBook Summit here in New York, where Mayor Mamdani, Mark Carney and Christine Lagarde are among the guests. Disclosure: Anthropic makes me. Its shares are expected to start trading on Thursday, the same day the President meets Xi Jinping and Vladimir Putin in Shenzhen. And the United Nations climate summit in Turkey ends on Friday.
+
+Now the year to date, Friday's close against the last day of twenty twenty-five.
+
+The S and P five hundred, around seventy-five sixty, is up a little over ten percent on the year, back above where it stood two weeks ago. The Nasdaq, near twenty-five thousand one hundred and forty, is up about eight. The Dow, around fifty-two thousand three hundred and fifty, is up about nine.
+
+The ten-year Treasury started the year near four point one seven percent and finished Friday around five point one five, roughly a full point higher, and most of that in the last two months. Brent, near sixty-one dollars on New Year's Day, closed around ninety-six, up close to sixty percent. And bitcoin, at roughly sixty-eight thousand dollars, is down a little over a fifth on the year.
+
+Which brings us to the sky.
+
+Start with what Friday actually was. At three fifty-four, Eastern, the Federal Aviation Administration stopped departures across the country. Communications had broken down at seventeen of its twenty-two en route centers, the facilities that run high-altitude traffic. Sean Duffy, the Transportation Secretary, said a router was making about a thousand connection attempts every four or five seconds, overwhelming older equipment around it. The stop lasted more than four hours. More than nine thousand flights were cancelled on Friday and five thousand more on Saturday, and Bryan Bedford, who runs the agency, puts the total lost at about twelve thousand.
+
+To see why one router matters, you need the shape of the system. A flight passes through three layers of control. There are about five hundred towers, which handle the runway and the air just around it. There are roughly a hundred and fifty approach facilities, which feed planes in and out of the busy airspace around cities. And there are the en route centers, big windowless buildings, each responsible for a slab of sky hundreds of miles across. A flight from Toronto to LaGuardia gets handed from one to the next, every handoff a conversation.
+
+Here's the part almost nobody thinks about. The controller in an en route center isn't near the radar, or the radio. Both sit at remote sites, on hills and in fields, because that's where coverage is good. When a controller speaks to a pilot, the voice travels down a telecommunications line to a transmitter that may be hundreds of miles away. The radar picture comes back the same way. The whole thing is a network of leased lines connecting thousands of sites.
+
+Since two thousand two, that network has been run under a single contract by Harris, now L3Harris. And those lines were, for decades, copper. The phone companies are retiring copper, so the agency has been moving everything to fiber. L3Harris says it's more than seventy percent of the way through. Friday's failure happened during exactly that job, a switch from copper to fiber at a remote site. Duffy said L3Harris didn't meet the moment, and that people would be held accountable. The company says it's cooperating. Whether the fault was the equipment, the installation or the configuration hasn't been established.
+
+So why a ground stop, and not just a slowdown? Because the rule is simple. You don't launch airplanes into airspace where you can't talk to them. Planes already flying get worked through by whatever channels are left. Everything on the ground stays there.
+
+How did it get built this way? In pieces, and mostly after something went wrong.
+
+The first controller is usually said to be Archie League, who in nineteen twenty-nine stood at the edge of the field in St. Louis waving flags at pilots. In nineteen thirty-five, a group of airlines set up the first center for tracking planes between airports, at Newark, and the federal government took it over the following year.
+
+Then, on the last day of June in nineteen fifty-six, a TWA Super Constellation and a United DC-7 collided over the Grand Canyon, in uncontrolled airspace, killing all a hundred and twenty-eight people aboard. It was, at the time, the deadliest accident in American commercial aviation. Two years later Congress passed the Federal Aviation Act, created what became the Federal Aviation Administration, and set about building radar coverage across the country.
+
+The next shock was human. In August nineteen eighty-one, about thirteen thousand members of the controllers' union, PATCO, went on strike over pay and hours. Federal workers aren't allowed to strike, and Ronald Reagan fired more than eleven thousand of them. Rebuilding took most of the decade. One quiet consequence: a workforce hired in a wave retires in a wave, and staffing shortages have been a recurring theme ever since. Today there are roughly eleven thousand fully certified controllers, several thousand short of what the agency says it needs.
+
+Modernizing has been its own saga. In the nineteen eighties, the agency hired IBM to build a new generation of automation, the Advanced Automation System. Costs ballooned, schedules slipped, and in nineteen ninety-four most of it was scrapped after billions had been spent. Then came NextGen, launched in two thousand three, a long program to shift from ground radar toward satellite positioning. Some of it landed: since twenty twenty, most planes in busy airspace must broadcast their satellite positions. But a twenty twenty-four review by the agency itself rated fifty-one of its hundred and thirty-eight air traffic systems unsustainable, and another fifty-four potentially so. Duffy has made a point of the floppy disks and paper strips still in use.
+
+Underneath all of that is how it's paid for. Passengers pay a seven and a half percent tax on domestic fares, plus per-segment fees, and airlines pay fuel taxes, all into a trust fund. But the money is spent only when Congress appropriates it, year by year, and the same budget pays for running the system today and rebuilding it for tomorrow. Today usually wins. And when the government shuts down, the system keeps running on people working without pay. During the forty-three-day shutdown last fall, the agency ordered flight cuts at forty major airports because too many controllers were calling out.
+
+The warnings in the last few years were specific. In January twenty twenty-three, a contractor deleting files corrupted the system that sends pilots safety notices, and the agency issued the first nationwide ground stop since September eleventh. In January last year, an Army helicopter and a regional jet collided over the Potomac near Reagan National, killing sixty-seven people. And that spring, the facility that handles Newark lost radar and radio contact with planes for about ninety seconds, on old copper lines, and Newark's flights were cut for months.
+
+The response came last year. Congress put twelve and a half billion dollars toward a new system in the summer, and in December the agency picked Peraton, a defense contractor, as prime integrator, overseeing everything from radar to telecom, with a target of twenty twenty-eight. Bedford said another twenty billion would be needed. On Friday, Duffy asked for fifty, up from thirty. And one of the first items on Peraton's list is moving the remaining copper to fiber.
+
+That's the uncomfortable shape of the problem. You can't switch this system off to rebuild it. Every upgrade happens on the live network, while planes are in the air, and the act of modernizing is itself a risk. Friday was the system tripping over its own repair.
+
+Now the honest counterargument, and you happen to be standing in it. In nineteen ninety-six, Canada sold its air navigation system to Nav Canada, a private, not-for-profit company, for about one and a half billion Canadian dollars. It's paid for by charges on airlines rather than appropriations, and governed by a board drawn from airlines, unions, business aviation and government. Its defenders say it can borrow for long-term projects and doesn't stop when Ottawa does, and it's often credited with adopting new technology faster than the American system has.
+
+American airlines pushed for something similar. In twenty seventeen, Bill Shuster, then chairman of the House transportation committee, introduced a bill to move air traffic control into a nonprofit corporation. It died without a vote in the full House. Private pilots and business aviation feared user fees and a board run by the airlines, rural lawmakers feared their small airports would lose out, and the committees that control the agency's budget weren't keen to give it up.
+
+The skeptics have evidence too. When traffic collapsed in the pandemic, Nav Canada's revenue collapsed with it, and in twenty twenty-one it raised its charges by roughly thirty percent. And separating the system from government doesn't make it immune to Friday's kind of failure. In August twenty twenty-three, Britain's partly private air traffic service rejected a single flight plan containing two waypoints with the same name, its backup did the same, and more than fifteen hundred flights were cancelled on a bank holiday Monday. Structure changes who pays and who decides. It doesn't repeal the fact that these are huge, tightly coupled systems running on decades of accumulated equipment.
+
+So what would have to happen for Friday to matter, rather than fade? Three things to watch. First, the investigation: whether it finds a faulty box, a bad installation or a bad procedure, because each points to a different fix, and to a different party paying for it. Second, money: a Democratic Congress takes over in January, and whether it funds the fifty billion, and how, will say a lot about whether this becomes a real rebuild or another decade of patches. And third, the calendar: the new system is due in twenty twenty-eight, which, if the last forty years are any guide, is the number most likely to move.
+
+Duffy says airlines should have full schedules back by tonight. The router question will take longer.
+
+That's the long read. Now a minute of French, and then the European news in it.
+
+How would you say it slipped my mind? Not that you forgot forever. That small, slightly sheepish admission.
+
+
+
+Ça m'est sorti de la tête.
+
+
+
+Ça m'est sorti de la tête.
+
+The picture is something walking out of your head. The trap is to translate the English idiom about slipping. Don't say this:
+
+Ça a glissé mon esprit.
+
+To a French ear, that sounds like your mind is an icy pavement.
+
+In a sentence. A friend asks whether you booked the table you promised to.
+
+Ah mince, le resto ! Désolé, ça m'est complètement sorti de la tête.
+
+Or a colleague reminds you about a call.
+
+Ah oui, l'appel de quinze heures, ça m'était sorti de la tête.
+
+Now three cold.
+
+It's freezing out there. Properly bitter.
+
+
+
+Il fait un froid de canard.
+
+I got had. Ripped off.
+
+
+
+Je me suis fait avoir.
+
+It's not the end of the world. It's not that hard.
+
+
+
+C'est pas la mer à boire.
+
+And so to France, where the street is still talking.
+
+En France, les cortèges de samedi, à Paris comme à Lyon, étaient hétéroclites, mais un mot d'ordre a dominé : le rejet du projet de loi sur la présomption de légitime défense pour les policiers et les gendarmes, que ses opposants surnomment le « permis de tuer ». Le gouvernement a interdit la vente des mortiers d'artifice jusqu'au vingt-sept novembre.
+
+Côté présidentielle, Teddy Riner a passé son samedi au salon du Made in France. Le judoka a tenu à se démarquer du macronisme, mais Le Monde note que sa campagne connaît déjà ses premières turbulences.
+
+Et un constat qui pique : selon Le Monde, la France affiche l'une des plus faibles croissances d'Europe cette année, et son PIB par habitant passe désormais sous la moyenne européenne.
+
+Emmanuel Macron, lui, est au Cambodge pour le sommet de la Francophonie. C'est la première visite d'État d'un président français depuis plus de trente ans.
+
+En Europe, Volodymyr Zelensky affirme que les émissaires américains ont proposé à l'Ukraine une adhésion à l'OTAN en échange du Donbass, une piste que Kiev ne prend pas au sérieux. Il dit aussi que l'accès de son armée au réseau satellitaire Starshield est de nouveau restreint. Et en Hongrie, l'agence anticorruption du nouveau gouvernement dit avoir récupéré dix-neuf virgule cinq milliards de dollars cachés, parfois enterrés dans des forêts. Trois anciens ministres de Viktor Orbán sont en garde à vue.
+
+Back in English, and one idea before we finish.
+
+In the winter of seventeen sixty-one, a ship called the Deptford sailed from Portsmouth for Jamaica carrying a clock about the size of a large pocket watch. Its maker, John Harrison, a self-taught carpenter from Lincolnshire, was by then sixty-eight. The test was longitude. A ship could find its latitude from the sun, but east and west meant knowing the time back home precisely, and no clock had kept time at sea. When the Deptford reached Jamaica after eighty-one days, Harrison's watch was out by about five seconds.
+
+The circumstance is that Parliament had offered a prize of twenty thousand pounds back in seventeen fourteen, and Harrison had spent most of his working life chasing it. The Board of Longitude, which judged it, was full of astronomers, and many of them backed a rival method, measuring the moon against the stars. One of them, Nevil Maskelyne, became Astronomer Royal in seventeen sixty-five, and started publishing tables that made that method practical. The Board kept asking Harrison for more trials, more disclosure, more copies. He never got the prize as such. In seventeen seventy-three, after King George the Third took his side, Parliament granted him a separate award.
+
+The complication is that the Board had a point. One perfect watch wasn't a solution for a navy. Copies were slow to make and cost a fortune; the first, by Larcum Kendall, sailed with James Cook in seventeen seventy-two. For decades, many ships still navigated by the moon, using Maskelyne's tables, because it needed only a sextant and arithmetic. Whether the Board was obstructing a genius, or being sensible about what could actually be built at scale, historians still argue.
+
+And finally, closer to home.
+
+You're in Toronto for one more day. A high around forty-five, sun and cloud this morning turning grey by noon, with a northwest breeze. No rain in the forecast. Down to about thirty-seven tonight.
+
+You fly home first thing tomorrow. Duffy expects airlines to be back on full schedules by tonight, but crews are still out of position, so check before you leave for the airport. New York is the better side of the trip: sunny tomorrow, mid-fifties.
+
+If you're still out tonight, the Knicks are at the Raptors at six.
+
+And for the weekend ahead, Time Warp is back in Brooklyn on Friday and Saturday at the Duggal Greenhouse in the Navy Yard, two stages from ten at night to six in the morning. Saturday is the heavy night, with Sven Väth, DVS1 and Âme.
+
+That's the long read. Safe trip home, and enjoy the rest of the Sunday.

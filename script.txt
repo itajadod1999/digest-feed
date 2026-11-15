@@ -1,105 +1,142 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[NEW_PHRASE: Ça m'est sorti de la tête.]]
+[[IDEA: John Harrison | The marine chronometer and the Board of Longitude, 1761]]
 
-Starting with markets.
+Good morning. It's Sunday, November fifteenth. At six minutes to four on Friday afternoon, every departing flight in the United States was told to stay on the ground. By Saturday, the Wall Street Journal had traced the trigger to a single router at a radio site in rural Arkansas. It's a strange sentence, and it raises a better question than who to blame: how is American air traffic control actually built, that one box on a hill could stop it? That's today's subject. The weekend and the year in numbers first, kept short.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+Following up on Iran. Iran's Revolutionary Guards say they launched six drones this morning at an American air defense radar at Riffa Air Base in Bahrain. Bahrain says its air defenses stopped the attacks; the American military hadn't commented as of this morning. It's the second such claim in three days. On Friday, Central Command said it shot down two drones, with no damage. On Saturday, the Guards said two more tankers hit mines in the Strait of Hormuz, an Iranian claim nobody has confirmed. Tehran has sent seven conditions through Qatar, among them lifting the naval blockade and releasing frozen funds, and is waiting on a reply. And the Journal reports American intelligence believes Iran still has fifteen hundred to twenty-five hundred missiles.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+In Israel, Gadi Eisenkot, trying to form a government, accused Benjamin Netanyahu of playing tricks, as Netanyahu argues for a unity government instead. And Le Monde reports a commander of Hamas's military wing was killed in a strike in southern Gaza.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+On Nvidia, the Journal reports Jensen Huang built a network of Asian partners that kept its chips flowing toward Chinese buyers, and that the scandal now threatens the whole arrangement. Colette Kress holds her first company-wide meeting on Wednesday.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+Elsewhere. In New Orleans on Friday, a tanker hit a docked cruise ship and left it on its side in the Mississippi. All of the hundred and eighty or so people aboard were rescued, and thirty-two are in hospital with injuries that aren't life-threatening. The Coast Guard points to a loss of steering on the tanker. SpaceX caught a Starship upper stage in its launch tower for the first time, after fourteen orbits.
 
-Before we get to deals, a small thing I liked.
+One genuinely good number. The Economist reports China's carbon dioxide emissions fell three point one percent year over year in the third quarter. China has been the world's biggest annual emitter for twenty years.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+And a lighter one. The first Eurovision Song Contest Asia was held in Bangkok on Saturday. Prediction markets had a Malaysian pop star, Aina Abdul, as the favourite. The winner was Carmelle, from the Philippines.
 
-Moving to deals and credit.
+The week ahead. Grammy nominations come Monday, October retail sales Tuesday. Wednesday brings housing starts and the DealBook Summit here in New York, where Mayor Mamdani, Mark Carney and Christine Lagarde are among the guests. Disclosure: Anthropic makes me. Its shares are expected to start trading on Thursday, the same day the President meets Xi Jinping and Vladimir Putin in Shenzhen. And the United Nations climate summit in Turkey ends on Friday.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+Now the year to date, Friday's close against the last day of twenty twenty-five.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+The S and P five hundred, around seventy-five sixty, is up a little over ten percent on the year, back above where it stood two weeks ago. The Nasdaq, near twenty-five thousand one hundred and forty, is up about eight. The Dow, around fifty-two thousand three hundred and fifty, is up about nine.
 
-Now real estate.
+The ten-year Treasury started the year near four point one seven percent and finished Friday around five point one five, roughly a full point higher, and most of that in the last two months. Brent, near sixty-one dollars on New Year's Day, closed around ninety-six, up close to sixty percent. And bitcoin, at roughly sixty-eight thousand dollars, is down a little over a fifth on the year.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+Which brings us to the sky.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+Start with what Friday actually was. At three fifty-four, Eastern, the Federal Aviation Administration stopped departures across the country. Communications had broken down at seventeen of its twenty-two en route centers, the facilities that run high-altitude traffic. Sean Duffy, the Transportation Secretary, said a router was making about a thousand connection attempts every four or five seconds, overwhelming older equipment around it. The stop lasted more than four hours. More than nine thousand flights were cancelled on Friday and five thousand more on Saturday, and Bryan Bedford, who runs the agency, puts the total lost at about twelve thousand.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+To see why one router matters, you need the shape of the system. A flight passes through three layers of control. There are about five hundred towers, which handle the runway and the air just around it. There are roughly a hundred and fifty approach facilities, which feed planes in and out of the busy airspace around cities. And there are the en route centers, big windowless buildings, each responsible for a slab of sky hundreds of miles across. A flight from Toronto to LaGuardia gets handed from one to the next, every handoff a conversation.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+Here's the part almost nobody thinks about. The controller in an en route center isn't near the radar, or the radio. Both sit at remote sites, on hills and in fields, because that's where coverage is good. When a controller speaks to a pilot, the voice travels down a telecommunications line to a transmitter that may be hundreds of miles away. The radar picture comes back the same way. The whole thing is a network of leased lines connecting thousands of sites.
 
-Over to technology.
+Since two thousand two, that network has been run under a single contract by Harris, now L3Harris. And those lines were, for decades, copper. The phone companies are retiring copper, so the agency has been moving everything to fiber. L3Harris says it's more than seventy percent of the way through. Friday's failure happened during exactly that job, a switch from copper to fiber at a remote site. Duffy said L3Harris didn't meet the moment, and that people would be held accountable. The company says it's cooperating. Whether the fault was the equipment, the installation or the configuration hasn't been established.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+So why a ground stop, and not just a slowdown? Because the rule is simple. You don't launch airplanes into airspace where you can't talk to them. Planes already flying get worked through by whatever channels are left. Everything on the ground stays there.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+How did it get built this way? In pieces, and mostly after something went wrong.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+The first controller is usually said to be Archie League, who in nineteen twenty-nine stood at the edge of the field in St. Louis waving flags at pilots. In nineteen thirty-five, a group of airlines set up the first center for tracking planes between airports, at Newark, and the federal government took it over the following year.
 
-Over to France.
+Then, on the last day of June in nineteen fifty-six, a TWA Super Constellation and a United DC-7 collided over the Grand Canyon, in uncontrolled airspace, killing all a hundred and twenty-eight people aboard. It was, at the time, the deadliest accident in American commercial aviation. Two years later Congress passed the Federal Aviation Act, created what became the Federal Aviation Administration, and set about building radar coverage across the country.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+The next shock was human. In August nineteen eighty-one, about thirteen thousand members of the controllers' union, PATCO, went on strike over pay and hours. Federal workers aren't allowed to strike, and Ronald Reagan fired more than eleven thousand of them. Rebuilding took most of the decade. One quiet consequence: a workforce hired in a wave retires in a wave, and staffing shortages have been a recurring theme ever since. Today there are roughly eleven thousand fully certified controllers, several thousand short of what the agency says it needs.
 
-And the Middle East.
+Modernizing has been its own saga. In the nineteen eighties, the agency hired IBM to build a new generation of automation, the Advanced Automation System. Costs ballooned, schedules slipped, and in nineteen ninety-four most of it was scrapped after billions had been spent. Then came NextGen, launched in two thousand three, a long program to shift from ground radar toward satellite positioning. Some of it landed: since twenty twenty, most planes in busy airspace must broadcast their satellite positions. But a twenty twenty-four review by the agency itself rated fifty-one of its hundred and thirty-eight air traffic systems unsustainable, and another fifty-four potentially so. Duffy has made a point of the floppy disks and paper strips still in use.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+Underneath all of that is how it's paid for. Passengers pay a seven and a half percent tax on domestic fares, plus per-segment fees, and airlines pay fuel taxes, all into a trust fund. But the money is spent only when Congress appropriates it, year by year, and the same budget pays for running the system today and rebuilding it for tomorrow. Today usually wins. And when the government shuts down, the system keeps running on people working without pay. During the forty-three-day shutdown last fall, the agency ordered flight cuts at forty major airports because too many controllers were calling out.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+The warnings in the last few years were specific. In January twenty twenty-three, a contractor deleting files corrupted the system that sends pilots safety notices, and the agency issued the first nationwide ground stop since September eleventh. In January last year, an Army helicopter and a regional jet collided over the Potomac near Reagan National, killing sixty-seven people. And that spring, the facility that handles Newark lost radar and radio contact with planes for about ninety seconds, on old copper lines, and Newark's flights were cut for months.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+The response came last year. Congress put twelve and a half billion dollars toward a new system in the summer, and in December the agency picked Peraton, a defense contractor, as prime integrator, overseeing everything from radar to telecom, with a target of twenty twenty-eight. Bedford said another twenty billion would be needed. On Friday, Duffy asked for fifty, up from thirty. And one of the first items on Peraton's list is moving the remaining copper to fiber.
 
-One more small thing before the deep dives.
+That's the uncomfortable shape of the problem. You can't switch this system off to rebuild it. Every upgrade happens on the live network, while planes are in the air, and the act of modernizing is itself a risk. Friday was the system tripping over its own repair.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+Now the honest counterargument, and you happen to be standing in it. In nineteen ninety-six, Canada sold its air navigation system to Nav Canada, a private, not-for-profit company, for about one and a half billion Canadian dollars. It's paid for by charges on airlines rather than appropriations, and governed by a board drawn from airlines, unions, business aviation and government. Its defenders say it can borrow for long-term projects and doesn't stop when Ottawa does, and it's often credited with adopting new technology faster than the American system has.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+American airlines pushed for something similar. In twenty seventeen, Bill Shuster, then chairman of the House transportation committee, introduced a bill to move air traffic control into a nonprofit corporation. It died without a vote in the full House. Private pilots and business aviation feared user fees and a board run by the airlines, rural lawmakers feared their small airports would lose out, and the committees that control the agency's budget weren't keen to give it up.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+The skeptics have evidence too. When traffic collapsed in the pandemic, Nav Canada's revenue collapsed with it, and in twenty twenty-one it raised its charges by roughly thirty percent. And separating the system from government doesn't make it immune to Friday's kind of failure. In August twenty twenty-three, Britain's partly private air traffic service rejected a single flight plan containing two waypoints with the same name, its backup did the same, and more than fifteen hundred flights were cancelled on a bank holiday Monday. Structure changes who pays and who decides. It doesn't repeal the fact that these are huge, tightly coupled systems running on decades of accumulated equipment.
 
-Now put that next to private equity, which is running its own version of the same problem.
+So what would have to happen for Friday to matter, rather than fade? Three things to watch. First, the investigation: whether it finds a faulty box, a bad installation or a bad procedure, because each points to a different fix, and to a different party paying for it. Second, money: a Democratic Congress takes over in January, and whether it funds the fifty billion, and how, will say a lot about whether this becomes a real rebuild or another decade of patches. And third, the calendar: the new system is due in twenty twenty-eight, which, if the last forty years are any guide, is the number most likely to move.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+Duffy says airlines should have full schedules back by tonight. The router question will take longer.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+That's the long read. Now a minute of French, and then the European news in it.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+How would you say it slipped my mind? Not that you forgot forever. That small, slightly sheepish admission.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+[[PAUSE:3]]
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+[[FR]]Ça m'est sorti de la tête.[[/FR]]
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+[[PAUSE]]
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+[[FR]]Ça m'est sorti de la tête.[[/FR]]
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+The picture is something walking out of your head. The trap is to translate the English idiom about slipping. Don't say this:
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+[[FR]]Ça a glissé mon esprit.[[/FR]]
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+To a French ear, that sounds like your mind is an icy pavement.
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+In a sentence. A friend asks whether you booked the table you promised to.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+[[FR]]Ah mince, le resto ! Désolé, ça m'est complètement sorti de la tête.[[/FR]]
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+Or a colleague reminds you about a call.
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+[[FR]]Ah oui, l'appel de quinze heures, ça m'était sorti de la tête.[[/FR]]
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+Now three cold.
 
-One last small thing before the close, and it is an old one.
+It's freezing out there. Properly bitter.
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+[[PAUSE:3]]
+
+[[FR]]Il fait un froid de canard.[[/FR]]
+
+I got had. Ripped off.
+
+[[PAUSE:3]]
+
+[[FR]]Je me suis fait avoir.[[/FR]]
+
+It's not the end of the world. It's not that hard.
+
+[[PAUSE:3]]
+
+[[FR]]C'est pas la mer à boire.[[/FR]]
+
+And so to France, where the street is still talking.
+
+[[FR]]En France, les cortèges de samedi, à Paris comme à Lyon, étaient hétéroclites, mais un mot d'ordre a dominé : le rejet du projet de loi sur la présomption de légitime défense pour les policiers et les gendarmes, que ses opposants surnomment le « permis de tuer ». Le gouvernement a interdit la vente des mortiers d'artifice jusqu'au vingt-sept novembre.[[/FR]]
+
+[[FR]]Côté présidentielle, Teddy Riner a passé son samedi au salon du Made in France. Le judoka a tenu à se démarquer du macronisme, mais Le Monde note que sa campagne connaît déjà ses premières turbulences.[[/FR]]
+
+[[FR]]Et un constat qui pique : selon Le Monde, la France affiche l'une des plus faibles croissances d'Europe cette année, et son PIB par habitant passe désormais sous la moyenne européenne.[[/FR]]
+
+[[FR]]Emmanuel Macron, lui, est au Cambodge pour le sommet de la Francophonie. C'est la première visite d'État d'un président français depuis plus de trente ans.[[/FR]]
+
+[[FR]]En Europe, Volodymyr Zelensky affirme que les émissaires américains ont proposé à l'Ukraine une adhésion à l'OTAN en échange du Donbass, une piste que Kiev ne prend pas au sérieux. Il dit aussi que l'accès de son armée au réseau satellitaire Starshield est de nouveau restreint. Et en Hongrie, l'agence anticorruption du nouveau gouvernement dit avoir récupéré dix-neuf virgule cinq milliards de dollars cachés, parfois enterrés dans des forêts. Trois anciens ministres de Viktor Orbán sont en garde à vue.[[/FR]]
+
+Back in English, and one idea before we finish.
+
+In the winter of seventeen sixty-one, a ship called the Deptford sailed from Portsmouth for Jamaica carrying a clock about the size of a large pocket watch. Its maker, John Harrison, a self-taught carpenter from Lincolnshire, was by then sixty-eight. The test was longitude. A ship could find its latitude from the sun, but east and west meant knowing the time back home precisely, and no clock had kept time at sea. When the Deptford reached Jamaica after eighty-one days, Harrison's watch was out by about five seconds.
+
+The circumstance is that Parliament had offered a prize of twenty thousand pounds back in seventeen fourteen, and Harrison had spent most of his working life chasing it. The Board of Longitude, which judged it, was full of astronomers, and many of them backed a rival method, measuring the moon against the stars. One of them, Nevil Maskelyne, became Astronomer Royal in seventeen sixty-five, and started publishing tables that made that method practical. The Board kept asking Harrison for more trials, more disclosure, more copies. He never got the prize as such. In seventeen seventy-three, after King George the Third took his side, Parliament granted him a separate award.
+
+The complication is that the Board had a point. One perfect watch wasn't a solution for a navy. Copies were slow to make and cost a fortune; the first, by Larcum Kendall, sailed with James Cook in seventeen seventy-two. For decades, many ships still navigated by the moon, using Maskelyne's tables, because it needed only a sextant and arithmetic. Whether the Board was obstructing a genius, or being sensible about what could actually be built at scale, historians still argue.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+You're in Toronto for one more day. A high around forty-five, sun and cloud this morning turning grey by noon, with a northwest breeze. No rain in the forecast. Down to about thirty-seven tonight.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+You fly home first thing tomorrow. Duffy expects airlines to be back on full schedules by tonight, but crews are still out of position, so check before you leave for the airport. New York is the better side of the trip: sunny tomorrow, mid-fifties.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+If you're still out tonight, the Knicks are at the Raptors at six.
 
-That's the morning. Have a good one.
+And for the weekend ahead, Time Warp is back in Brooklyn on Friday and Saturday at the Duggal Greenhouse in the Navy Yard, two stages from ten at night to six in the morning. Saturday is the heavy night, with Sven Väth, DVS1 and Âme.
+
+That's the long read. Safe trip home, and enjoy the rest of the Sunday.
