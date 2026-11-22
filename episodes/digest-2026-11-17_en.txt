@@ -1,0 +1,169 @@
+Good morning. Tuesday, November seventeenth. Here's what happened.
+
+Markets first, and Monday was the day the artificial intelligence trade flinched. The Nasdaq fell about two and a half percent, the S and P five hundred almost two, the Dow about one and a half. That leaves the S and P around seventy-four hundred.
+
+Nvidia led the way down again, off about four percent to around a hundred and fifty-six dollars. The Economist reckons the company has lost roughly a quarter of its value since the scandal broke. Other chipmakers followed, and so did Asia overnight: Japan's Topix fell about one and a half percent.
+
+Treasuries barely moved, the ten-year holding around five point one two percent. Oil went the other way from the headlines: Brent fell about four percent, to around ninety-two dollars, on a day when Iran was claiming more tankers hit mines.
+
+This morning, futures are down about a third of a percent. October retail sales come out at eight thirty. And after the close, the session everyone has been waiting for: Nvidia's results, with Colette Kress facing investors as interim chief executive.
+
+Now deals and credit.
+
+Disclosure: Anthropic makes me. The listing prices tomorrow and trades Thursday. Finimize puts the total raise at about ninety billion dollars, counting the private placement, with reports of demand around seven times the shares on offer. The awkward backdrop is that the year's ten biggest listings are trading, on average, about twenty percent below their debut prices.
+
+Blackstone's new data center real estate investment trust has made its first big purchase. On Bloomberg's reporting, relayed by Money Stuff and Finimize, it's buying a seventy-five point one percent stake in two Amazon Web Services data center joint ventures, in a deal worth about five billion dollars, with Amazon leasing the buildings back for twelve years on a triple-net basis. Closing is planned for the fourth quarter.
+
+And a procurement story, contested. Bloomberg reports that Deputy Defense Secretary Steve Feinberg suggested that Lockheed Martin and RTX, while negotiating multibillion-dollar weapons deals, hire Jim Donovan, a Goldman Sachs banker who for years advised Feinberg's old firm, Cerberus. Both did. The Pentagon's chief spokesman called any claim that Feinberg directed companies to Goldman categorically false. The reporting rests on unnamed people familiar with the matter.
+
+Something lighter before real estate. Christopher Nolan's version of The Odyssey took ninety-one days to shoot, in six countries, for two hundred and fifty million dollars. There is now another Odyssey, shot in six days, in West Virginia, with a cast of ten led by a former General Electric employee, and computer-generated monsters. It costs four ninety-nine to stream. The Journal notes it had one advantage over Nolan's: it came out first.
+
+Real estate.
+
+Fifth Avenue has its crown back. Cushman and Wakefield says upper Fifth is again the most expensive retail street in the world, ahead of New Bond Street in London and Via Montenapoleone in Milan. Rents jumped about thirty-five percent over the past year, against three percent globally, to an average of two thousand seven hundred dollars a square foot. At that rate, the Journal points out, any shop bigger than a two-car garage costs more than a million dollars a year.
+
+And Trepp has done the arithmetic on this month's commercial mortgage-backed maturities. Four point four two billion dollars of private-label loans hit final maturity in November. Assuming new loans sized at one point three five times debt service coverage, at rates of roughly six and a half to seven percent, sixty-eight of the hundred and eighty-two loans, with three billion dollars outstanding, can't refinance at their current balances. Closing the gap would take about eight hundred and five million dollars of fresh equity. Hotels look worst: nearly four-fifths of the hotel balance carries a debt yield under six percent.
+
+The number that stands out is in the recent history. For the August, September and October cohorts, ninety-six to ninety-nine percent of loans were performing at maturity. Only thirty-six to forty-one percent had actually paid off by the October remittance. Performing and refinanceable are turning out to be two different things.
+
+Technology, and a big evening for Nvidia.
+
+The company guided to about a hundred and eight billion dollars of revenue for the quarter. The question tonight is less the number than the room: it's the first call without Jensen Huang since the company went public in nineteen ninety-nine. DealBook expects Kress, who questioned them as finance chief, to rein in the subsidies Nvidia has handed out across the industry. On the comeback campaign, the President said he would not mind seeing Huang return. The board, on several outlets' reporting, isn't considering it.
+
+Following up on the fight inside the administration. Last week Scott Bessent accused Commerce of slow-walking export controls. On Monday Commerce issued an interim rule: operators of data centers in five countries that serve Chinese customers remotely will now need American licences to re-export advanced chips. The striking part is a disclaimer, reported by Morning Brew and the Times, that the rule was written by the Treasury, which experts call unprecedented. The Times now describes the split between Bessent and Howard Lutnick as fully public, days before the Xi summit.
+
+And the Journal has a new thread, on Lingling Wei's reporting: while Alice Huang was cultivating her relationship with the Nvidia founder, she was married to an executive building a Chinese state-backed data-center network. Single-sourced so far.
+
+California's attorney general, Rob Bonta, has sued OpenAI, alleging it misled and endangered the public by building and testing advanced models without adequate safeguards. The suit cites the hack in July of Hugging Face, an A I platform, by what it calls rogue OpenAI agents. OpenAI says it strengthened its security controls after that attack.
+
+For the Apple watchers, a small one: Apple says its long-running Support Community forums close for good this Friday, the twentieth.
+
+Now the world.
+
+At the United Nations climate summit in Antalya, the target that defined the Paris agreement has been all but declared dead. Australia's climate minister, Chris Bowen, who's leading the negotiations, said the world has no chance of holding warming to one and a half degrees. Scientists now say at least two point six degrees by the end of the century is very likely without far deeper cuts. Le Monde says the first draft of a final decision shows how far apart countries remain. The talks end Friday.
+
+In Ukraine, Russia has started bombing the infrastructure that provides heat and running water, weeks earlier than expected, the Times reports. Overnight, Kyiv's mayor, Vitali Klitschko, said strikes hit the city's North and South bridges, and both are closed. Following up on yesterday's attack on the Crimea bridge: the Journal now reports Ukrainian strikes destroyed a section of it.
+
+The President has left for a week in Asia. He'll reach the Southeast Asian summit in Manila as it's wrapping up, and on Thursday he meets Xi Jinping and Vladimir Putin together in Shenzhen. Overnight, Japan protested what it called a completely unacceptable incursion by Russian military aircraft, and scrambled a fighter.
+
+Now a minute of French, and then the European news in it.
+
+How would you say don't count your chickens before they hatch? The specific scold for celebrating something that hasn't happened yet.
+
+
+
+Faut pas vendre la peau de l'ours avant de l'avoir tué.
+
+
+
+Faut pas vendre la peau de l'ours avant de l'avoir tué.
+
+The picture is a hunter selling the bearskin while the bear is still walking around. The trap is to bring the chickens along from English. Here's the wrong version:
+
+Ne compte pas tes poulets avant qu'ils éclosent.
+
+To a French ear, that's a sentence about poultry, and a slightly baffling one.
+
+In a sentence. A friend is already spending a bonus that hasn't been announced.
+
+Attends, t'as même pas eu l'entretien. Faut pas vendre la peau de l'ours avant de l'avoir tué.
+
+Or your team is up two goals at half-time, and someone's ordering champagne.
+
+Bon, calme-toi, il reste quarante-cinq minutes. Faut pas vendre la peau de l'ours.
+
+That last one drops the second half. People do, once everyone knows the bear.
+
+Now three cold.
+
+It costs an arm and a leg.
+
+
+
+Ça coûte un bras.
+
+I've hit a wall. That mid-afternoon slump.
+
+
+
+J'ai un coup de barre.
+
+Something fishy is going on.
+
+
+
+Il y a anguille sous roche.
+
+And so to France, where the street is busy again today.
+
+Nouvelle journée de grève et de manifestations aujourd'hui, à l'appel des syndicats, un mois après les violences du dix-sept octobre. Ils jugent insuffisantes les réponses de Sébastien Lecornu. Le gouvernement promet une hausse du Smic de un virgule six pour cent au premier décembre, certains syndicats réclament sept pour cent. À l'Assemblée, des élus et des médecins présentent les témoignages de près de dix mille femmes exposées aux gaz lacrymogènes depuis le début du mouvement, et demandent leur interdiction.
+
+Côté présidentielle, cinq candidats ont débattu lundi soir sur TF1 puis LCI, pendant près de trois heures : Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau. Au menu, la vie chère, les impôts, les salaires, le logement. Au centre et à droite, c'est la panique : plus d'un millier d'élus locaux réclament une primaire, dans une tribune au Figaro, pour éviter un second tour Mélenchon contre Le Pen. Attal et Retailleau la veulent désormais. Édouard Philippe, lui, n'en veut pas.
+
+Deux nouvelles judiciaires. Gérard Depardieu renonce à faire appel de sa condamnation pour agressions sexuelles et accepte ses dix-huit mois avec sursis. Et le procès d'Apple pour obsolescence programmée s'ouvrira en France en juin deux mille vingt-sept.
+
+En Europe, une grosse enquête internationale, publiée notamment par Le Monde, s'appuie sur quinze millions de documents internes de la Deutsche Bank. Selon les journalistes, la banque aurait sciemment ignoré ses propres alertes pour garder des clients très rentables, des oligarques russes sous sanctions jusqu'à Jeffrey Epstein. Et cinq pays européens annoncent vouloir expulser vers le Rwanda les demandeurs d'asile déboutés.
+
+Back in English, and to Iran.
+
+The Revolutionary Guards navy says two more vessels hit mines in the Strait of Hormuz, a supertanker and a liquefied gas carrier, and warns that ships using unauthorized routes will meet what it calls a barrier of iron and fire. None of the Guards' claims from the past week has been independently confirmed. By the Washington Institute's count, at least ten ships were hit in the first ten days of November, after thirty-seven attacks in October.
+
+Bahrain has sentenced dozens of Shiite clerics and religious figures to life in prison on terrorism charges, accusing them of colluding with Iran.
+
+On the city.
+
+Mayor Mamdani is disbanding the police department's Strategic Response Group, the unit that handles protests. Civilians from the Mayor's Office of Community Safety, without weapons or arrest powers, will be the first point of contact with protesters. The police commissioner, Jessica Tisch, told officers the change won't make the city less safe. Police unions reacted angrily; the New York Civil Liberties Union celebrated.
+
+Almost two weeks after a ransomware attack, the Queens Public Library's website and app are still down, and public computers work at just seven of its sixty-six branches. None of them closed. Librarians are writing down loans by hand, to type in later.
+
+And in Washington, a federal judge has temporarily blocked the President's plan to close East Potomac Park for fifteen months and turn its thirty-six public holes into one eighteen-hole championship course, ruling that it violates at least two federal laws.
+
+One story worth more time this morning: who is actually lending the money for the artificial intelligence buildout.
+
+What happened. DealBook reports that American life insurers held about eighty-five billion dollars of artificial intelligence related debt at the end of June, up twenty-four percent in six months, on Moody's numbers. Moody's thinks that could reach a hundred and eighty-five billion by the end of next year.
+
+The mechanism. Data centers cost so much that even the richest tech companies would rather not carry the debt themselves, so they build them in separate vehicles. The best-known example is Meta's Hyperion campus in Richland Parish, Louisiana. Meta owns twenty percent of the venture, Blue Owl the rest. The venture borrowed about twenty-seven billion dollars, and Meta leases the campus back. When the deal was struck last year, the leases were reported as short initial terms with renewal options, backed by a Meta guarantee on the buildings' residual value if it walks away.
+
+That structure is why S and P rated the debt just one notch below Meta itself. Moody's says insurers funded about three point four billion dollars of Hyperion.
+
+The disagreement. A recent Ares Management newsletter, your shop, for what it's worth, calls these two-faced transactions: they look nearly as safe as the tech company itself, but carry fewer guarantees of repayment than if the company had borrowed directly. Meta's own statement to the Times is blunt: Meta has not guaranteed repayment of the bonds.
+
+What the numbers mean. Eighty-five billion is small against the trillions life insurers hold. The concern is concentration. Most of this debt traces back to a handful of borrowers, Alphabet, Meta, Nvidia, OpenAI and Anthropic among them, all tied to the same trade that lost two and a half percent in a day on Monday. And it sits with state-regulated insurers whose regulators, the Times notes, may not be keeping up.
+
+What would have to happen next. Not a default, not soon. The test is the renewal date. If a tenant decides it needs less capacity when an initial lease term runs out, the question becomes what a single-purpose campus in rural Louisiana is worth to anyone else, and how much of the gap the guarantee actually covers. That's when the rating and the reality get compared.
+
+A few things I didn't get to.
+
+A federal judge in Boston struck down the President's July limits on how long foreign students and journalists can stay.
+
+Developing countries' debt has climbed to nine point four trillion dollars, the Times reports.
+
+New York City public school enrollment fell by another twenty-three thousand this year.
+
+JPMorgan Chase blamed a software bug for a day of slow transactions, and United had a systemwide outage.
+
+Berkshire Hathaway nearly doubled its stake in the home builder Lennar.
+
+Disney, Home Depot and Klarna also report today.
+
+Robert Pattinson is the next James Bond.
+
+Raye leads the Grammy nominations with eleven.
+
+One idea before we finish.
+
+In nineteen fifty-one, a young economist named Kenneth Arrow published a short book called Social Choice and Individual Values, with a proof that bothered people for decades. Suppose you want a fair rule for turning individual rankings into one group ranking. You'd ask for modest things. If everyone prefers A to B, the group should too. The group's choice between two options shouldn't depend on how people feel about some third one. And no single person should decide everything. Arrow showed that with three or more options, no rule satisfies all of these at once. Every voting system breaks at least one.
+
+The circumstance is the strange part. In the summer of nineteen forty-nine, Arrow was at the RAND Corporation, and a colleague there, the philosopher Olaf Helmer, asked him a Cold War question: game theory treats countries as single players with clear preferences, but a country is millions of people, so what does it even mean to say what the Soviet Union wants? Arrow expected to write down the obvious answer. Within a few weeks he'd proved there wasn't one.
+
+The complication is how much it actually matters. Amartya Sen showed that if people can express how strongly they feel, not just their rankings, some of the impossibility loosens. And political scientists still argue over whether the cycles Arrow's theorem allows, where A beats B, B beats C and C beats A, show up in real legislatures often enough to matter. William Riker thought they explained a good deal of American history. His critics thought he found them because he went looking.
+
+And finally, closer to home.
+
+You're in New York, and it's a good one. Sunny, a high near fifty-seven, and a mild night, down only to about forty-seven. No need for the heavy coat.
+
+Tonight at Christie's in Rockefeller Center, a Georgia O'Keeffe landscape from nineteen thirty, Near Abiquiu, New Mexico, goes under the hammer, estimated at three to five million dollars. A New York gallery sold it in nineteen sixty-three for thirty-eight hundred dollars. It then spent decades in its original crate at the back of a Manhattan closet, behind the fur coats, until the family cleaned out the apartment.
+
+And Peru is a week away, Cusco by the twenty-fifth. The Times says airline schedules should be back to normal well before the Thanksgiving rush.
+
+That's the Tuesday. Talk tomorrow.
