@@ -1,105 +1,145 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[NEW_PHRASE: Il pleut des cordes.]]
+[[IDEA: Ronald Coase | The Lighthouse in Economics, 1974]]
+Good morning. It's Sunday, November twenty-second. On Saturday, two tankers were hit by projectiles off the tip of Oman, within a few hours of each other, and Iran's navy said a third had struck a mine. That's how most days in the Strait of Hormuz go now. The Wall Street Journal reports that the Emirates are running oil through it anyway, at night, under American protection. Which raises an old question: how do you move oil through a waterway somebody is trying to close? The last real attempt was in nineteen eighty-seven, and that's today's subject. The weekend and the year in numbers first, kept short.
 
-Starting with markets.
+Following up on the Gulf. Britain's maritime trade agency says both tankers struck on Saturday were hit near Khasab, one at the stern, one in the engine room, with no one hurt. Iran's navy says the vessel that struck its mine had been sailing with its tracking switched off in what Tehran calls a restricted zone; nobody has confirmed that. Saudi Arabia says it intercepted three Houthi ballistic missiles aimed at Riyadh, and after last week, that's one government's account until the pictures say otherwise.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+In Israel, Gadi Eisenkot's party and Likud met again today on a unity government, this time without Naftali Bennett's party in the room. Eisenkot says that if broad talks fail, he could try a minority government.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+On Nvidia, two new threads. The Journal has identified a fifty-two-year-old Chinese national, Li Ming, now facing fraud charges in Singapore, as the figure behind the company suspected of funneling Nvidia's computing power to China. And the Times reports, on officials' accounts, that China's spy agency was helping its companies get advanced chips years before any of this broke.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+A claim that's either enormous or premature. Disclosure: Anthropic makes me. An Anthropic mathematician, Levent Alpöge, says he has a proof of the Riemann hypothesis, open since eighteen fifty-nine, found with Claude's help. Nobody else has checked it yet, and this problem has humbled many claimants.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+In the courts, a Missouri judge approved Bayer's seven and a quarter billion dollar settlement of the Roundup cancer suits, which ends tens of thousands of cases. And in deals, the Italian software group Bending Spoons bought Mailchimp from Intuit for about three point seven billion dollars. Intuit paid twelve billion for it in twenty twenty-one.
 
-Before we get to deals, a small thing I liked.
+In Brooklyn, the building collapse ten days ago has now killed eight people, and the Times reports that the Buildings Department had signed off on a risky plan to shore up the structure next to the excavation.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+Something lighter. Grand Theft Auto Six, Rockstar says, took about three point eight billion dollars in retail sales on day one. No film has ever grossed three billion in its entire run. And on Friday the President signed a law formally ending the penny, a year after the Mint stopped striking it.
 
-Moving to deals and credit.
+The week ahead is short. Options on Anthropic start trading Monday. Wednesday brings the Fed's preferred inflation gauge, a revised estimate of third-quarter growth and the Beige Book, all on one morning. Markets are closed Thursday for Thanksgiving and close early on Friday.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+Now the year to date, Friday's close against the last day of twenty twenty-five.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+The S and P five hundred, around sixty-nine hundred and ten, is now roughly flat on the year, up less than one percent, after starting this month up more than ten. The Nasdaq, near twenty-two thousand six hundred, is down about three percent. The Dow, around forty-eight thousand one hundred and fifty, is flat.
 
-Now real estate.
+The ten-year Treasury started the year near four point one seven percent and closed Friday around four point nine one, up roughly three quarters of a point even after last week's rally. Brent, near sixty-one dollars on New Year's Day, is around ninety-two seventy, up about half. And bitcoin, at roughly fifty-nine thousand dollars, is down about a third.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+Which brings us to the Gulf.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+Start with the geography, because everything follows from it. The Strait of Hormuz is about twenty-one miles across at its narrowest. The shipping lanes inside it are narrower still: two miles inbound, two miles outbound, and a two-mile buffer between them. Before this war, something like a fifth of the oil the world burns each day went through that gap. Iran sits on the northern shore, with islands and a coastline that look straight down onto the lanes. Oman's Musandam peninsula, where Khasab is, sits on the southern tip.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+There are ways around it, but not many. Saudi Arabia has a pipeline to the Red Sea, and the Emirates have one to Fujairah, outside the strait. Together they carry a fraction of what normally goes by sea. Kuwait, Qatar, Bahrain and Iraq's southern ports have no bypass at all.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+It begins with a war that had nothing to do with shipping. In September nineteen eighty, Iraq invaded Iran. By nineteen eighty-four, the land war had bogged down into something closer to the Western Front, and Saddam Hussein went looking for a way to break it. He started attacking tankers that loaded at Iran's main export terminal, Kharg Island. The aim was partly to cut Iran's oil money and partly to provoke Iran into trying to close the strait, which would drag the great powers in.
 
-Over to technology.
+Iran responded, but not by closing the strait. It went after the tankers of Kuwait and Saudi Arabia, which were bankrolling Iraq's war. Over the next four years, by the count of the naval analyst Ronald O'Rourke, four hundred and fifty-one ships were attacked in the Gulf, and well over a hundred sailors were killed. Most people remember it the other way round: Iraq attacked two hundred and eighty-three of them. Iran attacked a hundred and sixty-eight.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+The first thing that moved was the price of insurance. War-risk cover is written separately from a ship's normal policy, it's quoted voyage by voyage, and underwriters reprice it as fast as the danger changes. A trade journal of the time reported that the Lloyd's market doubled its rates for Kuwait-bound ships in early nineteen eighty-seven. Owners kept sailing, and the cost went into the freight rate.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+Then Kuwait made a move that changed the shape of it. In December nineteen eighty-six, it asked both superpowers for protection. The Soviet Union agreed to lease Kuwait some of its own tankers, and that was what concentrated minds in Washington. On the seventh of March nineteen eighty-seven, the Reagan administration agreed to put eleven Kuwaiti tankers under the American flag. Reflagged, they became American ships, and the Navy could escort them as such.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+Two months later came a warning. On the seventeenth of May, an Iraqi jet fired two Exocet missiles into the American frigate Stark. Thirty-seven sailors were killed. Iraq called it an accident, and the United States accepted that. The country the Navy was in effect leaning toward had just done the most damage.
 
-Over to France.
+The first convoy sailed in late July. The first two reflagged tankers raised American flags on the twenty-first, and on the twenty-fourth, the lead tanker, the Bridgeton, struck a mine near Farsi Island in the northern Gulf. No one was hurt, and she made it to Kuwait under her own power. But the detail that stuck was what happened next. For the rest of the trip, the warships fell in behind the tanker, because a loaded supertanker can absorb a mine and a destroyer can't. The escorts were sheltering in the wake of the ship they were escorting.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+The Bridgeton taught the Navy that its problem was mines, and it had almost no minesweepers in the Gulf. It spent the next year improvising, with European navies sending sweepers of their own. In September, American helicopters caught an Iranian ship, the Iran Ajr, laying mines at night, and the Navy seized it.
 
-And the Middle East.
+What they built was called Operation Earnest Will, and at its peak it was the largest naval convoy operation since the Second World War. A government study counts a hundred and twenty-seven escort missions. A Naval War College paper counts a hundred and eighty-eight transits by reflagged tankers alone.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+It got bloodier before it ended. On the fourteenth of April nineteen eighty-eight, the frigate Samuel B. Roberts struck a mine about sixty-five miles east of Bahrain. The blast broke her keel. Ten sailors were injured, and the crew kept her afloat. Four days later, the Navy answered with Operation Praying Mantis. In one day it wrecked two Iranian oil platforms, sank the frigate Sahand, a missile boat and several small gunboats, and crippled a second frigate. Two American helicopter crewmen died when their Cobra went down.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+And then the worst day. On the third of July nineteen eighty-eight, the cruiser Vincennes, in the middle of a surface fight with Iranian gunboats, shot down Iran Air Flight six fifty-five over the strait, believing it was an attacking fighter. All two hundred and ninety people aboard were killed. In nineteen ninety-six, the United States agreed to pay sixty-one point eight million dollars to the victims' families, without admitting legal liability.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+Two weeks after that, Iran accepted the United Nations ceasefire resolution, five ninety-eight. Ayatollah Khomeini said accepting it was more deadly than drinking poison. The ceasefire took effect on the twentieth of August, and the last Earnest Will escort sailed at the end of September.
 
-One more small thing before the deep dives.
+So did it work? The case for: the reflagged tankers kept sailing. Of the hundreds of ships attacked over four years, the great majority were damaged rather than sunk, and the share of total traffic that was hit was small. The oil price, which had collapsed in nineteen eighty-six, never seriously spiked. The strait was never closed.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+The honest counterargument comes in three parts. The first is that the war ended on land. On the same two days as Praying Mantis, Iraq retook the Faw peninsula from Iran, and over the following months, Iraqi offensives, some of them using chemical weapons, broke Iran's army. Iran's leaders gave up because they were losing the war, and the convoys were one pressure among several.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+The second is what escorting cost. It made the United States a belligerent in all but name, on the side of a regime that had just hit one of its ships, and it ended with an American cruiser shooting down a passenger jet. The third is that the threat in nineteen eighty-seven was limited. Iran was fighting a much bigger war next door and never committed to closing the strait, partly because it needed it for its own oil.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+Which is the real difference with now. Since the war began in late February, with American and Israeli strikes, Iran has had little stake in keeping the strait open. Its own ports are under an American blockade. Its weapons are cheaper and more numerous: drones and anti-ship missiles rather than a handful of mine-laying boats. A naval monitoring center counted four tanker attacks in ninety-six hours last week, and Iran's own armed forces, as relayed by Al Jazeera, claim something like twenty-five incidents in a week. Crude flows through the strait are running at about half the prewar level.
 
-Now put that next to private equity, which is running its own version of the same problem.
+The Emirati operation the Journal describes looks a lot like nineteen eighty-seven in miniature. Abu Dhabi's national oil company runs what the paper calls a shuttle service, convoys at night, as a crucial link in the American effort to reopen the strait. The cost is already visible. On the seventeenth, one of that company's own tankers was hit, eleven crew were injured, and a Jordanian seafarer is still missing. Central Command says it has helped Gulf states export more than one and a half billion barrels since the summer.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+What would have to happen for this to change? Three things to watch. The first is insurance, because in nineteen eighty-seven, as now, it was the underwriters who decided whether ships sailed, more than the navies. If war-risk cover dries up altogether, convoys can't fill the gap. The second is Congress: the December eleventh funding deadline, where some Democrats want to bar offensive operations against Iran, will say how long Washington is willing to keep doing this. And the third is the oldest lesson of the Tanker War: the strait opened again when the war ended, not before it.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+That's the long read. Now a minute of French, and then the European news in it.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+It's raining in New York this afternoon, so: how would you say it's absolutely pouring? Not that it's raining. That it's coming down in sheets.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+[[PAUSE:3]]
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+[[FR]]Il pleut des cordes.[[/FR]]
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+[[PAUSE]]
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+[[FR]]Il pleut des cordes.[[/FR]]
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+The picture is rain falling so thick it looks like ropes. The trap is to bring the English animals along. Don't say this:
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+[[FR]]Il pleut des chats et des chiens.[[/FR]]
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+A French listener will understand you're translating, and picture something truly alarming falling on the street.
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+In a sentence. A friend wants to walk to dinner.
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+[[FR]]À pied ? T'as vu dehors ? Il pleut des cordes, on prend un taxi.[[/FR]]
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+Or you arrive soaked, and someone asks what happened.
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+[[FR]]Bah, j'ai pas pris de parapluie, et évidemment il s'est mis à pleuvoir des cordes.[[/FR]]
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+Now three cold.
 
-One last small thing before the close, and it is an old one.
+It's been ages. Long time no see.
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+[[PAUSE:3]]
+
+[[FR]]Ça fait un bail.[[/FR]]
+
+I'm running late.
+
+[[PAUSE:3]]
+
+[[FR]]Je suis à la bourre.[[/FR]]
+
+He's well connected. He knows people.
+
+[[PAUSE:3]]
+
+[[FR]]Il a le bras long.[[/FR]]
+
+And so to France, where the campaign lost a candidate.
+
+[[FR]]En France, François Ruffin renonce à la présidentielle. Le député de la Somme explique qu'il se retire face au risque de l'extrême droite, mais il ne soutient, pour l'instant, aucun autre candidat. Ça tombe mal pour la gauche, déjà en pleine débandade. Et un sondage Ifop, réalisé du treize au seize novembre, voit Marine Le Pen et Jean-Luc Mélenchon au second tour dans tous les cas de figure.[[/FR]]
+
+[[FR]]Dans la rue, l'acte six de la mobilisation contre la vie chère a réuni samedi entre quatre-vingt mille et cent cinquante mille personnes, selon Le Monde, un mouvement en net recul. Les lycées, eux, sont mobilisés depuis deux mois, et les parents se déchirent entre soutien et colère.[[/FR]]
+
+[[FR]]Place Beauvau, une affaire de fuites. Le préfet de la région Centre-Val de Loire, Hugues Moutouh, a demandé sa mise en retrait, dans une enquête sur des informations transmises au Rassemblement national. Tout est parti d'un courriel découvert à Rome, chez Frédéric Chatillon, un proche de Marine Le Pen.[[/FR]]
+
+[[FR]]Toujours selon Le Monde, une information judiciaire a été ouverte visant Gérard Depardieu et Michel Houellebecq, pour des faits présumés de viol en réunion et d'agressions sexuelles lors d'un tournage. Tous deux sont présumés innocents. Côté budget, députés et sénateurs se sont entendus sur un premier texte.[[/FR]]
+
+[[FR]]En Europe, l'inflation de la zone euro a été confirmée à quatre pour cent en octobre, un plus haut depuis trois ans. Les marchés voient à plus de quatre-vingt-dix pour cent une hausse de vingt-cinq points de base à la BCE le dix-sept décembre, et Joachim Nagel, à la Bundesbank, parle d'arguments solides. En Espagne, on vote dimanche prochain, et trois sondages cités par Reuters donnent la majorité au Parti populaire et à Vox.[[/FR]]
+
+[[FR]]Et pour finir sur une bonne nouvelle : le quinze de France a écrasé l'Argentine, quarante-cinq à dix-sept. Finale contre les Springboks, dimanche prochain, à Londres.[[/FR]]
+
+Back in English, and one idea before we finish.
+
+For more than a century, economists used the lighthouse as their favorite example of something the market can't provide. John Stuart Mill used it in eighteen forty-eight, and Paul Samuelson put it in the best-selling economics textbook of the twentieth century. The logic is tidy: a lighthouse's beam helps every passing ship, and you can't stop a captain from looking at it, so no private owner could ever charge for it. In nineteen seventy-four, Ronald Coase, then at the University of Chicago, published a paper called The Lighthouse in Economics pointing out that nobody had checked.
+
+The circumstance is that Coase went and read the history. In England and Wales, he found, many of the lights of the seventeenth and eighteenth centuries had been built by private individuals. They got a patent from the Crown, built the tower, and collected light dues from ships when they called at port, based on the ship's tonnage and route. Some of those owners got very rich. Only in eighteen thirty-six did Parliament give the corporation of Trinity House the power to buy out the private lights, and it took years, and a great deal of money, to do it.
+
+The complication is that Coase's private lighthouses weren't very private. Later historians, among them David Van Zandt in the nineteen nineties and Elodie Bertrand in two thousand six, pointed out that the Crown granted the monopoly, set the dues, and had them collected at ports by the state's own customs officers. A captain couldn't decline to pay. So was it the market providing a public good, or the state providing one through private contractors? Both sides read the same records, and they still haven't agreed what they show.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+You're in New York, and it's the day the warm spell breaks. Some fog this morning, then rain is likely from about one o'clock. A high near sixty-two, and tonight it's heavier, with gusts to around twenty-five miles an hour before it clears after midnight. Take the real umbrella, not the folding one.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+If you're out anyway, the Knicks host Indiana at the Garden at eight. They're ten and six after edging Portland by a point last night, and the Sixers, fourteen and three, beat Milwaukee by three.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
+For something to eat, Andy Baraghani, the Iranian-American cookbook writer, has opened his first restaurant, Ditto, here in New York.
 
-That's the morning. Have a good one.
+And Peru is two days out: Lima Tuesday night, then Cusco on Wednesday. Back-to-back storms are expected across the Northeast this week, so check the flight before you leave. Cusco looks dry, highs in the mid-sixties and nights in the mid-forties, which at that altitude means layers.
+
+That's the long read. Enjoy the rest of the Sunday, and stay dry.
