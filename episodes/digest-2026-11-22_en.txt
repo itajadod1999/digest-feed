@@ -1,0 +1,143 @@
+Good morning. It's Sunday, November twenty-second. On Saturday, two tankers were hit by projectiles off the tip of Oman, within a few hours of each other, and Iran's navy said a third had struck a mine. That's how most days in the Strait of Hormuz go now. The Wall Street Journal reports that the Emirates are running oil through it anyway, at night, under American protection. Which raises an old question: how do you move oil through a waterway somebody is trying to close? The last real attempt was in nineteen eighty-seven, and that's today's subject. The weekend and the year in numbers first, kept short.
+
+Following up on the Gulf. Britain's maritime trade agency says both tankers struck on Saturday were hit near Khasab, one at the stern, one in the engine room, with no one hurt. Iran's navy says the vessel that struck its mine had been sailing with its tracking switched off in what Tehran calls a restricted zone; nobody has confirmed that. Saudi Arabia says it intercepted three Houthi ballistic missiles aimed at Riyadh, and after last week, that's one government's account until the pictures say otherwise.
+
+In Israel, Gadi Eisenkot's party and Likud met again today on a unity government, this time without Naftali Bennett's party in the room. Eisenkot says that if broad talks fail, he could try a minority government.
+
+On Nvidia, two new threads. The Journal has identified a fifty-two-year-old Chinese national, Li Ming, now facing fraud charges in Singapore, as the figure behind the company suspected of funneling Nvidia's computing power to China. And the Times reports, on officials' accounts, that China's spy agency was helping its companies get advanced chips years before any of this broke.
+
+A claim that's either enormous or premature. Disclosure: Anthropic makes me. An Anthropic mathematician, Levent Alpöge, says he has a proof of the Riemann hypothesis, open since eighteen fifty-nine, found with Claude's help. Nobody else has checked it yet, and this problem has humbled many claimants.
+
+In the courts, a Missouri judge approved Bayer's seven and a quarter billion dollar settlement of the Roundup cancer suits, which ends tens of thousands of cases. And in deals, the Italian software group Bending Spoons bought Mailchimp from Intuit for about three point seven billion dollars. Intuit paid twelve billion for it in twenty twenty-one.
+
+In Brooklyn, the building collapse ten days ago has now killed eight people, and the Times reports that the Buildings Department had signed off on a risky plan to shore up the structure next to the excavation.
+
+Something lighter. Grand Theft Auto Six, Rockstar says, took about three point eight billion dollars in retail sales on day one. No film has ever grossed three billion in its entire run. And on Friday the President signed a law formally ending the penny, a year after the Mint stopped striking it.
+
+The week ahead is short. Options on Anthropic start trading Monday. Wednesday brings the Fed's preferred inflation gauge, a revised estimate of third-quarter growth and the Beige Book, all on one morning. Markets are closed Thursday for Thanksgiving and close early on Friday.
+
+Now the year to date, Friday's close against the last day of twenty twenty-five.
+
+The S and P five hundred, around sixty-nine hundred and ten, is now roughly flat on the year, up less than one percent, after starting this month up more than ten. The Nasdaq, near twenty-two thousand six hundred, is down about three percent. The Dow, around forty-eight thousand one hundred and fifty, is flat.
+
+The ten-year Treasury started the year near four point one seven percent and closed Friday around four point nine one, up roughly three quarters of a point even after last week's rally. Brent, near sixty-one dollars on New Year's Day, is around ninety-two seventy, up about half. And bitcoin, at roughly fifty-nine thousand dollars, is down about a third.
+
+Which brings us to the Gulf.
+
+Start with the geography, because everything follows from it. The Strait of Hormuz is about twenty-one miles across at its narrowest. The shipping lanes inside it are narrower still: two miles inbound, two miles outbound, and a two-mile buffer between them. Before this war, something like a fifth of the oil the world burns each day went through that gap. Iran sits on the northern shore, with islands and a coastline that look straight down onto the lanes. Oman's Musandam peninsula, where Khasab is, sits on the southern tip.
+
+There are ways around it, but not many. Saudi Arabia has a pipeline to the Red Sea, and the Emirates have one to Fujairah, outside the strait. Together they carry a fraction of what normally goes by sea. Kuwait, Qatar, Bahrain and Iraq's southern ports have no bypass at all.
+
+It begins with a war that had nothing to do with shipping. In September nineteen eighty, Iraq invaded Iran. By nineteen eighty-four, the land war had bogged down into something closer to the Western Front, and Saddam Hussein went looking for a way to break it. He started attacking tankers that loaded at Iran's main export terminal, Kharg Island. The aim was partly to cut Iran's oil money and partly to provoke Iran into trying to close the strait, which would drag the great powers in.
+
+Iran responded, but not by closing the strait. It went after the tankers of Kuwait and Saudi Arabia, which were bankrolling Iraq's war. Over the next four years, by the count of the naval analyst Ronald O'Rourke, four hundred and fifty-one ships were attacked in the Gulf, and well over a hundred sailors were killed. Most people remember it the other way round: Iraq attacked two hundred and eighty-three of them. Iran attacked a hundred and sixty-eight.
+
+The first thing that moved was the price of insurance. War-risk cover is written separately from a ship's normal policy, it's quoted voyage by voyage, and underwriters reprice it as fast as the danger changes. A trade journal of the time reported that the Lloyd's market doubled its rates for Kuwait-bound ships in early nineteen eighty-seven. Owners kept sailing, and the cost went into the freight rate.
+
+Then Kuwait made a move that changed the shape of it. In December nineteen eighty-six, it asked both superpowers for protection. The Soviet Union agreed to lease Kuwait some of its own tankers, and that was what concentrated minds in Washington. On the seventh of March nineteen eighty-seven, the Reagan administration agreed to put eleven Kuwaiti tankers under the American flag. Reflagged, they became American ships, and the Navy could escort them as such.
+
+Two months later came a warning. On the seventeenth of May, an Iraqi jet fired two Exocet missiles into the American frigate Stark. Thirty-seven sailors were killed. Iraq called it an accident, and the United States accepted that. The country the Navy was in effect leaning toward had just done the most damage.
+
+The first convoy sailed in late July. The first two reflagged tankers raised American flags on the twenty-first, and on the twenty-fourth, the lead tanker, the Bridgeton, struck a mine near Farsi Island in the northern Gulf. No one was hurt, and she made it to Kuwait under her own power. But the detail that stuck was what happened next. For the rest of the trip, the warships fell in behind the tanker, because a loaded supertanker can absorb a mine and a destroyer can't. The escorts were sheltering in the wake of the ship they were escorting.
+
+The Bridgeton taught the Navy that its problem was mines, and it had almost no minesweepers in the Gulf. It spent the next year improvising, with European navies sending sweepers of their own. In September, American helicopters caught an Iranian ship, the Iran Ajr, laying mines at night, and the Navy seized it.
+
+What they built was called Operation Earnest Will, and at its peak it was the largest naval convoy operation since the Second World War. A government study counts a hundred and twenty-seven escort missions. A Naval War College paper counts a hundred and eighty-eight transits by reflagged tankers alone.
+
+It got bloodier before it ended. On the fourteenth of April nineteen eighty-eight, the frigate Samuel B. Roberts struck a mine about sixty-five miles east of Bahrain. The blast broke her keel. Ten sailors were injured, and the crew kept her afloat. Four days later, the Navy answered with Operation Praying Mantis. In one day it wrecked two Iranian oil platforms, sank the frigate Sahand, a missile boat and several small gunboats, and crippled a second frigate. Two American helicopter crewmen died when their Cobra went down.
+
+And then the worst day. On the third of July nineteen eighty-eight, the cruiser Vincennes, in the middle of a surface fight with Iranian gunboats, shot down Iran Air Flight six fifty-five over the strait, believing it was an attacking fighter. All two hundred and ninety people aboard were killed. In nineteen ninety-six, the United States agreed to pay sixty-one point eight million dollars to the victims' families, without admitting legal liability.
+
+Two weeks after that, Iran accepted the United Nations ceasefire resolution, five ninety-eight. Ayatollah Khomeini said accepting it was more deadly than drinking poison. The ceasefire took effect on the twentieth of August, and the last Earnest Will escort sailed at the end of September.
+
+So did it work? The case for: the reflagged tankers kept sailing. Of the hundreds of ships attacked over four years, the great majority were damaged rather than sunk, and the share of total traffic that was hit was small. The oil price, which had collapsed in nineteen eighty-six, never seriously spiked. The strait was never closed.
+
+The honest counterargument comes in three parts. The first is that the war ended on land. On the same two days as Praying Mantis, Iraq retook the Faw peninsula from Iran, and over the following months, Iraqi offensives, some of them using chemical weapons, broke Iran's army. Iran's leaders gave up because they were losing the war, and the convoys were one pressure among several.
+
+The second is what escorting cost. It made the United States a belligerent in all but name, on the side of a regime that had just hit one of its ships, and it ended with an American cruiser shooting down a passenger jet. The third is that the threat in nineteen eighty-seven was limited. Iran was fighting a much bigger war next door and never committed to closing the strait, partly because it needed it for its own oil.
+
+Which is the real difference with now. Since the war began in late February, with American and Israeli strikes, Iran has had little stake in keeping the strait open. Its own ports are under an American blockade. Its weapons are cheaper and more numerous: drones and anti-ship missiles rather than a handful of mine-laying boats. A naval monitoring center counted four tanker attacks in ninety-six hours last week, and Iran's own armed forces, as relayed by Al Jazeera, claim something like twenty-five incidents in a week. Crude flows through the strait are running at about half the prewar level.
+
+The Emirati operation the Journal describes looks a lot like nineteen eighty-seven in miniature. Abu Dhabi's national oil company runs what the paper calls a shuttle service, convoys at night, as a crucial link in the American effort to reopen the strait. The cost is already visible. On the seventeenth, one of that company's own tankers was hit, eleven crew were injured, and a Jordanian seafarer is still missing. Central Command says it has helped Gulf states export more than one and a half billion barrels since the summer.
+
+What would have to happen for this to change? Three things to watch. The first is insurance, because in nineteen eighty-seven, as now, it was the underwriters who decided whether ships sailed, more than the navies. If war-risk cover dries up altogether, convoys can't fill the gap. The second is Congress: the December eleventh funding deadline, where some Democrats want to bar offensive operations against Iran, will say how long Washington is willing to keep doing this. And the third is the oldest lesson of the Tanker War: the strait opened again when the war ended, not before it.
+
+That's the long read. Now a minute of French, and then the European news in it.
+
+It's raining in New York this afternoon, so: how would you say it's absolutely pouring? Not that it's raining. That it's coming down in sheets.
+
+
+
+Il pleut des cordes.
+
+
+
+Il pleut des cordes.
+
+The picture is rain falling so thick it looks like ropes. The trap is to bring the English animals along. Don't say this:
+
+Il pleut des chats et des chiens.
+
+A French listener will understand you're translating, and picture something truly alarming falling on the street.
+
+In a sentence. A friend wants to walk to dinner.
+
+À pied ? T'as vu dehors ? Il pleut des cordes, on prend un taxi.
+
+Or you arrive soaked, and someone asks what happened.
+
+Bah, j'ai pas pris de parapluie, et évidemment il s'est mis à pleuvoir des cordes.
+
+Now three cold.
+
+It's been ages. Long time no see.
+
+
+
+Ça fait un bail.
+
+I'm running late.
+
+
+
+Je suis à la bourre.
+
+He's well connected. He knows people.
+
+
+
+Il a le bras long.
+
+And so to France, where the campaign lost a candidate.
+
+En France, François Ruffin renonce à la présidentielle. Le député de la Somme explique qu'il se retire face au risque de l'extrême droite, mais il ne soutient, pour l'instant, aucun autre candidat. Ça tombe mal pour la gauche, déjà en pleine débandade. Et un sondage Ifop, réalisé du treize au seize novembre, voit Marine Le Pen et Jean-Luc Mélenchon au second tour dans tous les cas de figure.
+
+Dans la rue, l'acte six de la mobilisation contre la vie chère a réuni samedi entre quatre-vingt mille et cent cinquante mille personnes, selon Le Monde, un mouvement en net recul. Les lycées, eux, sont mobilisés depuis deux mois, et les parents se déchirent entre soutien et colère.
+
+Place Beauvau, une affaire de fuites. Le préfet de la région Centre-Val de Loire, Hugues Moutouh, a demandé sa mise en retrait, dans une enquête sur des informations transmises au Rassemblement national. Tout est parti d'un courriel découvert à Rome, chez Frédéric Chatillon, un proche de Marine Le Pen.
+
+Toujours selon Le Monde, une information judiciaire a été ouverte visant Gérard Depardieu et Michel Houellebecq, pour des faits présumés de viol en réunion et d'agressions sexuelles lors d'un tournage. Tous deux sont présumés innocents. Côté budget, députés et sénateurs se sont entendus sur un premier texte.
+
+En Europe, l'inflation de la zone euro a été confirmée à quatre pour cent en octobre, un plus haut depuis trois ans. Les marchés voient à plus de quatre-vingt-dix pour cent une hausse de vingt-cinq points de base à la BCE le dix-sept décembre, et Joachim Nagel, à la Bundesbank, parle d'arguments solides. En Espagne, on vote dimanche prochain, et trois sondages cités par Reuters donnent la majorité au Parti populaire et à Vox.
+
+Et pour finir sur une bonne nouvelle : le quinze de France a écrasé l'Argentine, quarante-cinq à dix-sept. Finale contre les Springboks, dimanche prochain, à Londres.
+
+Back in English, and one idea before we finish.
+
+For more than a century, economists used the lighthouse as their favorite example of something the market can't provide. John Stuart Mill used it in eighteen forty-eight, and Paul Samuelson put it in the best-selling economics textbook of the twentieth century. The logic is tidy: a lighthouse's beam helps every passing ship, and you can't stop a captain from looking at it, so no private owner could ever charge for it. In nineteen seventy-four, Ronald Coase, then at the University of Chicago, published a paper called The Lighthouse in Economics pointing out that nobody had checked.
+
+The circumstance is that Coase went and read the history. In England and Wales, he found, many of the lights of the seventeenth and eighteenth centuries had been built by private individuals. They got a patent from the Crown, built the tower, and collected light dues from ships when they called at port, based on the ship's tonnage and route. Some of those owners got very rich. Only in eighteen thirty-six did Parliament give the corporation of Trinity House the power to buy out the private lights, and it took years, and a great deal of money, to do it.
+
+The complication is that Coase's private lighthouses weren't very private. Later historians, among them David Van Zandt in the nineteen nineties and Elodie Bertrand in two thousand six, pointed out that the Crown granted the monopoly, set the dues, and had them collected at ports by the state's own customs officers. A captain couldn't decline to pay. So was it the market providing a public good, or the state providing one through private contractors? Both sides read the same records, and they still haven't agreed what they show.
+
+And finally, closer to home.
+
+You're in New York, and it's the day the warm spell breaks. Some fog this morning, then rain is likely from about one o'clock. A high near sixty-two, and tonight it's heavier, with gusts to around twenty-five miles an hour before it clears after midnight. Take the real umbrella, not the folding one.
+
+If you're out anyway, the Knicks host Indiana at the Garden at eight. They're ten and six after edging Portland by a point last night, and the Sixers, fourteen and three, beat Milwaukee by three.
+
+For something to eat, Andy Baraghani, the Iranian-American cookbook writer, has opened his first restaurant, Ditto, here in New York.
+
+And Peru is two days out: Lima Tuesday night, then Cusco on Wednesday. Back-to-back storms are expected across the Northeast this week, so check the flight before you leave. Cusco looks dry, highs in the mid-sixties and nights in the mid-forties, which at that altitude means layers.
+
+That's the long read. Enjoy the rest of the Sunday, and stay dry.
