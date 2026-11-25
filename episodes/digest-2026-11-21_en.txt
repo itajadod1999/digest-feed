@@ -1,0 +1,135 @@
+Good morning. Saturday, November twenty-first, and time to look back. Nothing new this morning. Just where the week's stories ended up, what the markets made of them, and where I got it wrong.
+
+If the week needs one sentence: the biggest listing in history went off, Nvidia beat every number it was given, and the technology market had its worst week in more than six years anyway.
+
+Start there, because it ran through everything. Disclosure: Anthropic makes me. Monday the order book was about seven times covered. Wednesday the shares priced at eighty-three dollars, above a range of seventy to seventy-eight, raising about eighty-one billion dollars in the offering itself, past SpaceX's record from June. Thursday they opened thirty-four percent higher and closed up seventeen. Friday they fell eight and a half percent, to end around eighty-nine dollars.
+
+Nvidia went the other way all week. Monday a petition for Jensen Huang's return passed a hundred and fifty thousand signatures, and Scott Bessent called for a dramatic shake-up. Tuesday night's results were enormous: about a hundred and sixteen billion dollars of revenue, up a hundred and three percent, with guidance of a hundred and thirty billion that assumes nothing from China. The board said it won't bring Huang back, Colette Kress said Nvidia will be more selective about financing its customers, and the Journal reported a Securities and Exchange Commission investigation. On Thursday, House documents showed the Commerce Department had approved sales of more than eight hundred thousand advanced chips to Chinese companies the Pentagon links to the military. On Friday, Nvidia fell fourteen percent, as the accounting probe was reported more widely. Neither the company nor the regulator has commented. It closed around a hundred and twenty-five dollars, its seventh straight losing week, and The Economist puts the value lost since the scandal broke at about one and a half trillion dollars.
+
+The summit in Shenzhen came and went. The first meeting of the leaders of America, China and Russia lasted about ninety minutes and produced no joint statement. The Economist's reading is that Xi Jinping choreographed it, and that the language on respecting the immunities of state officials amounts to a rebuke of the war-crimes warrant against Vladimir Putin. On the same day in Berlin, the countries backing Ukraine pledged aid through twenty twenty-seven. Back in Washington on Friday, the President called the meeting an amazing event, and said Putin would love to end the war.
+
+Iran never cooled. Tuesday, American jets struck what officials called a missile site on Qeshm Island, and by Wednesday Iranian drones were going after air defenses in Kuwait and Bahrain. An Emirati tanker was hit, with one crew member missing. Thursday the Times reported, on officials' accounts, that the President is weighing another round of extensive strikes. A Houthi missile damaged the tower that houses Saudi Arabia's sovereign fund in Riyadh. By Friday, a naval monitoring center counted four tanker attacks in the Strait of Hormuz in ninety-six hours, and crude flows through it were running at about half the prewar level. Oil, oddly, fell on the week.
+
+In real estate, the week's two clearest numbers pointed in different directions. Trepp found that of a hundred and eighty-two commercial mortgage-backed loans maturing this month, sixty-eight can't refinance at their current balances, and that recent cohorts were almost all performing at maturity, yet well under half had actually paid off. Meanwhile Wells Fargo's large-loan head put private-label issuance at a hundred and fifty billion dollars through October, up almost seventeen percent, and called lending, quote, too competitive. Rockrose closed a three hundred and nine million dollar refinancing on Madison Square Park that had priced in the middle of last week's turmoil. Blackstone's data center trust agreed to buy into two Amazon Web Services campuses for about five billion. And in Hong Kong, New World Development asked shareholders for about three point two billion American dollars at an eighty-one percent discount, and its shares fell by almost half.
+
+At home, the midterms finally ended. Mary Peltola won in Alaska, the first Alaska Native elected to the Senate, giving Democrats fifty-six seats next year. In New York, Mayor Mamdani disbanded the police unit that handles protests, signed the carriage ban, and the boring machines under the Hudson kept cutting. And the outages kept coming, the National Security Agency's classified network and some Apple services among them, until the White House replaced its top cyber official on Thursday.
+
+The nicest number of the week had nothing to do with any of it. Early Wednesday, Voyager 1 became the first object to reach one light-day from Earth. A question sent to it on Monday morning gets its answer back on Wednesday.
+
+Now the numbers, Friday's close against last Friday's.
+
+The S and P five hundred finished around sixty-nine hundred and ten, down about eight and a half percent on the week, after a three point seven percent drop on Friday alone. That leaves it more than ten percent below its recent high, which is the textbook definition of a correction, and roughly flat on the year. The Nasdaq Composite closed near twenty-two thousand six hundred, down about ten percent, and it has now given back all of its twenty twenty-six gain. The Economist says the Nasdaq one hundred had its worst week since the start of the pandemic. The Dow ended around forty-eight thousand one hundred and fifty, down about eight.
+
+Bonds rallied hard. The ten-year Treasury closed around four point nine one percent, down roughly twenty-five basis points from five point one five, fourteen of them on Friday. That's on Morning Brew's figures; Finimize had it a few basis points higher. I couldn't find a reliable Friday close for the two-year, so I won't guess at one.
+
+Brent ended near ninety-two seventy, down about four percent on the week. Gold had a brutal one, down about nine percent to around thirty-five hundred and twenty, with about half of that on Friday. Bitcoin fell about thirteen percent, to roughly fifty-nine thousand.
+
+Now, what I got wrong.
+
+First, on Wednesday I said the mood had flipped overnight after Nvidia's results, with Nasdaq futures up more than a percent. It lasted one session. The Nasdaq rose half a percent on Wednesday, then lost two and a quarter percent on Thursday and more than five on Friday.
+
+Second, on Thursday I passed along Saudi Arabia's account that it had intercepted the Houthi missile aimed at Riyadh, with only debris falling. By Friday, witnesses were describing blown-out windows across several floors of the sovereign fund's tower. I should have flagged that as one government's claim.
+
+Third, the Anthropic valuation. On Thursday I said one and a half trillion dollars without saying on what basis. On Friday I gave one point three on shares outstanding and one point seven fully diluted. DealBook's figures are one point two seven and nearly one point eight. Those are all defensible, but I should have named the basis every time, rather than letting the number drift from day to day.
+
+Fourth, and the big one. Last Saturday's deep dive was the ten-year crossing five percent, and I framed it as the thread moving quietly and further. A week later the ten-year is back below five, even after Fed minutes in which almost every official expected to raise rates again. When stocks fall this fast, Treasuries get bought, and I didn't allow for how quickly that could swamp the inflation story.
+
+And a loose end I dropped. Last week I said EasyJet's shareholders had voted on Apollo's bid, and that I hadn't seen the result. I still haven't followed it up.
+
+One story worth more time this morning: why the technology trade cracked in the week it was supposed to be rescued.
+
+What happened. Three things were meant to steady the market this week: Nvidia's results, a record listing, and a summit that might calm trade with China. All three happened more or less as hoped, and the S and P still fell on every single day.
+
+The mechanism starts with financing. For two years, part of what kept artificial intelligence spending going was money circulating within the industry. Nvidia took stakes in customers and backed their borrowing; customers bought Nvidia chips. On Tuesday, Kress said that support will be more selective, and analysts Finimize cites think a deeper retreat could pull fifty billion dollars or more out. The Journal reported on Friday that the five hundred billion dollars Wall Street firms pledged in August to finance chip purchases has deployed nothing so far. And the money is reaching for odd places: Alphabet raised three billion dollars this week through tax-exempt prepaid energy bonds, a structure written for town gas utilities.
+
+Then the politics. On Monday, Commerce issued a rule the Treasury wrote. On Thursday came the documents on chip sales to companies tied to China's military, and Taiwan Semiconductor told customers to pause advanced work for Chinese clients without a license. On Friday, at his news conference, the President threatened what he called a tremendous tax on American companies that build data centers abroad. The Times says it isn't clear how that would work.
+
+And the regulators. California's attorney general is investigating Nvidia, and sued OpenAI on Monday. The accounting probe at Nvidia is reported but unconfirmed.
+
+What the numbers mean. Morning Brew notes that, on FactSet's numbers, technology now trades at its lowest ratio of price to expected earnings since twenty twenty. So the market isn't saying the profits are gone. It's paying less for each dollar of them, because it can no longer tell how much was financed by the industry itself, and how much the government will let it sell. Finimize puts Anthropic at about forty times sales. That's the multiple being tested.
+
+What would have to happen next. Watch the financing deals rather than the earnings: CoreWeave's planned secured bond, and the forty billion dollar SpaceX chip lease Goldman Sachs and Apollo are syndicating. If those clear, the selloff was a repricing. If they stall, it's something worse.
+
+Loose ends going into next week.
+
+Options on Anthropic's shares start trading Monday.
+
+Jensen Huang testifies to Congress on export controls on December first, and the Nvidia board still hasn't named a permanent chief executive.
+
+The December eleventh funding deadline, with some Democrats threatening to oppose any bill that doesn't bar offensive operations in Iran.
+
+The climate summit in Turkey ran past its Friday close, still deadlocked over fossil fuels.
+
+Israel's opposition holds the Knesset, but its four main parties have forty-eight seats, thirteen short of a majority, and can't agree on how to get there.
+
+And New World Development's shareholders vote on January fifth.
+
+Now some French. No new phrase on a Saturday. Six from the past few weeks, cold. Answer before you hear it.
+
+He stood me up.
+
+
+
+Il m'a posé un lapin.
+
+Don't count your chickens.
+
+
+
+Faut pas vendre la peau de l'ours avant de l'avoir tué.
+
+It completely slipped my mind.
+
+
+
+Ça m'est sorti de la tête.
+
+I got had. I fell for it.
+
+
+
+Je me suis fait avoir.
+
+They got a real slap in the face. They took a beating.
+
+
+
+Ils se sont pris une claque.
+
+I can't believe it. I must be seeing things.
+
+
+
+J'hallucine.
+
+Good. Now the week in Europe, in French.
+
+En France, la semaine a surtout été celle de la présidentielle, à dix-sept mois du scrutin. Lundi soir, cinq candidats ont débattu pendant près de trois heures sur TF1 puis LCI. Mardi, Marine Le Pen a enfin présenté sa réforme des retraites : retour à soixante-deux ans, voire soixante pour les carrières longues, et, pour la première fois, une part de capitalisation. Ses adversaires parlent d'un projet injuste. Mercredi, Édouard Philippe a répondu avec cent quarante-deux propositions, alors que ses rivaux du bloc central préparent une primaire sans lui.
+
+À gauche, c'est la débandade. Marine Tondelier s'est dite prête à une coalition autour de Jean-Luc Mélenchon. Yannick Jadot a quitté les Écologistes en parlant de trahison, et le Parti socialiste a rompu les discussions. Et vendredi, Dominique de Villepin a officialisé sa candidature. À soixante-treize ans, l'ancien Premier ministre pourrait affronter le suffrage universel pour la première fois.
+
+Dans la rue, nouvelle grève mardi, et aujourd'hui un sixième samedi de manifestations contre la vie chère, dans une mobilisation qui, selon Le Monde, s'essouffle. À l'Assemblée, la prolongation de l'encadrement des loyers est passée, et le projet de loi sur le logement sera voté mardi prochain.
+
+Au tribunal, une suite à ce que je vous disais hier. Dans l'affaire Michel Zecler, la cour criminelle de Paris a condamné vendredi les trois policiers à de la prison ferme, en retenant le caractère raciste des violences.
+
+En Europe, le rapprochement avec Londres s'est concrétisé. Le Royaume-Uni et l'Union européenne ont signé vendredi des accords sur l'agroalimentaire, la mobilité des jeunes et le marché du carbone. Côté banques, UniCredit a trouvé un accord de principe avec Berlin pour racheter la Commerzbank. Et en Espagne, Pedro Sánchez aborde les élections de la semaine prochaine en position de faiblesse.
+
+Back in English, and one idea before we finish.
+
+In nineteen fifty-six, the social psychologist Leon Festinger and two colleagues, Henry Riecken and Stanley Schachter, published a book called When Prophecy Fails. Its claim was counterintuitive. When people have staked a great deal on a belief, and the world flatly disproves it, many of them don't abandon it. They hold it harder, and start trying to convert others, because more believers make the contradiction easier to live with.
+
+The circumstance is the extraordinary part. In nineteen fifty-four, a woman in Oak Park, outside Chicago, called Marian Keech in the book, said she was receiving messages from beings on another planet warning that a flood would destroy much of the world before dawn on December twenty-first. A small group gathered around her; some quit jobs and gave away possessions. Festinger's team read about it in a newspaper and planted observers in the group, posing as believers. Midnight came, then the early hours, and nothing happened. Then, before dawn, a new message arrived: the group's faith had spread so much light that the world had been spared. A group that had avoided reporters started phoning newspapers.
+
+The complication is that the study may have shaped what it observed. A handful of observers joining a group of a dozen or so was not a small intervention, and some later critics argue the newcomers' apparent conviction reinforced the members' own. And when later researchers looked at other groups whose prophecies failed, the surge in recruiting often didn't appear; some groups reinterpreted quietly, others simply fell apart. The Oak Park group itself scattered within weeks. Whether Festinger found a law of how belief works, or one vivid case that happened to fit, has never been settled.
+
+And finally, closer to home.
+
+You're in New York, and it's one more warm one. Partly sunny, a high near sixty-five, and a mild night, down to about fifty-two. Tomorrow turns: rain is all but certain after one in the afternoon, so plan the umbrella for Sunday, not today.
+
+The Sixers host Milwaukee at one this afternoon, and the Knicks have Portland at the Garden at seven thirty.
+
+If you're up late, it's the second and heavier night of Time Warp at the Duggal Greenhouse in the Brooklyn Navy Yard, running from ten until six in the morning, with Sven Väth, DVS1 and Âme.
+
+And Peru is three days out: Lima Tuesday night, Cusco on Wednesday.
+
+That's the week. Have a good weekend.
