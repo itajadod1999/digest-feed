@@ -1,105 +1,148 @@
-Good morning. Monday, August tenth. Here's what happened.
+[[NEW_PHRASE: On a mis les petits plats dans les grands.]]
+[[IDEA: John Ioannidis | Why Most Published Research Findings Are False, 2005]]
 
-Starting with markets.
+Good morning. It's Thursday, November twenty-sixth, Thanksgiving, and American markets are closed today, so instead of the usual bulletin you're getting the long read. On Wednesday the administration proposed a new wall of tariffs on fourteen economies, its third legal route in a year to roughly the same policy. Today's subject is why it keeps changing routes: who in America actually gets to set a tariff, and how that power was built. The news first, kept short.
 
-Friday closed the best week since April for all three American indexes. The S and P five hundred finished at a record just under seventy-seven sixty. The Nasdaq closed near twenty-six thousand seven hundred, the Dow a shade above fifty-four thousand. The ten-year Treasury sits at about four point six six percent. Europe is at records too, with both the German and French benchmarks at new highs.
+Wednesday's session, the last full one of the week, was a wild ride that ended almost where it began. In the morning the Nasdaq was down as much as four point seven percent and the Dow more than eleven hundred points. By the close, the Dow had turned positive, up about a third of a percent and back above fifty thousand. The S and P five hundred finished down a quarter of a percent, the Nasdaq down about six tenths. Nvidia fell almost four percent after S and P Global put its double-A credit rating on watch for a downgrade, saying the long tenure of some board members may have compromised their independence.
 
-This week is about prices. The July consumer price index lands Wednesday, producer prices Thursday, retail sales Friday. Consensus has headline inflation at roughly three point four percent, down a touch from June, and core at two point five. Both still well above the Federal Reserve's two percent target. After the jobs report, traders pushed the expected timing of the next rate hike out to December from October.
+The inflation figure everyone was waiting for arrived as expected. The personal consumption expenditures index, the Fed's preferred gauge, rose three point eight percent in the year to October, and the core measure three point three. Futures markets now treat a quarter-point rate rise at the Fed's meeting on December eighth and ninth as close to certain.
 
-Brent crude rose about one percent to around eighty-four dollars a barrel. Which is worth sitting with. The Strait of Hormuz has been shut for months, and Brent has never come near the hundred and fifty dollars a lot of analysts forecast for exactly this scenario. That's the second deep dive.
+A correction, and disclosure: Anthropic makes me. Yesterday I passed on the Economist's line that Anthropic's value had fallen to about half its post-listing peak. The Economist has withdrawn that, calling it an apples-to-oranges comparison of fully diluted and basic market value. The stock is below its offer price; it has not halved.
 
-Berkshire Hathaway's numbers landed Saturday, and I flagged them as the thing to watch this week. They were a real change. Greg Abel ended the second quarter with three hundred sixty-five and a half billion dollars of cash, down eight percent. Ten billion went into Alphabet, four and a half billion into buybacks, better than five billion into other equities. Berkshire was a net buyer of stocks for the first time in three years. Warren Buffett spent his last three years in the job doing precisely the opposite.
+Following up on Iowa: the Army detonated the old explosives next to Middletown, and initial monitoring suggests the toxic dust stayed at the blast site. Testing of air, water and soil continues.
 
-Before we get to deals, a small thing I liked.
+And the Macy's parade, which we've been tracking all week, has been postponed to Saturday, because of the storm hitting New York today with heavy rain and high winds.
 
-A four hundred thirty million pound power line in Wales is being rerouted, and part of the reason is a house elf. The original route ran over the beach where Dobby's death was filmed in the Harry Potter films, and where fans have built a shrine out of painted pebbles. The head of the energy project admitted he took some persuading that the pile of rocks mattered. The fans won.
+In the city, a Manhattan judge dismissed the landlords' lawsuit against Mayor Mamdani's rent freeze for rent-stabilized apartments, the Times reports.
 
-Moving to deals and credit.
+Around the world. Near Cairo, at least thirty-one people died when a truck carrying petroleum products crashed and caught fire on a roadway, Egyptian authorities say. In Israel, the opposition leader Gadi Eisenkot has set December sixth as his deadline to form a government without Benjamin Netanyahu, and his ally Avigdor Liberman says he's on track. The Bank of Korea raised its main rate a quarter point, to three point two five percent, the highest in two years.
 
-Intel announced a fifteen billion dollar public offering of common stock this morning, with a thirty-day option for underwriters to buy up to two and a quarter billion more. The proceeds are for general corporate purposes including capital spending, and the company says it intends to keep its investment-grade rating. It is among the largest equity raises in the history of the semiconductor industry. Shares fell about four percent before the open.
+One item from the regulators that deserves to be read aloud. In giving SpaceX permission to launch a million satellites for a constellation of data centers in space, the Federal Communications Commission wrote that the project promises to bring the human race close to a civilization that can harness the full power of the sun. There are fewer than seventeen thousand working satellites in orbit today, about half of them SpaceX's.
 
-The Wall Street Journal's lead this morning is private credit, and it cuts against the industry's own commentary. Default rates are at recent highs, and the Journal's read of quarterly reports from the most-watched funds finds loan health and investor returns both deteriorating. That's the first deep dive.
+Now the year to date, Wednesday's close against the last day of twenty twenty-five.
 
-Now real estate.
+The S and P five hundred, around seventy-one hundred and eighty, is up about five percent on the year, after Monday's huge rally pulled it back from flat. The Nasdaq, near twenty-three thousand six hundred, is up only about one percent. The Dow, at about fifty thousand two hundred, is up roughly four.
 
-The largest American apartment sale since June of twenty twenty-four closed last week. BlackRock paid one point six three billion dollars for eleven properties from Camden Property Trust. Thirty-six hundred and twenty units across Los Angeles, Orange, Riverside and San Diego counties, ninety-six percent occupied. JLL brokered it and arranged five hundred sixty-six million dollars of agency acquisition financing. For Camden it is an exit from California after twenty-eight years.
+The ten-year Treasury started the year near four point one seven percent and sits around four point nine, up about seven tenths of a point. Brent, near sixty-one dollars on New Year's Day, was around ninety-one on Tuesday, up about half. And bitcoin, around sixty thousand dollars, is down about a third.
 
-Now a number that needs context, because on its face it contradicts what I told you yesterday. CRED iQ puts July distress across the commercial mortgage-backed securities universe at ten point nine one percent. The specially serviced share is ten point three eight, up forty-two basis points on the month. Office is the outlier at sixteen point six five percent. Multifamily is eleven point two one.
+Which brings us to tariffs.
 
-Yesterday I gave you Trepp's delinquency rate at seven point eight six. Both are correct. CRED iQ counts any loan that is specially serviced or thirty days late, which picks up loans handed to a special servicer while still paying interest. Trepp's headline counts payment delinquency. The gap between them is, roughly, the loans sitting in negotiation rather than default. That group is now the larger of the two.
+Start with what happened on Wednesday. The trade representative, Jamieson Greer, proposed tariffs of fifteen to forty percent on products from fourteen economies, among them China, Japan and the European Union. His office says those countries have unreasonable excess manufacturing capacity that damages American industry. The Times reports some Chinese goods would face twenty percent, with room to go to forty. The rates are meant to take account of existing deals and other duties, and nothing takes effect until a public consultation is done. China says it reserves the right to respond.
 
-And one for the rent roll. The average asking rent in the San Francisco metro is three thousand seven hundred twenty-eight dollars a month, according to CoStar. Up eighteen percent in under two years, and past New York for the most expensive rental market in the country, for the first time since twenty nineteen.
+If that sounds like a lot of procedure for a President who used to announce tariffs on a Friday afternoon, that's the story. To see why, you have to go back to who owns this power in the first place.
 
-Over to technology.
+The Constitution gives it to Congress. Article One, section eight: Congress shall have power to lay and collect duties. For most of the nineteenth century, tariffs were the federal government's main source of money, and Congress wrote them itself, product by product, in enormous bills.
 
-Mark Zuckerberg published a fourteen-page essay this morning laying out Meta's philosophy on artificial intelligence, and released an open-weight model called Muse Glimmer alongside it. The pitch is that an open model close in ability to Meta's best closed model can run locally on a laptop, which would change the economics of the industry. He argued explicitly against centralizing control of the technology, which is a shot at Anthropic and OpenAI.
+That system ended with its most famous product. In June of nineteen thirty, Herbert Hoover signed the Smoot-Hawley Tariff Act, which raised duties on thousands of goods. More than a thousand economists had signed a petition begging him to veto it. Trading partners retaliated, and world trade collapsed over the next three years. Most of that collapse was the Depression itself, not the tariff. But the lesson Congress drew is the one that matters here. It wasn't so much that tariffs were bad. It was that Congress was bad at setting them, because every member traded votes to protect the industries at home, and the bill grew line by line until nobody controlled it.
 
-He also proposed that companies submit models for government review repeatedly during training rather than once at the end. And Meta is setting up a one billion dollar fund for police and fire departments in the towns that host its data centers.
+So in nineteen thirty-four, pushed by the Secretary of State, Cordell Hull, Congress passed the Reciprocal Trade Agreements Act. It let the President cut tariffs by up to half, in deals with other countries, without coming back to Congress each time. That's the template for everything since. Congress writes the conditions. The President walks through the door.
 
-That last one is the tell. Local opposition to data centers has become a real constraint on where they get built. The Journal reports the backlash is pushing developers toward the Permian Basin in West Texas and New Mexico, where a new land rush is under way.
+Over the next forty years, Congress built several more doors, and each one has its own toll.
 
-Over to France.
+The first is national security. Section two thirty-two of the Trade Expansion Act of nineteen sixty-two lets the President restrict imports that threaten national security, after the Commerce Department investigates. In nineteen seventy-six, the Supreme Court upheld Gerald Ford's use of it to put fees on imported oil. It sat mostly unused until twenty eighteen, when steel and aluminum got hit. Today it's the workhorse: steel, aluminum, cars, copper and more, product by product.
 
-Following up on yesterday's arithmetic problem. Paris is drafting the twenty twenty-seven budget now, and the shape of it is out. Three billion euros of additional savings, two from the state and one from social security. The framing is openly defensive: hold the line until the next majority arrives. Without correction, the deficit reaches five point nine percent of output by twenty twenty-seven. Debates begin in October.
+The Trade Act of nineteen seventy-four added three more. Section two-oh-one is the safeguard: if a surge of imports seriously injures an American industry, and the International Trade Commission agrees, the President can impose temporary relief, eight years at most. Washing machines and solar panels got that in twenty eighteen. Section one twenty-two is the balance-of-payments clause: a tariff of up to fifteen percent, on anyone, for a hundred and fifty days, and then it dies unless Congress extends it. And section three-oh-one lets the trade representative investigate a foreign country's practices, and if they're unreasonable or discriminatory and burden American commerce, retaliate.
 
-And the Middle East.
+Section three-oh-one was the weapon of the nineteen-eighties against Japan. In nineteen eighty-seven, Ronald Reagan put hundred-percent duties on about three hundred million dollars of Japanese electronics, accusing Japan of breaking a semiconductor agreement. In twenty eighteen and twenty nineteen, the first Trump administration used it to put tariffs on roughly three hundred and seventy billion dollars of Chinese goods. Thousands of importers sued, and the tariffs survived.
 
-The Strait of Hormuz talks have gone backwards. On Saturday, Mohammad Bagher Zolghadr, then the secretary of Iran's Supreme National Security Council, published a list of conditions. The United States must lift the naval blockade, end sanctions, release frozen Iranian assets, end the war, and pay reparations. The strait, he wrote, does not open until America corrects its behavior. Foreign Minister Abbas Araghchi still calls the arrangement with Oman very close, while ruling out direct talks for now. Then yesterday, Iran replaced Zolghadr. More on that shortly.
+And then there's the emergency door, which is where this year's story really starts. On the fifteenth of August, nineteen seventy-one, Richard Nixon closed the gold window and, the same evening, slapped a ten percent surcharge on most imports. He used the Trading with the Enemy Act, a law from nineteen seventeen. The surcharge came off that December. An appeals court upheld it in nineteen seventy-five, and Congress, alarmed at how much power peacetime emergencies were handing presidents, replied in nineteen seventy-seven with the International Emergency Economic Powers Act. It was meant to narrow those powers. It lets a President regulate imports in a declared emergency. For nearly fifty years, no one read that as permission to tax them.
 
-Separately, Prime Minister Netanyahu rejected the fifteen-point Gaza plan backed by the Trump administration's Board of Peace. He told his cabinet the army will not withdraw until Hamas is, in his words, genuinely disarmed. Heavy weapons, less-heavy weapons, all weapons. Nickolay Mladenov, the Board of Peace's representative for Gaza, said the plan remains the only way forward. It is a rare public break between Netanyahu and the president.
+Until twenty twenty-five. In February of that year, citing fentanyl, the administration used the emergency powers act for tariffs on Canada, Mexico and China. In April came the so-called reciprocal tariffs, with a ten percent floor on almost everyone. The appeal was obvious: no investigation, no cap, no time limit, any country, any rate, changed by social media post.
 
-One other thing, closer to the kitchen. The cyclospora outbreak tied to iceberg lettuce now spans fifteen states, with regulators tracking about twenty-two thousand confirmed and suspected cases. New York State has diagnosed eight hundred thirty-three since May, five hundred fifty-three of them in the city.
+A wine importer and a toy company were among the small businesses that sued. The trade court ruled against the tariffs in May of last year, and the appeals court agreed in August. In February of this year, the Supreme Court did too: the emergency powers act, the majority held, does not authorize tariffs.
 
-One more small thing before the deep dives.
+What happened next is the system working exactly as built. The administration walked through the next door. It imposed a temporary global tariff under section one twenty-two, at fifteen percent, the legal maximum, and that clock ran out in the summer. In March, the trade representative opened section three-oh-one investigations into sixteen economies over what it called structural excess capacity, with written comments in April and a hearing in May. Wednesday's proposal is the result, and the list has shrunk to fourteen.
 
-The Peruvian football club Deportivo Municipal lost its shirt sponsor, so it redesigned the kit as a thousand black and white squares and sold each square as an advertisement for about sixty dollars. Small businesses around Lima bought them, several paid over the asking price, and the club raised roughly seventy-five thousand dollars. The jersey looks like a chessboard. It is also, at the moment, solvent.
+So think about the tolls. The emergency door was fast and unlimited, which is why it was used, and why it fell. The security door goes product by product and needs a finding. The balance-of-payments door has a cap and a clock. The unfair-practices door goes country by country and needs a record, but once you're through it, there's no rate cap and no expiry date, and the courts have historically deferred. Slower, but more durable. The practical effect is that tariffs stop being instant leverage, a deal by Friday or else, and start looking like a regulatory proceeding, with dockets, comment periods and appeals.
 
-One story worth more time this morning. Private markets have a plumbing problem, and it is showing up in two places at once.
+What could break it? Three things.
 
-Yesterday I walked through the redemption gates in semi-liquid private credit funds. Investors asking for money back, funds prorating, and the word semi doing all the work. Today the Journal reports the layer underneath, which is the loans themselves. Default rates are at recent highs, and its analysis of quarterly filings finds loan health and investor returns both getting worse, even while managers describe the trouble as behind them.
+The first is Congress. It can take the power back whenever it likes, and a Democratic-led Congress arrives in January. But taking back a delegation means passing a law the President can veto, so in practice it needs two thirds of both chambers. That's the asymmetry at the heart of all this: Congress hands over power with a simple majority, and needs a supermajority to recover it.
 
-Now put that next to private equity, which is running its own version of the same problem.
+The second is the courts. Section three-oh-one was written for specific foreign practices: a subsidy, a market closed to American goods. Critics argue that excess capacity is a condition of a whole economy, not a practice, and that stretching the statute to cover it invites the same kind of challenge that sank the emergency tariffs. Expect the lawsuits once the rates are final.
 
-The Times reports that as of June thirtieth, private equity firms held thirty-three thousand five hundred seventy-five companies they have not sold. That is double the number a decade ago, and it has grown three years running.
+The third is the outside world, and that check is mostly gone. In twenty twenty, a World Trade Organization panel found that the twenty eighteen China tariffs broke global trading rules. The United States appealed, into a void: the body that hears appeals has had no members since December twenty nineteen, so the ruling never took effect. What's left is retaliation, which is what China is signaling.
 
-Consider what should have fixed it. Stock indexes are at records, and the first half of this year was the second busiest for initial public offerings in more than a decade. And still: since twenty twenty-two, only seventy private equity-backed companies have listed on American exchanges.
+Now the honest counterargument, because the case for this structure is better than it sounds. Delegation isn't an accident. Congress built it deliberately, so that a President could bargain, and bargaining needs a credible threat. Robert Lighthizer, who ran the China case in twenty eighteen, argues that section three-oh-one tariffs are what brought Beijing to the Phase One deal of twenty twenty. Hearings first, then the tariff, is arguably what Congress wanted all along.
 
-Two reasons. Higher rates mean the natural buyer, which is another private equity firm using debt, cannot pay what the seller wants. And these portfolios are heavy in software, where valuations have compressed as investors question what artificial intelligence does to future earnings.
+The critics answer with the record. Chad Bown, at the Peterson Institute, tracked Phase One and found that China bought only about fifty-eight percent of the extra American goods it had promised. And economists who studied the twenty eighteen tariffs, including teams from the New York Fed, Princeton and Columbia, found that nearly all of the cost landed on American importers and consumers, not on foreign exporters.
 
-Here is the number that turns a timing problem into an investor problem. From July first, twenty twenty-two through March thirty-first of this year, American private equity returned six point four percent annualized, according to MSCI. The S and P five hundred returned fifteen point two over the same window. The Nasdaq returned nineteen point three. The asset class was sold on an illiquidity premium: accept that you cannot sell for years, get paid more for the inconvenience. For nearly four years, the premium has been negative.
+And the Supreme Court decided only one question: who may raise the wall. Whether a wall of fifteen to forty percent is good policy is a separate argument, and the ruling didn't touch it.
 
-And the two halves feed each other. Pension funds and endowments that cannot get money out of private equity still have capital calls to meet. The semi-liquid credit wrapper is the one place in their private book with a redemption window, so that is where they knock. Which is part of why redemption requests keep running above the caps, and why the gating story and the exit story are one story seen from opposite ends.
+What to watch from here. The length of the comment period, and how far the final rates fall from the proposals. Whether the product tariffs from the security door stack on top, or get credited against the new ones, as Greer's office suggested. The first lawsuit testing whether excess capacity counts as a practice. And whether Beijing responds before the rates are final or waits for them. In February the courts answered how much of Congress's power a President can borrow, for one statute. For the others, the question is wide open.
 
-What breaks the logjam is a real exit market. Either a sustained window where sponsor-backed companies list at prices sellers accept, or firms taking lower prices and clearing inventory. The first has been promised for three years running. The second is what eventually happens, at marks below where the assets are carried today. Watch whether any large sponsor is willing to be the first to sell cheap in public.
+That's the long read. Now a minute of French, and then the European news in it.
 
-The second story. Why the oil market refuses to panic about a closed Strait of Hormuz, and what changed in Tehran this weekend.
+It's Thanksgiving, so: how would you say they went all out for dinner? The good plates, the tablecloth, hours in the kitchen.
 
-Start with the price. Roughly a fifth of the world's seaborne oil normally moves through that channel, and before the war the standard scenario for a closure put crude at a hundred and fifty dollars or above. It is eighty-four.
+[[PAUSE:3]]
 
-The Economist's answer is that China simply stopped buying as much. Chinese imports fell, and because China is the largest importer of crude on earth, its demand is now the variable that clears the market. On this reading, China has displaced OPEC plus as the great oil power. OPEC plus manages supply. China manages demand. Demand turned out to be the stronger lever.
+[[FR]]On a mis les petits plats dans les grands.[[/FR]]
 
-There is a second mechanism in China's own numbers this morning. Factory gate prices rose three and a half percent over the year, down from four point one, and consumer prices rose half a percent, the smallest rise since January. The statistics bureau credited part of both to lower domestic oil prices. So the country holding the crude price down is importing disinflation from having done it.
+[[PAUSE]]
 
-Now the politics, because cheap oil is why everyone could afford to be patient, and patience just got harder.
+[[FR]]On a mis les petits plats dans les grands.[[/FR]]
 
-Saturday's Iranian demands are essentially the June memorandum, which Iran says the United States violated and which Washington has not agreed to restore. President Trump's response, given to Axios by phone, was that the United States is low-keying it. He said Washington is only semi-negotiating, and that he is watching Iranian inflation and the fact that Tehran has no money.
+The picture is stacking the small serving dishes inside the big ones, the way you would for a proper feast. The trap is reaching for the English. Here's the wrong version:
 
-Then yesterday Tehran changed the person who runs the file. Mohsen Rezaei is seventy-two. He ran the Revolutionary Guard for sixteen years, through most of the Iran-Iraq war. He now holds the secretary's job at the Supreme National Security Council while also serving as the Supreme Leader's representative to that same council. That second part is not a small detail. It collapses two separate lines of authority into one person. He is also on record supporting Iranian control of the waterway, which is the precise thing the White House has said it will not sign.
+[[FR]]Ils sont allés tout dehors.[[/FR]]
 
-Here is where accounts differ, and it is worth being plain. Everyone agrees on the facts. The appointment happened, the demands were published, nothing is signed, the strait is not open. Outlets disagree on the meaning. Some read the change as a hardening, the old guard taking the file back. Others read it as consolidation that could make a deal easier to deliver, since a fragmented Iranian leadership is part of why nothing has closed.
+To a French ear, that just means everyone went outside.
 
-What to watch is narrow. Whether ship traffic through the strait moves above a trickle, which is the only measure here that is not a statement. Whether that list of five demands shrinks. And the oil price on a day with no headline attached to it. If Brent can sit at eighty-four with the strait shut, the leverage Tehran believes it holds is worth less than Tehran thinks.
+In a sentence. A friend describes the dinner her in-laws threw for her.
 
-One last small thing before the close, and it is an old one.
+[[FR]]Franchement, ils ont mis les petits plats dans les grands, il y avait trois entrées.[[/FR]]
 
-At Phaleron, near Athens, there is a mass grave of men buried shackled together, roughly twenty-six hundred years old. The assumption for decades was that they were outsiders. A team at Arizona State tested strontium isotopes in tooth enamel from sixty-six of them, plus ninety-seven other adults at the site. Enamel forms in childhood and never renews, so it records where a person grew up. Out of one hundred sixty-three people, seven were not local. The shackled men were Athenians.
+Or you're hosting, and someone says you shouldn't have gone to the trouble.
+
+[[FR]]Bah, c'est un jour de fête, on met les petits plats dans les grands, non ?[[/FR]]
+
+Now three cold.
+
+It's absolutely pouring.
+
+[[PAUSE:3]]
+
+[[FR]]Il pleut des cordes.[[/FR]]
+
+That calls for a drink.
+
+[[PAUSE:3]]
+
+[[FR]]Ça s'arrose ![[/FR]]
+
+It leaves me completely indifferent.
+
+[[PAUSE:3]]
+
+[[FR]]Ça me fait ni chaud ni froid.[[/FR]]
+
+Good. To France.
+
+[[FR]]On commence par une enquête du Monde. Le journal dit s'être procuré l'intégralité d'une conversation de deux mille treize, révélée en septembre par Mediapart, et avoir parlé à l'interlocuteur de l'époque. Selon Le Monde, ces échanges confirment que Jordan Bardella est bien l'auteur de propos antisémites. Le président du Rassemblement national, lui, conteste formellement depuis le début, parle de faux, et a porté plainte pour faux et pour diffamation. L'affaire tombe en pleine course à la présidentielle.[[/FR]]
+
+[[FR]]Justement, au Congrès des maires, David Lisnard a été reconduit à la tête de l'Association des maires de France. Pour les candidats, c'est la chasse aux parrainages : il en faut cinq cents pour se présenter, et ce n'est pas une mince affaire.[[/FR]]
+
+[[FR]]Côté budget, le Sénat a voté la prolongation en deux mille vingt-sept de la surtaxe sur les bénéfices des grandes entreprises, mais à un taux plus bas qu'en deux mille vingt-six.[[/FR]]
+
+[[FR]]Dans les médias, Reporters sans frontières a saisi l'Arcom pour demander la suspension de CNews pendant un mois. L'ONG dénonce un manque de pluralisme au profit de l'extrême droite.[[/FR]]
+
+[[FR]]Et une enquête qui va faire du bruit : selon Le Monde, des laits infantiles vendus en France contiennent des polluants éternels interdits, à des niveaux qui dépassent la dose hebdomadaire tolérable pour les nourrissons.[[/FR]]
+
+[[FR]]Ailleurs en Europe. Les Vingt-Sept se retrouvent aujourd'hui à Bruxelles pour le budget européen de deux mille vingt-huit à deux mille trente-quatre. D'un côté, les frugaux, comme l'Allemagne et les Pays-Bas, qui veulent un budget plus petit ou tourné vers l'innovation. De l'autre, les pays qui défendent la cohésion et les agriculteurs. Les syndicats agricoles manifestent devant le sommet. Toujours selon Le Monde, les Européens seraient prêts à reparler à Vladimir Poutine, pour ne pas laisser Washington négocier seul l'avenir de la sécurité du continent.[[/FR]]
+
+Back in English, and one idea before we finish.
+
+In two thousand five, a Greek-American physician named John Ioannidis published an essay in the journal PLoS Medicine with a title designed to start a fight: Why Most Published Research Findings Are False. His argument was arithmetic, not anecdote. If a field tests many hypotheses that are unlikely to be true, with small samples, flexible methods and a cutoff of five percent for statistical significance, then most of the positive results it publishes will be false alarms, even if nobody cheats.
+
+The circumstance is that he had the evidence in hand. The same summer, in the Journal of the American Medical Association, he looked at forty-five highly cited clinical studies that had claimed a treatment worked. Seven were later contradicted outright, and seven more found to have overstated the effect. Only twenty were cleanly replicated.
+
+The complication is that nobody agrees on the number. In two thousand thirteen, the biostatisticians Leah Jager and Jeffrey Leek used the published results in top medical journals to estimate a false discovery rate of around fourteen percent, nowhere near most. Critics replied that the method trusted the very published numbers in question. Then, in two thousand fifteen, a large collaboration tried to repeat a hundred psychology studies, and only about a third came out significant the second time. Whether that means most findings are false, or that the fields simply differ, is still being argued.
 
 And finally, closer to home.
 
-It is another heat advisory day. High around ninety, heat index near a hundred, advisory in effect until seven this evening, and thunderstorms likely later in the afternoon. Low around seventy-five overnight. Alternate-side parking runs all week and is suspended Saturday for the Feast of the Assumption.
+You're in the Sacred Valley today, in Ollantaytambo, and it's warmer than Cusco: a high around seventy-four and a low in the mid-fifties. But there's an eighty percent chance of showers, with thunderstorms likely in the afternoon, so do the ruins and the walking in the morning and keep the shell close. Friday looks much the same, a degree or two cooler.
 
-For food, Keepers just opened at thirty-four Eighth Avenue in the West Village. It is from the Dandelion team, a bar with proper bar pies, cocktails by Ricky Dolinsky and the pizza built with Louis Tomczak. Walking distance, and the right kind of place for a night this hot.
+You head back on Monday, November thirtieth, through Lima, and land in New York on Tuesday, December first. You're missing a properly wet Thanksgiving at home, and the parade won't march until Saturday.
 
-For music, it is Monday, which at the Village Vanguard means the Vanguard Jazz Orchestra, as it has meant every Monday for decades. Ted Nash, Rich Perry, Gary Smulyan and Terell Stafford are in that band. And if you would rather wait, Bill Frisell's trio takes the room tomorrow through Sunday.
-
-That's the morning. Have a good one.
+That's the long read. Happy Thanksgiving, and talk tomorrow.
